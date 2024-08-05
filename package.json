@@ -28,7 +28,8 @@
     "nuxt": "^3.12.4",
     "nuxt-icons": "^3.2.1",
     "nuxt-og-image": "^3.0.0-rc.64",
-    "vue": "latest"
+    "vue": "latest",
+    "vue-final-modal": "^4.5.4"
   },
   "devDependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.6.0",

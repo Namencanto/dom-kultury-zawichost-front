@@ -23,7 +23,6 @@
       </div>
       <div class="text-gray-700 mb-4 lg:mb-0 lg:ml-4">
         <p>
-          E-mail:
           <br />
           Dyrektor:
           <a href="mailto:dyrektor.mgok@zawichost.pl" class="text-red-600"

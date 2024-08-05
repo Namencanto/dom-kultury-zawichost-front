@@ -14,8 +14,9 @@
           :key="image.localPath"
           :src="`/${image.localPath}`"
           :alt="image.description"
-          class="w-full h-auto object-cover"
+          class="w-full h-auto object-cover cursor-pointer"
           style="max-height: 500px"
+          @click="openModal(image)"
         />
       </div>
       <div v-html="newsItem.eventDescription" class="text-gray-700"></div>
@@ -23,6 +24,17 @@
     <div v-else>
       <p>Aktualność nie została znaleziona.</p>
     </div>
+
+    <!-- Modal component -->
+    <VueFinalModal v-model="showModal" :clickToClose="true" transition="zoom">
+      <div class="flex items-center justify-center h-full">
+        <img
+          :src="modalImageSrc"
+          :alt="modalImageAlt"
+          class="max-w-full max-h-full object-contain"
+        />
+      </div>
+    </VueFinalModal>
   </div>
 </template>
 
@@ -36,17 +48,15 @@ const route = useRoute();
 const newsStore = useNewsStore();
 const newsItem = ref<NewsItem | null>(null);
 
-onMounted(() => {
-  newsStore.loadNews();
-  const newsTitle = route.params.name as string;
-  console.log(newsTitle);
-  const foundItem = newsStore.news.find((item) => {
-    return item.link === newsTitle.toLowerCase();
-  });
-  if (foundItem) {
-    newsItem.value = foundItem;
-  }
-});
+const showModal = ref(false);
+const modalImageSrc = ref("");
+const modalImageAlt = ref("");
+
+const openModal = (image) => {
+  modalImageSrc.value = `/${image.localPath}`;
+  modalImageAlt.value = image.description;
+  showModal.value = true;
+};
 
 const formatDate = (dateString: string | undefined) => {
   if (!dateString) return "";
@@ -58,4 +68,15 @@ const formatDate = (dateString: string | undefined) => {
   }
   return date.toLocaleDateString();
 };
+
+onMounted(() => {
+  newsStore.loadNews();
+  const newsTitle = route.params.name as string;
+  const foundItem = newsStore.news.find((item) => {
+    return item.link === newsTitle.toLowerCase();
+  });
+  if (foundItem) {
+    newsItem.value = foundItem;
+  }
+});
 </script>

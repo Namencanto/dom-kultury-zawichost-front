@@ -49,7 +49,7 @@
       <NuxtLink
         v-for="newsItem in filteredNews"
         :key="newsItem.title"
-        :to="`/aktualnosci${newsItem.link}`"
+        :to="`/aktualnosci/${newsItem.link}`"
         class="bg-white rounded-lg shadow-md overflow-hidden transform transition duration-500 hover:scale-105"
       >
         <div class="relative h-48 bg-gray-200 overflow-hidden">

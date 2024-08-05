@@ -34,7 +34,7 @@ function createSchedules(news: any[]) {
     return {
       title: item.title,
       start: date.toISOString().split("T")[0],
-      url: item.link,
+      url: `/aktualnosci/${item.link}`,
     };
   });
 }
