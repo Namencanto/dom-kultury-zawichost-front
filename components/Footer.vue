@@ -46,8 +46,12 @@
         </p>
       </div>
       <div class="flex space-x-4 mt-4 lg:mt-0 lg:ml-4">
-        <a href="https://www.facebook.com/mgokzawichost">
-          <NuxtIcon name="facebook" class="h-8 w-8 text-gray-700" />
+        <a
+          href="https://www.facebook.com/mgokzawichost"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Icon name="ion:social-facebook" class="h-6 w-6" />
         </a>
       </div>
     </div>
@@ -66,11 +70,3 @@
     </div>
   </footer>
 </template>
-
-<script lang="ts" setup>
-// Możesz dodać tutaj logikę dla komponentu, jeśli jest to potrzebne
-</script>
-
-<style scoped>
-/* Stylizacja specyficzna dla tego komponentu */
-</style>

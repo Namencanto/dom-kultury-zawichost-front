@@ -28,12 +28,14 @@
             <NuxtLink to="/informacje" class="text-gray-500">
               <Icon name="maki:information" class="h-6 w-6" />
             </NuxtLink>
-            <NuxtLink
-              to="https://www.facebook.com/mgokzawichost"
+            <a
+              href="https://www.facebook.com/mgokzawichost"
               class="text-gray-500"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <Icon name="ion:social-facebook" class="h-6 w-6" />
-            </NuxtLink>
+            </a>
             <NuxtLink to="/widok" class="text-gray-500">
               <Icon name="uil:eye" class="h-6 w-6" />
             </NuxtLink>
@@ -46,6 +48,14 @@
         >
           <div class="flex flex-wrap lg:space-x-4">
             <NuxtLink to="/" class="text-gray-700">M-GOK</NuxtLink>
+            <a
+              href="https://mgok-zawichost.biuletyn.net"
+              class="text-gray-700"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              BIP
+            </a>
             <NuxtLink to="/aktualnosci" class="text-gray-700"
               >AKTUALNOŚCI</NuxtLink
             >
