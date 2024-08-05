@@ -5,9 +5,7 @@
       <NuxtLink
         v-for="newsItem in latestNews"
         :key="newsItem.title"
-        :to="`/aktualnosci/${newsItem.title
-          .replaceAll(' ', '-')
-          .toLowerCase()}`"
+        :to="`/aktualnosci/${newsItem.link}`"
         class="bg-white rounded-lg shadow-md overflow-hidden transform transition duration-500 hover:scale-105"
       >
         <div class="relative h-48 bg-gray-200 overflow-hidden">
@@ -15,26 +13,31 @@
             v-if="newsItem.images.length"
             :src="`/${newsItem.images[0].localPath}`"
             :alt="newsItem.images[0].description"
-            class="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
+            class="w-full h-full object-cover transition-transform duration-500"
           />
         </div>
         <div class="p-6">
           <p class="text-xs uppercase text-blue-500 mb-2">
-            {{ newsItem.category || "Aktualności" }}
+            {{ newsItem.type === "news" ? "Aktualności" : "Wystawa" }}
           </p>
           <h3 class="text-xl font-semibold mb-2">{{ newsItem.title }}</h3>
           <div
             class="text-gray-700 mb-4 content"
-            v-html="newsItem.content"
+            v-html="newsItem.eventDescription"
           ></div>
-          <p class="text-sm text-gray-500">{{ formatDate(newsItem.date) }}</p>
+          <p class="text-sm text-gray-500">
+            Data publikacji: {{ formatDate(newsItem.publicationDate) }}
+          </p>
+          <p class="text-sm text-gray-500">
+            Data wydarzenia: {{ formatDate(newsItem.eventDate) }}
+          </p>
         </div>
       </NuxtLink>
     </div>
     <div class="flex justify-center mt-6">
       <NuxtLink
         to="/aktualnosci"
-        class="bg-teal-500 text-white px-4 py-2 rounded-lg transform transition duration-500 hover:scale-105"
+        class="bg-red-500 text-white px-4 py-2 rounded-lg transform transition duration-500 hover:scale-105"
       >
         Zobacz wszystkie aktualności
       </NuxtLink>
@@ -43,29 +46,17 @@
 </template>
 
 <script lang="ts" setup>
-import newsjson from "~/public/news.json";
-import { ref, computed } from "vue";
+import { computed, onMounted } from "vue";
+import { useNewsStore } from "~/stores/news";
 
-// Definicja typów
-interface Image {
-  description: string;
-  localPath: string;
-}
+const newsStore = useNewsStore();
 
-interface NewsItem {
-  year: number;
-  month: string;
-  title: string;
-  link?: string;
-  date?: string;
-  content: string;
-  category?: string;
-  images: Image[];
-}
+onMounted(() => {
+  newsStore.loadNews();
+});
 
-const news = ref<NewsItem[]>(newsjson);
 const latestNews = computed(() => {
-  return news.value.slice().reverse().slice(0, 9);
+  return newsStore.news.slice(0, 9);
 });
 
 const formatDate = (dateString: string | undefined) => {

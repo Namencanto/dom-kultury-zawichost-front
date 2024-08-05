@@ -40,7 +40,3 @@ const filteredNews = computed(() => {
   );
 });
 </script>
-
-<style scoped>
-/* Stylizacja specyficzna dla tego komponentu */
-</style>

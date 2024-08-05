@@ -1,12 +1,7 @@
 <template>
   <div class="container mx-auto py-6 px-6">
     <h2 class="text-3xl font-bold mb-6 text-center">Kalendarz wydarzeń</h2>
-    <FullCalendar
-      :plugins="[dayGridPlugin, interactionPlugin]"
-      initialView="dayGridMonth"
-      :events="schedules"
-      @eventClick="handleEventClick"
-    />
+    <FullCalendar :options="calendarOptions" />
   </div>
 </template>
 
@@ -15,47 +10,44 @@ import { ref, onMounted } from "vue";
 import FullCalendar from "@fullcalendar/vue3";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import interactionPlugin from "@fullcalendar/interaction";
-import newsjson from "~/public/news.json";
+import plLocale from "@fullcalendar/core/locales/pl";
+import { useNewsStore } from "~/stores/news";
 
-interface Image {
-  description: string;
-  localPath: string;
-}
-
-interface NewsItem {
-  year: number;
-  month: string;
+interface Event {
   title: string;
-  link?: string;
-  date?: string;
-  content: string;
-  images: Image[];
+  start: string;
+  url: string;
 }
 
-const news = ref<NewsItem[]>(newsjson);
-const schedules = ref([] as any[]);
+const calendarOptions = ref({
+  plugins: [dayGridPlugin, interactionPlugin],
+  initialView: "dayGridMonth",
+  weekends: true,
+  locale: plLocale,
+  events: [] as Event[],
+  eventClick: handleEventClick,
+});
 
-const createSchedules = () => {
-  return news.value.map((item) => {
-    const date = new Date(item.date);
+function createSchedules(news: any[]) {
+  return news.map((item) => {
+    const date = new Date(item.eventDate);
     return {
       title: item.title,
-      start: date,
+      start: date.toISOString().split("T")[0],
       url: item.link,
     };
   });
-};
+}
 
-onMounted(() => {
-  schedules.value = createSchedules();
-});
-
-const handleEventClick = (info: any) => {
+function handleEventClick(info: any) {
   info.jsEvent.preventDefault();
   window.open(info.event.url, "_blank");
-};
-</script>
+}
 
-<style scoped>
-/* Dostosowanie stylu kalendarza */
-</style>
+const newsStore = useNewsStore();
+
+onMounted(() => {
+  newsStore.loadNews();
+  calendarOptions.value.events = createSchedules(newsStore.news);
+});
+</script>

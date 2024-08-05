@@ -3,7 +3,6 @@ const cheerio = require("cheerio");
 const fs = require("fs-extra");
 const path = require("path");
 
-// Funkcja do usuwania polskich znaków
 function removeAccents(str) {
   const accents = {
     ą: "a",
@@ -31,12 +30,10 @@ function removeAccents(str) {
     .join("");
 }
 
-// Funkcja do usuwania niepotrzebnych białych znaków
 function cleanContent(content) {
   return content.replace(/\s+/g, " ").trim();
 }
 
-// Funkcja do zamiany polskich nazw miesięcy na angielskie
 function translateMonth(month) {
   const months = {
     styczeń: "January",
@@ -55,7 +52,6 @@ function translateMonth(month) {
   return months[month.toLowerCase()] || month;
 }
 
-// Funkcja do pobrania strony i zwrócenia zawartości HTML
 async function fetchPage(url) {
   try {
     const { data } = await axios.get(url);
@@ -66,7 +62,6 @@ async function fetchPage(url) {
   }
 }
 
-// Funkcja do parsowania zawartości strony
 async function parsePage(year, month) {
   const url = `https://mgok-zawichost.pl/kategoria/${year}/${month}/`;
   const html = await fetchPage(url);
@@ -78,7 +73,7 @@ async function parsePage(year, month) {
   $("article").each((_, element) => {
     const article = $(element);
     const title = article.find(".entry-title a").text();
-    const link = article.find(".entry-title a").attr("href");
+    let link = article.find(".entry-title a").attr("href");
     const dateText = article.find("time").text().trim();
     const dateParts = dateText.split(",").slice(-1)[0].trim().split(" ");
     const monthTranslated = translateMonth(dateParts[0]);
@@ -93,6 +88,9 @@ async function parsePage(year, month) {
       )
     );
     const images = [];
+    const eventDescription = cleanContent(
+      article.find(".entry-content").text()
+    );
 
     let linkDescription = "";
     if (link) {
@@ -103,6 +101,8 @@ async function parsePage(year, month) {
           .replace(/[^a-z0-9]/gi, "_")
           .toLowerCase()
       );
+      link = link.endsWith("/") ? link.slice(0, -1) : link;
+      link = link.replace("https://mgok-zawichost.pl", "");
     }
 
     article.find("img").each((_, img) => {
@@ -112,7 +112,6 @@ async function parsePage(year, month) {
           title.replace(/[^a-z0-9]/gi, "_").toLowerCase()
         );
 
-        // If the description is corrupted, use the description derived from the link
         if (/_{2,}/.test(imgDescription) && linkDescription) {
           imgDescription = linkDescription;
         }
@@ -125,12 +124,17 @@ async function parsePage(year, month) {
       }
     });
 
+    const type = article.attr("class").includes("category-wystawy")
+      ? "exhibition"
+      : "news";
+
     articles.push({
-      year,
-      month,
       title,
-      link: link ? link.replace("https://mgok-zawichost.pl", "") : "",
-      date,
+      link,
+      publicationDate: date,
+      eventDate: date,
+      eventDescription,
+      type,
       images,
     });
   });
@@ -138,62 +142,62 @@ async function parsePage(year, month) {
   return articles;
 }
 
-// Funkcja do zapisu danych do pliku
 async function saveDataToFile(data) {
   const filePath = path.join(__dirname, "..", "public", "news.json");
   await fs.outputJson(filePath, data, { spaces: 2 });
   console.log("Data saved to", filePath);
 }
 
-// Funkcja do pobierania obrazków
 async function downloadImages(articles) {
   for (const article of articles) {
     const downloadDir = path.join(
       __dirname,
       "..",
-      "images",
-      article.year.toString(),
-      article.month.split("-")[0]
+      "public/images",
+      article.publicationDate.getFullYear().toString(),
+      article.publicationDate
+        .toLocaleString("default", { month: "long" })
+        .toLowerCase()
     );
     fs.ensureDirSync(downloadDir);
 
     for (const img of article.images) {
-      if (img.url) {
-        const imgName = path.basename(img.url);
-        const imgPrefix = `${article.year}_${article.month.split("-")[0]}_${
-          img.description
-        }`;
-        const imgPath = path.join(downloadDir, `${imgPrefix}_${imgName}`);
+      const imgUrl = img.url;
+      const imgName = path.basename(imgUrl);
+      const imgPrefix = `${article.publicationDate.getFullYear()}_${article.publicationDate
+        .toLocaleString("default", { month: "long" })
+        .toLowerCase()}_${img.description}`;
+      const imgPath = path.join(downloadDir, `${imgPrefix}_${imgName}`);
 
-        const writer = fs.createWriteStream(imgPath);
-        const response = await axios({
-          url: img.url,
-          method: "GET",
-          responseType: "stream",
-        });
+      const writer = fs.createWriteStream(imgPath);
+      const response = await axios({
+        url: imgUrl,
+        method: "GET",
+        responseType: "stream",
+      });
 
-        response.data.pipe(writer);
+      response.data.pipe(writer);
 
-        await new Promise((resolve, reject) => {
-          writer.on("finish", resolve);
-          writer.on("error", reject);
-        });
+      await new Promise((resolve, reject) => {
+        writer.on("finish", resolve);
+        writer.on("error", reject);
+      });
 
-        img.localPath = path.posix.join(
-          "images",
-          article.year.toString(),
-          article.month.split("-")[0],
-          `${imgPrefix}_${imgName}`
-        );
-        delete img.url;
+      img.localPath = path.posix.join(
+        "images",
+        article.publicationDate.getFullYear().toString(),
+        article.publicationDate
+          .toLocaleString("default", { month: "long" })
+          .toLowerCase(),
+        `${imgPrefix}_${imgName}`
+      );
 
-        console.log(`Image downloaded: ${imgPath}`);
-      }
+      console.log(`Image downloaded: ${imgPath}`);
+      delete img.url;
     }
   }
 }
 
-// Główna funkcja do przetwarzania wszystkich lat i miesięcy
 (async () => {
   const years = Array.from({ length: 2024 - 2012 + 1 }, (_, i) => 2012 + i);
   const months = [
