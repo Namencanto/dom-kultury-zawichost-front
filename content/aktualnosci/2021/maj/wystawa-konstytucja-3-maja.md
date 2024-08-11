@@ -1,0 +1,85 @@
+---
+thumbnail: "/images/2021/maj/2021_maj_wystawa_konstytucja_3_maja_2021_05_wystawa_konstytucja_3_maja_ZD1.jpg"
+title: "WYSTAWA – „KONSTYTUCJA 3 MAJA”"
+publishDate: "2021-05-01T00:00:00.000Z"
+eventDate: "2021-05-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>W MGOK w Zawichoście od 15 maja do 28 maja 2021 roku , w godzinach otwarcia placówki, będzie można zobaczyć wystawę z okazji 230 rocznicy uchwalenia Konstytucji 3 Maja.</p>
+
+
+
+<p>Wystawa zorganizowana została dzięki współpracy z Muzeum Historii Polski w Warszawie oraz Muzeum Okręgowym w Sandomierzu.</p>
+
+
+
+<p>Rewolucja bez przemocy, cud, narodziny narodu wolnych ludzi – tak 230 lat temu zachodnia prasa komentowała uchwalenie Ustawy Rządowej w Rzeczypospolitej Obojga Narodów. Muzeum Historii Polski w Warszawie i Instytut Historii Litwy w Wilnie przygotowały plenerową wystawę „Konstytucja 3 Maja”. Wystawę w maju będzie można oglądać w Wilnie, a także w innych miastach litewskich i polskich, w tym w Zawichoście.</p>
+
+
+
+<p>Oficjalnie otwarcie ekspozycji, która przybliża okoliczności powstania pierwszej w Europie, a drugiej na świecie ustawy zasadniczej, odbyło się 3 maja 2021 roku na Placu Katedralnym w Wilnie.</p>
+
+
+
+<p>Widz wystawy ma możliwość zapoznać się z tym, co wpłynęło na kształt Ustawy Rządowej: z jednej strony dynamiczny rozwój myśli społecznej i odważne reform w wybranych dziedzinach życia, z drugiej – trudna sytuacja polityczna wewnątrz kraju i na arenie międzynarodowej. Wystawa pokazuje też dumę i radość towarzyszące uchwaleniu pionierskiego aktu prawnego, entuzjastyczne reakcje prasy zagranicznej, a także siłę, jaką pamięć o Konstytucji 3&nbsp;Maja dawała mieszkańcom dawnej Rzeczypospolitej w ponurym czasie zaborów oraz pod rządami komunistów po II wojnie światowej. Autorzy wybrali najbardziej charakterystyczne teksty kultury ilustrujące poszczególne zjawiska: dzieła malarskie i literackie, druki z epoki oraz fotografie.</p>
+
+
+
+<p>Scenariusz 24-planszowej ekspozycji powstał w języku polskim i został przetłumaczony na języki litewski, ukraiński oraz angielski. Autorami scenariusza są polscy i litewscy historycy specjalizujący się w tematyce, a współautorami koncepcji wystawy są Robert Kostro (dyrektor Muzeum Historii Polski) i&nbsp;Alvydas Nikžentaitis (Instytut Historii Litwy).</p>
+
+
+
+<p>Serdecznie zapraszamy do obejrzenia wystawy.</p>
+
+
+
+<p>ORGANIZATORZY: Muzeum Historii Polski, Instytut Historii Litwy</p>
+
+
+
+<p>SCENARIUSZ I KONCEPCJA: Wojciech Kalwat, prof. Michał Kopczyński, Rafał Waszczuk, dr Robertas Jurgaitis</p>
+
+
+
+<p>WSPÓŁPRACA PRZY KONCEPCJI WYSTAWY: Robert Kostro, dr hab. Alvydas Nikžentaitis</p>
+
+
+
+<p>KOORDYNACJA: Aleksandra Rodziewicz, Jurgita Binkienė, dr Robertas Jurgaitis</p>
+
+
+
+<p>TŁUMACZENIE: Adam Stankevič, Kazys Uscila</p>
+
+
+
+<p>REDAKCJA: Karolina Wichowska, Aldona Radžvilienė</p>
+
+
+
+<p>WSPÓŁPRACA: dr Anna Kalinowska, Agata Krok, Sebastian Pawlina, Rytis Paulauskas</p>
+
+
+
+<p>PROJEKT GRAFICZNY: Jacek Świderski</p>
+
+
+
+<p>PARTNERZY INSTYTUCJONALNI: Ministerstwo Spraw Zagranicznych Rzeczypospolitej Polskiej, Ministerstwo Spraw Zagranicznych Republiki Litewskiej, Departament Mniejszości Narodowych przy Rządzie Republiki Litewskiej</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/05/ZD1.jpg"><img fetchpriority="high" decoding="async" width="800" height="531" src="/images/2021/maj/2021_maj_wystawa_konstytucja_3_maja_2021_05_wystawa_konstytucja_3_maja_ZD1.jpg" alt="" class="wp-image-7932" srcset="/images/2021/maj/2021_maj_wystawa_konstytucja_3_maja_2021_05_wystawa_konstytucja_3_maja_ZD1.jpg 800w, /images/2021/maj/ZD1-300x199.jpg 300w, /images/2021/maj/ZD1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/05/ZD2.jpg"><img decoding="async" width="800" height="531" src="/images/2021/maj/2021_maj_wystawa_konstytucja_3_maja_2021_05_wystawa_konstytucja_3_maja_ZD2.jpg" alt="" class="wp-image-7933" srcset="/images/2021/maj/2021_maj_wystawa_konstytucja_3_maja_2021_05_wystawa_konstytucja_3_maja_ZD2.jpg 800w, /images/2021/maj/ZD2-300x199.jpg 300w, /images/2021/maj/ZD2-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/05/ZD3.jpg"><img decoding="async" width="800" height="531" src="/images/2021/maj/2021_maj_wystawa_konstytucja_3_maja_2021_05_wystawa_konstytucja_3_maja_ZD3.jpg" alt="" class="wp-image-7934" srcset="/images/2021/maj/2021_maj_wystawa_konstytucja_3_maja_2021_05_wystawa_konstytucja_3_maja_ZD3.jpg 800w, /images/2021/maj/ZD3-300x199.jpg 300w, /images/2021/maj/ZD3-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+						
+						</div>

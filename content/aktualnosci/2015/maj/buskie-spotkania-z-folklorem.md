@@ -1,0 +1,36 @@
+---
+thumbnail: "/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0368.jpg"
+title: "buskie spotkania z folklorem"
+publishDate: "2015-05-01T00:00:00.000Z"
+eventDate: "2015-05-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0368.jpg" alt="" width="800" height="531" srcset="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0368.jpg 800w, /images/2015/maj/DSC_0368-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>9 maja wszystkie trzy zespoły śpiewacze działające przy naszym ośrodku kultury, tj. „Zawichost”, „Linowianki” oraz „Zielona Dolina”, wzięły udział w eliminacjach rejonowych do XXXIX Buskich Spotkań z Folklorem, które odbyły się w Opatowie. Występy odbyły się przy pięknej pogodzie w opatowskim amfiteatrze. Pragniemy podziękować gospodarzom imprezy za ich gościnność i życzliwość. Wszystkie trzy zespoły zaprezentowały tradycyjny repertuar, który niestety tym razem w oczach jury nie zyskał uznania. Mimo wszystko serdecznie gratulujemy &nbsp;naszym reprezentantom, szczególie zaś zespołowi „Zielonej Dolinie”, który brał udział w imprezie po raz pierwszy.<br>
+<img decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0369.jpg" alt="" width="800" height="531"><br>
+<img decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0372.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0378.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0392.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0416.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0418.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0425.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0436.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0456.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0466.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0496.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0507.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0512.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0588.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0590.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0604.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2940" title="DSC_0368" src="/images/2015/maj/2015_maj_buskie_spotkania_z_folklorem_2015_05_buskie_spotkania_z_folklorem_DSC_0665.jpg" alt="" width="800" height="531"></p>
+<p style="text-align: right;"><em>tekst –&nbsp;</em>Tomasz Figiel</p>
+<p style="text-align: right;"><em>foto:&nbsp;</em>Maria Skorupa</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

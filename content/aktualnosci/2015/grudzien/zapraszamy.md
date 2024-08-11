@@ -1,0 +1,12 @@
+---
+thumbnail: "/images/2015/grudzien/2015_grudzien_zapraszamy_2015_12_zapraszamy_Bez&nbsp;tytułu.jpg"
+title: "ZAPRASZAMY"
+publishDate: "2015-12-01T00:00:00.000Z"
+eventDate: "2015-12-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p style="text-align: right;"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3322" title="Bez&nbsp;tytułu" src="/images/2015/grudzien/2015_grudzien_zapraszamy_2015_12_zapraszamy_Bez&nbsp;tytułu.jpg" alt="" width="800" height="558" srcset="/images/2015/grudzien/2015_grudzien_zapraszamy_2015_12_zapraszamy_Bez&nbsp;tytułu.jpg 800w, /images/2015/grudzien/Bez&nbsp;tytułu-300x209.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+						
+						</div>

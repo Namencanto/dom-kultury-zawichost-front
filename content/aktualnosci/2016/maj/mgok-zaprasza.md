@@ -1,0 +1,15 @@
+---
+thumbnail: "/images/2016/maj/2016_maj_mgok_zaprasza_2016_05_mgok_zaprasza_zmniejszone-zaproszenie-teatr-czwartek.jpg"
+title: "MGOK ZAPRASZA"
+publishDate: "2016-05-01T00:00:00.000Z"
+eventDate: "2016-05-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p style="text-align: center;">Miejsko-Gminny Ośrodek Kultury w Zawichoście zaprasza Wszystkich chętnych na spektakl w wykonaniu aktorów teatru „Czwartek” Tarnobrzeskiego Domu Kultury. Gwarantujemy wspaniała zabawę.</p>
+<p style="text-align: center;"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3737" src="/images/2016/maj/2016_maj_mgok_zaprasza_2016_05_mgok_zaprasza_zmniejszone-zaproszenie-teatr-czwartek.jpg" alt="zmniejszone zaproszenie teatr czwartek" width="900" height="471" srcset="/images/2016/maj/2016_maj_mgok_zaprasza_2016_05_mgok_zaprasza_zmniejszone-zaproszenie-teatr-czwartek.jpg 900w, /images/2016/maj/zmniejszone-zaproszenie-teatr-czwartek-300x157.jpg 300w, /images/2016/maj/zmniejszone-zaproszenie-teatr-czwartek-768x402.jpg 768w" sizes="(max-width: 900px) 100vw, 900px"></p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+</em><em> o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2020/listopad/2020_listopad_zach_camy_do_udzia_u_w_wi_tecznej_akcji_2020_11_zach_camy_do_udzia_u_w_wi_tecznej_akcji_pl1-1-724x1024.jpg"
+title: "ZACHĘCAMY DO UDZIAŁU W ŚWIĄTECZNEJ AKCJI!!!"
+publishDate: "2020-11-01T00:00:00.000Z"
+eventDate: "2020-11-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="724" height="1024" src="/images/2020/listopad/2020_listopad_zach_camy_do_udzia_u_w_wi_tecznej_akcji_2020_11_zach_camy_do_udzia_u_w_wi_tecznej_akcji_pl1-1-724x1024.jpg" alt="" class="wp-image-7721" srcset="/images/2020/listopad/2020_listopad_zach_camy_do_udzia_u_w_wi_tecznej_akcji_2020_11_zach_camy_do_udzia_u_w_wi_tecznej_akcji_pl1-1-724x1024.jpg 724w, /images/2020/listopad/pl1-1-212x300.jpg 212w, /images/2020/listopad/pl1-1-768x1086.jpg 768w, /images/2020/listopad/pl1-1.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></figure>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

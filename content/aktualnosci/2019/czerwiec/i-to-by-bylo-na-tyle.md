@@ -1,0 +1,49 @@
+---
+thumbnail: "/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0016str.jpg"
+title: "I to by było na tyle"
+publishDate: "2019-06-01T00:00:00.000Z"
+eventDate: "2019-06-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><!--StartFragment--></p>
+
+
+<p>Sezon artystyczny 2018/2019 był bardzo intensywny. Nasi podopieczni ciężko ćwiczyli na zajęciach tanecznych, wytrwale szkolili swoje zdolności plastyczne i wokalne. Przemierzyli wiele kilometrów w drodze na seanse kinowe.  Po dziewięciu miesiącach systematycznej pracy, doskonalenia warsztatu, ale też dobrej zabawy, śmiechu i cudownych wspomnień nadszedł czas odpoczynku. Spotkaniem przy grillu pożegnaliśmy się z reprezentacją naszych sekcji i kół zainteresowań wierząc, że wrócą do nas już w październiku z podwojoną energią, motywacją i zaangażowaniem do pracy artystycznej.</p>
+
+
+
+<p> </p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="800" height="531" src="/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0016str.jpg" alt="" class="wp-image-6670" srcset="/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0016str.jpg 800w, /images/2019/czerwiec/DSC_0016str-300x199.jpg 300w, /images/2019/czerwiec/DSC_0016str-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="800" height="531" src="/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0028str.jpg" alt="" class="wp-image-6671" srcset="/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0028str.jpg 800w, /images/2019/czerwiec/DSC_0028str-300x199.jpg 300w, /images/2019/czerwiec/DSC_0028str-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="800" height="531" src="/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0036str.jpg" alt="" class="wp-image-6672" srcset="/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0036str.jpg 800w, /images/2019/czerwiec/DSC_0036str-300x199.jpg 300w, /images/2019/czerwiec/DSC_0036str-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0047str.jpg" alt="" class="wp-image-6673" srcset="/images/2019/czerwiec/2019_czerwiec_i_to_by_by_o_na_tyle_2019_06_i_to_by_by_o_na_tyle_DSC_0047str.jpg 800w, /images/2019/czerwiec/DSC_0047str-300x199.jpg 300w, /images/2019/czerwiec/DSC_0047str-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+<p><!--EndFragment--></p>
+
+
+<h6 class="wp-block-heading" style="text-align:right">Tekst:Karolina Tomaszewska</h6>
+
+
+
+<p style="text-align:right">Foto:Agata Osika-Kucharska</p>
+
+
+
+<p style="text-align:center"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.</em><br><em> o prawach autorskich oraz prawach pokrewnych wszelkie prawa do  fotografii i materiałów na stronie są własnością autora. Kopiowanie,  powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga  zgody na piśmie.</em></p>
+						
+						</div>

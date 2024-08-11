@@ -1,0 +1,15 @@
+---
+thumbnail: "/images/2018/kwiecien/2018_kwiecien_i_dzieci_cy_turniej_recytatorski_2018_04_i_dzieci_cy_turniej_recytatorski_PLAKAT-POEZJONIK-1.jpg"
+title: "I Dziecięcy Turniej Recytatorski"
+publishDate: "2018-04-01T00:00:00.000Z"
+eventDate: "2018-04-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="alignement size-full wp-image-5742" src="/images/2018/kwiecien/2018_kwiecien_i_dzieci_cy_turniej_recytatorski_2018_04_i_dzieci_cy_turniej_recytatorski_PLAKAT-POEZJONIK-1.jpg" alt="" width="800" height="538" srcset="/images/2018/kwiecien/2018_kwiecien_i_dzieci_cy_turniej_recytatorski_2018_04_i_dzieci_cy_turniej_recytatorski_PLAKAT-POEZJONIK-1.jpg 800w, /images/2018/kwiecien/PLAKAT-POEZJONIK-1-300x202.jpg 300w, /images/2018/kwiecien/PLAKAT-POEZJONIK-1-768x516.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"><br>
+<img decoding="async" class="aligncenter size-full wp-image-5743" src="/images/2018/kwiecien/2018_kwiecien_i_dzieci_cy_turniej_recytatorski_2018_04_i_dzieci_cy_turniej_recytatorski_regulamin-POEZJONIK-1.jpg" alt="" width="1654" height="2339" srcset="/images/2018/kwiecien/2018_kwiecien_i_dzieci_cy_turniej_recytatorski_2018_04_i_dzieci_cy_turniej_recytatorski_regulamin-POEZJONIK-1.jpg 1654w, /images/2018/kwiecien/regulamin-POEZJONIK-1-212x300.jpg 212w, /images/2018/kwiecien/regulamin-POEZJONIK-1-768x1086.jpg 768w, /images/2018/kwiecien/regulamin-POEZJONIK-1-724x1024.jpg 724w" sizes="(max-width: 1654px) 100vw, 1654px"><br>
+<img decoding="async" class="aligncenter size-full wp-image-5744" src="/images/2018/kwiecien/2018_kwiecien_i_dzieci_cy_turniej_recytatorski_2018_04_i_dzieci_cy_turniej_recytatorski_regulamin-POEZJONIK-2.jpg" alt="" width="800" height="1131" srcset="/images/2018/kwiecien/2018_kwiecien_i_dzieci_cy_turniej_recytatorski_2018_04_i_dzieci_cy_turniej_recytatorski_regulamin-POEZJONIK-2.jpg 800w, /images/2018/kwiecien/regulamin-POEZJONIK-2-212x300.jpg 212w, /images/2018/kwiecien/regulamin-POEZJONIK-2-768x1086.jpg 768w, /images/2018/kwiecien/regulamin-POEZJONIK-2-724x1024.jpg 724w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

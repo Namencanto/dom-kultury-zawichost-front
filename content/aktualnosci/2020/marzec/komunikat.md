@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2020/marzec/2020_marzec_komunikat_2020_03_komunikat_komunikat1.jpg"
+title: "KOMUNIKAT!!!"
+publishDate: "2020-03-01T00:00:00.000Z"
+eventDate: "2020-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="800" height="530" src="/images/2020/marzec/2020_marzec_komunikat_2020_03_komunikat_komunikat1.jpg" alt="" class="wp-image-7352" srcset="/images/2020/marzec/2020_marzec_komunikat_2020_03_komunikat_komunikat1.jpg 800w, /images/2020/marzec/komunikat1-300x199.jpg 300w, /images/2020/marzec/komunikat1-768x509.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p> <em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>. </p>
+						
+						</div>

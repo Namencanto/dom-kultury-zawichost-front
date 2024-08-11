@@ -1,0 +1,16 @@
+---
+thumbnail: "/images/2014/maj/2014_maj_zapraszamy_2014_05_zapraszamy_plakat-dzień-dziecka-Kopia.jpg"
+title: "ZAPRASZAMY"
+publishDate: "2014-05-01T00:00:00.000Z"
+eventDate: "2014-05-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-1935" title="plakat dzień dziecka - Kopia" src="/images/2014/maj/2014_maj_zapraszamy_2014_05_zapraszamy_plakat-dzień-dziecka-Kopia.jpg" alt="" width="800" height="1124" srcset="/images/2014/maj/2014_maj_zapraszamy_2014_05_zapraszamy_plakat-dzień-dziecka-Kopia.jpg 800w, /images/2014/maj/plakat-dzień-dziecka-Kopia-213x300.jpg 213w, /images/2014/maj/plakat-dzień-dziecka-Kopia-728x1024.jpg 728w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: right;">ORGANIZATORZY</p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

@@ -1,0 +1,37 @@
+---
+thumbnail: "/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0065-str.jpg"
+title: "WAKACYJNA KOSZULKA – warsztaty artystyczne"
+publishDate: "2019-08-01T00:00:00.000Z"
+eventDate: "2019-08-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>4 sierpnia 2019 w MGOK odbyły się warsztaty artystyczne „WAKACYJNA KOSZULKA”. Uczestnicy przynieśli koszulki, które własnoręcznie malowali specjalnymi mazakami i farbami wedle własnego uznania. Dzieciaki miały możliwość wczucia się w rolę projektantów, przez co każda z powstałych koszulek stała się niepowtarzalna i dostała „nowe życie”. Jak wiadomo- tam – gdzie kolorowe farbki, tam także świetna zabawa!<br><br>                                                                                                Tekst- Anna Śmielak<br>                                                                                                Foto- Anna Śmielak</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="800" height="531" src="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0065-str.jpg" alt="" class="wp-image-6780" srcset="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0065-str.jpg 800w, /images/2019/sierpien/DSC_0065-str-300x199.jpg 300w, /images/2019/sierpien/DSC_0065-str-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="800" height="531" src="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0057str2.jpg" alt="" class="wp-image-6782" srcset="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0057str2.jpg 800w, /images/2019/sierpien/DSC_0057str2-300x199.jpg 300w, /images/2019/sierpien/DSC_0057str2-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="800" height="531" src="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0058str3.jpg" alt="" class="wp-image-6783" srcset="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0058str3.jpg 800w, /images/2019/sierpien/DSC_0058str3-300x199.jpg 300w, /images/2019/sierpien/DSC_0058str3-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0069str4.jpg" alt="" class="wp-image-6784" srcset="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0069str4.jpg 800w, /images/2019/sierpien/DSC_0069str4-300x199.jpg 300w, /images/2019/sierpien/DSC_0069str4-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0071str5.jpg" alt="" class="wp-image-6790" srcset="/images/2019/sierpien/2019_sierpien_wakacyjna_koszulka_warsztaty_artystyczne_2019_08_wakacyjna_koszulka_warsztaty_artystyczne_DSC_0071str5.jpg 800w, /images/2019/sierpien/DSC_0071str5-300x199.jpg 300w, /images/2019/sierpien/DSC_0071str5-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<h5 class="wp-block-heading" style="text-align:center"> <em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie. </em></h5>
+						
+						</div>

@@ -1,0 +1,22 @@
+---
+thumbnail: "/images/2018/pazdziernik/2018_pazdziernik_m_odzie_z_opatowa_w_zawichojskim_lamusie_2018_10_m_odzie_z_opatowa_w_zawichojskim_lamusie_P1210554.jpg"
+title: "Młodzież z Opatowa w Zawichojskim Lamusie"
+publishDate: "2018-10-01T00:00:00.000Z"
+eventDate: "2018-10-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>Każda wizyta w naszym Zawichojskim Lamusie Kultury Dawnej – Żywym Muzeum Etnograficznym Powiśla Zawichojskiego sprawia nam wiele radości. Dlatego wszystkie tak miło wspominamy!</p>
+<p>9 października odwiedzili nas uczniowie klasy VII Samorządowego Zespołu Szkoły Nr 1 im. gen. bryg. Stanisława Gano w Opatowie, którzy w ramach regionalnego zwiedzania odwiedzili jeszcze Dwór w Śmiłowie- Muzeum Wnętrz oraz Galerię pod chmurką Edwarda Ziarki w Maruszowie.</p>
+<p>W naszej zawichojskiej chacie odbyła się niezwykle ciekawa lekcja etnografii przeprowadzona przez dyrektora MGOK – Patrycję Sus-Lutyńską, później młodzież przeszła do sali wystawienniczej, gdzie obejrzała wystawę dzieci z sekcji plastycznej – „Fabryka wyobraźni II”.<br>
+Dziękujemy za mile spędzony czas!</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-6163" src="/images/2018/pazdziernik/2018_pazdziernik_m_odzie_z_opatowa_w_zawichojskim_lamusie_2018_10_m_odzie_z_opatowa_w_zawichojskim_lamusie_P1210554.jpg" alt="" width="800" height="600" srcset="/images/2018/pazdziernik/2018_pazdziernik_m_odzie_z_opatowa_w_zawichojskim_lamusie_2018_10_m_odzie_z_opatowa_w_zawichojskim_lamusie_P1210554.jpg 800w, /images/2018/pazdziernik/P1210554-300x225.jpg 300w, /images/2018/pazdziernik/P1210554-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-6164" src="/images/2018/pazdziernik/2018_pazdziernik_m_odzie_z_opatowa_w_zawichojskim_lamusie_2018_10_m_odzie_z_opatowa_w_zawichojskim_lamusie_P1210626.jpg" alt="" width="800" height="600" srcset="/images/2018/pazdziernik/2018_pazdziernik_m_odzie_z_opatowa_w_zawichojskim_lamusie_2018_10_m_odzie_z_opatowa_w_zawichojskim_lamusie_P1210626.jpg 800w, /images/2018/pazdziernik/P1210626-300x225.jpg 300w, /images/2018/pazdziernik/P1210626-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-6165" src="/images/2018/pazdziernik/2018_pazdziernik_m_odzie_z_opatowa_w_zawichojskim_lamusie_2018_10_m_odzie_z_opatowa_w_zawichojskim_lamusie_P1210634.jpg" alt="" width="800" height="600" srcset="/images/2018/pazdziernik/2018_pazdziernik_m_odzie_z_opatowa_w_zawichojskim_lamusie_2018_10_m_odzie_z_opatowa_w_zawichojskim_lamusie_P1210634.jpg 800w, /images/2018/pazdziernik/P1210634-300x225.jpg 300w, /images/2018/pazdziernik/P1210634-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p style="text-align: right;">Tekst: Karolina Tomaszewska</p>
+<p style="text-align: right;">Foto: Bożena Nierubiec</p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

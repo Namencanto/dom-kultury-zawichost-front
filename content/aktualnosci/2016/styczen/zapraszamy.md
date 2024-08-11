@@ -1,0 +1,15 @@
+---
+thumbnail: "/images/2016/styczen/2016_styczen_zapraszamy_2016_01_zapraszamy_plakat.jpg"
+title: "ZAPRASZAMY"
+publishDate: "2016-01-01T00:00:00.000Z"
+eventDate: "2016-01-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3369" title="plakat" src="/images/2016/styczen/2016_styczen_zapraszamy_2016_01_zapraszamy_plakat.jpg" alt="" width="500" height="771" srcset="/images/2016/styczen/2016_styczen_zapraszamy_2016_01_zapraszamy_plakat.jpg 500w, /images/2016/styczen/plakat-194x300.jpg 194w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p style="text-align: right;">ORAGNIZATORZY</p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

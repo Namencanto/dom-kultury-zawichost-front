@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2021/listopad/2021_listopad_30_11_2021_r_wtorek_zapraszamy_na_symboliczne_obchody_katarzynek_i_andrzejek_w_lamusie_2021_11_30_11_2021_r_wtorek_zapraszamy_na_symboliczne_obchody_katarzynek_i_andrzejek_w_lamusie_zd1-6-779x1024.jpg"
+title: "30.11.2021 r. (wtorek) zapraszamy na symboliczne obchody Katarzynek i Andrzejek w „Lamusie”."
+publishDate: "2021-11-01T00:00:00.000Z"
+eventDate: "2021-11-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd1-6.jpg"><img fetchpriority="high" decoding="async" width="779" height="1024" src="/images/2021/listopad/2021_listopad_30_11_2021_r_wtorek_zapraszamy_na_symboliczne_obchody_katarzynek_i_andrzejek_w_lamusie_2021_11_30_11_2021_r_wtorek_zapraszamy_na_symboliczne_obchody_katarzynek_i_andrzejek_w_lamusie_zd1-6-779x1024.jpg" alt="" class="wp-image-8301" srcset="/images/2021/listopad/2021_listopad_30_11_2021_r_wtorek_zapraszamy_na_symboliczne_obchody_katarzynek_i_andrzejek_w_lamusie_2021_11_30_11_2021_r_wtorek_zapraszamy_na_symboliczne_obchody_katarzynek_i_andrzejek_w_lamusie_zd1-6-779x1024.jpg 779w, /images/2021/listopad/zd1-6-228x300.jpg 228w, /images/2021/listopad/zd1-6-768x1009.jpg 768w, /images/2021/listopad/zd1-6.jpg 800w" sizes="(max-width: 779px) 100vw, 779px"></a></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

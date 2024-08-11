@@ -1,0 +1,24 @@
+---
+title: "Życzenia Wielkanocne"
+publishDate: "2021-04-01T00:00:00.000Z"
+eventDate: "2021-04-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Miło nam bardzo, że „Lamus” stał się tłem do nagrania promocyjnego materiału świątecznego gminy, z życzeniami Katarzyny Kondziołki – Burmistrz Zawichostu. Od nas również świąteczne pozdrowienia dla Wszystkich. Niech Wam Kochani będzie słonecznie, wiosennie i świątecznie. By nie zabrakło wokół Was miłości, dzięki której aktualne będzie urocze zdanie ks. Jana Twardowskiego „Jeśli ktoś jajko z miłości dzieli tak jak trzeba, tego nawet jajko prowadzi do nieba”. Serdeczności prosto z „Zawichojskiego Lamusa” życzy załoga MGOK.</p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-embed is-type-rich is-provider-obsluga-osadzania wp-block-embed-obsluga-osadzania wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Życzenia Wielkanocne: Katarzyna Kondziołka - Burmistrz Miasta i Gminy Zawichost" width="500" height="281" src="https://www.youtube.com/embed/n3a-Qkog5M0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div></figure>
+</div>
+</div>
+</div></div>
+						
+						</div>

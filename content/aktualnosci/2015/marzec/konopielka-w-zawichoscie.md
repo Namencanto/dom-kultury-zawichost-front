@@ -1,0 +1,30 @@
+---
+thumbnail: "/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-1.jpg"
+title: "konopielka w zawichoście"
+publishDate: "2015-03-01T00:00:00.000Z"
+eventDate: "2015-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-2782" title="konopielka (1)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-1.jpg" alt="" width="800" height="531" srcset="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-1.jpg 800w, /images/2015/marzec/konopielka-1-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>8 marca w naszym ośrodku kultury został przedstawiony monodram na podstawie „Konopielki” Edwarda Redlińskiego w reżyserii, scenografii, i wykonaniu Jerzego Kadłusia, zdobywcy Srebrnej Misy na XXXII Ogólnopolskiej Biesiadzie Teatralnej w Horyńcu i wyróżnienia na Ogólnopolskim Festiwalu Teatrów Niewielkich w Lublinie.<br>
+Występ dostarczył ogromnych wrażeń i emocji. Zapraszamy do obejrzenia fotorelacji.</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-2.jpg" alt="" width="800" height="531" srcset="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-2.jpg 800w, /images/2015/marzec/konopielka-2-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-3.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-4.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-5.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-6.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-7.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-8.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-9.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-10.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2783" title="konopielka (2)" src="/images/2015/marzec/2015_marzec_konopielka_w_zawicho_cie_2015_03_konopielka_w_zawicho_cie_konopielka-11.jpg" alt="" width="800" height="531"></p>
+<p style="text-align: right;"><em>tekst – </em>Małgorzata Czajkowska</p>
+<p style="text-align: right;"><em>foto: </em>Małgorzata Czajkowska, Marcel Rosiński</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2022/listopad/2022_listopad_symboliczne_lanie_wosku_zapraszamy_2022_11_symboliczne_lanie_wosku_zapraszamy_pla1-710x1024.jpg"
+title: "SYMBOLICZNE LANIE WOSKU -ZAPRASZAMY"
+publishDate: "2022-11-01T00:00:00.000Z"
+eventDate: "2022-11-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Z 29 na 30 listopada corocznie przypada wieczór wróżb i zabaw andrzejkowych. Pamiętając o tradycji, zapraszamy Was serdecznie do „Lamusa” w godzinach 16.00-19.00. Co czeka nas w przyszłości? Odważni mogą sprawdzić to dziś? Każdy, kto nas odwiedzi, będzie mógł sobie powróżyć za pomocą lanego wosku. Słodkości z przepowiednią, serce z imionami, a także talerze z wróżbą czekają na Wszystkich – małych dużych, dziewczynki i chłopców, panie i panów. Pamiętajcie o tradycji, bądźcie z nami!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/12/pla1.jpg"><img fetchpriority="high" decoding="async" width="710" height="1024" src="/images/2022/listopad/2022_listopad_symboliczne_lanie_wosku_zapraszamy_2022_11_symboliczne_lanie_wosku_zapraszamy_pla1-710x1024.jpg" alt="" class="wp-image-9069" srcset="/images/2022/listopad/2022_listopad_symboliczne_lanie_wosku_zapraszamy_2022_11_symboliczne_lanie_wosku_zapraszamy_pla1-710x1024.jpg 710w, /images/2022/listopad/pla1-208x300.jpg 208w, /images/2022/listopad/pla1-768x1107.jpg 768w, /images/2022/listopad/pla1.jpg 800w" sizes="(max-width: 710px) 100vw, 710px"></a></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

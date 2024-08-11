@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2022/marzec/2022_marzec_zapraszamy_na_maraton_filmowy_z_okazji_dnia_kobiet_2022_03_zapraszamy_na_maraton_filmowy_z_okazji_dnia_kobiet_PL1-2-724x1024.jpg"
+title: "ZAPRASZAMY NA MARATON FILMOWY Z OKAZJI DNIA KOBIET"
+publishDate: "2022-03-01T00:00:00.000Z"
+eventDate: "2022-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/PL1-2.jpg"><img fetchpriority="high" decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_zapraszamy_na_maraton_filmowy_z_okazji_dnia_kobiet_2022_03_zapraszamy_na_maraton_filmowy_z_okazji_dnia_kobiet_PL1-2-724x1024.jpg" alt="" class="wp-image-8507" srcset="/images/2022/marzec/2022_marzec_zapraszamy_na_maraton_filmowy_z_okazji_dnia_kobiet_2022_03_zapraszamy_na_maraton_filmowy_z_okazji_dnia_kobiet_PL1-2-724x1024.jpg 724w, /images/2022/marzec/PL1-2-212x300.jpg 212w, /images/2022/marzec/PL1-2-768x1086.jpg 768w, /images/2022/marzec/PL1-2.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

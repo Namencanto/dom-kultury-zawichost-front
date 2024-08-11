@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2020/sierpien/2020_sierpien_wakacyjne_kino_plenerowe_2020_08_wakacyjne_kino_plenerowe_pl1.jpg"
+title: "WAKACYJNE KINO PLENEROWE"
+publishDate: "2020-08-01T00:00:00.000Z"
+eventDate: "2020-08-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Na zakończenie wakacji, mamy dla Was kolejną propozycję kina plenerowego. 26 sierpnia o godz. 20:00 zapraszamy na francuską komedię pt.: „Jutro będziemy szczęśliwi”. Karnety za wypożyczenie leżaka w cenie 15 zł. do nabycia w MGOK .</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="800" height="544" src="/images/2020/sierpien/2020_sierpien_wakacyjne_kino_plenerowe_2020_08_wakacyjne_kino_plenerowe_pl1.jpg" alt="" class="wp-image-7617" srcset="/images/2020/sierpien/2020_sierpien_wakacyjne_kino_plenerowe_2020_08_wakacyjne_kino_plenerowe_pl1.jpg 800w, /images/2020/sierpien/pl1-300x204.jpg 300w, /images/2020/sierpien/pl1-768x522.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

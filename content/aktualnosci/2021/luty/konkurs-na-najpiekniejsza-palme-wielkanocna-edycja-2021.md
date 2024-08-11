@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2021/luty/2021_luty_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2021_2021_02_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2021_pl1-3.jpg"
+title: "KONKURS NA NAJPIĘKNIEJSZĄ PALMĘ WIELKANOCNĄ – EDYCJA 2021"
+publishDate: "2021-02-01T00:00:00.000Z"
+eventDate: "2021-02-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/02/pl1-3.jpg"><img fetchpriority="high" decoding="async" width="800" height="566" src="/images/2021/luty/2021_luty_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2021_2021_02_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2021_pl1-3.jpg" alt="" class="wp-image-7872" srcset="/images/2021/luty/2021_luty_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2021_2021_02_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2021_pl1-3.jpg 800w, /images/2021/luty/pl1-3-300x212.jpg 300w, /images/2021/luty/pl1-3-768x543.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Uwaga, pamiętajcie o załącznikach, do pobrania z Facebooka MGOK.</p>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

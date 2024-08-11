@@ -1,0 +1,49 @@
+---
+thumbnail: "/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl1-5.jpg"
+title: "KONKURS NA NAJPIĘKNIEJSZĄ PALMĘ WIELKANOCNĄ – EDYCJA 2022"
+publishDate: "2022-03-01T00:00:00.000Z"
+eventDate: "2022-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl1-5.jpg"><img fetchpriority="high" decoding="async" width="800" height="566" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl1-5.jpg" alt="" class="wp-image-8556" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl1-5.jpg 800w, /images/2022/marzec/pl1-5-300x212.jpg 300w, /images/2022/marzec/pl1-5-768x543.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl2-4.jpg"><img decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl2-4-724x1024.jpg" alt="" class="wp-image-8557" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl2-4-724x1024.jpg 724w, /images/2022/marzec/pl2-4-212x300.jpg 212w, /images/2022/marzec/pl2-4-768x1087.jpg 768w, /images/2022/marzec/pl2-4.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl3-4.jpg"><img decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl3-4-724x1024.jpg" alt="" class="wp-image-8558" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl3-4-724x1024.jpg 724w, /images/2022/marzec/pl3-4-212x300.jpg 212w, /images/2022/marzec/pl3-4-768x1087.jpg 768w, /images/2022/marzec/pl3-4.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl4-1.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl4-1-724x1024.jpg" alt="" class="wp-image-8559" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl4-1-724x1024.jpg 724w, /images/2022/marzec/pl4-1-212x300.jpg 212w, /images/2022/marzec/pl4-1-768x1087.jpg 768w, /images/2022/marzec/pl4-1.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl5.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl5-724x1024.jpg" alt="" class="wp-image-8560" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl5-724x1024.jpg 724w, /images/2022/marzec/pl5-212x300.jpg 212w, /images/2022/marzec/pl5-768x1087.jpg 768w, /images/2022/marzec/pl5.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl6.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl6-724x1024.jpg" alt="" class="wp-image-8561" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl6-724x1024.jpg 724w, /images/2022/marzec/pl6-212x300.jpg 212w, /images/2022/marzec/pl6-768x1087.jpg 768w, /images/2022/marzec/pl6.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl7.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl7-724x1024.jpg" alt="" class="wp-image-8562" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl7-724x1024.jpg 724w, /images/2022/marzec/pl7-212x300.jpg 212w, /images/2022/marzec/pl7-768x1087.jpg 768w, /images/2022/marzec/pl7.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl8.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl8-724x1024.jpg" alt="" class="wp-image-8563" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl8-724x1024.jpg 724w, /images/2022/marzec/pl8-212x300.jpg 212w, /images/2022/marzec/pl8-768x1087.jpg 768w, /images/2022/marzec/pl8.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/pl9.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl9-724x1024.jpg" alt="" class="wp-image-8564" srcset="/images/2022/marzec/2022_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_2022_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_edycja_2022_pl9-724x1024.jpg 724w, /images/2022/marzec/pl9-212x300.jpg 212w, /images/2022/marzec/pl9-768x1087.jpg 768w, /images/2022/marzec/pl9.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

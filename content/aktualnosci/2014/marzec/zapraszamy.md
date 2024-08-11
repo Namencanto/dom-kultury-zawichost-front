@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2014/marzec/2014_marzec_zapraszamy_2014_03_zapraszamy_plakat-maraton.jpg"
+title: "ZAPRASZAMY"
+publishDate: "2014-03-01T00:00:00.000Z"
+eventDate: "2014-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-1812" title="plakat maraton" src="/images/2014/marzec/2014_marzec_zapraszamy_2014_03_zapraszamy_plakat-maraton.jpg" alt="" width="800" height="955" srcset="/images/2014/marzec/2014_marzec_zapraszamy_2014_03_zapraszamy_plakat-maraton.jpg 800w, /images/2014/marzec/plakat-maraton-251x300.jpg 251w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p style="text-align: right;">DYREKTOR I PRACOWNICY MGOK</p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

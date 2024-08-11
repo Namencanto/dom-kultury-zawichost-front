@@ -1,0 +1,150 @@
+---
+thumbnail: "/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-2.jpg"
+title: "Podsumowanie projektu „Cicha miejscowość-głośne granie!”"
+publishDate: "2017-08-01T00:00:00.000Z"
+eventDate: "2017-08-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>Oto 30 fotogramów, które pokazują działania z realizacji zadania „Cicha miejscowość – głośne granie” Miejsko-Gminnego Ośrodka Kultury w Zawichoście – projektu, który współfinansowała Polsko-Amerykańska Fundacja Wolności administrowana przez Polską Fundację Dzieci i Młodzieży. To już za nami – wiele emocji, radości, ale i pracy, którą będziemy ciepło wspominać. Korzystając z chwilowego odpoczynku i fb – przeżyjmy to jeszcze raz. W realu wystawę zwiedzić możemy w sali widowiskowej MGOK w Zawichoście. Dziękujemy Katarzynie Marek oraz Marcelowi Rosińskiemu, którzy stworzyli i wybrali fotografie, które tworzą zestaw.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-5111" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-2.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-2.jpg 800w, /images/2017/sierpien/PLANSZE-2-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-2-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-5112" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-22.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-22.jpg 800w, /images/2017/sierpien/PLANSZE-22-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-22-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-5113" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-23.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-23.jpg 800w, /images/2017/sierpien/PLANSZE-23-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-23-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5114" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-24-1.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-24-1.jpg 800w, /images/2017/sierpien/PLANSZE-24-1-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-24-1-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5115" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-25.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-25.jpg 800w, /images/2017/sierpien/PLANSZE-25-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-25-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5116" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-26.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-26.jpg 800w, /images/2017/sierpien/PLANSZE-26-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-26-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5117" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-27.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-27.jpg 800w, /images/2017/sierpien/PLANSZE-27-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-27-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5118" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-28.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-28.jpg 800w, /images/2017/sierpien/PLANSZE-28-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-28-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5119" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-29.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-29.jpg 800w, /images/2017/sierpien/PLANSZE-29-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-29-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5120" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-210.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-210.jpg 800w, /images/2017/sierpien/PLANSZE-210-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-210-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5121" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-211.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-211.jpg 800w, /images/2017/sierpien/PLANSZE-211-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-211-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5122" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-212.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-212.jpg 800w, /images/2017/sierpien/PLANSZE-212-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-212-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5123" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-213.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-213.jpg 800w, /images/2017/sierpien/PLANSZE-213-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-213-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5124" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-214.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-214.jpg 800w, /images/2017/sierpien/PLANSZE-214-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-214-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5125" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-215.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-215.jpg 800w, /images/2017/sierpien/PLANSZE-215-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-215-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5126" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-216.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-216.jpg 800w, /images/2017/sierpien/PLANSZE-216-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-216-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5127" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-217.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-217.jpg 800w, /images/2017/sierpien/PLANSZE-217-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-217-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5128" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-218.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-218.jpg 800w, /images/2017/sierpien/PLANSZE-218-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-218-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5129" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-219.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-219.jpg 800w, /images/2017/sierpien/PLANSZE-219-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-219-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5144" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-220-1.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-220-1.jpg 800w, /images/2017/sierpien/PLANSZE-220-1-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-220-1-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5131" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-221.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-221.jpg 800w, /images/2017/sierpien/PLANSZE-221-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-221-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5132" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-222.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-222.jpg 800w, /images/2017/sierpien/PLANSZE-222-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-222-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5134" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-223-1.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-223-1.jpg 800w, /images/2017/sierpien/PLANSZE-223-1-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-223-1-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5135" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-224.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-224.jpg 800w, /images/2017/sierpien/PLANSZE-224-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-224-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5136" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-225.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-225.jpg 800w, /images/2017/sierpien/PLANSZE-225-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-225-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5137" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-226.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-226.jpg 800w, /images/2017/sierpien/PLANSZE-226-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-226-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5138" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-227.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-227.jpg 800w, /images/2017/sierpien/PLANSZE-227-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-227-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5139" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-228.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-228.jpg 800w, /images/2017/sierpien/PLANSZE-228-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-228-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5140" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-229.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-229.jpg 800w, /images/2017/sierpien/PLANSZE-229-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-229-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5141" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-230.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-230.jpg 800w, /images/2017/sierpien/PLANSZE-230-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-230-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>A tak wygląda okładka płyty „Konsystorz”, z którą chłopcy dotarli do nas tuż przed koncertem prosto z jednej z warszawskich wytwórni. O mało co premiera płyty odbyłaby się bez płyty, ale jak to w życiu bywa wszystko skończyło się szczęśliwie … Przypominamy, że grafikę okładki krążka stworzyli <strong>Joanna Sapielak i Mateusz Klaputek – mieszkaniec Młodzieżowego Ośrodka Wychowawczego w Zawichoście, który wygrał konkurs na motyw graficzny płyty „…Jakby nie było jest bardzo miło …”</strong></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5107" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_przod_ekstra2_by_methanosis-dbk4lf4.jpg" alt="" width="800" height="800" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_przod_ekstra2_by_methanosis-dbk4lf4.jpg 800w, /images/2017/sierpien/przod_ekstra2_by_methanosis-dbk4lf4-150x150.jpg 150w, /images/2017/sierpien/przod_ekstra2_by_methanosis-dbk4lf4-300x300.jpg 300w, /images/2017/sierpien/przod_ekstra2_by_methanosis-dbk4lf4-768x768.jpg 768w, /images/2017/sierpien/przod_ekstra2_by_methanosis-dbk4lf4-50x50.jpg 50w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5108" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_tyl_ekstra_by_methanosis-dbk4le7.jpg" alt="" width="800" height="800" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_tyl_ekstra_by_methanosis-dbk4le7.jpg 800w, /images/2017/sierpien/tyl_ekstra_by_methanosis-dbk4le7-150x150.jpg 150w, /images/2017/sierpien/tyl_ekstra_by_methanosis-dbk4le7-300x300.jpg 300w, /images/2017/sierpien/tyl_ekstra_by_methanosis-dbk4le7-768x768.jpg 768w, /images/2017/sierpien/tyl_ekstra_by_methanosis-dbk4le7-50x50.jpg 50w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>Jeśli macie ochotę zerknijcie na tekst do utworu <strong>„Zdecyduj”</strong> , który jako bonus znalazł się na pierwszym krążku „Konsystorza” – pamiętacie kto jest jego autorem, a raczej autorami – to <strong>Adrian Kuligowski</strong> i <strong>Tomasz Wojtyczko</strong> – mieszkańcy MOW w Zawichoście, którzy wygrali kilka miesięcy temu konkurs na najlepszy tekst dla wspomnianego zespołu. Dziękujemy im i gratulujemy, jednocześnie przypominamy, że słowa do pozostałych utworów stworzył Jordan „Denis” Wilk – wokalista i basista grupy.</p>
+<p><strong><em>„Zdecyduj”</em></strong></p>
+<p><em>Nie wiem, czy ta droga tutaj jest zaklęta,<br>
+czy to tylko są pogłoski na jej temat,<br>
+są różne potknięcia upadki i wzloty,<br>
+przedawkowanie handel to najmocniejsze prochy.</em></p>
+<p>znam życia wyboje są ostre jak naboje,<br>
+jak strzelą to się zdziwisz, czemu tylko w twoją stronę,<br>
+sam siebie zapytaj, po czyjej jesteś stronie,<br>
+po dobrej, czy też złej, w którą stronę będziesz biegł.</p>
+<p>szybko się zdecyduj, bo nie mam dużo czasu,<br>
+nie będę go poświęcał na chwile twego strachu,<br>
+więc szybko się zdecyduj, bo nie mam dużo czasu,<br>
+nie będę go marnował na chwile twego strachu.</p>
+<p>wszędzie ostry chaos i mętlik dookoła,<br>
+człowieku zobacz jak wygląda twoje życie,<br>
+o głowie już nie wspomnę, bo tam b/rak rozumu,<br>
+tam już wszystko jest przeżarte przez zatrute prochy.</p>
+<p>szybko się zdecyduj, bo nie mam dużo czasu,<br>
+nie będę go poświęcał na chwile twego strachu,<br>
+więc szybko się zdecyduj, bo nie mam dużo czasu,<br>
+nie będę go marnował na chwile twego strachu.</p>
+<p>zdecyduj zdecyduj</p>
+<p>którą drogą dziś podążysz<br>
+którą drogę dziś wybierzesz<br>
+zdecyduj zdecyduj<br>
+którą drogą dziś podążysz<br>
+zdecyduj zdecyduj zdecyduj</p>
+<p>nie wiem, czy ta droga tutaj jest zaklęta,<br>
+czy to tylko są pogłoski na jej temat,<br>
+są różne potknięcia, upadki i wzloty,<br>
+przedawkowanie, handel to najmocniejsze prochy.</p>
+<p>znam życia wyboje, są ostre jak naboje,<br>
+jak strzelą to się zdziwisz, czemu tylko w twoją stronę,<br>
+sam siebie zapytaj, po czyjej jesteś stronie,<br>
+po dobrej, czy też złej, w którą stronę będziesz biegł.</p>
+<p><em>&nbsp;<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5109" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-24.jpg" alt="" width="800" height="571" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_PLANSZE-24.jpg 800w, /images/2017/sierpien/PLANSZE-24-300x214.jpg 300w, /images/2017/sierpien/PLANSZE-24-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></em></p>
+<p><em><strong>Dziękujemy, dziękujemy …</strong></em></p>
+<p>za współfinansowanie projektu „Cicha miejscowość – głośne granie!”</p>
+<p><strong>– Polsko – Amerykańskiej Fundacji Wolności </strong></p>
+<p><strong>– Polskiej Fundacji Dzieci i Młodzieży</strong></p>
+<p>&nbsp;</p>
+<p>za współfinansowanie i prowadzenie projektu „Cicha miejscowość – głośne granie!”</p>
+<p><strong>– Miejsko-Gminnemu Ośrodkowi Kultury w Zawichoście – dyrektor Patrycji Sus-Lutyńskiej oraz instruktorowi – Pawłowi Lisowi (koordynacja i pomoc przy realizacji wideoklipu)</strong></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5110" src="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_DSC_0084jj.jpg" alt="" width="800" height="531" srcset="/images/2017/sierpien/2017_sierpien_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_2017_08_podsumowanie_projektu_cicha_miejscowo_g_o_ne_granie_DSC_0084jj.jpg 800w, /images/2017/sierpien/DSC_0084jj-300x199.jpg 300w, /images/2017/sierpien/DSC_0084jj-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>grupie projektowej za udział w realizacji działań projektu „Cicha miejscowość – głośne granie!”</p>
+<p><strong>– Maciejowi&nbsp; Kozakowi </strong>– bas wspierający – próby i koncerty</p>
+<p><strong>– Maciejowi&nbsp; Sosze </strong>– technika sceny, kierowca</p>
+<p><strong>– Michałowi Wójcińskiemu </strong>– współrealizacja wideoklipu</p>
+<p><strong>– Kacprowi „Papuciowi” Koziełowi – </strong>współrealizacja strony konsystorz.pl</p>
+<p><strong>&nbsp;– Alicji Śmielak&nbsp; </strong>– wokal wspierający – próby i koncerty</p>
+<p><strong>– Jakubowi Gagatowi </strong>– redakcja tekstów promocyjnych</p>
+<p><strong>– Marcelowi Rosińskiemu – </strong>foto i technika sceny</p>
+<p><strong>– Katarzynie Marek – </strong>foto, projekt wystawy promocyjnej, współrealizacja wideoklipu</p>
+<p><strong>– Pawłowi „ Rodgerowi” Nogajowi </strong>– promocja koncertów</p>
+<p>– <strong>Pawłowi&nbsp; Sobczykowi </strong>– promocja koncertów</p>
+<p>– <strong>Jakubowi Nowakowi</strong>– strojenie perkusji</p>
+<p>&nbsp;</p>
+<p>za pomoc w realizacji koncertów promocyjnych:</p>
+<p><strong>– Gminnemu Ośrodkowi Kultury w Dwikozach</strong></p>
+<p><strong>– Stowarzyszeniu Zawiszy Czarnego w Garbowie</strong></p>
+<p><strong>–&nbsp; Miejsko-Gminnemu Ośrodkowi Kultury im. A. A. Patkowskiego w Ożarowie</strong></p>
+<p><strong>–&nbsp; Sandomierskiemu Centrum Kultury</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>za poprowadzenie warsztatów tematycznych:</p>
+<p><strong>– Wojciechowi Próchnickiemu&nbsp; </strong>– tworzenie stron www</p>
+<p><strong>– Wojciechowi Zychowi </strong>– podstawy fotografii</p>
+<p><strong>–&nbsp; Sławkowi Lutyńskiemu </strong>– praca w studio nagrań</p>
+<p><strong>&nbsp;</strong></p>
+<p>za pomoc w przeprowadzeniu konkursów na grafikę i tekst:</p>
+<p><strong>– Młodzieżowemu Ośrodkowi Wychowawczemu im. J. Korczaka w Zawichoście</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>za realizację materiału na płytę:</p>
+<p><strong>– „Factory Studio” – Januszowi Brytowi</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>za użyczenie wokalu do utworu „Rebel”:</p>
+<p><strong>– Arielowi Kamińskiemu</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>za projekt grafiki płyty:</p>
+<p><strong>– Joannie Sapielak</strong></p>
+<p><strong>– Mateuszowi Klaputkowi</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>za tekst do utworu „Zdecyduj”:</p>
+<p><strong>– Adrianowi Kuligowskiemu</strong></p>
+<p><strong>– Tomaszowi Wojtyczko</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>oraz</p>
+<p><strong>– Bartoszowi „Makiemu” Makosiowi</strong></p>
+<p><strong>–&nbsp; Mariuszowi Sapielakowi </strong></p>
+<p><strong>– Małgorzacie Pięcie</strong></p>
+<p><strong>– Joannie Wilk</strong></p>
+<p><strong>– Piotrowi Zającowi</strong></p>
+<p><strong>– Andrzejowi Mazurowi</strong></p>
+<p><strong>– Januszowi Kormanowi</strong></p>
+<p><strong>– zespołom „In Silent”, „Metromon”, „Boozer”</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p style="text-align: right;"><strong>zespół „KONSYSTORZ”:</strong></p>
+<p style="text-align: right;"><em>Jordan „Denis” Wilk – wokal, gitara basowa</em></p>
+<p style="text-align: right;"><em>Kamil „Klaus” Pięta&nbsp; – Perkusja, wokal wspierający</em></p>
+<p style="text-align: right;"><em>Adrian „ Żyła” Borkowski&nbsp; – gitara elektryczna, taka co się ją do prądu podpina</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+						
+						</div>

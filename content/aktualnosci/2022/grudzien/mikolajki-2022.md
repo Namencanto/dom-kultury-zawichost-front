@@ -1,0 +1,13 @@
+---
+thumbnail: "/images/2022/grudzien/2022_grudzien_miko_ajki_2022_2022_12_miko_ajki_2022_MIKOLAJ-2-3-727x1024.jpg"
+title: "MIKOŁAJKI 2022"
+publishDate: "2022-12-01T00:00:00.000Z"
+eventDate: "2022-12-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/12/MIKOLAJ-2-3.jpg"><img fetchpriority="high" decoding="async" width="727" height="1024" src="/images/2022/grudzien/2022_grudzien_miko_ajki_2022_2022_12_miko_ajki_2022_MIKOLAJ-2-3-727x1024.jpg" alt="" class="wp-image-9129" srcset="/images/2022/grudzien/2022_grudzien_miko_ajki_2022_2022_12_miko_ajki_2022_MIKOLAJ-2-3-727x1024.jpg 727w, /images/2022/grudzien/MIKOLAJ-2-3-213x300.jpg 213w, /images/2022/grudzien/MIKOLAJ-2-3-768x1082.jpg 768w, /images/2022/grudzien/MIKOLAJ-2-3.jpg 800w" sizes="(max-width: 727px) 100vw, 727px"></a></figure>
+						
+						</div>

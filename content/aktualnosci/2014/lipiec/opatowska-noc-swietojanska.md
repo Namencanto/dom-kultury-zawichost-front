@@ -1,0 +1,23 @@
+---
+thumbnail: "/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-5.jpg"
+title: "Opatowska Noc Świętojańska"
+publishDate: "2014-07-01T00:00:00.000Z"
+eventDate: "2014-07-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-2103" title="Opatow (5)" src="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-5.jpg" alt="" width="800" height="531" srcset="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-5.jpg 800w, /images/2014/lipiec/Opatow-5-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>Dnia 27 czerwca 2014 r. nad zalewem opatowskim odbyła się „Opatowska Noc Świętojańska” zorganizowana przez Opatowski Ośrodek Kultury oraz Stowarzyszenie Społeczno-Kulturalne Region Ziemia Świętokrzyska. W wydarzeniu tym wzięły udział zespoły śpiewacze „Linowianki”, „Zawichost” oraz solistka Kasia Pawłowska. Nasi ludowi artyści byli jedynymi wykonawcami spoza regionu opatowskiego. Swoim bogatym świętojańskim repertuarem uświetnili całą imprezę i po raz kolejny przynieśli dumę naszemu ośrodkowi kultury.</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-2100" title="Opatow (2)" src="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-2.jpg" alt="" width="800" height="531" srcset="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-2.jpg 800w, /images/2014/lipiec/Opatow-2-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-2101" title="Opatow (3)" src="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-3.jpg" alt="" width="800" height="531" srcset="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-3.jpg 800w, /images/2014/lipiec/Opatow-3-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2102" title="Opatow (4)" src="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-4.jpg" alt="" width="800" height="531" srcset="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-4.jpg 800w, /images/2014/lipiec/Opatow-4-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2099" title="Opatow (1)" src="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-1.jpg" alt="" width="800" height="531" srcset="/images/2014/lipiec/2014_lipiec_opatowska_noc_wi_toja_ska_2014_07_opatowska_noc_wi_toja_ska_Opatow-1.jpg 800w, /images/2014/lipiec/Opatow-1-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: right;"><em>tekst &nbsp;– </em>Tomasz Figiel</p>
+<p style="text-align: right;"><em>foto: </em>Maria Skorupa, Katarzyna Pawłowska<em><br>
+</em></p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

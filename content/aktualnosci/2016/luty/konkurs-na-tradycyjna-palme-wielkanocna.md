@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_palmy-wyciete.jpg"
+title: "KONKURS NA TRADYCYJNĄ PALMĘ WIELKANOCNĄ"
+publishDate: "2016-02-01T00:00:00.000Z"
+eventDate: "2016-02-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3568" title="OLYMPUS DIGITAL CAMERA" src="/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_palmy-wyciete.jpg" alt="" width="800" height="150" srcset="/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_palmy-wyciete.jpg 800w, /images/2016/luty/palmy-wyciete-300x56.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>Uwaga! Zapraszamy Wszystkich chętnych do udziału w konkursie na TRADYCYJNĄ PALMĘ WIELKANOCNĄ. Termin dostarczenia prac – 16.03.2016 (środa). Szczegóły znajdziecie w regulaminie konkursowym zamieszczonym w niniejszym wpisie. Otwórzcie wpis by znaleźć regulamin oraz poszerzoną metryczkę zgłoszeniową.</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3565" title="1" src="/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_1.jpg" alt="" width="700" height="886" srcset="/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_1.jpg 700w, /images/2016/luty/1-237x300.jpg 237w" sizes="(max-width: 700px) 100vw, 700px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-3566" title="2" src="/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_2.jpg" alt="" width="700" height="816" srcset="/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_2.jpg 700w, /images/2016/luty/2-257x300.jpg 257w" sizes="(max-width: 700px) 100vw, 700px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-3567" title="3" src="/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_3.jpg" alt="" width="700" height="835" srcset="/images/2016/luty/2016_luty_konkurs_na_tradycyjn_palm_wielkanocn_2016_02_konkurs_na_tradycyjn_palm_wielkanocn_3.jpg 700w, /images/2016/luty/3-251x300.jpg 251w" sizes="(max-width: 700px) 100vw, 700px"></p>
+<p style="text-align: right;">ZAPRASZAMY</p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.</em><br>
+<em>o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,</em><br>
+<em>zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+<p>&nbsp;</p>
+						
+						</div>

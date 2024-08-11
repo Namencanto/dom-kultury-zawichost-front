@@ -1,0 +1,30 @@
+---
+thumbnail: "/images/2019/pazdziernik/2019_pazdziernik_zapraszamy_na_promocj_ksi_ki_2019_10_zapraszamy_na_promocj_ksi_ki_12-712x1024.jpg"
+title: "Zapraszamy na promocję książki"
+publishDate: "2019-10-01T00:00:00.000Z"
+eventDate: "2019-10-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>&nbsp;&nbsp; 18 października (piątek) 2019r. o godz.18.00 w Miejsko-Gminnym Ośrodku Kultury w Zawichoście odbędzie się promocja książki: „Miasto movie o tradycji-obrzędy, zwyczaje i tradycje ludowe w przestrzeni miejskiej Sandomierza, Zawichostu i Koprzywnicy”.</p>
+
+
+
+<p>Udział w wydarzeniu będzie jedyną okazją do otrzymania
+darmowego egzemplarza publikacji.</p>
+
+
+
+<p>Serdecznie zapraszamy! </p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="712" height="1024" src="/images/2019/pazdziernik/2019_pazdziernik_zapraszamy_na_promocj_ksi_ki_2019_10_zapraszamy_na_promocj_ksi_ki_12-712x1024.jpg" alt="" class="wp-image-6954" srcset="/images/2019/pazdziernik/2019_pazdziernik_zapraszamy_na_promocj_ksi_ki_2019_10_zapraszamy_na_promocj_ksi_ki_12-712x1024.jpg 712w, /images/2019/pazdziernik/12-209x300.jpg 209w, /images/2019/pazdziernik/12-768x1104.jpg 768w, /images/2019/pazdziernik/12.jpg 800w" sizes="(max-width: 712px) 100vw, 712px"></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em></p>
+						
+						</div>

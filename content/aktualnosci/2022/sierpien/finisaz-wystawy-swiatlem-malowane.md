@@ -1,0 +1,65 @@
+---
+thumbnail: "/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd1.jpg"
+title: "FINISAŻ WYSTAWY „ŚWIATŁEM MALOWANE”"
+publishDate: "2022-08-01T00:00:00.000Z"
+eventDate: "2022-08-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>18 sierpnia 2022 roku, w MGOK, uroczyście podsumowaliśmy wystawę fotografii „Światłem malowane” autorstwa Marka Nasiadki.</p>
+
+
+
+<p>Finisaż zgromadził zainteresowanych mieszkańców, którzy czekali na spotkanie z twórcą zdjęć prezentowanych na ścianach zawichojskiej sali wystawowej przez okres niespełna miesiąca.</p>
+
+
+
+<p>Geografowi, krajoznawcy i fotografowi, bo w takiej kolejności mówi o sobie autor, aparat towarzyszy od zawsze. Pierwszy dostał w wieku lat jedenastu. Wtedy wszystko się <a></a>zaczęło. Dziś pokaźny dorobek artystyczny – Marek Nasiadka, prezentuje nie tylko na ścianach galerii. Jego prace ilustrują książki i artykuły. Przyrodnicze fotografie przyciągają pasjonatów krajoznawstwa, którzy sięgają po wydawnictwa zerkając na okładki. Publikacje tj. „Kraina Bugu”, „Poznaj swój kraj”, „Poznaj świat”, „Płomyczek”, „Chrońmy Przyrodę Ojczystą”, to tylko przykładowe tytuły, wymieniane przez naszego gościa. W wielu z nich znaleźć możemy również jego teksty. Jest autorem przewodników, np. „Małopolskiego przełomu Wisły”. W okresie kilkudziesięciu lat pracy artystycznej otrzymał wiele nagród i wyróżnień w konkursach i przeglądach branżowych.</p>
+
+
+
+<p>Czwartkowy wieczór otworzyła Patrycja Sus – dyrektor zawichojskiego ośrodka kultury. Wystawę przygotowała instruktor plastyk MGOK – Agata Osika – Kucharska.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/08/zd1.jpg"><img fetchpriority="high" decoding="async" width="800" height="571" src="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd1.jpg" alt="" class="wp-image-8900" srcset="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd1.jpg 800w, /images/2022/sierpien/zd1-300x214.jpg 300w, /images/2022/sierpien/zd1-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/08/zd2.jpg"><img decoding="async" width="800" height="534" src="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd2.jpg" alt="" class="wp-image-8901" srcset="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd2.jpg 800w, /images/2022/sierpien/zd2-300x200.jpg 300w, /images/2022/sierpien/zd2-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/08/zd3.jpg"><img decoding="async" width="800" height="534" src="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd3.jpg" alt="" class="wp-image-8902" srcset="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd3.jpg 800w, /images/2022/sierpien/zd3-300x200.jpg 300w, /images/2022/sierpien/zd3-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/08/zd4.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd4.jpg" alt="" class="wp-image-8903" srcset="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd4.jpg 800w, /images/2022/sierpien/zd4-300x200.jpg 300w, /images/2022/sierpien/zd4-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/08/zd5.jpg"><img loading="lazy" decoding="async" width="800" height="571" src="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd5.jpg" alt="" class="wp-image-8904" srcset="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd5.jpg 800w, /images/2022/sierpien/zd5-300x214.jpg 300w, /images/2022/sierpien/zd5-768x548.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/08/zd6.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd6.jpg" alt="" class="wp-image-8905" srcset="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd6.jpg 800w, /images/2022/sierpien/zd6-300x199.jpg 300w, /images/2022/sierpien/zd6-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/08/zd7.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd7.jpg" alt="" class="wp-image-8906" srcset="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd7.jpg 800w, /images/2022/sierpien/zd7-300x199.jpg 300w, /images/2022/sierpien/zd7-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/08/zd8.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd8.jpg" alt="" class="wp-image-8907" srcset="/images/2022/sierpien/2022_sierpien_finisa_wystawy_wiat_em_malowane_2022_08_finisa_wystawy_wiat_em_malowane_zd8.jpg 800w, /images/2022/sierpien/zd8-300x200.jpg 300w, /images/2022/sierpien/zd8-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>tekst: MGOK, foto: W. Gryta/MGOK</p>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

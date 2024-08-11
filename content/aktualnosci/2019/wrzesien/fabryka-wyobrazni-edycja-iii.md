@@ -1,0 +1,25 @@
+---
+thumbnail: "/images/2019/wrzesien/2019_wrzesien_fabryka_wyobra_ni_edycja_iii_2019_09_fabryka_wyobra_ni_edycja_iii_fw1-712x1024.jpg"
+title: "Fabryka Wyobraźni Edycja III"
+publishDate: "2019-09-01T00:00:00.000Z"
+eventDate: "2019-09-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>28 września 2019r. (sobota) o godzinie 15.00 w MGOK Zawichost odbędzie się uroczyste otwarcie wystawy prac uczestników sekcji plastycznej sezon 2018/2019 „Fabryka Wyobraźni Edycja III”. Zapraszamy, również na kolorowe zakończenie lata COLOR OF HOLI PARTY od 14.00-19.00, Rynek Duży. Wśród uczestników wystawy zostaną rozlosowane karnety na darmowy proszek holi. Pierwszy wyrzut proszku holi tuż po otwarciu wystawy i rozdaniu dyplomów uczestnikom zajęć plastycznych około godziny 15.30.<br> Prosimy zabrać ze sobą najlepiej białe koszulki i dobry humor. Będzie kolorowo!!! </p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="712" height="1024" src="/images/2019/wrzesien/2019_wrzesien_fabryka_wyobra_ni_edycja_iii_2019_09_fabryka_wyobra_ni_edycja_iii_fw1-712x1024.jpg" alt="" class="wp-image-6896" srcset="/images/2019/wrzesien/2019_wrzesien_fabryka_wyobra_ni_edycja_iii_2019_09_fabryka_wyobra_ni_edycja_iii_fw1-712x1024.jpg 712w, /images/2019/wrzesien/fw1-209x300.jpg 209w, /images/2019/wrzesien/fw1-768x1104.jpg 768w, /images/2019/wrzesien/fw1.jpg 800w" sizes="(max-width: 712px) 100vw, 712px"></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="721" height="1024" src="/images/2019/wrzesien/2019_wrzesien_fabryka_wyobra_ni_edycja_iii_2019_09_fabryka_wyobra_ni_edycja_iii_fw2-721x1024.jpg" alt="" class="wp-image-6897" srcset="/images/2019/wrzesien/2019_wrzesien_fabryka_wyobra_ni_edycja_iii_2019_09_fabryka_wyobra_ni_edycja_iii_fw2-721x1024.jpg 721w, /images/2019/wrzesien/fw2-211x300.jpg 211w, /images/2019/wrzesien/fw2-768x1091.jpg 768w, /images/2019/wrzesien/fw2.jpg 800w" sizes="(max-width: 721px) 100vw, 721px"></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em></p>
+						
+						</div>

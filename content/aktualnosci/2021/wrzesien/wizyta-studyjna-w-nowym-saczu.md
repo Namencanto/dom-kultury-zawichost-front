@@ -1,0 +1,37 @@
+---
+thumbnail: "/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd1-7.jpg"
+title: "WIZYTA STUDYJNA W NOWYM SĄCZU"
+publishDate: "2021-09-01T00:00:00.000Z"
+eventDate: "2021-09-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>W ubiegłą środę, 15.09.2021r., uczestniczyliśmy w wizycie studyjnej w Sądeckim Parku Etnograficznym w Nowym Sączu. Organizatorem wyjazdu realizowanego w ramach projektu „Kolorowe kwiaty, zioła i smaki – świat lokalnych tradycji bliski nam wszystkim”, finansowanego ze środków PROW na lata 2014-2020 za pośrednictwem LGD Ziemi Sandomierskiej, była Akademia Kobiet Twórczych AKT. W programie, poza zwiedzaniem obiektu muzealnego z najnowszą dostępną atrakcją – Miasteczkiem Galicyjskim, organizatorzy zaplanowali również warsztaty ceramiczne. Dziękujemy za dzień pełen inspiracji dla naszej codzienności.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/09/zd1-7.jpg"><img fetchpriority="high" decoding="async" width="800" height="531" src="/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd1-7.jpg" alt="" class="wp-image-8174" srcset="/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd1-7.jpg 800w, /images/2021/wrzesien/zd1-7-300x199.jpg 300w, /images/2021/wrzesien/zd1-7-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/09/zd2-5.jpg"><img decoding="async" width="800" height="531" src="/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd2-5.jpg" alt="" class="wp-image-8175" srcset="/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd2-5.jpg 800w, /images/2021/wrzesien/zd2-5-300x199.jpg 300w, /images/2021/wrzesien/zd2-5-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/09/zd3-4.jpg"><img decoding="async" width="680" height="1024" src="/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd3-4-680x1024.jpg" alt="" class="wp-image-8176" srcset="/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd3-4-680x1024.jpg 680w, /images/2021/wrzesien/zd3-4-199x300.jpg 199w, /images/2021/wrzesien/zd3-4-768x1156.jpg 768w, /images/2021/wrzesien/zd3-4.jpg 800w" sizes="(max-width: 680px) 100vw, 680px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/09/zd4-4.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd4-4.jpg" alt="" class="wp-image-8177" srcset="/images/2021/wrzesien/2021_wrzesien_wizyta_studyjna_w_nowym_s_czu_2021_09_wizyta_studyjna_w_nowym_s_czu_zd4-4.jpg 800w, /images/2021/wrzesien/zd4-4-300x199.jpg 300w, /images/2021/wrzesien/zd4-4-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Tekst i foto: MGOK</p>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

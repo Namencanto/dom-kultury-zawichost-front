@@ -1,0 +1,15 @@
+---
+thumbnail: "/images/2018/maj/2018_maj_zapraszamy_2018_05_zapraszamy_PLAKAT-DZIEŃ-DZIECKA-2018.jpg"
+title: "Zapraszamy!"
+publishDate: "2018-05-01T00:00:00.000Z"
+eventDate: "2018-05-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-5837" src="/images/2018/maj/2018_maj_zapraszamy_2018_05_zapraszamy_PLAKAT-DZIEŃ-DZIECKA-2018.jpg" alt="" width="800" height="553" srcset="/images/2018/maj/2018_maj_zapraszamy_2018_05_zapraszamy_PLAKAT-DZIEŃ-DZIECKA-2018.jpg 800w, /images/2018/maj/PLAKAT-DZIEŃ-DZIECKA-2018-300x207.jpg 300w, /images/2018/maj/PLAKAT-DZIEŃ-DZIECKA-2018-768x531.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-5874" src="/images/2018/maj/2018_maj_zapraszamy_2018_05_zapraszamy_plan-Dnia-Dziecka-1.jpg" alt="" width="800" height="1132" srcset="/images/2018/maj/2018_maj_zapraszamy_2018_05_zapraszamy_plan-Dnia-Dziecka-1.jpg 800w, /images/2018/maj/plan-Dnia-Dziecka-1-212x300.jpg 212w, /images/2018/maj/plan-Dnia-Dziecka-1-768x1087.jpg 768w, /images/2018/maj/plan-Dnia-Dziecka-1-724x1024.jpg 724w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+<p>&nbsp;</p>
+						
+						</div>

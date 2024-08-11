@@ -1,0 +1,49 @@
+---
+thumbnail: "/images/2021/wrzesien/2021_wrzesien_legendy_zawichojskie_do_nabycia_w_mgok_2021_09_legendy_zawichojskie_do_nabycia_w_mgok_zd1-11.jpg"
+title: "LEGENDY ZAWICHOJSKIE – DO NABYCIA W MGOK"
+publishDate: "2021-09-01T00:00:00.000Z"
+eventDate: "2021-09-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>„Legendy zawichojskie” – autorstwa Tomasza Figla, do nabycia w Miejsko Gminnym Ośrodku Kultury w Zawichoście w cenie 10 zł.</p>
+
+
+
+<p>Istnieje również&nbsp; możliwość zakupu książki w drodze wysyłkowej. Prosimy o wpłatę kwoty za publikację, powiększonej o koszt wysyłki z dopiskiem „zakup Legend zawichojskich”:</p>
+
+
+
+<p>13.30 zł. (wydawnictwo + przesyłka zwykła)</p>
+
+
+
+<p>14.10 zł. (wydawnictwo + priorytet)</p>
+
+
+
+<p>15.90 zł. (wydawnictwo + polecony ekonomiczny)</p>
+
+
+
+<p>18.40 zł. (wydawnictwo + polecony priorytet)</p>
+
+
+
+<p>Pieniądze prosimy wpłacać na konto – Bank Spółdzielczy o/Zawichost: 09 9429 0004 2001 0100 1094 0001</p>
+
+
+
+<p>Przesyłka zostanie wysłana po zaksięgowaniu wpłaty. Prosimy o podanie pełnego adresu do korespondencji.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/09/zd1-11.jpg"><img fetchpriority="high" decoding="async" width="800" height="600" src="/images/2021/wrzesien/2021_wrzesien_legendy_zawichojskie_do_nabycia_w_mgok_2021_09_legendy_zawichojskie_do_nabycia_w_mgok_zd1-11.jpg" alt="" class="wp-image-8194" srcset="/images/2021/wrzesien/2021_wrzesien_legendy_zawichojskie_do_nabycia_w_mgok_2021_09_legendy_zawichojskie_do_nabycia_w_mgok_zd1-11.jpg 800w, /images/2021/wrzesien/zd1-11-300x225.jpg 300w, /images/2021/wrzesien/zd1-11-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2018/grudzien/2018_grudzien_zapraszamy_2018_12_zapraszamy_KONCERT.jpg"
+title: "ZAPRASZAMY"
+publishDate: "2018-12-01T00:00:00.000Z"
+eventDate: "2018-12-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="960" height="500" src="/images/2018/grudzien/2018_grudzien_zapraszamy_2018_12_zapraszamy_KONCERT.jpg" alt="" class="wp-image-6308" srcset="/images/2018/grudzien/2018_grudzien_zapraszamy_2018_12_zapraszamy_KONCERT.jpg 960w, /images/2018/grudzien/KONCERT-300x156.jpg 300w, /images/2018/grudzien/KONCERT-768x400.jpg 768w" sizes="(max-width: 960px) 100vw, 960px"></figure>
+
+
+
+<h6 class="wp-block-heading" style="text-align:center"> <br><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w  Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o  prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i  materiałów na stronie są własnością autora. Kopiowanie, powielanie i  rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na  piśmie.</em> </h6>
+						
+						</div>

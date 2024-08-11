@@ -1,0 +1,34 @@
+---
+thumbnail: "/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0239.jpg"
+title: "Śniadanie Wielkanocne"
+publishDate: "2017-03-01T00:00:00.000Z"
+eventDate: "2017-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>&nbsp;</p>
+<p>8 kwietnia&nbsp; 2017 r. w sandomierskim zamku odbyła się XVIII edycja Śniadania Wielkanocnego. Przedstawiciele wszystkich gmin z naszego powiatu &nbsp;usiedli wspólnie do świątecznego stołu. &nbsp;Spotkaniu towarzyszył przegląd tradycyjnych święconek wielkanocnych przygotowanych przez poszczególne delegacje. &nbsp;Okazały zawichojski kosz oraz efektowne palmy &nbsp;zostały przygotowane przez Miejsko-Gminny Ośrodek Kultury w Zawichoście.</p>
+<p>Wśród zaproszonych gości byli przedstawiciele świata kultury i nauki, &nbsp;a także politycy i samorządowcy. &nbsp;W tym roku na śniadaniu naszą gminę reprezentowali członkowie zespołu folklorystycznego „Zawichost”: &nbsp;Halina Ferens, Zofia Siuś, Jan Czajkowski, Adam Jakubczyk oraz Patrycja Sus-Lutyńska- dyrektor Miejsko-Gminnego Ośrodka Kultury w Zawichoście, burmistrz Andrzej Wzorek, który w &nbsp;krótkim wystąpieniu złożył świąteczne życzenia wszystkim biesiadnikom, a także przewodniczący Rady Miejskiej- Radosław Krakowiak i sekretarz Urzędu Miasta i Gminy Zawichost – Józef Paćkowski.</p>
+<p>Ideą corocznych spotkań wielkanocnych organizowanych w zamku jest zintegrowanie mieszkańców powiatu sandomierskiego, wspólne radowanie się z nadchodzących świąt oraz kultywowanie regionalnych tradycji.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-4549" src="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0239.jpg" alt="" width="800" height="531" srcset="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0239.jpg 800w, /images/2017/marzec/DSC_0239-300x199.jpg 300w, /images/2017/marzec/DSC_0239-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-4542" src="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0232.jpg" alt="" width="800" height="531" srcset="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0232.jpg 800w, /images/2017/marzec/DSC_0232-300x199.jpg 300w, /images/2017/marzec/DSC_0232-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-4543" src="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0234.jpg" alt="" width="800" height="531" srcset="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0234.jpg 800w, /images/2017/marzec/DSC_0234-300x199.jpg 300w, /images/2017/marzec/DSC_0234-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-4544" src="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0235.jpg" alt="" width="800" height="531" srcset="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0235.jpg 800w, /images/2017/marzec/DSC_0235-300x199.jpg 300w, /images/2017/marzec/DSC_0235-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-4545" src="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0238.jpg" alt="" width="800" height="531" srcset="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0238.jpg 800w, /images/2017/marzec/DSC_0238-300x199.jpg 300w, /images/2017/marzec/DSC_0238-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-4546" src="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0236.jpg" alt="" width="800" height="531" srcset="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0236.jpg 800w, /images/2017/marzec/DSC_0236-300x199.jpg 300w, /images/2017/marzec/DSC_0236-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-4547" src="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0240.jpg" alt="" width="800" height="1204" srcset="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0240.jpg 800w, /images/2017/marzec/DSC_0240-199x300.jpg 199w, /images/2017/marzec/DSC_0240-768x1156.jpg 768w, /images/2017/marzec/DSC_0240-680x1024.jpg 680w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-4548" src="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0241.jpg" alt="" width="800" height="531" srcset="/images/2017/marzec/2017_marzec__niadanie_wielkanocne_2017_03__niadanie_wielkanocne_DSC_0241.jpg 800w, /images/2017/marzec/DSC_0241-300x199.jpg 300w, /images/2017/marzec/DSC_0241-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p style="text-align: right;">Tekst i foto: MGOK</p>
+<p><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+<p>&nbsp;</p>
+						
+						</div>

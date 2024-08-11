@@ -1,0 +1,13 @@
+---
+thumbnail: "/images/2023/listopad/2023_listopad_magiczne_andrzejkowe_show_w_wykonaniu_iluzjonisty_przemys_awa_wilka_2023_11_magiczne_andrzejkowe_show_w_wykonaniu_iluzjonisty_przemys_awa_wilka_Magiczne-Andrzejkowe-Show-Iluzjonista-Przemyslaw-Wilk-724x1024.jpg"
+title: "Magiczne Andrzejkowe Show w wykonaniu iluzjonisty Przemysława Wilka"
+publishDate: "2023-11-01T00:00:00.000Z"
+eventDate: "2023-11-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/11/Magiczne-Andrzejkowe-Show-Iluzjonista-Przemyslaw-Wilk.jpg"><img fetchpriority="high" decoding="async" width="724" height="1024" src="/images/2023/listopad/2023_listopad_magiczne_andrzejkowe_show_w_wykonaniu_iluzjonisty_przemys_awa_wilka_2023_11_magiczne_andrzejkowe_show_w_wykonaniu_iluzjonisty_przemys_awa_wilka_Magiczne-Andrzejkowe-Show-Iluzjonista-Przemyslaw-Wilk-724x1024.jpg" alt="" class="wp-image-10086" srcset="/images/2023/listopad/2023_listopad_magiczne_andrzejkowe_show_w_wykonaniu_iluzjonisty_przemys_awa_wilka_2023_11_magiczne_andrzejkowe_show_w_wykonaniu_iluzjonisty_przemys_awa_wilka_Magiczne-Andrzejkowe-Show-Iluzjonista-Przemyslaw-Wilk-724x1024.jpg 724w, /images/2023/listopad/Magiczne-Andrzejkowe-Show-Iluzjonista-Przemyslaw-Wilk-212x300.jpg 212w, /images/2023/listopad/Magiczne-Andrzejkowe-Show-Iluzjonista-Przemyslaw-Wilk-768x1086.jpg 768w, /images/2023/listopad/Magiczne-Andrzejkowe-Show-Iluzjonista-Przemyslaw-Wilk-1086x1536.jpg 1086w, /images/2023/listopad/Magiczne-Andrzejkowe-Show-Iluzjonista-Przemyslaw-Wilk.jpg 1414w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+						
+						</div>

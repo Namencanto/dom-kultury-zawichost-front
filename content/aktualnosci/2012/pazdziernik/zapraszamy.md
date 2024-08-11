@@ -1,0 +1,12 @@
+---
+thumbnail: "/images/2012/pazdziernik/2012_pazdziernik_zapraszamy_2012_10_zapraszamy_do-internetu-wernisaż-i-koncert-zaproszenie.jpg"
+title: "ZAPRASZAMY"
+publishDate: "2012-10-01T00:00:00.000Z"
+eventDate: "2012-10-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-570" title="do internetu wernisaż  i koncert - zaproszenie" src="/images/2012/pazdziernik/2012_pazdziernik_zapraszamy_2012_10_zapraszamy_do-internetu-wernisaż-i-koncert-zaproszenie.jpg" alt="" width="920" height="650" srcset="/images/2012/pazdziernik/2012_pazdziernik_zapraszamy_2012_10_zapraszamy_do-internetu-wernisaż-i-koncert-zaproszenie.jpg 920w, /images/2012/pazdziernik/do-internetu-wernisaż-i-koncert-zaproszenie-300x211.jpg 300w" sizes="(max-width: 920px) 100vw, 920px"></p>
+						
+						</div>

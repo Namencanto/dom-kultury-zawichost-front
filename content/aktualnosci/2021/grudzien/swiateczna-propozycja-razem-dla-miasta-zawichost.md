@@ -1,0 +1,41 @@
+---
+thumbnail: "/images/2021/grudzien/2021_grudzien__wi_teczna_propozycja_razem_dla_miasta_zawichost_2021_12__wi_teczna_propozycja_razem_dla_miasta_zawichost_pl1-724x1024.jpg"
+title: "ŚWIĄTECZNA PROPOZYCJA-RAZEM DLA MIASTA ZAWICHOST"
+publishDate: "2021-12-01T00:00:00.000Z"
+eventDate: "2021-12-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Hej, hej … jesteście tam!</p>
+
+
+
+<p>Kochani: działamy, udostępniamy, ozdabiamy!<a></a></p>
+
+
+
+<p>Zapraszamy MAŁYCH I DUŻYCH, mieszkańców, gości, pracowników instytucji – Wszystkich, którzy mają ochotę działać wspólnie.</p>
+
+
+
+<p>Pakiet półproduktów do dekoracji CHOINKI MIEJSKIEJ w Zawichoście do pobrania w MGOK – kto pierwszy ten lepszy, rok ubiegły pokazał, że śnieżynki rozchodzą się jak „świeże bułeczki”. Weekend będzie pracowity!</p>
+
+
+
+<p>W poniedziałek Wszyscy ubieramy świąteczne zawichojskie drzewko. Spotykamy się o godz. 15.00 na Rynku Dużym. Będzie wesoło i świątecznie. Zapraszamy!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/12/pl1.jpg"><img fetchpriority="high" decoding="async" width="724" height="1024" src="/images/2021/grudzien/2021_grudzien__wi_teczna_propozycja_razem_dla_miasta_zawichost_2021_12__wi_teczna_propozycja_razem_dla_miasta_zawichost_pl1-724x1024.jpg" alt="" class="wp-image-8307" srcset="/images/2021/grudzien/2021_grudzien__wi_teczna_propozycja_razem_dla_miasta_zawichost_2021_12__wi_teczna_propozycja_razem_dla_miasta_zawichost_pl1-724x1024.jpg 724w, /images/2021/grudzien/pl1-212x300.jpg 212w, /images/2021/grudzien/pl1-768x1086.jpg 768w, /images/2021/grudzien/pl1.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<p></p>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

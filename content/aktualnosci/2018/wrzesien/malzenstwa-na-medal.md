@@ -1,0 +1,27 @@
+---
+thumbnail: "/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210125.jpg"
+title: "Małżeństwa na medal"
+publishDate: "2018-09-01T00:00:00.000Z"
+eventDate: "2018-09-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>14 września 2018 r. w Miejsko-Gminnym Ośrodku Kultury w Zawichoście odbyła się wyjątkowa uroczystość Złotych Godów. 10 par z terenu gminy Zawichost odebrało z rąk burmistrza Andrzeja Wzorka Medale za Długoletnie Pożycie Małżeńskie, które zostały &nbsp;im nadane przez Prezydenta RP Andrzeja Dudę.</p>
+<p>Po części oficjalnej dla jubilatów wystąpiła młodzież ze Szkoły Podstawowej im. Ziemi Zawichojskiej w Zawichoście oraz Zespołu Szkół Ogólnokształcących w Zawichoście, a także grupa taneczna „JUST DANCE” z naszego Domu Kultury. Cieszymy się, że mogliśmy wspomóc organizację tego pięknego wydarzenia przygotowując dekorację sali oraz techniczną część widowiska.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-6068" src="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210125.jpg" alt="" width="800" height="600" srcset="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210125.jpg 800w, /images/2018/wrzesien/P1210125-300x225.jpg 300w, /images/2018/wrzesien/P1210125-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-6062" src="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210097.jpg" alt="" width="800" height="1067" srcset="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210097.jpg 800w, /images/2018/wrzesien/P1210097-225x300.jpg 225w, /images/2018/wrzesien/P1210097-768x1024.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>&nbsp;</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-6063" src="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_IMG_2383.jpg" alt="" width="800" height="450" srcset="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_IMG_2383.jpg 800w, /images/2018/wrzesien/IMG_2383-300x169.jpg 300w, /images/2018/wrzesien/IMG_2383-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-6064" src="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210120.jpg" alt="" width="800" height="600" srcset="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210120.jpg 800w, /images/2018/wrzesien/P1210120-300x225.jpg 300w, /images/2018/wrzesien/P1210120-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-6065" src="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210275.jpg" alt="" width="800" height="600" srcset="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210275.jpg 800w, /images/2018/wrzesien/P1210275-300x225.jpg 300w, /images/2018/wrzesien/P1210275-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-6066" src="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210238.jpg" alt="" width="800" height="600" srcset="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210238.jpg 800w, /images/2018/wrzesien/P1210238-300x225.jpg 300w, /images/2018/wrzesien/P1210238-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-6067" src="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210264.jpg" alt="" width="800" height="600" srcset="/images/2018/wrzesien/2018_wrzesien_ma_e_stwa_na_medal_2018_09_ma_e_stwa_na_medal_P1210264.jpg 800w, /images/2018/wrzesien/P1210264-300x225.jpg 300w, /images/2018/wrzesien/P1210264-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: right;">&nbsp; Tekst: K. Tomaszewska</p>
+<p style="text-align: right;">Foto: P. Sus-Lutyńska, M. Rosiński</p>
+<p>&nbsp;Więcej informacji w artykule: <a href="https://echodnia.eu/swietokrzyskie/zlote-gody-obchodzili-malzonkowie-z-miasta-i-gminy-w-zawichoscie/ar/13499597">https://echodnia.eu/swietokrzyskie/zlote-gody-obchodzili-malzonkowie-z-miasta-i-gminy-w-zawichoscie/ar/13499597</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

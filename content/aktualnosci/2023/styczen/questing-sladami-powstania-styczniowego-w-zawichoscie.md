@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2023/styczen/2023_styczen_questing_ladami_powstania_styczniowego_w_zawicho_cie_2023_01_questing_ladami_powstania_styczniowego_w_zawicho_cie_PL-NA-STR-724x1024.jpg"
+title: "QUESTING- ŚLADAMI POWSTANIA STYCZNIOWEGO W ZAWICHOŚCIE"
+publishDate: "2023-01-01T00:00:00.000Z"
+eventDate: "2023-01-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Patriotyczna propozycja dla młodzieży. Poczytajcie, szczegółowych informacji o turnieju szukajcie od jutra w placówkach szkolnych oraz biurze MGOK. Zapraszamy, wiedza lokalna to zawsze podstawa naszej edukacji.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/01/PL-NA-STR.jpg"><img fetchpriority="high" decoding="async" width="724" height="1024" src="/images/2023/styczen/2023_styczen_questing_ladami_powstania_styczniowego_w_zawicho_cie_2023_01_questing_ladami_powstania_styczniowego_w_zawicho_cie_PL-NA-STR-724x1024.jpg" alt="" class="wp-image-9157" srcset="/images/2023/styczen/2023_styczen_questing_ladami_powstania_styczniowego_w_zawicho_cie_2023_01_questing_ladami_powstania_styczniowego_w_zawicho_cie_PL-NA-STR-724x1024.jpg 724w, /images/2023/styczen/PL-NA-STR-212x300.jpg 212w, /images/2023/styczen/PL-NA-STR-768x1086.jpg 768w, /images/2023/styczen/PL-NA-STR.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

@@ -1,0 +1,33 @@
+---
+thumbnail: "/images/2023/listopad/2023_listopad_cz_owiek_z_pasj_makrama_noc_2023_11_cz_owiek_z_pasj_makrama_noc_makramy-888x1024.jpg"
+title: "Człowiek z pasją – makrama nocą"
+publishDate: "2023-11-01T00:00:00.000Z"
+eventDate: "2023-11-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Paulina Trojanowska i Danuta Mizera – kobiety spełniające się w wielu dziedzinach życiowych. To żony, matki, rolniczki i aktywne działaczki społeczne. Wymieniać można bez końca. Są mieszkankami Czyżowa Plebańskiego i wspólnie działają w Kole Gospodyń i Gospodarzy Wiejskich, które założyły w tej właśnie miejscowości.</p>
+
+
+
+<p>W szary jesienni wieczór, siedząc przy kawie, stwierdziły że trzeba działać…. Po kilku minutach narodził się pomysł, by spróbować rękodzieła. Zaczęło się od aniołów wykonanych metodą makramy, później były sowy, łapacze snów itd. Im bliżej Bożego Narodzenia, tym więcej pomysłów i duże – cieszące autorki zainteresowanie odbiorców, przede wszystkim podczas świątecznych kiermaszy.</p>
+
+
+
+<p>Dlaczego „Makrama nocą”?</p>
+
+
+
+<p>Dzieła w większości powstają o tej właśnie porze, gdy już reszta zajęć życia codziennego zostaje przez Panie wykonana, a w ich domach panuje cisza.</p>
+
+
+
+<p>Serdecznie Państwa zapraszamy na kolejny kulturalny piątek i spotkanie pod hasłem „Człowiek z pasją”. Będzie można posłuchać, popytać, zobaczyć i podobnie jak nasze twórczynie, oderwać się od życia codziennego.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/11/makramy-scaled.jpg"><img fetchpriority="high" decoding="async" width="888" height="1024" src="/images/2023/listopad/2023_listopad_cz_owiek_z_pasj_makrama_noc_2023_11_cz_owiek_z_pasj_makrama_noc_makramy-888x1024.jpg" alt="" class="wp-image-10089" srcset="/images/2023/listopad/2023_listopad_cz_owiek_z_pasj_makrama_noc_2023_11_cz_owiek_z_pasj_makrama_noc_makramy-888x1024.jpg 888w, /images/2023/listopad/makramy-260x300.jpg 260w, /images/2023/listopad/makramy-768x885.jpg 768w, /images/2023/listopad/makramy-1332x1536.jpg 1332w, /images/2023/listopad/makramy-1777x2048.jpg 1777w" sizes="(max-width: 888px) 100vw, 888px"></a></figure>
+						
+						</div>

@@ -1,0 +1,57 @@
+---
+thumbnail: "/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8789-1024x684.jpg"
+title: "Wernisaż wystawy „Fabryka wyobraźni”"
+publishDate: "2023-06-01T00:00:00.000Z"
+eventDate: "2023-06-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Rok kulturalny 2022/2023 za nami.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/06/URA_8789.jpg"><img fetchpriority="high" decoding="async" width="1024" height="684" src="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8789-1024x684.jpg" alt="" class="wp-image-9744" srcset="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8789-1024x684.jpg 1024w, /images/2023/czerwiec/URA_8789-300x200.jpg 300w, /images/2023/czerwiec/URA_8789-768x513.jpg 768w, /images/2023/czerwiec/URA_8789-1536x1025.jpg 1536w, /images/2023/czerwiec/URA_8789.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<p><br>Tradycyjnie wieńczy go wystawa „Fabryka wyobraźni” – VI edycja, podsumowująca zajęcia dziecięcej sekcji plastycznej Miejsko-Gminnego Ośrodka Kultury w Zawichoście.<br>Autorzy prezentowanych na wystawie prac, której wernisaż odbył się 22 czerwca 2023 r., zapoznawali się z różnymi technikami stosowanymi w plastyce, a następnie realizowali swoje dzieła, wykazując się dużą fantazją i polotem twórczym, bez względu na wiek. Nowością były wyjazdowe warsztaty ceramiczne, które mamy nadzieję będą kontynuowane w przyszłości.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/06/URA_8717.jpg"><img decoding="async" width="1024" height="684" src="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8717-1024x684.jpg" alt="" class="wp-image-9745" srcset="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8717-1024x684.jpg 1024w, /images/2023/czerwiec/URA_8717-300x200.jpg 300w, /images/2023/czerwiec/URA_8717-768x513.jpg 768w, /images/2023/czerwiec/URA_8717-1536x1025.jpg 1536w, /images/2023/czerwiec/URA_8717.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<p><br>Osiągnięcia młodych twórców możemy podziwiać na wystawie, na której zaprezentowane są prawie wszystkie prace wykonane od października 2022 do czerwca 2023. Są dowodem na to, że wrażliwość dziecięca nie ma granic oraz jest wskazówką dla dorosłych, że trzeba pomagać w rozwoju tej wrażliwości, bo tego wymaga otaczający nas świat.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/06/URA_8715.jpg"><img decoding="async" width="1024" height="684" src="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8715-1024x684.jpg" alt="" class="wp-image-9746" srcset="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8715-1024x684.jpg 1024w, /images/2023/czerwiec/URA_8715-300x200.jpg 300w, /images/2023/czerwiec/URA_8715-768x513.jpg 768w, /images/2023/czerwiec/URA_8715-1536x1025.jpg 1536w, /images/2023/czerwiec/URA_8715.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<p><br>Pragniemy podziękować rodzicom, którzy rozumiejąc jak ważnym elementem rozwoju jest kształtowanie wrażliwości twórczej dziecka w pozaszkolnych placówkach kultury, znajdowali czas na przyprowadzanie swoich pociech do MGOK w Zawichoście.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/06/URA_8785.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8785-1024x684.jpg" alt="" class="wp-image-9747" srcset="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8785-1024x684.jpg 1024w, /images/2023/czerwiec/URA_8785-300x200.jpg 300w, /images/2023/czerwiec/URA_8785-768x513.jpg 768w, /images/2023/czerwiec/URA_8785-1536x1025.jpg 1536w, /images/2023/czerwiec/URA_8785.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<p><br>Dziękujemy również Katarzynie Kondziołce Burmistrz Zawichostu za ufundowanie słodyczy oraz Agacie Osice-Kucharskiej za przekazanie publikacji książkowych dla naszych podopiecznych.<br>Życząc pozytywnych wrażeń estetycznych i emocjonalnych, wynikających z oglądania wystawy, której autorami są Wasze dzieci, mamy nadzieję, że spotkamy się z nimi po wakacjach na zajęciach plastycznych.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/06/URA_8815.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8815-1024x684.jpg" alt="" class="wp-image-9748" srcset="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8815-1024x684.jpg 1024w, /images/2023/czerwiec/URA_8815-300x200.jpg 300w, /images/2023/czerwiec/URA_8815-768x513.jpg 768w, /images/2023/czerwiec/URA_8815-1536x1025.jpg 1536w, /images/2023/czerwiec/URA_8815.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/06/URA_8811.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8811-1024x684.jpg" alt="" class="wp-image-9749" srcset="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8811-1024x684.jpg 1024w, /images/2023/czerwiec/URA_8811-300x200.jpg 300w, /images/2023/czerwiec/URA_8811-768x513.jpg 768w, /images/2023/czerwiec/URA_8811-1536x1025.jpg 1536w, /images/2023/czerwiec/URA_8811.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/06/URA_8809.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8809-1024x684.jpg" alt="" class="wp-image-9750" srcset="/images/2023/czerwiec/2023_czerwiec_wernisa_wystawy_fabryka_wyobra_ni_2023_06_wernisa_wystawy_fabryka_wyobra_ni_URA_8809-1024x684.jpg 1024w, /images/2023/czerwiec/URA_8809-300x200.jpg 300w, /images/2023/czerwiec/URA_8809-768x513.jpg 768w, /images/2023/czerwiec/URA_8809-1536x1025.jpg 1536w, /images/2023/czerwiec/URA_8809.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+						
+						</div>

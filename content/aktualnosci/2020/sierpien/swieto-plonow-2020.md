@@ -1,0 +1,153 @@
+---
+thumbnail: "/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0001.jpg"
+title: "ŚWIĘTO PLONÓW 2020"
+publishDate: "2020-08-01T00:00:00.000Z"
+eventDate: "2020-08-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Święto plonów, zwane w różnych stronach Polski dożynkami, wieńcem, wieńcowem, wyżynkami lub okrężnem jest uroczystą kulminacją całego cyklu prac na roli i zakończeniem żniw. Jest podziękowaniem Bogu za plony z nadzieją, że powtórzą się w kolejnym roku. Tradycja ta sięga XVI w. Najważniejszym atrybutem tego święta od zawsze był wieniec dożynkowy nazywany również plonem, ponieważ uosabia wszystkie zebrane plony i urodzaj.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0001.jpg" alt="" class="wp-image-7591" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0001.jpg 800w, /images/2020/sierpien/DSC_0001-300x199.jpg 300w, /images/2020/sierpien/DSC_0001-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Tegoroczne Święto Plonów w naszej gminie odbyło się w niedzielę 16 sierpnia i miało symboliczny, dziękczynny charakter. Uroczystości rozpoczął korowód, poprowadzony przez druhów OSP z Gminy Zawichost z Małego Rynku do kościoła pw. Św Jana Chrzciciela w Zawichoście, przy akompaniamencie muzyki ludowej. Mszę Świętą&nbsp; odprawił ksiądz proboszcz parafii WNMP– Piotr Szpyt oraz proboszcz parafii pw. Świętej Trójcy – ks. Antoni Cząstka . Podczas nabożeństwa zostały poświęcone wieńce dożynkowe ustawione na placu przed kościołem. W tym roku tego trudnego zadania podjęło się dziewięć grup – przedstawiciele: Chrapanowa, Czyżowa Plebańskiego, Czyżowa Szlacheckiego, Dąbia, Dziurowa, Linowa, Wygody oraz Młodzieżowe Drużyny Pożarnicze OSP z Linowa i Zawichostu. Po zakończeniu modlitwy głos zabrała Katarzyna Kondziołka – Burmistrz Zawichostu oraz Edyta Rębiś – przewodnicząca Rady Miasta Zawichost. Panie dziękowały rolnikom za trud i pracę na roli, a także za pielęgnowanie staropolskiej tradycji i przygotowanie wieńców dożynkowych.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0271.jpg" alt="" class="wp-image-7592" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0271.jpg 800w, /images/2020/sierpien/DSC_0271-300x199.jpg 300w, /images/2020/sierpien/DSC_0271-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="500" height="753" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0316.jpg" alt="" class="wp-image-7593" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0316.jpg 500w, /images/2020/sierpien/DSC_0316-199x300.jpg 199w" sizes="(max-width: 500px) 100vw, 500px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0357.jpg" alt="" class="wp-image-7594" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0357.jpg 800w, /images/2020/sierpien/DSC_0357-300x199.jpg 300w, /images/2020/sierpien/DSC_0357-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0376.jpg" alt="" class="wp-image-7595" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0376.jpg 800w, /images/2020/sierpien/DSC_0376-300x199.jpg 300w, /images/2020/sierpien/DSC_0376-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0400.jpg" alt="" class="wp-image-7596" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0400.jpg 800w, /images/2020/sierpien/DSC_0400-300x199.jpg 300w, /images/2020/sierpien/DSC_0400-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Następnie wszyscy przybyli goście, samorządowcy, rolnicy, członkowie zespołów wieńcowych przeszli na plac przed kościołem, gdzie odbyła się dalsza część uroczystości.</p>
+
+
+
+<p>Starostowie dożynek: Paulina Borkowska i Marcin Kaca przekazali na ręce pani burmistrz Katarzyny Kondziołki bochen chleba, symbol ciężkiej pracy na roli.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0414.jpg" alt="" class="wp-image-7597" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0414.jpg 800w, /images/2020/sierpien/DSC_0414-300x199.jpg 300w, /images/2020/sierpien/DSC_0414-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0437-1.jpg" alt="" class="wp-image-7602" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0437-1.jpg 800w, /images/2020/sierpien/DSC_0437-1-300x199.jpg 300w, /images/2020/sierpien/DSC_0437-1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0422.jpg" alt="" class="wp-image-7598" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0422.jpg 800w, /images/2020/sierpien/DSC_0422-300x199.jpg 300w, /images/2020/sierpien/DSC_0422-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Rolnikom za trudną, pełną poświęcenia pracę z życzeniami zdrowia podziękowali:</p>
+
+
+
+<p>– Marek Kwitek – poseł na Sejm RP</p>
+
+
+
+<p>– Marek Jońca – członek Zarządu Województwa Świętokrzyskiego</p>
+
+
+
+<p>– Marcin Piwnik – starosta Powiatu Sandomierskiego</p>
+
+
+
+<p>– Tomasz Huk – przewodniczący Rady Powiatu Sandomierskiego</p>
+
+
+
+<p>– Waldemar Maruszczak – radny Rady Powiatu Sandomierskiego</p>
+
+
+
+<p>– Anna Paluch – zastępca dyrektora Agencji Restrukturyzacji i Modernizacji Rolnictwa &nbsp;w Kielcach</p>
+
+
+
+<p>– Piotr Lipiński – dyrektor Ośrodka Doradztwa Rolniczego w Sandomierzu</p>
+
+
+
+<p>– Jacek Toś – dyrektor Krajowego Ośrodka Wsparcia&nbsp; Rolnictwa Oddział Terenowy w Kielcach.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0427.jpg" alt="" class="wp-image-7599" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0427.jpg 800w, /images/2020/sierpien/DSC_0427-300x199.jpg 300w, /images/2020/sierpien/DSC_0427-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Corocznym elementem zawichojskiego święta plonów jest konkurs na Najpiękniejszy Tradycyjny Wieniec Dożynkowy. Komisja konkursowa: dr Dominik Kacper Płaza – dyrektor Muzeum Okręgowego w Sandomierzu, Kinga Kędziora-Palińska – etnolog i antropolog kultury oraz Agata Osika Kucharska – instruktor plastyk MGOK, podjęli się trudnego zadania, wyboru najpiękniejszego wieńca. W swojej ocenie komisja zwracała szczególną uwagę na użyte materiały, zachowanie tradycyjnej formy oraz elementy plastyki ludowej.</p>
+
+
+
+<p>Zwycięzcą tegorocznego konkursu został wieniec wykonany przez sołectwo Czyżów Szlachecki.</p>
+
+
+
+<p>Wieniec ten będzie reprezentował naszą gminę na dożynkach powiatowych, które odbędą się 30 sierpnia w Sandomierzu.</p>
+
+
+
+<p>Wszystkie grupy wieńcowe otrzymały pamiątkowe&nbsp; dyplomy, nagrody pieniężne ufundowane przez Gminę Zawichost oraz okolicznościowe kosze.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0491-1.jpg" alt="" class="wp-image-7603" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0491-1.jpg 800w, /images/2020/sierpien/DSC_0491-1-300x199.jpg 300w, /images/2020/sierpien/DSC_0491-1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0500.jpg" alt="" class="wp-image-7604" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0500.jpg 800w, /images/2020/sierpien/DSC_0500-300x199.jpg 300w, /images/2020/sierpien/DSC_0500-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0509.jpg" alt="" class="wp-image-7605" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0509.jpg 800w, /images/2020/sierpien/DSC_0509-300x199.jpg 300w, /images/2020/sierpien/DSC_0509-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0520.jpg" alt="" class="wp-image-7606" srcset="/images/2020/sierpien/2020_sierpien__wi_to_plon_w_2020_2020_08__wi_to_plon_w_2020_DSC_0520.jpg 800w, /images/2020/sierpien/DSC_0520-300x199.jpg 300w, /images/2020/sierpien/DSC_0520-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Tekst: Edyta Kędziora</p>
+
+
+
+<p>Foto: Agata Osika-Kucharska, Bożena Nierubiec</p>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

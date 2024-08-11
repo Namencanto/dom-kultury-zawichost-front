@@ -1,0 +1,16 @@
+---
+thumbnail: "/images/2015/listopad/2015_listopad_wizyta_wi_tego_2015_11_wizyta_wi_tego_mikoĹ‚aj-1.jpg"
+title: "WIZYTA ŚWIĘTEGO"
+publishDate: "2015-11-01T00:00:00.000Z"
+eventDate: "2015-11-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>UWAGA! Mikołaj roznosi paczki tylko na terenie Zawichostu.</p>
+<p style="text-align: center;"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3289" title="mikoĹ‚aj (1)" src="/images/2015/listopad/2015_listopad_wizyta_wi_tego_2015_11_wizyta_wi_tego_mikoĹ‚aj-1.jpg" alt="" width="800" height="595" srcset="/images/2015/listopad/2015_listopad_wizyta_wi_tego_2015_11_wizyta_wi_tego_mikoĹ‚aj-1.jpg 800w, /images/2015/listopad/mikoĹ‚aj-1-300x223.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.</p>
+<p style="text-align: center;">o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,</p>
+<p style="text-align: center;">zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

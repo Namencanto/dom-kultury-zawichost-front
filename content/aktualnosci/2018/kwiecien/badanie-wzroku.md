@@ -1,0 +1,12 @@
+---
+thumbnail: "/images/2018/kwiecien/2018_kwiecien_badanie_wzroku_2018_04_badanie_wzroku_KOMPUTEROWE-BADANIE-WZROKU-1-1-1.jpg"
+title: "BADANIE WZROKU"
+publishDate: "2018-04-01T00:00:00.000Z"
+eventDate: "2018-04-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-5769" src="/images/2018/kwiecien/2018_kwiecien_badanie_wzroku_2018_04_badanie_wzroku_KOMPUTEROWE-BADANIE-WZROKU-1-1-1.jpg" alt="" width="800" height="565" srcset="/images/2018/kwiecien/2018_kwiecien_badanie_wzroku_2018_04_badanie_wzroku_KOMPUTEROWE-BADANIE-WZROKU-1-1-1.jpg 800w, /images/2018/kwiecien/KOMPUTEROWE-BADANIE-WZROKU-1-1-1-300x212.jpg 300w, /images/2018/kwiecien/KOMPUTEROWE-BADANIE-WZROKU-1-1-1-768x542.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+						
+						</div>

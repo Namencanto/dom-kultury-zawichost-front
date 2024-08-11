@@ -1,0 +1,84 @@
+---
+thumbnail: "/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi1.jpg"
+title: "SPOTKANIE WIGILIJNE-2019"
+publishDate: "2019-12-01T00:00:00.000Z"
+eventDate: "2019-12-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Okres Bożego Narodzenia to czas oczekiwania, nadziei, życzeń,
+a także podsumowań. </p>
+
+
+
+<p>17 grudnia 2019 roku w Miejsko-Gminnym Ośrodku Kultury
+odbyło się jedno z najważniejszych dla nas cyklicznie przygotowywanych wydarzeń
+– spotkanie wigilijne zespołów artystycznych oraz kół zainteresowań związanych
+z zawichojskim domem kultury, podczas którego mogliśmy się pochwalić tym, co
+udało nam się wypracować w ostatnim czasie.</p>
+
+
+
+<p>W uroczystości udział wzięli uczestnicy wszystkich zajęć, rodzice, instruktorzy, a także zaproszeni goście, a byli to: przewodniczący Rady Powiatu Sandomierskiego – Tomasz Huk, Burmistrz Zawichostu Katarzyna Kondziołka, przewodnicząca Rady Miejskiej Zawichost – Edyta Rębiś, radni: Małgorzata Mianowana, Robert Gradziński, Paweł Bednarski, Wit Błasiak, Dariusz Małecki, Marek Grzyb, kierownik OPS – Marta Komięga, dr Jolanta Figiel, była dyrektor MGOK Maria Sudół. Swoją obecnością zaszczycił nas również ksiądz&nbsp; proboszcz parafii WNMP – Piotr Szpyt.</p>
+
+
+
+<p>Część artystyczna obejmowała prezentację sekcji tanecznej grupy
+3-5 lat, „Super tancerzy”, „Dance, dance, dance”. Następnie dla wszystkich
+zaśpiewała Martyna Bartos z sekcji wokalnej oraz chór dziecięcy, który zachęcił
+wszystkich do wspólnego kolędowania i wprowadził w tą magiczną atmosferę Bożego
+Narodzenia. Część artystyczną zakończył występ zespołu wokalno-
+instrumentalnego „Krzyk ciszy”. Burmistrz Zawichostu Katarzyna Kondziołka
+złożyła wszystkim życzenia świąteczne, głos zabrał także przewodniczący RPS
+Tomasz Huk. Nim połamaliśmy się opłatkiem, ksiądz proboszcz odmówił modlitwę. Nie
+zabrakło wigilijnego poczęstunku, w przygotowaniu którego pomogli nam rodzice
+naszych podopiecznych, dziękujemy – sami nie dalibyśmy rady. </p>
+
+
+
+<p>Jeszcze raz życzymy wszystkim radosnych i ciepłych świąt
+Bożego Narodzenia.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="800" height="531" src="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi1.jpg" alt="" class="wp-image-7216" srcset="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi1.jpg 800w, /images/2019/grudzien/wi1-300x199.jpg 300w, /images/2019/grudzien/wi1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="531" src="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi2.jpg" alt="" class="wp-image-7217" srcset="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi2.jpg 800w, /images/2019/grudzien/wi2-300x199.jpg 300w, /images/2019/grudzien/wi2-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="531" src="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi3.jpg" alt="" class="wp-image-7218" srcset="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi3.jpg 800w, /images/2019/grudzien/wi3-300x199.jpg 300w, /images/2019/grudzien/wi3-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi4.jpg" alt="" class="wp-image-7219" srcset="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi4.jpg 800w, /images/2019/grudzien/wi4-300x199.jpg 300w, /images/2019/grudzien/wi4-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi5.jpg" alt="" class="wp-image-7220" srcset="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi5.jpg 800w, /images/2019/grudzien/wi5-300x199.jpg 300w, /images/2019/grudzien/wi5-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi7.jpg" alt="" class="wp-image-7221" srcset="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi7.jpg 800w, /images/2019/grudzien/wi7-300x199.jpg 300w, /images/2019/grudzien/wi7-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi8.jpg" alt="" class="wp-image-7222" srcset="/images/2019/grudzien/2019_grudzien_spotkanie_wigilijne_2019_2019_12_spotkanie_wigilijne_2019_wi8.jpg 800w, /images/2019/grudzien/wi8-300x199.jpg 300w, /images/2019/grudzien/wi8-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Tekst: Edyta Kędziora</p>
+
+
+
+<p>Foto: Agata Osika – Kucharska </p>
+
+
+
+<p> <em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>. </p>
+						
+						</div>

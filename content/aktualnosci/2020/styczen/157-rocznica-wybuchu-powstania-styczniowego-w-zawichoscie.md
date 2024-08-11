@@ -1,0 +1,62 @@
+---
+thumbnail: "/images/2020/styczen/2020_styczen_157_rocznica_wybuchu_powstania_styczniowego_w_zawicho_cie_2020_01_157_rocznica_wybuchu_powstania_styczniowego_w_zawicho_cie_pow.jpg"
+title: "157. Rocznica Wybuchu Powstania Styczniowego w Zawichoście"
+publishDate: "2020-01-01T00:00:00.000Z"
+eventDate: "2020-01-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Uroczystości patriotyczne upamiętniające to wydarzenie
+odbyły się 19 stycznia 2020r. Organizatorami byli Poseł na Sejm RP Marek
+Kwitek, Burmistrz Zawichostu Katarzyna Kondziołka, Przewodnicząca Rady
+Miejskiej Zawichost Edyta Rębiś. </p>
+
+
+
+<p>Na cmentarzu św. Leonarda w Zawichoście organizatorzy złożyli wieńce na grobie braci Ludwika i Kazimierza Nurowskich, a młodzieżowa drużyna pożarnicza OSP w Zawichoście zapaliła znicze. O godzinie 16:00 w kościele parafialnym pw. Najświętszej Marii Panny została odprawiona Msza Święta. Po nabożeństwie przybyli goście oraz mieszkańcy Zawichostu przeszli pod pamiątkowe tablice poświęcone 150. Rocznicy Wybuchu Powstania Styczniowego w Zawichoście oraz pamięci braci Ludwika i Kazimierza Nurowskich znajdujące się na placu kościoła parafialnego.</p>
+
+
+
+<p>Uroczystości rozpoczęły się&nbsp; odegraniem Hymnu Polski. Jako pierwsza głos zabrała Burmistrz Zawichostu Katarzyna Kondziołka. W swoim&nbsp; przemówieniu wspomniała 23 Zawichoszczan biorących czynny udział w powstaniu. Następnie przemawiali: Edyta Rębiś – Przewodnicząca Rady Miejskiej Zawichost, Marek Kwitek – Poseł na Sejm RP, Marek Jońca – Członek Zarządu Województwa Świętokrzyskiego oraz Waldemar Maruszczak –Radny Rady Powiatu Sandomierskiego, wiceprezes Zarządu Powiatowego Ochotniczych Straży Pożarnych. </p>
+
+
+
+<p>Ksiądz proboszcz Piotr Szpyt odmówił modlitwę za wszystkich
+poległych za Ojczyznę.</p>
+
+
+
+<p>Po odczytaniu Apelu Poległych i Salwie Honorowej delegacje
+złożyły wieńce pod pamiątkowymi tablicami.</p>
+
+
+
+<p>Honorową asystę wystawił 3. Sandomierski Batalion
+Radiotechniczny.</p>
+
+
+
+<p>W sali widowiskowej MGOK Poseł na Sejm RP Marek Kwitek
+wygłosił prelekcję „Zawichost w Powstaniu Styczniowym”. Na zakończenie
+uczestnicy sekcji wokalnej i tanecznej MGOK wykonali program artystyczny „W
+cieniu powstania…”</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="800" height="531" src="/images/2020/styczen/2020_styczen_157_rocznica_wybuchu_powstania_styczniowego_w_zawicho_cie_2020_01_157_rocznica_wybuchu_powstania_styczniowego_w_zawicho_cie_pow.jpg" alt="" class="wp-image-7266" srcset="/images/2020/styczen/2020_styczen_157_rocznica_wybuchu_powstania_styczniowego_w_zawicho_cie_2020_01_157_rocznica_wybuchu_powstania_styczniowego_w_zawicho_cie_pow.jpg 800w, /images/2020/styczen/pow-300x199.jpg 300w, /images/2020/styczen/pow-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Tekst: Edyta Kędziora</p>
+
+
+
+<p>Foto: Agata Osika-Kucharska</p>
+
+
+
+<p> <em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>. </p>
+						
+						</div>

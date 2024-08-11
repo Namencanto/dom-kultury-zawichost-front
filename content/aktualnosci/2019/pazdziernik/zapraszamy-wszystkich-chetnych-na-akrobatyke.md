@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2019/pazdziernik/2019_pazdziernik_zapraszamy_wszystkich_ch_tnych_na_akrobatyk_2019_10_zapraszamy_wszystkich_ch_tnych_na_akrobatyk_właściwy-plakat-724x1024.jpg"
+title: "ZAPRASZAMY WSZYSTKICH CHĘTNYCH NA AKROBATYKĘ"
+publishDate: "2019-10-01T00:00:00.000Z"
+eventDate: "2019-10-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p style="text-align:center">Udział w zajęciach pokazowych bezpłatny!!!</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img fetchpriority="high" decoding="async" width="724" height="1024" src="/images/2019/pazdziernik/2019_pazdziernik_zapraszamy_wszystkich_ch_tnych_na_akrobatyk_2019_10_zapraszamy_wszystkich_ch_tnych_na_akrobatyk_właściwy-plakat-724x1024.jpg" alt="" class="wp-image-7007" srcset="/images/2019/pazdziernik/2019_pazdziernik_zapraszamy_wszystkich_ch_tnych_na_akrobatyk_2019_10_zapraszamy_wszystkich_ch_tnych_na_akrobatyk_właściwy-plakat-724x1024.jpg 724w, /images/2019/pazdziernik/właściwy-plakat-212x300.jpg 212w, /images/2019/pazdziernik/właściwy-plakat-768x1086.jpg 768w, /images/2019/pazdziernik/właściwy-plakat.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></figure></div>
+
+
+
+<p style="text-align:center"><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA </em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

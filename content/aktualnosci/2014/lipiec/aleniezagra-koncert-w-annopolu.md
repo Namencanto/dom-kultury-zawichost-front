@@ -1,0 +1,24 @@
+---
+thumbnail: "/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0225.jpg"
+title: "ALENIEZAGRA – koncert w Annopolu"
+publishDate: "2014-07-01T00:00:00.000Z"
+eventDate: "2014-07-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p style="text-align: center;"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-2000" title="DSC_0225" src="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0225.jpg" alt="" width="800" height="531" srcset="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0225.jpg 800w, /images/2014/lipiec/DSC_0225-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;">Zespół ALENIEZAGRA z naszego ośrodka kultury wystąpił podczas Pikniku Rodzinnego w Żłobku „Kubusiolandia”, który odbył się 17 czerwca w Annopolu. Młodzi muzycy w składzie: Alicja Śmielak, Anna Śmielak, Katarzyna Stępień, Aleksandra Libor, Igor Kwieciński oraz Jakub Nowak po raz kolejny zaprezentowali znane wszystkim utwory rockowe. Gratulujemy udanego występu i czekamy na następny koncert.</p>
+<p style="text-align: center;"><img decoding="async" class="aligncenter size-full wp-image-2002" title="DSC_0269" src="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0269.jpg" alt="" width="500" height="753" srcset="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0269.jpg 500w, /images/2014/lipiec/DSC_0269-199x300.jpg 199w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p style="text-align: center;"><img decoding="async" class="aligncenter size-full wp-image-2005" title="DSC_0356" src="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0356.jpg" alt="" width="500" height="753" srcset="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0356.jpg 500w, /images/2014/lipiec/DSC_0356-199x300.jpg 199w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2004" title="DSC_0353" src="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0353.jpg" alt="" width="500" height="753" srcset="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0353.jpg 500w, /images/2014/lipiec/DSC_0353-199x300.jpg 199w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2003" title="DSC_0310" src="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0310.jpg" alt="" width="800" height="531" srcset="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0310.jpg 800w, /images/2014/lipiec/DSC_0310-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2001" title="DSC_0247" src="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0247.jpg" alt="" width="500" height="753" srcset="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0247.jpg 500w, /images/2014/lipiec/DSC_0247-199x300.jpg 199w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2006" title="DSC_0369" src="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0369.jpg" alt="" width="500" height="753" srcset="/images/2014/lipiec/2014_lipiec_aleniezagra_koncert_w_annopolu_2014_07_aleniezagra_koncert_w_annopolu_DSC_0369.jpg 500w, /images/2014/lipiec/DSC_0369-199x300.jpg 199w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p style="text-align: right;"><em>tekst &nbsp;– </em>Tomasz Figiel</p>
+<p style="text-align: right;"><em>foto:</em> Marcel Rosiński</p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

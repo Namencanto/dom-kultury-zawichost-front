@@ -1,0 +1,19 @@
+---
+thumbnail: "/images/2017/styczen/2017_styczen_rekord_rekord_w_12_634_65_z_2017_01_rekord_rekord_w_12_634_65_z_DSC_0457.jpg"
+title: "REKORD REKORDÓW – 12 634,65 zł !!!!"
+publishDate: "2017-01-01T00:00:00.000Z"
+eventDate: "2017-01-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p style="background: white; margin: 0cm 0cm 4.5pt; text-align: center;"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-4252" src="/images/2017/styczen/2017_styczen_rekord_rekord_w_12_634_65_z_2017_01_rekord_rekord_w_12_634_65_z_DSC_0457.jpg" alt="" width="800" height="531" srcset="/images/2017/styczen/2017_styczen_rekord_rekord_w_12_634_65_z_2017_01_rekord_rekord_w_12_634_65_z_DSC_0457.jpg 800w, /images/2017/styczen/DSC_0457-300x199.jpg 300w, /images/2017/styczen/DSC_0457-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="background: white; margin: 0cm 0cm 4.5pt; text-align: center;">Kochani! Krótko i konkretnie bo padamy już……….. naprawdę. Zawichost jest wspaniały! Mamy REKORD REKORDÓW. Udało nam się przebić zeszłoroczną – rekordową kwotę o 1&nbsp;535,84 złote. Uwaga ….. PRZYGOTUJCIE SIĘ …………… <strong>komisja licząca zarejestrowała w tym roku 12 634,65 zł</strong> (i co ciekawe podliczyła to jeszcze sprawniej niż do tej pory – to znaczy, że idzie nam coraz lepie<span class="textexposedshow">j) .</span></p>
+<p style="background: white; margin: 0cm 0cm 4.5pt; text-align: center;"><span style="font-size: 10.5pt; font-family: 'Helvetica',sans-serif; color: #1d2129;">Na podaną sumę złożyła się <strong>zbiórka wolontariuszy (a było ich w tym roku 60) – 5&nbsp;932,55 zł</strong>, <strong>aukcja dała nam – 6&nbsp;702,10 zł.</strong><br>
+(w tym kawiarenka OWSIANKA – 684,10 zł.).<span class="apple-converted-space">&nbsp;</span><br>
+Warto wspomnieć o rekordach licytacji. Podajemy przedmioty, które osiągnęły wylicytowaną wartość powyżej 150 zł. <strong>Katarzyna i Jerzy Sobieszkodowie – sadownicy z Zawichostu – wylicytowali obraz – akwarelę autorstwa Leszka Kwiatkowskiego&nbsp;„Widok Zawichostu z drugiego brzegu Wisły” za 1 010zł.</strong> Hitem aukcji były gadżety WOŚP 2017. <strong>Joanna i Grzegorz Szeligowie – właściciele Firmy ZAW-TRANS z Zawichostu, którzy corocznie wspierają akcję wylicytowali koszulkę WOŚP 2017 za 410 złotych, Radosław Krakowiak – Przewodniczący Rady Miejskiej Zawichost za 150 zł. wylicytował kalendarz ścienny WOŚP 2017.</strong></span></p>
+<p style="background: white; margin: 4.5pt 0cm; text-align: center;"><span style="font-size: 10.5pt; font-family: 'Helvetica',sans-serif; color: #1d2129;">Najwięcej zebrali wolontariusze: <strong>Marcel Rosiński – 679,07 zł.</strong> (reprezentant MGOK Zawichost), <strong>Magdalena Góras – 500,20</strong> (reprezentantka ZSO Zawichost), <strong>Julia Mizera – 427,39 zł.</strong> (reprezentantka ZSiP Czyżów Szlachecki). Dziękujemy Wszystkim, którzy byli dzisiaj z nami. Więcej info już wkrótce.</span></p>
+<p style="background: white; margin: 4.5pt 0cm; text-align: center;"><span style="font-size: 10.5pt; font-family: 'Helvetica',sans-serif; color: #1d2129;">Jesteśmy z Was dumni. Dziękujemy.</span></p>
+<p style="background: white; margin: 4.5pt 0cm; text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

@@ -1,0 +1,16 @@
+---
+thumbnail: "/images/2017/styczen/2017_styczen_spotkania_z_policjantem_wo_p_zawichost_2017_2017_01_spotkania_z_policjantem_wo_p_zawichost_2017_DSC_0103.jpg"
+title: "Spotkania z policjantem – WOŚP Zawichost 2017"
+publishDate: "2017-01-01T00:00:00.000Z"
+eventDate: "2017-01-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-4236" src="/images/2017/styczen/2017_styczen_spotkania_z_policjantem_wo_p_zawichost_2017_2017_01_spotkania_z_policjantem_wo_p_zawichost_2017_DSC_0103.jpg" alt="" width="496" height="543" srcset="/images/2017/styczen/2017_styczen_spotkania_z_policjantem_wo_p_zawichost_2017_2017_01_spotkania_z_policjantem_wo_p_zawichost_2017_DSC_0103.jpg 496w, /images/2017/styczen/DSC_0103-274x300.jpg 274w" sizes="(max-width: 496px) 100vw, 496px"><br>
+Wspiera nas również policja. Dziś dzielnicowy – Grzegorz Furman spotkał się z wolontariuszami w Zawichoście i Czyżowie. Powiedział o bezpieczeństwie w dniu Finału, o tym gdzie mogą przebywać wolontariusze i z kim się kontaktować w razie niebezpiecznych sytuacji i o elementarnych zasadach zbiórki. Mamy jednak nadzieję, że to jak dotąd „dmuchanie na zimne” . Pan Grzegorz podał również ogólnodostępny nr telefonu, pod który wolontariusze mogą dzwonić w razie zaistniałej potrzeby. <strong>Pamiętajcie 734 476 968 – dzielnicowy Grzegorz Furman.</strong> <em>Panu Piotrowi Gniaziowi – szefowi Komisariatu Policji w Dwikozach oraz panu Grzegorzowi Furmanowi – naszemu dzielnicowemu serdecznie dziękujemy za pomoc.</em></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-4237" src="/images/2017/styczen/2017_styczen_spotkania_z_policjantem_wo_p_zawichost_2017_2017_01_spotkania_z_policjantem_wo_p_zawichost_2017_DSC_0115.jpg" alt="" width="800" height="531" srcset="/images/2017/styczen/2017_styczen_spotkania_z_policjantem_wo_p_zawichost_2017_2017_01_spotkania_z_policjantem_wo_p_zawichost_2017_DSC_0115.jpg 800w, /images/2017/styczen/DSC_0115-300x199.jpg 300w, /images/2017/styczen/DSC_0115-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-4238" src="/images/2017/styczen/2017_styczen_spotkania_z_policjantem_wo_p_zawichost_2017_2017_01_spotkania_z_policjantem_wo_p_zawichost_2017_DSC_0131.jpg" alt="" width="800" height="531" srcset="/images/2017/styczen/2017_styczen_spotkania_z_policjantem_wo_p_zawichost_2017_2017_01_spotkania_z_policjantem_wo_p_zawichost_2017_DSC_0131.jpg 800w, /images/2017/styczen/DSC_0131-300x199.jpg 300w, /images/2017/styczen/DSC_0131-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

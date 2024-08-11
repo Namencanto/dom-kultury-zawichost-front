@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_baner-wianki.jpg"
+title: "zapraszamy"
+publishDate: "2014-06-01T00:00:00.000Z"
+eventDate: "2014-06-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p style="text-align: center;"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-1980" title="baner wianki" src="/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_baner-wianki.jpg" alt="" width="800" height="200" srcset="/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_baner-wianki.jpg 800w, /images/2014/czerwiec/baner-wianki-300x75.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;"><img decoding="async" class="aligncenter size-full wp-image-1983" title="wianki zawichost 2014" src="/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_wianki-zawichost-2014.jpg" alt="" width="800" height="1209" srcset="/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_wianki-zawichost-2014.jpg 800w, /images/2014/czerwiec/wianki-zawichost-2014-198x300.jpg 198w, /images/2014/czerwiec/wianki-zawichost-2014-677x1024.jpg 677w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;"><img decoding="async" class="aligncenter size-full wp-image-1981" title="ulotka 1" src="/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_ulotka-1.jpg" alt="" width="800" height="800" srcset="/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_ulotka-1.jpg 800w, /images/2014/czerwiec/ulotka-1-150x150.jpg 150w, /images/2014/czerwiec/ulotka-1-300x300.jpg 300w, /images/2014/czerwiec/ulotka-1-50x50.jpg 50w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-1982" title="ulotka 2" src="/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_ulotka-2.jpg" alt="" width="800" height="800" srcset="/images/2014/czerwiec/2014_czerwiec_zapraszamy_2014_06_zapraszamy_ulotka-2.jpg 800w, /images/2014/czerwiec/ulotka-2-150x150.jpg 150w, /images/2014/czerwiec/ulotka-2-300x300.jpg 300w, /images/2014/czerwiec/ulotka-2-50x50.jpg 50w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: center;">
+</p><p style="text-align: right;">
+</p><p style="text-align: right;">ORGANIZATORZY</p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

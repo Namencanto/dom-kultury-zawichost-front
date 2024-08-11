@@ -1,0 +1,25 @@
+---
+thumbnail: "/images/2021/czerwiec/2021_czerwiec_zapraszamy_na_zawichojski_wiecz_r_tradycji_2021_06_zapraszamy_na_zawichojski_wiecz_r_tradycji_pl1-2-730x1024.jpg"
+title: "ZAPRASZAMY NA „ZAWICHOJSKI WIECZÓR TRADYCJI”"
+publishDate: "2021-06-01T00:00:00.000Z"
+eventDate: "2021-06-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/06/pl1-2.jpg"><img fetchpriority="high" decoding="async" width="730" height="1024" src="/images/2021/czerwiec/2021_czerwiec_zapraszamy_na_zawichojski_wiecz_r_tradycji_2021_06_zapraszamy_na_zawichojski_wiecz_r_tradycji_pl1-2-730x1024.jpg" alt="" class="wp-image-8044" srcset="/images/2021/czerwiec/2021_czerwiec_zapraszamy_na_zawichojski_wiecz_r_tradycji_2021_06_zapraszamy_na_zawichojski_wiecz_r_tradycji_pl1-2-730x1024.jpg 730w, /images/2021/czerwiec/pl1-2-214x300.jpg 214w, /images/2021/czerwiec/pl1-2-768x1077.jpg 768w, /images/2021/czerwiec/pl1-2.jpg 800w" sizes="(max-width: 730px) 100vw, 730px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/06/PL2.jpg"><img decoding="async" width="724" height="1024" src="/images/2021/czerwiec/2021_czerwiec_zapraszamy_na_zawichojski_wiecz_r_tradycji_2021_06_zapraszamy_na_zawichojski_wiecz_r_tradycji_PL2-724x1024.jpg" alt="" class="wp-image-8045" srcset="/images/2021/czerwiec/2021_czerwiec_zapraszamy_na_zawichojski_wiecz_r_tradycji_2021_06_zapraszamy_na_zawichojski_wiecz_r_tradycji_PL2-724x1024.jpg 724w, /images/2021/czerwiec/PL2-212x300.jpg 212w, /images/2021/czerwiec/PL2-768x1086.jpg 768w, /images/2021/czerwiec/PL2.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/06/PL3.jpg"><img decoding="async" width="724" height="1024" src="/images/2021/czerwiec/2021_czerwiec_zapraszamy_na_zawichojski_wiecz_r_tradycji_2021_06_zapraszamy_na_zawichojski_wiecz_r_tradycji_PL3-724x1024.jpg" alt="" class="wp-image-8046" srcset="/images/2021/czerwiec/2021_czerwiec_zapraszamy_na_zawichojski_wiecz_r_tradycji_2021_06_zapraszamy_na_zawichojski_wiecz_r_tradycji_PL3-724x1024.jpg 724w, /images/2021/czerwiec/PL3-212x300.jpg 212w, /images/2021/czerwiec/PL3-768x1086.jpg 768w, /images/2021/czerwiec/PL3.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<p></p>
+						
+						</div>

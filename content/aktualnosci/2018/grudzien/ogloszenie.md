@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2018/grudzien/2018_grudzien_og_oszenie_2018_12_og_oszenie_odowłane-zajęcia-przerwa-świateczna-1-1024x724.jpg"
+title: "OGŁOSZENIE"
+publishDate: "2018-12-01T00:00:00.000Z"
+eventDate: "2018-12-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image is-resized"><img fetchpriority="high" decoding="async" src="/images/2018/grudzien/2018_grudzien_og_oszenie_2018_12_og_oszenie_odowłane-zajęcia-przerwa-świateczna-1-1024x724.jpg" alt="" class="wp-image-6300" width="580" height="410" srcset="/images/2018/grudzien/2018_grudzien_og_oszenie_2018_12_og_oszenie_odowłane-zajęcia-przerwa-świateczna-1-1024x724.jpg 1024w, /images/2018/grudzien/odowłane-zajęcia-przerwa-świateczna-1-300x212.jpg 300w, /images/2018/grudzien/odowłane-zajęcia-przerwa-świateczna-1-768x543.jpg 768w" sizes="(max-width: 580px) 100vw, 580px"></figure>
+
+
+
+<h6 class="wp-block-heading" style="text-align:center"> <br><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w  Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o  prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i  materiałów na stronie są własnością autora. Kopiowanie, powielanie i  rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na  piśmie.</em> </h6>
+						
+						</div>

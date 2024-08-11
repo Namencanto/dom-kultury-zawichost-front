@@ -1,0 +1,37 @@
+---
+thumbnail: "/images/2020/grudzien/2020_grudzien_r_wna_szanse_2020_dobra_wiadomo_dla_m_odzie_y_2020_12_r_wna_szanse_2020_dobra_wiadomo_dla_m_odzie_y_PLAKAT_PCYF_KOSMOS_DRUK_1.jpg"
+title: "RÓWNAĆ SZANSE 2020 – DOBRA WIADOMOŚĆ DLA MŁODZIEŻY"
+publishDate: "2020-12-01T00:00:00.000Z"
+eventDate: "2020-12-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>15. grudnia 2020 roku opublikowane zostały wyniki Regionalnego Konkursu Grantowego RÓWNAĆ SZANSE 2020. Konsultacje z przedstawicielami młodzieży zmobilizowały nas do napisania projektu związanego ze stworzeniem w przestrzeni miasta Zawichost przyjaznego estetycznie zakątka, służącego w codzienności</p>
+
+
+
+<p>luźnym spotkaniom lokalnych grup rówieśniczych. Miejsce to nazwane o(GRODEM) zaaranżowane w</p>
+
+
+
+<p>przestrzeni przed budynkiem MGOK przyjmie formę ogródka kawiarnianego z pomysłowo i estetycznie</p>
+
+
+
+<p>wkomponowaną formą kwiatowo-roślinnego ogrodu. Polska Fundacja Dzieci i Młodzieży przyznała MGOK w Zawichoście dotację w wysokości 8&nbsp;500 zł. Pomysł zyskał również aprobatę Burmistrz Zawichostu – Katarzyny Kondziołki, która przeznaczy ze środków gminy 2100 zł. na „wkład własny” – &nbsp;jest ON warunkiem podpisania umowy o dofinansowanie. Pięknie dziękujemy. Młodych ludzi&nbsp; w wieku 13-19 lat zainteresowanych opisanym działaniem zapraszamy do kontaktu z MGOK. Ruszamy już od lutego 2021. Przypominamy, że na przestrzeni sześciu lat będzie to trzecie działanie finansowane ze środków programu P-AFW, które koordynuje załoga MGOK. Dziękujemy za zaufanie.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2020/12/PLAKAT_PCYF_KOSMOS_DRUK_1.jpg"><img fetchpriority="high" decoding="async" width="500" height="714" src="/images/2020/grudzien/2020_grudzien_r_wna_szanse_2020_dobra_wiadomo_dla_m_odzie_y_2020_12_r_wna_szanse_2020_dobra_wiadomo_dla_m_odzie_y_PLAKAT_PCYF_KOSMOS_DRUK_1.jpg" alt="" class="wp-image-7748" srcset="/images/2020/grudzien/2020_grudzien_r_wna_szanse_2020_dobra_wiadomo_dla_m_odzie_y_2020_12_r_wna_szanse_2020_dobra_wiadomo_dla_m_odzie_y_PLAKAT_PCYF_KOSMOS_DRUK_1.jpg 500w, /images/2020/grudzien/PLAKAT_PCYF_KOSMOS_DRUK_1-210x300.jpg 210w" sizes="(max-width: 500px) 100vw, 500px"></a></figure>
+
+
+
+<p>Tekst: Patrycja Sus-Lutyńska</p>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

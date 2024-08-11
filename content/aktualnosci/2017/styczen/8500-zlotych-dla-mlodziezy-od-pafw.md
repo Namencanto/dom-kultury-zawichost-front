@@ -1,0 +1,26 @@
+---
+thumbnail: "/images/2017/styczen/2017_styczen_8_500_z_dla_m_odzie_y_od_pafw_2017_01_8_500_z_dla_m_odzie_y_od_pafw_14695388_1256804897704849_3162697689859774319_n.jpg"
+title: "8 500 zł. DLA MŁODZIEŻY OD PAFW"
+publishDate: "2017-01-01T00:00:00.000Z"
+eventDate: "2017-01-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>CICHA MIEJSCOWOŚĆ – GŁOŚNE GRANIE!<br>
+<img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-4281" src="/images/2017/styczen/2017_styczen_8_500_z_dla_m_odzie_y_od_pafw_2017_01_8_500_z_dla_m_odzie_y_od_pafw_14695388_1256804897704849_3162697689859774319_n.jpg" alt="" width="700" height="349" srcset="/images/2017/styczen/2017_styczen_8_500_z_dla_m_odzie_y_od_pafw_2017_01_8_500_z_dla_m_odzie_y_od_pafw_14695388_1256804897704849_3162697689859774319_n.jpg 700w, /images/2017/styczen/14695388_1256804897704849_3162697689859774319_n-300x150.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"><br>
+W listopadzie 2016 zakończył się nabór wniosków w Programie „Równać Szanse 2016 – Regionalny Konkurs Grantowy”. Złożono 642 wnioski od organizacji pozarządowych, bibliotek, domów kultury<br>
+i nieformalnych grup dorosłych. Dofinansowano tylko 111 projektów w tym projekt naszej młodzieży (jako jeden z 3 wybranych z województwa świętokrzyskiego).<br>
+W dniach 20-22 stycznia 2017 w Warszawie odbyło się szkolenie koordynatorów projektów w ramach Programu „Równać Szanse”, które było warunkiem otrzymania dotacji. W trakcie szkolenia zostały omówione metody zarządzania i realizacji projektu, zgodnie z celami Programu „Równać Szanse”, zasady współpracy formalnej i finansowej z Polską Fundacją Dzieci i Młodzieży oraz zostały przekazane umowy dotacyjne. Z ramienia naszej placówki w szkoleniu wziął udział instruktor sekcji muzycznej – koordynator – Paweł Lis.<br>
+W projekcie naszej młodzieży o nazwie „Cicha miejscowość – głośne granie” weźmie udział min. 12 osób z małych miejscowości powiatu sandomierskiego. Zalążek grupy to 3 młodych utalentowanych muzyków, którzy chcą zaistnieć jako zespół rockowy w oczach szerszej publiczności – to członkowie dobrze nam znanej grupy KONSYSTORZ, którą zobaczyć można podczas wielu organizowanych przez nas uroczystości. Ostatnio bawili nas podczas 25. Finału WOŚP.</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-4283" src="/images/2017/styczen/2017_styczen_8_500_z_dla_m_odzie_y_od_pafw_2017_01_8_500_z_dla_m_odzie_y_od_pafw_DSC_0705.jpg" alt="" width="700" height="465" srcset="/images/2017/styczen/2017_styczen_8_500_z_dla_m_odzie_y_od_pafw_2017_01_8_500_z_dla_m_odzie_y_od_pafw_DSC_0705.jpg 700w, /images/2017/styczen/DSC_0705-300x199.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"></p>
+<p>Uwarunkowania obszarów wiejskich nie dają im możliwości większego rozwoju. Zapaleni młodzi muzycy mają utrudniony dostęp do sprzętu nagraniowego, promotorów, wytwórni płytowych itp. Mimo niepewności postanowili połączyć siły, razem zrobić coś dla siebie i środowiska. Wśród całej grupy otaczających ich młodych talentów znajdują się muzycy, fotografowie, graficy, filmowcy, tekściarze, przyszli akustycy i osoby o skłonnościach liderów. Do współpracy zaproszą rówieśników z Młodzieżowego Ośrodka Wychowawczego w Zawichoście.<br>
+Celem projektu jest wzmocnienie poczucia własnej wartości wśród młodzieży poprzez podniesienie kompetencji artystycznych i społecznych oraz pokazanie jej, że realizacja marzeń jest możliwa.<br>
+Młodzież otrzymała 8.500zł z dotacji na realizację swoich marzeń.<br>
+Więc zaczynamy – czekajcie na kolejne informacje i efekty ich pracy!</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-4287" src="/images/2017/styczen/2017_styczen_8_500_z_dla_m_odzie_y_od_pafw_2017_01_8_500_z_dla_m_odzie_y_od_pafw_loga-równać-szanse-1100x603.jpg" alt="" width="700" height="384" srcset="/images/2017/styczen/2017_styczen_8_500_z_dla_m_odzie_y_od_pafw_2017_01_8_500_z_dla_m_odzie_y_od_pafw_loga-równać-szanse-1100x603.jpg 700w, /images/2017/styczen/loga-równać-szanse-1100x603-300x165.jpg 300w" sizes="(max-width: 700px) 100vw, 700px"></p>
+<p style="text-align: right;">tekst: P. Lis<br>
+foto: M. Czajkowska</p>
+<p style="text-align: center;"><em> Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

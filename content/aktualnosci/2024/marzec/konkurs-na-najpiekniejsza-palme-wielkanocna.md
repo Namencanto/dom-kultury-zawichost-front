@@ -1,0 +1,41 @@
+---
+thumbnail: "/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_2023-724x1024.jpg"
+title: "Konkurs na najpiękniejszą palmę wielkanocną"
+publishDate: "2024-03-01T00:00:00.000Z"
+eventDate: "2024-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/2023.jpg"><img fetchpriority="high" decoding="async" width="724" height="1024" src="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_2023-724x1024.jpg" alt="" class="wp-image-10328" srcset="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_2023-724x1024.jpg 724w, /images/2024/marzec/2023-212x300.jpg 212w, /images/2024/marzec/2023-768x1086.jpg 768w, /images/2024/marzec/2023-1086x1536.jpg 1086w, /images/2024/marzec/2023-1448x2048.jpg 1448w, /images/2024/marzec/2023.jpg 1587w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/Konkurs-Palma-Wielkanocna-2024-1-1.jpg"><img decoding="async" width="724" height="1024" src="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-1-724x1024.jpg" alt="" class="wp-image-10333" srcset="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-1-724x1024.jpg 724w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-1-212x300.jpg 212w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-1-768x1086.jpg 768w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-1-1086x1536.jpg 1086w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-1-1448x2048.jpg 1448w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-1.jpg 1654w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/Konkurs-Palma-Wielkanocna-2024-1-2.jpg"><img decoding="async" width="724" height="1024" src="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-2-724x1024.jpg" alt="" class="wp-image-10334" srcset="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-2-724x1024.jpg 724w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-2-212x300.jpg 212w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-2-768x1086.jpg 768w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-2-1086x1536.jpg 1086w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-2-1448x2048.jpg 1448w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-2.jpg 1654w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/Konkurs-Palma-Wielkanocna-2024-1-3.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-3-724x1024.jpg" alt="" class="wp-image-10335" srcset="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-3-724x1024.jpg 724w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-3-212x300.jpg 212w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-3-768x1086.jpg 768w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-3-1086x1536.jpg 1086w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-3-1448x2048.jpg 1448w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-3.jpg 1654w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/Konkurs-Palma-Wielkanocna-2024-1-4.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-4-724x1024.jpg" alt="" class="wp-image-10336" srcset="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-4-724x1024.jpg 724w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-4-212x300.jpg 212w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-4-768x1086.jpg 768w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-4-1086x1536.jpg 1086w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-4-1448x2048.jpg 1448w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-4.jpg 1654w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/Konkurs-Palma-Wielkanocna-2024-1-5.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-5-724x1024.jpg" alt="" class="wp-image-10337" srcset="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-5-724x1024.jpg 724w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-5-212x300.jpg 212w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-5-768x1086.jpg 768w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-5-1086x1536.jpg 1086w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-5-1448x2048.jpg 1448w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-5.jpg 1654w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/Konkurs-Palma-Wielkanocna-2024-1-6.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-6-724x1024.jpg" alt="" class="wp-image-10338" srcset="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-6-724x1024.jpg 724w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-6-212x300.jpg 212w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-6-768x1086.jpg 768w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-6-1086x1536.jpg 1086w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-6-1448x2048.jpg 1448w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-6.jpg 1654w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/Konkurs-Palma-Wielkanocna-2024-1-7.jpg"><img loading="lazy" decoding="async" width="724" height="1024" src="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-7-724x1024.jpg" alt="" class="wp-image-10339" srcset="/images/2024/marzec/2024_marzec_konkurs_na_najpi_kniejsz_palm_wielkanocn_2024_03_konkurs_na_najpi_kniejsz_palm_wielkanocn_Konkurs-Palma-Wielkanocna-2024-1-7-724x1024.jpg 724w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-7-212x300.jpg 212w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-7-768x1086.jpg 768w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-7-1086x1536.jpg 1086w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-7-1448x2048.jpg 1448w, /images/2024/marzec/Konkurs-Palma-Wielkanocna-2024-1-7.jpg 1654w" sizes="(max-width: 724px) 100vw, 724px"></a></figure>
+						
+						</div>

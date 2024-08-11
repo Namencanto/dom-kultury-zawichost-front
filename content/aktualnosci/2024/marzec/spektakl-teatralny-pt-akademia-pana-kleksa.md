@@ -1,0 +1,105 @@
+---
+thumbnail: "/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9708-1024x684.jpg"
+title: "Spektakl teatralny pt. „Akademia Pana Kleksa”"
+publishDate: "2024-03-01T00:00:00.000Z"
+eventDate: "2024-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>9 marca 2024 r., Zawichojski Teatr Miejski po raz kolejny zaprezentował sztukę „Akademia Pana Kleksa”. Tego dnia odwiedziła nas grupa z Ośrodka Pomocy Społecznej w Dwikozach. Wizyta gości z sąsiedniej gminy, związana była z obchodami Międzynarodowego Dnia Kobiet. Miło nam, że spektakl naszego teatru, stał się miłą okazjonalną niespodzianką, którą opiekunowie OPS-u zaplanowali dla swoich podopiecznych.</p>
+
+
+
+<p>Dziękujemy i zapraszamy częściej.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9708.jpg"><img fetchpriority="high" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9708-1024x684.jpg" alt="" class="wp-image-10343" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9708-1024x684.jpg 1024w, /images/2024/marzec/URA_9708-300x200.jpg 300w, /images/2024/marzec/URA_9708-768x513.jpg 768w, /images/2024/marzec/URA_9708-1536x1025.jpg 1536w, /images/2024/marzec/URA_9708.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9649.jpg"><img decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9649-1024x684.jpg" alt="" class="wp-image-10344" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9649-1024x684.jpg 1024w, /images/2024/marzec/URA_9649-300x200.jpg 300w, /images/2024/marzec/URA_9649-768x513.jpg 768w, /images/2024/marzec/URA_9649-1536x1025.jpg 1536w, /images/2024/marzec/URA_9649.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9652-scaled.jpg"><img decoding="async" width="683" height="1024" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9652-683x1024.jpg" alt="" class="wp-image-10345" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9652-683x1024.jpg 683w, /images/2024/marzec/URA_9652-200x300.jpg 200w, /images/2024/marzec/URA_9652-768x1151.jpg 768w, /images/2024/marzec/URA_9652-1025x1536.jpg 1025w, /images/2024/marzec/URA_9652-1367x2048.jpg 1367w, /images/2024/marzec/URA_9652-scaled.jpg 1708w" sizes="(max-width: 683px) 100vw, 683px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9658.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9658-1024x684.jpg" alt="" class="wp-image-10346" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9658-1024x684.jpg 1024w, /images/2024/marzec/URA_9658-300x200.jpg 300w, /images/2024/marzec/URA_9658-768x513.jpg 768w, /images/2024/marzec/URA_9658-1536x1025.jpg 1536w, /images/2024/marzec/URA_9658.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9659.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9659-1024x684.jpg" alt="" class="wp-image-10347" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9659-1024x684.jpg 1024w, /images/2024/marzec/URA_9659-300x200.jpg 300w, /images/2024/marzec/URA_9659-768x513.jpg 768w, /images/2024/marzec/URA_9659-1536x1025.jpg 1536w, /images/2024/marzec/URA_9659.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9676.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9676-1024x684.jpg" alt="" class="wp-image-10348" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9676-1024x684.jpg 1024w, /images/2024/marzec/URA_9676-300x200.jpg 300w, /images/2024/marzec/URA_9676-768x513.jpg 768w, /images/2024/marzec/URA_9676-1536x1025.jpg 1536w, /images/2024/marzec/URA_9676.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9683-scaled.jpg"><img loading="lazy" decoding="async" width="683" height="1024" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9683-683x1024.jpg" alt="" class="wp-image-10349" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9683-683x1024.jpg 683w, /images/2024/marzec/URA_9683-200x300.jpg 200w, /images/2024/marzec/URA_9683-768x1151.jpg 768w, /images/2024/marzec/URA_9683-1025x1536.jpg 1025w, /images/2024/marzec/URA_9683-1367x2048.jpg 1367w, /images/2024/marzec/URA_9683-scaled.jpg 1708w" sizes="(max-width: 683px) 100vw, 683px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9686.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9686-1024x684.jpg" alt="" class="wp-image-10350" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9686-1024x684.jpg 1024w, /images/2024/marzec/URA_9686-300x200.jpg 300w, /images/2024/marzec/URA_9686-768x513.jpg 768w, /images/2024/marzec/URA_9686-1536x1025.jpg 1536w, /images/2024/marzec/URA_9686.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9689.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9689-1024x684.jpg" alt="" class="wp-image-10351" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9689-1024x684.jpg 1024w, /images/2024/marzec/URA_9689-300x200.jpg 300w, /images/2024/marzec/URA_9689-768x513.jpg 768w, /images/2024/marzec/URA_9689-1536x1025.jpg 1536w, /images/2024/marzec/URA_9689.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9694.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9694-1024x684.jpg" alt="" class="wp-image-10352" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9694-1024x684.jpg 1024w, /images/2024/marzec/URA_9694-300x200.jpg 300w, /images/2024/marzec/URA_9694-768x513.jpg 768w, /images/2024/marzec/URA_9694-1536x1025.jpg 1536w, /images/2024/marzec/URA_9694.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9696.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9696-1024x684.jpg" alt="" class="wp-image-10353" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9696-1024x684.jpg 1024w, /images/2024/marzec/URA_9696-300x200.jpg 300w, /images/2024/marzec/URA_9696-768x513.jpg 768w, /images/2024/marzec/URA_9696-1536x1025.jpg 1536w, /images/2024/marzec/URA_9696.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9697.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9697-1024x684.jpg" alt="" class="wp-image-10354" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9697-1024x684.jpg 1024w, /images/2024/marzec/URA_9697-300x200.jpg 300w, /images/2024/marzec/URA_9697-768x513.jpg 768w, /images/2024/marzec/URA_9697-1536x1025.jpg 1536w, /images/2024/marzec/URA_9697.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9698.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9698-1024x684.jpg" alt="" class="wp-image-10355" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9698-1024x684.jpg 1024w, /images/2024/marzec/URA_9698-300x200.jpg 300w, /images/2024/marzec/URA_9698-768x513.jpg 768w, /images/2024/marzec/URA_9698-1536x1025.jpg 1536w, /images/2024/marzec/URA_9698.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9703.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9703-1024x684.jpg" alt="" class="wp-image-10356" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9703-1024x684.jpg 1024w, /images/2024/marzec/URA_9703-300x200.jpg 300w, /images/2024/marzec/URA_9703-768x513.jpg 768w, /images/2024/marzec/URA_9703-1536x1025.jpg 1536w, /images/2024/marzec/URA_9703.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9707.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9707-1024x684.jpg" alt="" class="wp-image-10357" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9707-1024x684.jpg 1024w, /images/2024/marzec/URA_9707-300x200.jpg 300w, /images/2024/marzec/URA_9707-768x513.jpg 768w, /images/2024/marzec/URA_9707-1536x1025.jpg 1536w, /images/2024/marzec/URA_9707.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9708-1.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9708-1-1024x684.jpg" alt="" class="wp-image-10358" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9708-1-1024x684.jpg 1024w, /images/2024/marzec/URA_9708-1-300x200.jpg 300w, /images/2024/marzec/URA_9708-1-768x513.jpg 768w, /images/2024/marzec/URA_9708-1-1536x1025.jpg 1536w, /images/2024/marzec/URA_9708-1.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9709.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9709-1024x684.jpg" alt="" class="wp-image-10359" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9709-1024x684.jpg 1024w, /images/2024/marzec/URA_9709-300x200.jpg 300w, /images/2024/marzec/URA_9709-768x513.jpg 768w, /images/2024/marzec/URA_9709-1536x1025.jpg 1536w, /images/2024/marzec/URA_9709.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9710-scaled.jpg"><img loading="lazy" decoding="async" width="683" height="1024" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9710-683x1024.jpg" alt="" class="wp-image-10360" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9710-683x1024.jpg 683w, /images/2024/marzec/URA_9710-200x300.jpg 200w, /images/2024/marzec/URA_9710-768x1151.jpg 768w, /images/2024/marzec/URA_9710-1025x1536.jpg 1025w, /images/2024/marzec/URA_9710-1367x2048.jpg 1367w, /images/2024/marzec/URA_9710-scaled.jpg 1708w" sizes="(max-width: 683px) 100vw, 683px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9712.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9712-1024x684.jpg" alt="" class="wp-image-10361" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9712-1024x684.jpg 1024w, /images/2024/marzec/URA_9712-300x200.jpg 300w, /images/2024/marzec/URA_9712-768x513.jpg 768w, /images/2024/marzec/URA_9712-1536x1025.jpg 1536w, /images/2024/marzec/URA_9712.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9714.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9714-1024x684.jpg" alt="" class="wp-image-10362" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9714-1024x684.jpg 1024w, /images/2024/marzec/URA_9714-300x200.jpg 300w, /images/2024/marzec/URA_9714-768x513.jpg 768w, /images/2024/marzec/URA_9714-1536x1025.jpg 1536w, /images/2024/marzec/URA_9714.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2024/03/URA_9721.jpg"><img loading="lazy" decoding="async" width="1024" height="684" src="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9721-1024x684.jpg" alt="" class="wp-image-10363" srcset="/images/2024/marzec/2024_marzec_spektakl_teatralny_pt_akademia_pana_kleksa_2024_03_spektakl_teatralny_pt_akademia_pana_kleksa_URA_9721-1024x684.jpg 1024w, /images/2024/marzec/URA_9721-300x200.jpg 300w, /images/2024/marzec/URA_9721-768x513.jpg 768w, /images/2024/marzec/URA_9721-1536x1025.jpg 1536w, /images/2024/marzec/URA_9721.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

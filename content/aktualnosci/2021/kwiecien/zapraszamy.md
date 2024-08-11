@@ -1,0 +1,25 @@
+---
+thumbnail: "/images/2021/kwiecien/2021_kwiecien_zapraszamy_2021_04_zapraszamy_wystawa-remiza.jpg"
+title: "ZAPRASZAMY!!!"
+publishDate: "2021-04-01T00:00:00.000Z"
+eventDate: "2021-04-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>W najbliższą środę, 5 maja, w godz. 13:00-19:00 indywidualne zwiedzanie wystawy pt.: „Ochotnicza Straż Pożarna w Zawichoście” – w fotografii archiwalnej. Oryginalne kadry przekazane przez mieszkańców miasta i gminy pokazują historię zawichojskiej jednostki oraz zabytkowej strażnicy – jednego z najpiękniejszych budynków naszego miasta. Dziękujemy instytucjom: Ochotniczej Straży Pożarnej w Zawichoście, Bibliotece Publicznej Miasta i Gminy w Zawichoście, Szkole Podstawowej w Zawichoście oraz osobom prywatnym: Stanisławowi Kuli, Magdalenie Krawczyńskiej, Izie Adamskiej, Adamowi Krawczyńskiemu, Sylwiuszowi Tutakowi, Tonowi Andersowi za sprawną odpowiedz na apel dotyczący zbiórki materiałów archiwalnych. Zestaw eksponowany z okazji oddania dla społeczności odrestaurowanego budynku strażnicy OSP opracowali: Partycja Sus-Lutyńska – Miejsko Gminny Ośrodek Kultury w Zawichoście, Tomisław Giergiel – Muzeum Okręgowe w Sandomierzu. Wystawa realizowana jest pod patronatem Katarzyny Kondziołki – Burmistrz Zawichostu, finansowana przez Gminę Zawichost. Poza wymienionymi darczyńcami, konsultacji merytorycznych – niezbędnych na etapie opracowania zestawu ekspozycyjnego udzielili: Adam Kuśmierski – Komendant Miejsko-Gminny OSP RP oraz Włodzimierz Kosior – Prezes Miejsko-Gminny OSP RP, również serdecznie dziękujemy. W imieniu Katarzyny Kondziołki – Burmistrz Zawichostu oraz naszym życzymy Państwu miłego odbioru, a wszystkich druhów z okazji zbliżającego się Międzynarodowego Dnia Strażaka ciepło pozdrawiamy.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/04/wystawa-remiza.jpg"><img fetchpriority="high" decoding="async" width="800" height="567" src="/images/2021/kwiecien/2021_kwiecien_zapraszamy_2021_04_zapraszamy_wystawa-remiza.jpg" alt="" class="wp-image-7910" srcset="/images/2021/kwiecien/2021_kwiecien_zapraszamy_2021_04_zapraszamy_wystawa-remiza.jpg 800w, /images/2021/kwiecien/wystawa-remiza-300x213.jpg 300w, /images/2021/kwiecien/wystawa-remiza-768x544.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Tekst: Edyta Kędziora</p>
+
+
+
+<p></p>
+						
+						</div>

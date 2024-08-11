@@ -1,0 +1,53 @@
+---
+thumbnail: "/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0134-1024x683.jpg"
+title: "Piknik Rodzinny w Chrapanowie"
+publishDate: "2023-07-01T00:00:00.000Z"
+eventDate: "2023-07-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>22 lipca 2023 r. w Chrapanowie odbył się Piknik Rodzinny. Wzięli w nim udział mieszkańcy Chrapanowa oraz innych miejscowości gminy, w tym Katarzyna Kondziołka Burmistrz Zawichostu, Radni Rady Miejskiej oraz Sołtysi. Pogoda dopisała i wszyscy cieszyliśmy się wspaniałą zabawą. Była dobra muzyka, smaczny poczęstunek, urządzenia dmuchane dla zabawy dla dzieci oraz wiele innych. Wydarzeniu towarzyszyły animacje przygotowane przez pracowników Miejsko-Gminnego Ośrodka Kultury w Zawichoście. </p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0134-scaled.jpg"><img fetchpriority="high" decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0134-1024x683.jpg" alt="" class="wp-image-9805" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0134-1024x683.jpg 1024w, /images/2023/lipiec/URA_0134-300x200.jpg 300w, /images/2023/lipiec/URA_0134-768x513.jpg 768w, /images/2023/lipiec/URA_0134-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0134-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0144-scaled.jpg"><img decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0144-1024x683.jpg" alt="" class="wp-image-9806" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0144-1024x683.jpg 1024w, /images/2023/lipiec/URA_0144-300x200.jpg 300w, /images/2023/lipiec/URA_0144-768x513.jpg 768w, /images/2023/lipiec/URA_0144-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0144-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0110-scaled.jpg"><img decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0110-1024x683.jpg" alt="" class="wp-image-9807" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0110-1024x683.jpg 1024w, /images/2023/lipiec/URA_0110-300x200.jpg 300w, /images/2023/lipiec/URA_0110-768x513.jpg 768w, /images/2023/lipiec/URA_0110-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0110-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0164-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0164-1024x683.jpg" alt="" class="wp-image-9808" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0164-1024x683.jpg 1024w, /images/2023/lipiec/URA_0164-300x200.jpg 300w, /images/2023/lipiec/URA_0164-768x513.jpg 768w, /images/2023/lipiec/URA_0164-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0164-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0257-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0257-1024x683.jpg" alt="" class="wp-image-9809" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0257-1024x683.jpg 1024w, /images/2023/lipiec/URA_0257-300x200.jpg 300w, /images/2023/lipiec/URA_0257-768x513.jpg 768w, /images/2023/lipiec/URA_0257-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0257-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0247-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0247-1024x683.jpg" alt="" class="wp-image-9810" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0247-1024x683.jpg 1024w, /images/2023/lipiec/URA_0247-300x200.jpg 300w, /images/2023/lipiec/URA_0247-768x513.jpg 768w, /images/2023/lipiec/URA_0247-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0247-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0300-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0300-1024x683.jpg" alt="" class="wp-image-9811" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0300-1024x683.jpg 1024w, /images/2023/lipiec/URA_0300-300x200.jpg 300w, /images/2023/lipiec/URA_0300-768x513.jpg 768w, /images/2023/lipiec/URA_0300-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0300-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0342-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0342-1024x683.jpg" alt="" class="wp-image-9812" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0342-1024x683.jpg 1024w, /images/2023/lipiec/URA_0342-300x200.jpg 300w, /images/2023/lipiec/URA_0342-768x513.jpg 768w, /images/2023/lipiec/URA_0342-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0342-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0344-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0344-1024x683.jpg" alt="" class="wp-image-9813" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0344-1024x683.jpg 1024w, /images/2023/lipiec/URA_0344-300x200.jpg 300w, /images/2023/lipiec/URA_0344-768x513.jpg 768w, /images/2023/lipiec/URA_0344-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0344-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/07/URA_0349-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="683" src="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0349-1024x683.jpg" alt="" class="wp-image-9814" srcset="/images/2023/lipiec/2023_lipiec_piknik_rodzinny_w_chrapanowie_2023_07_piknik_rodzinny_w_chrapanowie_URA_0349-1024x683.jpg 1024w, /images/2023/lipiec/URA_0349-300x200.jpg 300w, /images/2023/lipiec/URA_0349-768x513.jpg 768w, /images/2023/lipiec/URA_0349-1536x1025.jpg 1536w, /images/2023/lipiec/URA_0349-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+						
+						</div>

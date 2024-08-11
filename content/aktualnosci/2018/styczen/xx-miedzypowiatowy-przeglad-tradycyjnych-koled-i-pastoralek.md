@@ -1,0 +1,23 @@
+---
+thumbnail: "/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5111.jpg"
+title: "XX Miedzypowiatowy Przegląd Tradycyjnych Kolęd i Pastorałek"
+publishDate: "2018-01-01T00:00:00.000Z"
+eventDate: "2018-01-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>21 stycznia w Gminnym Ośrodku Kultury w Modliborzycach odbył się już po raz dwudziesty Międzypowiatowy Przegląd Tradycyjnych Kolęd i Pastorałek. Naszą gminę reprezentowały trzy zespoły śpiewacze: „Zawichost”, „Zielona Dolina” oraz „Linowianki”, który za swój występ otrzymał od jury wyróżnienie. Artystów do występu przygotowała Pani Maria Skorupa.</p>
+<p>Naszym zespołom folklorystycznym gratulujemy udanych wykonań, a gospodarzom przeglądu winszujemy organizacji &nbsp;wydarzenia i&nbsp;unikatowej atmosfery &nbsp;oraz dziękujemy za gościnność i niezapomniane chwile.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-5549" src="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5111.jpg" alt="" width="800" height="600" srcset="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5111.jpg 800w, /images/2018/styczen/IMG_5111-300x225.jpg 300w, /images/2018/styczen/IMG_5111-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-5550" src="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5119.jpg" alt="" width="800" height="600" srcset="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5119.jpg 800w, /images/2018/styczen/IMG_5119-300x225.jpg 300w, /images/2018/styczen/IMG_5119-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-5551" src="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5145.jpg" alt="" width="800" height="600" srcset="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5145.jpg 800w, /images/2018/styczen/IMG_5145-300x225.jpg 300w, /images/2018/styczen/IMG_5145-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5552" src="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5146.jpg" alt="" width="800" height="600" srcset="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5146.jpg 800w, /images/2018/styczen/IMG_5146-300x225.jpg 300w, /images/2018/styczen/IMG_5146-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5553" src="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5221.jpg" alt="" width="800" height="1067" srcset="/images/2018/styczen/2018_styczen_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_2018_01_xx_miedzypowiatowy_przegl_d_tradycyjnych_kol_d_i_pastora_ek_IMG_5221.jpg 800w, /images/2018/styczen/IMG_5221-225x300.jpg 225w, /images/2018/styczen/IMG_5221-768x1024.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: right;">Tekst: MGOK</p>
+<p style="text-align: right;">Foto: archiwum Marii Skorupy</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

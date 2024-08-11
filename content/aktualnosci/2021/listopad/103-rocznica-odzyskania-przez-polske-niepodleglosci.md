@@ -1,0 +1,149 @@
+---
+thumbnail: "/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd1-2.jpg"
+title: "103. ROCZNICA ODZYSKANIA PRZEZ POLSKĘ NIEPODLEGŁOŚCI."
+publishDate: "2021-11-01T00:00:00.000Z"
+eventDate: "2021-11-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>„Jeszcze w zielone gramy …”, to słowa autorstwa Wojciecha Młynarskiego, które pozostaną w pamięci mieszkańców Gminy Zawichost jeszcze na długo. Znany wszystkim utwór, zaśpiewała na zakończenie uroczystości związanych z obchodami 103. rocznicy odzyskania Niepodległości przez Polskę – Oliwia Winiarczyk, podopieczna sekcji wokalnej MGOK.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd1-2.jpg"><img fetchpriority="high" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd1-2.jpg" alt="" class="wp-image-8243" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd1-2.jpg 800w, /images/2021/listopad/zd1-2-300x200.jpg 300w, /images/2021/listopad/zd1-2-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Pogoda sprzyjała dziś uczestnikom przygotowanych po raz kolejny wydarzeń patriotycznych. W samo południe proboszcz parafii pw. Wniebowzięcia Najświętszej Marii Panny – ksiądz Piotr Szpyt, odprawił uroczysta Mszę Świętą. Prócz mieszkańców, wzięli w niej udział przedstawiciele władz samorządowych, delegacje pracowników jednostek organizacyjnych Gminy Zawichost. O uroczystą oprawę wydarzenia zadbali druhowie lokalnych OSP, którym przewodniczył Komendant Miejsko-Gminny ZOSP – druh Adam Kuśnierski.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd2-2.jpg"><img decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd2-2.jpg" alt="" class="wp-image-8244" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd2-2.jpg 800w, /images/2021/listopad/zd2-2-300x200.jpg 300w, /images/2021/listopad/zd2-2-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd3-1.jpg"><img decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd3-1.jpg" alt="" class="wp-image-8245" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd3-1.jpg 800w, /images/2021/listopad/zd3-1-300x200.jpg 300w, /images/2021/listopad/zd3-1-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd4.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd4.jpg" alt="" class="wp-image-8246" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd4.jpg 800w, /images/2021/listopad/zd4-300x200.jpg 300w, /images/2021/listopad/zd4-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd5.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd5.jpg" alt="" class="wp-image-8247" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd5.jpg 800w, /images/2021/listopad/zd5-300x200.jpg 300w, /images/2021/listopad/zd5-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>W drugiej części spotkania, które corocznie organizowane jest na placu Rynku Małego, poszczególne delegacje – reprezentanci władz samorządowych, zakładów pracy, stowarzyszeń oraz KGW, złożyli wiązanki oraz znicze w symbolicznym miejscu chwały – pod pomnikiem upamiętniającym 800-lecie Bitwy Pod Zawichostem. Tutaj również oficjalnie głos zabrała Pani Katarzyna Kondziołka – Burmistrz Zawichostu.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd6.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd6.jpg" alt="" class="wp-image-8248" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd6.jpg 800w, /images/2021/listopad/zd6-300x200.jpg 300w, /images/2021/listopad/zd6-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd7.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd7.jpg" alt="" class="wp-image-8249" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd7.jpg 800w, /images/2021/listopad/zd7-300x200.jpg 300w, /images/2021/listopad/zd7-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd8.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd8.jpg" alt="" class="wp-image-8250" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd8.jpg 800w, /images/2021/listopad/zd8-300x200.jpg 300w, /images/2021/listopad/zd8-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd9.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd9.jpg" alt="" class="wp-image-8251" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd9.jpg 800w, /images/2021/listopad/zd9-300x200.jpg 300w, /images/2021/listopad/zd9-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd10.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd10.jpg" alt="" class="wp-image-8252" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd10.jpg 800w, /images/2021/listopad/zd10-300x200.jpg 300w, /images/2021/listopad/zd10-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd11.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd11.jpg" alt="" class="wp-image-8253" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd11.jpg 800w, /images/2021/listopad/zd11-300x200.jpg 300w, /images/2021/listopad/zd11-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd12.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd12.jpg" alt="" class="wp-image-8254" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd12.jpg 800w, /images/2021/listopad/zd12-300x200.jpg 300w, /images/2021/listopad/zd12-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Towarzyszącym akcentem wplecionym w patriotyczne świętowanie była PARADA NIEPODLEGŁOŚCI, która już kolejny raz wpisuje się w zawichojskie obchody. „Tylu ich jeszcze nie było” – z dumą komentowali zgromadzeni uczestnicy tego wydarzenia. To piękny gest motocyklistów i pasjonatów terenowych aut, którzy z radością dzielą się swoja pasją w czasach wolności, pamiętając jednocześnie o tym, by złożyć hołd tym, którzy o wolny kraj walczyli. Jeszcze raz dziękujemy Stowarzyszeniu Moto Sandomierz za organizację listopadowej trasy z punktem „Zawichost”.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd13.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd13.jpg" alt="" class="wp-image-8255" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd13.jpg 800w, /images/2021/listopad/zd13-300x200.jpg 300w, /images/2021/listopad/zd13-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd14.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd14.jpg" alt="" class="wp-image-8256" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd14.jpg 800w, /images/2021/listopad/zd14-300x200.jpg 300w, /images/2021/listopad/zd14-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd15.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd15.jpg" alt="" class="wp-image-8257" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd15.jpg 800w, /images/2021/listopad/zd15-300x200.jpg 300w, /images/2021/listopad/zd15-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd16.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd16.jpg" alt="" class="wp-image-8258" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd16.jpg 800w, /images/2021/listopad/zd16-300x200.jpg 300w, /images/2021/listopad/zd16-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Na zakończenie spotkaliśmy się w strażnicy …</p>
+
+
+
+<p>„Jesteśmy w budynku, w którym przed laty organizowana była działalność patriotyczna”, powiedziała na koniec części artystycznej Katarzyna Kondziołka – Burmistrz Zawichostu, która wspólnie z Przewodniczącą Rady Miejskiej Zawichost – Edytą Rębiś, podziękowała wszystkim zaangażowanym w przygotowanie czwartkowego święta. Najmłodsi otrzymali pamiątkowe gadżety i tradycyjnie już w rocznice odzyskania Niepodległości, stanęli do pamiątkowej fotografii. Scena, mimo, że mniejsza aniżeli w budynku MGOK, pomieściła: uczniów Szkoły Podstawowej w Zawichoście – prezentujących program słowno-muzyczny „Lekcja historii”, który przygotowali wspólnie z Paniami: Alicją Hołody, Renatą Rybus, Sylwią Orłowską oraz Ewą Bochniak; podopiecznych sekcji wokalnej zawichojskiego ośrodka kultury: Piotra Bartosa, Katarzynę Pawłowską, Aleksandrę Niedźwiadek i Oliwię Winiarczyk – prezentujących mini-koncert „Jeszcze w zielone gramy …”, który przygotowała instruktor Sylwia Szymańska – Broś; a także przedstawicieli najmłodszych druhów strażaków z MDP Zawichost oraz Linów. Wszystkim serdecznie dziękujemy.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd17.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd17.jpg" alt="" class="wp-image-8259" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd17.jpg 800w, /images/2021/listopad/zd17-300x200.jpg 300w, /images/2021/listopad/zd17-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd18.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd18.jpg" alt="" class="wp-image-8260" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd18.jpg 800w, /images/2021/listopad/zd18-300x200.jpg 300w, /images/2021/listopad/zd18-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd19.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd19.jpg" alt="" class="wp-image-8261" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd19.jpg 800w, /images/2021/listopad/zd19-300x200.jpg 300w, /images/2021/listopad/zd19-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd20.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd20.jpg" alt="" class="wp-image-8262" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd20.jpg 800w, /images/2021/listopad/zd20-300x200.jpg 300w, /images/2021/listopad/zd20-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd21.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd21.jpg" alt="" class="wp-image-8263" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd21.jpg 800w, /images/2021/listopad/zd21-300x200.jpg 300w, /images/2021/listopad/zd21-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd22.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd22.jpg" alt="" class="wp-image-8264" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd22.jpg 800w, /images/2021/listopad/zd22-300x200.jpg 300w, /images/2021/listopad/zd22-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd23.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd23.jpg" alt="" class="wp-image-8265" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd23.jpg 800w, /images/2021/listopad/zd23-300x200.jpg 300w, /images/2021/listopad/zd23-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Przypominamy również, że tym razem świętowaliśmy już od wczoraj. Przedpołudniem na scenie OSP wystąpili uczniowie dla uczniów – w ramach uroczystej akademii. Popołudniem zaś, w programie słowno-muzycznym „Młodzi dla Niepodległej”, wystąpili przedstawiciele szkolnego koła wolontariatu, z opiekunkami: Anną Stępień i Dorotą Gozdek. Wspólnie z seniorami Dziennego Domu Pobytu przygotowali akcję rozdania flag oraz bibułowych kwiatów w niepodległościowych barwach.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/11/zd24.jpg"><img loading="lazy" decoding="async" width="800" height="534" src="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd24.jpg" alt="" class="wp-image-8266" srcset="/images/2021/listopad/2021_listopad_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_2021_11_103_rocznica_odzyskania_przez_polsk_niepodleg_o_ci_zd24.jpg 800w, /images/2021/listopad/zd24-300x200.jpg 300w, /images/2021/listopad/zd24-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Z życzeniami kolejnego spotkania, przypominamy, że organizatorami tegorocznych obchodów byli: Gmina Zawichost oraz Miejsko-Gminny Ośrodek Kultury w Zawichoście, współorganizowali je z nami: Zespół Szkoły i Przedszkoli w Zawichoście, OSP Gminy Zawichost, parafia pw. WNMP, Stowarzyszenie Moto Sandomierz oraz Dzienny Dom Pobytu w Zawichoście. Pięknie dziękujemy za wczoraj i dziś, które upłynęło w Zawichoście pod szyldem biało czerwonej flagi.</p>
+
+
+
+<p>Tekst: MGOK</p>
+
+
+
+<p>Foto: Ewelina Ura-Kamińska</p>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

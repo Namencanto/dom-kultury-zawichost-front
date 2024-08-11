@@ -1,0 +1,14 @@
+---
+thumbnail: "/images/2016/wrzesien/2016_wrzesien_terminarz_spotka_organizacyjnych_w_sekcjach_mgok_2016_09_terminarz_spotka_organizacyjnych_w_sekcjach_mgok_GRAFIK-SPOTKAŃ-ORG..jpg"
+title: "TERMINARZ SPOTKAŃ ORGANIZACYJNYCH W SEKCJACH MGOK"
+publishDate: "2016-09-01T00:00:00.000Z"
+eventDate: "2016-09-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p style="text-align: right;"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-4011" src="/images/2016/wrzesien/2016_wrzesien_terminarz_spotka_organizacyjnych_w_sekcjach_mgok_2016_09_terminarz_spotka_organizacyjnych_w_sekcjach_mgok_GRAFIK-SPOTKAŃ-ORG..jpg" alt="grafik-spotkan-org" width="700" height="953" srcset="/images/2016/wrzesien/2016_wrzesien_terminarz_spotka_organizacyjnych_w_sekcjach_mgok_2016_09_terminarz_spotka_organizacyjnych_w_sekcjach_mgok_GRAFIK-SPOTKAŃ-ORG..jpg 700w, /images/2016/wrzesien/GRAFIK-SPOTKAŃ-ORG.-220x300.jpg 220w" sizes="(max-width: 700px) 100vw, 700px"></p>
+<p style="text-align: right;">ORGANIZATORZY</p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

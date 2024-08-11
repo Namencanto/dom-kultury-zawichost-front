@@ -1,0 +1,22 @@
+---
+thumbnail: "/images/2018/pazdziernik/2018_pazdziernik_ocali_od_zapomnienia_2018_10_ocali_od_zapomnienia_DSC_0004.jpg"
+title: "Ocalić od zapomnienia"
+publishDate: "2018-10-01T00:00:00.000Z"
+eventDate: "2018-10-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>14 października w chmielnickiej synagodze została otworzona wystawa „Był kiedyś Prosperów… Portrety Żydów Zawichojskich”, która na co dzień jest stałym elementem wystawienniczym Zawichojskiego Lamusa Kultury Dawnej- Żywego Muzeum Etnograficznego Powiśla Zawichojskiego.</p>
+<p>Wystawa oraz publikacja poświęcone biografiom żydowskich mieszkańców Zawichostu powstała pod koniec 2017 roku dzięki zaangażowaniu grupy nieformalnej „Pamiętamy”, którą stanowili: Patrycja Sus- Lutyńska, Kinga Kędziora Palińska, Aleksandra Migal oraz Mateusz Migal.</p>
+<p>Zawichojska wystawa zawitała do Chmielnika w ramach stałego cyklu „Świętokrzyskie sztetle, zapomniany świat” , będzie tam dostępna do połowy stycznia 2019 roku.<br>
+<img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-6171" src="/images/2018/pazdziernik/2018_pazdziernik_ocali_od_zapomnienia_2018_10_ocali_od_zapomnienia_DSC_0004.jpg" alt="" width="800" height="531" srcset="/images/2018/pazdziernik/2018_pazdziernik_ocali_od_zapomnienia_2018_10_ocali_od_zapomnienia_DSC_0004.jpg 800w, /images/2018/pazdziernik/DSC_0004-300x199.jpg 300w, /images/2018/pazdziernik/DSC_0004-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"><br>
+<img decoding="async" class="aligncenter size-full wp-image-6172" src="/images/2018/pazdziernik/2018_pazdziernik_ocali_od_zapomnienia_2018_10_ocali_od_zapomnienia_DSC_0030.jpg" alt="" width="800" height="531" srcset="/images/2018/pazdziernik/2018_pazdziernik_ocali_od_zapomnienia_2018_10_ocali_od_zapomnienia_DSC_0030.jpg 800w, /images/2018/pazdziernik/DSC_0030-300x199.jpg 300w, /images/2018/pazdziernik/DSC_0030-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"><br>
+<img decoding="async" class="aligncenter size-full wp-image-6173" src="/images/2018/pazdziernik/2018_pazdziernik_ocali_od_zapomnienia_2018_10_ocali_od_zapomnienia_DSC_0006.jpg" alt="" width="800" height="531" srcset="/images/2018/pazdziernik/2018_pazdziernik_ocali_od_zapomnienia_2018_10_ocali_od_zapomnienia_DSC_0006.jpg 800w, /images/2018/pazdziernik/DSC_0006-300x199.jpg 300w, /images/2018/pazdziernik/DSC_0006-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>Więcej informacji o wydarzeniu w linku: http://www.swietokrzyskisztetl.pl/asp/pl_start.asp?typ=13&amp;sub=0&amp;subsub=0&amp;menu=10&amp;artykul=205&amp;akcja=artykul</p>
+<p>&nbsp;</p>
+<p style="text-align: right;">Tekst: K. Tomaszewska</p>
+<p style="text-align: right;">Foto: M. Paliński</p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

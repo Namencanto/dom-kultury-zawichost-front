@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2023/luty/2023_luty_wystawa_malarstwa_zapraszamy_2023_02_wystawa_malarstwa_zapraszamy_PL2-735x1024.jpg"
+title: "WYSTAWA MALARSTWA – ZAPRASZAMY"
+publishDate: "2023-02-01T00:00:00.000Z"
+eventDate: "2023-02-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Z przyjemnością zapraszamy Państwa na wernisaż wystawy malarstwa Andrzeja Iwańskiego – lokalnego twórcy, związanego z miejscowością Linów. Pracuje w zaciszu Warsztatu Terapii Zajęciowej w Piotrowicach. Tych, którzy go znają ujmuje nie tylko malarstwem, o którym mówić będziemy już w kolejny piątek, ale także wrażliwością i sentymentem do świata spokoju i łagodności. Nie goni za tłumem, dobrze odnajduje się w ciszy, niewiele mówi, jest skromnym człowiekiem, a wszystko co gra w jego duszy – odczytać można z prac, które przyciągają łagodnością kształtów, wyszukanym kolorem, wciągają wewnątrz historii, którą tworzy za pomocą pędzla i farby. Poznajmy bliżej kolejnego ciekawego człowieka. Uroczyste spotkanie w sali wystaw MGOK 17 lutego 2023r. Zapraszamy!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/02/PL2.jpg"><img fetchpriority="high" decoding="async" width="735" height="1024" src="/images/2023/luty/2023_luty_wystawa_malarstwa_zapraszamy_2023_02_wystawa_malarstwa_zapraszamy_PL2-735x1024.jpg" alt="" class="wp-image-9240" srcset="/images/2023/luty/2023_luty_wystawa_malarstwa_zapraszamy_2023_02_wystawa_malarstwa_zapraszamy_PL2-735x1024.jpg 735w, /images/2023/luty/PL2-215x300.jpg 215w, /images/2023/luty/PL2-768x1070.jpg 768w, /images/2023/luty/PL2.jpg 800w" sizes="(max-width: 735px) 100vw, 735px"></a></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

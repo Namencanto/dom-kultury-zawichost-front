@@ -1,0 +1,29 @@
+---
+thumbnail: "/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te1-1.jpg"
+title: "PREMIERA SPEKTAKLU PASTORAŁKA – MISTERIUM LUDOWE W UKŁADZIE L. SCHILLERA"
+publishDate: "2022-01-01T00:00:00.000Z"
+eventDate: "2022-01-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/te1-1.jpg"><img fetchpriority="high" decoding="async" width="800" height="533" src="/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te1-1.jpg" alt="" class="wp-image-8489" srcset="/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te1-1.jpg 800w, /images/2022/styczen/te1-1-300x200.jpg 300w, /images/2022/styczen/te1-1-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/te2-1.jpg"><img decoding="async" width="800" height="533" src="/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te2-1.jpg" alt="" class="wp-image-8490" srcset="/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te2-1.jpg 800w, /images/2022/styczen/te2-1-300x200.jpg 300w, /images/2022/styczen/te2-1-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/te3-1.jpg"><img decoding="async" width="800" height="531" src="/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te3-1.jpg" alt="" class="wp-image-8491" srcset="/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te3-1.jpg 800w, /images/2022/styczen/te3-1-300x199.jpg 300w, /images/2022/styczen/te3-1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/03/te4-1.jpg"><img loading="lazy" decoding="async" width="800" height="533" src="/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te4-1.jpg" alt="" class="wp-image-8492" srcset="/images/2022/styczen/2022_styczen_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_2022_01_premiera_spektaklu_pastora_ka_misterium_ludowe_w_uk_adzie_l_schillera_te4-1.jpg 800w, /images/2022/styczen/te4-1-300x200.jpg 300w, /images/2022/styczen/te4-1-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

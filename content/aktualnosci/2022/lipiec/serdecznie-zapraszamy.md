@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2022/lipiec/2022_lipiec_serdecznie_zapraszamy_2022_07_serdecznie_zapraszamy_pl3.jpg"
+title: "SERDECZNIE ZAPRASZAMY!"
+publishDate: "2022-07-01T00:00:00.000Z"
+eventDate: "2022-07-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>I uwaga, uwaga …, coś wakacyjnego dla dorosłych. Może warto spróbować? Serdecznie zapraszamy. Proponujemy dwa bezpłatne spotkania – 3 i 10 sierpnia 2022r. Zapisy w biurze MGOK. Dajcie się porwać letniej przygodzie.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/07/pl3.jpg"><img fetchpriority="high" decoding="async" width="800" height="450" src="/images/2022/lipiec/2022_lipiec_serdecznie_zapraszamy_2022_07_serdecznie_zapraszamy_pl3.jpg" alt="" class="wp-image-8857" srcset="/images/2022/lipiec/2022_lipiec_serdecznie_zapraszamy_2022_07_serdecznie_zapraszamy_pl3.jpg 800w, /images/2022/lipiec/pl3-300x169.jpg 300w, /images/2022/lipiec/pl3-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+						
+						</div>

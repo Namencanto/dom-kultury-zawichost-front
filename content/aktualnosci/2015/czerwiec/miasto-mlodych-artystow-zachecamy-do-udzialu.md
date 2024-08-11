@@ -1,0 +1,12 @@
+---
+thumbnail: "/images/2015/czerwiec/2015_czerwiec_miasto_m_odych_artyst_w_zach_camy_do_udzia_u_2015_06_miasto_m_odych_artyst_w_zach_camy_do_udzia_u_1551615_777423662373838_6808945121901736075_n.jpg"
+title: "miasto młodych artystów – zachęcamy do udziału"
+publishDate: "2015-06-01T00:00:00.000Z"
+eventDate: "2015-06-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-2983" title="1551615_777423662373838_6808945121901736075_n" src="/images/2015/czerwiec/2015_czerwiec_miasto_m_odych_artyst_w_zach_camy_do_udzia_u_2015_06_miasto_m_odych_artyst_w_zach_camy_do_udzia_u_1551615_777423662373838_6808945121901736075_n.jpg" alt="" width="509" height="720" srcset="/images/2015/czerwiec/2015_czerwiec_miasto_m_odych_artyst_w_zach_camy_do_udzia_u_2015_06_miasto_m_odych_artyst_w_zach_camy_do_udzia_u_1551615_777423662373838_6808945121901736075_n.jpg 509w, /images/2015/czerwiec/1551615_777423662373838_6808945121901736075_n-212x300.jpg 212w" sizes="(max-width: 509px) 100vw, 509px"></p>
+						
+						</div>

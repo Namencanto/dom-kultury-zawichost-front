@@ -1,0 +1,25 @@
+---
+thumbnail: "/images/2021/lipiec/2021_lipiec_zapraszamy_2021_07_zapraszamy_PLAK2.jpg"
+title: "ZAPRASZAMY !!!"
+publishDate: "2021-07-01T00:00:00.000Z"
+eventDate: "2021-07-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>W imieniu grupy projektowej i pracowników MGOK serdecznie zapraszamy wszystkich zainteresowanych efektem kilkumiesięcznej pracy nad pomysłem o(GRÓD). Poza tym co widoczne… zmieniło się jeszcze wiele aspektów, ale o tym w czwartek o 19:00 przed MGOK. Wydarzenie będzie miało charakter otwarty. Zapraszamy wszystkich chętnych na miłe spotkanie, podsumowania, przekąski z rusztu, koncert zespołu KRZYK CISZY.</p>
+
+
+
+<p>Uwaga! W przypadku deszczu nie odwołujemy! Zabieramy parasole, będzie spontanicznie….</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/07/PLAK2.jpg"><img fetchpriority="high" decoding="async" width="800" height="562" src="/images/2021/lipiec/2021_lipiec_zapraszamy_2021_07_zapraszamy_PLAK2.jpg" alt="" class="wp-image-8075" srcset="/images/2021/lipiec/2021_lipiec_zapraszamy_2021_07_zapraszamy_PLAK2.jpg 800w, /images/2021/lipiec/PLAK2-300x211.jpg 300w, /images/2021/lipiec/PLAK2-768x540.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

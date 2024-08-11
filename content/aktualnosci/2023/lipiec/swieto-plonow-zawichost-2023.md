@@ -1,0 +1,25 @@
+---
+thumbnail: "/images/2023/lipiec/2023_lipiec__wi_to_plon_w_zawichost_2023_2023_07__wi_to_plon_w_zawichost_2023_Plakat-dozynki-—-kopia-727x1024.jpg"
+title: "Święto Plonów – Zawichost 2023"
+publishDate: "2023-07-01T00:00:00.000Z"
+eventDate: "2023-07-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/08/Plakat-dozynki-—-kopia.jpg"><img fetchpriority="high" decoding="async" width="727" height="1024" src="/images/2023/lipiec/2023_lipiec__wi_to_plon_w_zawichost_2023_2023_07__wi_to_plon_w_zawichost_2023_Plakat-dozynki-—-kopia-727x1024.jpg" alt="" class="wp-image-9819" srcset="/images/2023/lipiec/2023_lipiec__wi_to_plon_w_zawichost_2023_2023_07__wi_to_plon_w_zawichost_2023_Plakat-dozynki-—-kopia-727x1024.jpg 727w, /images/2023/lipiec/Plakat-dozynki-—-kopia-213x300.jpg 213w, /images/2023/lipiec/Plakat-dozynki-—-kopia-768x1082.jpg 768w, /images/2023/lipiec/Plakat-dozynki-—-kopia-1090x1536.jpg 1090w, /images/2023/lipiec/Plakat-dozynki-—-kopia.jpg 1419w" sizes="(max-width: 727px) 100vw, 727px"></a></figure>
+
+
+
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden="" class="wp-block-file__embed" data="http://mgok-zawichost.pl/wp-content/uploads/2023/08/dozynki-regulamin.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Osadzone z REGULAMIN KONKURSU NA NAJPIĘKNIEJSZY WIENIEC DOŻYNKOWY GMINY ZAWICHOST 2023."></object><a id="wp-block-file--media-b27c04a6-88d2-44bf-b10a-ae8cfc60e5c5" href="http://mgok-zawichost.pl/wp-content/uploads/2023/08/dozynki-regulamin.pdf">REGULAMIN KONKURSU NA NAJPIĘKNIEJSZY WIENIEC DOŻYNKOWY GMINY ZAWICHOST 2023</a><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/08/dozynki-regulamin.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-b27c04a6-88d2-44bf-b10a-ae8cfc60e5c5">Pobierz</a></div>
+
+
+
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden="" class="wp-block-file__embed" data="http://mgok-zawichost.pl/wp-content/uploads/2023/08/20230809_173742.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Osadzone z DOŻYNKI REGULAMIN."></object><a id="wp-block-file--media-437b34ac-c18e-40b2-9046-d6b8d179e367" href="http://mgok-zawichost.pl/wp-content/uploads/2023/08/20230809_173742.pdf">DOŻYNKI REGULAMIN</a><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/08/20230809_173742.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-437b34ac-c18e-40b2-9046-d6b8d179e367">Pobierz</a></div>
+						
+						</div>

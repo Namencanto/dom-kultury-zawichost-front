@@ -1,0 +1,30 @@
+---
+thumbnail: "/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0037.jpg"
+title: "coro cantorum w zawichoście"
+publishDate: "2015-02-01T00:00:00.000Z"
+eventDate: "2015-02-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-2671" title="DSC_0037" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0037.jpg" alt="" width="800" height="531" srcset="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0037.jpg 800w, /images/2015/luty/DSC_0037-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>25 stycznia 2015 r. w Kościele p.w. Jana Chrzciciela miał miejsce koncert kolęd i pastorałek w wykonaniu Nauczycielskiego Chóru Coro Cantorum, działającego przy Miejskim Centrum Kultury w Ostrowcu Świętokrzyskim. Organizatorami tego niezwykłego spotkania byli:&nbsp;Dyrektor MGOK w Zawichoście Patrycja Sus-Lutyńska,&nbsp;Rektor Kościoła św. Jana Chrzciciela Ks. Artur Dyjak,&nbsp;Proboszcz parafii WNMP Ks. Mariusz Telega,&nbsp;Dyrektor Ośrodka Formacji Liturgicznej Siostra Anna Hyszko.<br>
+Pod batutą niezwykle charyzmatycznej dyrygentki- Ewy Goworowskiej Coro Cantorum wędruje po świecie dźwięków i nut. W szeregach chóru znajdują się nauczyciele, instruktorzy oraz kilka osób nie związanych&nbsp;z oświatą.Mówią o sobie: „Oddychamy muzyką, pięciolinii czarem…” W bogatym repertuarze chóru znajdują się utwory muzyki dawnej, współczesnej, o tematyce sakralnej, patriotycznej, ludowej, filmowej&nbsp;oraz rozrywkowej.<br>
+Chór koncertuje w kraju i za granicą, promując miasto Ostrowiec Św. i region świętokrzyski. Koncertowali m.in. we Francji, na Ukrainie,&nbsp;w Samborze, we Lwowie, w Kaliningradzie,&nbsp;w Budapeszcie, na Węgrzech,&nbsp;w Szwecji. Gościli również w Zawichoście, dając koncert muzyki rozrywkowej podczas ubiegłorocznego Dnia Kobiet. Uczestniczyli we mszy św. celebrowanej przez Papieża Jana Pawła II w Sandomierzu w 1997 roku.<br>
+Coro Cantorum wykorzystało niezwykłą akustykę miejsca i dało niezwykle wyjątkowy koncert, za który jeszcze raz dziękujemy.</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-2672" title="DSC_0041" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0041.jpg" alt="" width="800" height="531" srcset="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0041.jpg 800w, /images/2015/luty/DSC_0041-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-2672" title="DSC_0041" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0050.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2672" title="DSC_0041" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0061.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2672" title="DSC_0041" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0074.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2672" title="DSC_0041" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0118.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2672" title="DSC_0041" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0134.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2672" title="DSC_0041" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0146.jpg" alt="" width="800" height="531"><br>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2672" title="DSC_0041" src="/images/2015/luty/2015_luty_coro_cantorum_w_zawicho_cie_2015_02_coro_cantorum_w_zawicho_cie_DSC_0154.jpg" alt="" width="800" height="531"></p>
+<p style="text-align: right;"><em>tekst &nbsp;– </em>Małgorzata Czajkowska</p>
+<p style="text-align: right;"><em>foto:&nbsp;</em>Małgorzata Czajkowska, Bożena Nierubiec</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

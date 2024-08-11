@@ -1,0 +1,21 @@
+---
+thumbnail: "/images/2020/czerwiec/2020_czerwiec_wystawa_prac_fabryka_wyobra_ni_iv_edycja_2020_06_wystawa_prac_fabryka_wyobra_ni_iv_edycja_fab1-724x1024.jpg"
+title: "WYSTAWA PRAC „FABRYKA WYOBRAŹNI IV EDYCJA”"
+publishDate: "2020-06-01T00:00:00.000Z"
+eventDate: "2020-06-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Zapraszamy na wystawę – FABRYKA WYOBRAŹNI IV – to już kolejna edycja … Tradycyjnego, tłumnego otwarcia niestety nie będzie, ale zapraszamy wszystkich do rotacyjnego zwiedzania. Startujemy 26.06.2020r. – będziemy dostępni w godz. 16.00-20.00 – dla uczestników zajęć mamy dyplomy i oczywiście słodycze. Wszystkich zainteresowanych zapraszamy do zwiedzania w dniu otwarcia oraz od wtorku do soboty, w godz. 12.00-20.00 aż do 15 lipca 2020r. Każdy kto do nas zajrzy otrzyma katalog towarzyszący ekspozycji. Pamiętajcie o maseczkach!!!!</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="724" height="1024" src="/images/2020/czerwiec/2020_czerwiec_wystawa_prac_fabryka_wyobra_ni_iv_edycja_2020_06_wystawa_prac_fabryka_wyobra_ni_iv_edycja_fab1-724x1024.jpg" alt="" class="wp-image-7485" srcset="/images/2020/czerwiec/2020_czerwiec_wystawa_prac_fabryka_wyobra_ni_iv_edycja_2020_06_wystawa_prac_fabryka_wyobra_ni_iv_edycja_fab1-724x1024.jpg 724w, /images/2020/czerwiec/fab1-212x300.jpg 212w, /images/2020/czerwiec/fab1-768x1086.jpg 768w, /images/2020/czerwiec/fab1.jpg 800w" sizes="(max-width: 724px) 100vw, 724px"></figure>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

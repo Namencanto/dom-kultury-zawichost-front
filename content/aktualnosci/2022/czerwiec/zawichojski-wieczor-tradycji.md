@@ -1,0 +1,109 @@
+---
+thumbnail: "/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd1-7-680x1024.jpg"
+title: "ZAWICHOJSKI WIECZÓR TRADYCJI"
+publishDate: "2022-06-01T00:00:00.000Z"
+eventDate: "2022-06-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Część trzecia – zamykająca sobotnie wydarzenia w Zawichoście – kilka słów, wiele podziękowań, fotoreportaż MGOK</p>
+
+
+
+<p>Rozstrzygnięcie konkursu na Najpiękniejszy Wianek Świętojański, wręczenie GRAND PRIX w sztandarowym XI Wyścigu Wianków organizowanym pod patronatem Katarzyny Kondziołki – Burmistrz Zawichostu oraz „Sobótka w wiślanej mgle – artystyczny performance nadwiślański” w wykonaniu Zawichojskiego Teatru Miejskiego – to atrakcje, na które liczyć mogli Ci, którzy mierząc się z upalnym dniem – dobrnęli do końca – na zawichojski przyczółek promowy. Serdecznie gratulujemy tym, którzy zwyciężyli w wymienionych konkurencjach, w pierwszej: paniom – Joannie Młodożeńcy (I miejsce), Annie Młodożeńcy (II miejsce), druhnom i druhom z MDP OSP Linów (III miejsce), Karolinie Nogackiej (wyróżnienie), członkiniom KGW w Czyżowie Szl. (wyróżnienie), a także Mateuszowi Sobczykowi, który tym razem miał najwięcej szczęścia w tradycyjnie nieprzewidywalnym wyścigu wianków. Cieszy nas również udział wszystkich, którzy złożyli prace – miło, że tak wiele osób aktywnie kultywuje dawne zwyczaje. Dziękujemy paniom: Barbarze Simm, Henryce Wójcik, Renacie Dacy za kolejny już rok pracy w konkursowej komisji artystycznej. Wspólnie z Burmistrz Zawichostu panie wręczyły nagrody finansowe ufundowane przez Gminę Zawichost oraz rzeczowe przygotowane przez UMiG i MGOK. Na deskach oryginalnej sceny, którą stał się słynny zawichojski prom -wystąpiła kobieca reprezentacja Zawichojskiego Teatru Miejskiego działającego w MGOK – było zaskakująco, oryginalnie i klimatycznie. Dziękujemy naszym aktorkom oraz Małgorzacie Fronczek (reżyseria) i Małgorzacie Czajkowskiej (choreografia). Ukłony dla pana Krzysztofa Strugały – właściciela promu oraz druhen i druhów z OSP Zawichost za pomoc w organizacji konkursów oraz piękne ognisko sobótkowe.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/zd1-7.jpg"><img fetchpriority="high" decoding="async" width="680" height="1024" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd1-7-680x1024.jpg" alt="" class="wp-image-8798" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd1-7-680x1024.jpg 680w, /images/2022/czerwiec/zd1-7-199x300.jpg 199w, /images/2022/czerwiec/zd1-7-768x1157.jpg 768w, /images/2022/czerwiec/zd1-7.jpg 800w" sizes="(max-width: 680px) 100vw, 680px"></a></figure>
+
+
+
+<p><a href="https://www.facebook.com/mgokzawichost/photos/pcb.5210220192427474/5210216602427833/?__cft__%5b0%5d=AZWDFR9JwE-c2vh1NbCDuA0Eyk0U2lqeaKS4H-YiZVFwCWxjj9nA6theGIhLLhyB7qI5_oOmNjeGpQosIN2zR6ZQD5O75Y4RjF9sPrIjQWL2cEISz21qton7oqaz5HfXQ4e6GW8CQTKcZM-jeGb0ewS_uGOpCeepzKsebCY4IyhXWAoPhO6sedAgnZwM9FvgyacL5y95WCbixkop5w32oPyY&amp;__tn__=*bH-R"></a></p>
+
+
+
+<p><a href="https://www.facebook.com/mgokzawichost/photos/pcb.5210220192427474/5210216602427833/?__cft__%5b0%5d=AZWDFR9JwE-c2vh1NbCDuA0Eyk0U2lqeaKS4H-YiZVFwCWxjj9nA6theGIhLLhyB7qI5_oOmNjeGpQosIN2zR6ZQD5O75Y4RjF9sPrIjQWL2cEISz21qton7oqaz5HfXQ4e6GW8CQTKcZM-jeGb0ewS_uGOpCeepzKsebCY4IyhXWAoPhO6sedAgnZwM9FvgyacL5y95WCbixkop5w32oPyY&amp;__tn__=*bH-R">&nbsp;</a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/zd2-7.jpg"><img decoding="async" width="800" height="531" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd2-7.jpg" alt="" class="wp-image-8799" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd2-7.jpg 800w, /images/2022/czerwiec/zd2-7-300x199.jpg 300w, /images/2022/czerwiec/zd2-7-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/zd3-7.jpg"><img decoding="async" width="800" height="531" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd3-7.jpg" alt="" class="wp-image-8800" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd3-7.jpg 800w, /images/2022/czerwiec/zd3-7-300x199.jpg 300w, /images/2022/czerwiec/zd3-7-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/zd4-6.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd4-6.jpg" alt="" class="wp-image-8801" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd4-6.jpg 800w, /images/2022/czerwiec/zd4-6-300x199.jpg 300w, /images/2022/czerwiec/zd4-6-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi5.jpg"><img loading="lazy" decoding="async" width="680" height="1024" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi5-680x1024.jpg" alt="" class="wp-image-8802" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi5-680x1024.jpg 680w, /images/2022/czerwiec/wi5-199x300.jpg 199w, /images/2022/czerwiec/wi5-768x1157.jpg 768w, /images/2022/czerwiec/wi5-1020x1536.jpg 1020w, /images/2022/czerwiec/wi5.jpg 1360w" sizes="(max-width: 680px) 100vw, 680px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi6.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi6-1024x680.jpg" alt="" class="wp-image-8803" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi6-1024x680.jpg 1024w, /images/2022/czerwiec/wi6-300x199.jpg 300w, /images/2022/czerwiec/wi6-768x510.jpg 768w, /images/2022/czerwiec/wi6-1536x1020.jpg 1536w, /images/2022/czerwiec/wi6.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi7.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi7-1024x680.jpg" alt="" class="wp-image-8804" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi7-1024x680.jpg 1024w, /images/2022/czerwiec/wi7-300x199.jpg 300w, /images/2022/czerwiec/wi7-768x510.jpg 768w, /images/2022/czerwiec/wi7-1536x1020.jpg 1536w, /images/2022/czerwiec/wi7.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi8-1.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi8-1-1024x680.jpg" alt="" class="wp-image-8805" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi8-1-1024x680.jpg 1024w, /images/2022/czerwiec/wi8-1-300x199.jpg 300w, /images/2022/czerwiec/wi8-1-768x510.jpg 768w, /images/2022/czerwiec/wi8-1-1536x1020.jpg 1536w, /images/2022/czerwiec/wi8-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi9.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi9-1024x680.jpg" alt="" class="wp-image-8806" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi9-1024x680.jpg 1024w, /images/2022/czerwiec/wi9-300x199.jpg 300w, /images/2022/czerwiec/wi9-768x510.jpg 768w, /images/2022/czerwiec/wi9-1536x1020.jpg 1536w, /images/2022/czerwiec/wi9.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi12.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi12-1024x680.jpg" alt="" class="wp-image-8807" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi12-1024x680.jpg 1024w, /images/2022/czerwiec/wi12-300x199.jpg 300w, /images/2022/czerwiec/wi12-768x510.jpg 768w, /images/2022/czerwiec/wi12-1536x1020.jpg 1536w, /images/2022/czerwiec/wi12.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi22.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi22-1024x680.jpg" alt="" class="wp-image-8808" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi22-1024x680.jpg 1024w, /images/2022/czerwiec/wi22-300x199.jpg 300w, /images/2022/czerwiec/wi22-768x510.jpg 768w, /images/2022/czerwiec/wi22-1536x1020.jpg 1536w, /images/2022/czerwiec/wi22.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi11.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi11-1024x680.jpg" alt="" class="wp-image-8809" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi11-1024x680.jpg 1024w, /images/2022/czerwiec/wi11-300x199.jpg 300w, /images/2022/czerwiec/wi11-768x510.jpg 768w, /images/2022/czerwiec/wi11-1536x1020.jpg 1536w, /images/2022/czerwiec/wi11.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi13-1.jpg"><img loading="lazy" decoding="async" width="680" height="1024" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi13-1-680x1024.jpg" alt="" class="wp-image-8810" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi13-1-680x1024.jpg 680w, /images/2022/czerwiec/wi13-1-199x300.jpg 199w, /images/2022/czerwiec/wi13-1-768x1157.jpg 768w, /images/2022/czerwiec/wi13-1-1020x1536.jpg 1020w, /images/2022/czerwiec/wi13-1.jpg 1360w" sizes="(max-width: 680px) 100vw, 680px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi14.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi14-1024x680.jpg" alt="" class="wp-image-8811" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi14-1024x680.jpg 1024w, /images/2022/czerwiec/wi14-300x199.jpg 300w, /images/2022/czerwiec/wi14-768x510.jpg 768w, /images/2022/czerwiec/wi14-1536x1020.jpg 1536w, /images/2022/czerwiec/wi14.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/wi15.jpg"><img loading="lazy" decoding="async" width="680" height="1024" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi15-680x1024.jpg" alt="" class="wp-image-8812" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_wi15-680x1024.jpg 680w, /images/2022/czerwiec/wi15-199x300.jpg 199w, /images/2022/czerwiec/wi15-768x1157.jpg 768w, /images/2022/czerwiec/wi15-1020x1536.jpg 1020w, /images/2022/czerwiec/wi15.jpg 1360w" sizes="(max-width: 680px) 100vw, 680px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/zd18-1.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd18-1.jpg" alt="" class="wp-image-8813" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd18-1.jpg 800w, /images/2022/czerwiec/zd18-1-300x199.jpg 300w, /images/2022/czerwiec/zd18-1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/zd19.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd19.jpg" alt="" class="wp-image-8814" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd19.jpg 800w, /images/2022/czerwiec/zd19-300x199.jpg 300w, /images/2022/czerwiec/zd19-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/zd20.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd20.jpg" alt="" class="wp-image-8815" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd20.jpg 800w, /images/2022/czerwiec/zd20-300x199.jpg 300w, /images/2022/czerwiec/zd20-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="http://mgok-zawichost.pl/wp-content/uploads/2022/06/zd21.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd21.jpg" alt="" class="wp-image-8816" srcset="/images/2022/czerwiec/2022_czerwiec_zawichojski_wiecz_r_tradycji_2022_06_zawichojski_wiecz_r_tradycji_zd21.jpg 800w, /images/2022/czerwiec/zd21-300x199.jpg 300w, /images/2022/czerwiec/zd21-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Tekst i foto: MGOK</p>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

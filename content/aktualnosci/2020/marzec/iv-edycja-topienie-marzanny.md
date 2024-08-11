@@ -1,0 +1,29 @@
+---
+thumbnail: "/images/2020/marzec/2020_marzec_iv_edycja_topienie_marzanny_2020_03_iv_edycja_topienie_marzanny_ma1-3-726x1024.jpg"
+title: "IV EDYCJA – TOPIENIE MARZANNY"
+publishDate: "2020-03-01T00:00:00.000Z"
+eventDate: "2020-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>UWAGA UCZESTNICY – poza regulaminem macie szansę, aby zdobyć</p>
+
+
+
+<p>„NAGRODĘ BURMISTRZA ZAWICHOSTU”.</p>
+
+
+
+<p>Komu się uda&nbsp; – to okaże się już 21 marca 2020r. Zapraszamy Was do udziału, a Pani Burmistrz dziękujemy za wsparcie.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="726" height="1024" src="/images/2020/marzec/2020_marzec_iv_edycja_topienie_marzanny_2020_03_iv_edycja_topienie_marzanny_ma1-3-726x1024.jpg" alt="" class="wp-image-7336" srcset="/images/2020/marzec/2020_marzec_iv_edycja_topienie_marzanny_2020_03_iv_edycja_topienie_marzanny_ma1-3-726x1024.jpg 726w, /images/2020/marzec/ma1-3-213x300.jpg 213w, /images/2020/marzec/ma1-3-768x1084.jpg 768w, /images/2020/marzec/ma1-3.jpg 800w" sizes="(max-width: 726px) 100vw, 726px"></figure>
+
+
+
+<p> <em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>. </p>
+						
+						</div>

@@ -1,0 +1,17 @@
+---
+thumbnail: "/images/2014/grudzien/2014_grudzien_spotkanie_wigilijne_zapraszamy_2014_12_spotkanie_wigilijne_zapraszamy_spotkanie-wigilijne.jpg"
+title: "spotkanie wigilijne – zapraszamy"
+publishDate: "2014-12-01T00:00:00.000Z"
+eventDate: "2014-12-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-2526" title="spotkanie wigilijne" src="/images/2014/grudzien/2014_grudzien_spotkanie_wigilijne_zapraszamy_2014_12_spotkanie_wigilijne_zapraszamy_spotkanie-wigilijne.jpg" alt="" width="800" height="495" srcset="/images/2014/grudzien/2014_grudzien_spotkanie_wigilijne_zapraszamy_2014_12_spotkanie_wigilijne_zapraszamy_spotkanie-wigilijne.jpg 800w, /images/2014/grudzien/spotkanie-wigilijne-300x185.jpg 300w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: left;">Serdecznie zapraszamy na wspólny Wieczór Wigilijny wszystkich uczestników zajęć, zespołów artystycznych oraz kół zainteresowań działających w MGOK Zawichost.</p>
+<p style="text-align: right;">Dyrektor MGOK oraz pracownicy</p>
+<p style="text-align: center;">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>
+o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>
+zdjęć, jest zabronione i wymaga zgody na piśmie.</p>
+						
+						</div>

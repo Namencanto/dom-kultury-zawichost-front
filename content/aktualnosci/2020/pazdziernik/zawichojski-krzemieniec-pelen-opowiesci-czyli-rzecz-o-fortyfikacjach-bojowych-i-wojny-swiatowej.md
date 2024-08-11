@@ -1,0 +1,69 @@
+---
+thumbnail: "/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ1.jpg"
+title: "ZAWICHOJSKI KRZEMIENIEC PEŁEN OPOWIEŚCI… – CZYLI RZECZ O FORTYFIKACJACH BOJOWYCH I WOJNY ŚWIATOWEJ"
+publishDate: "2020-10-01T00:00:00.000Z"
+eventDate: "2020-10-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>24 października 2020 r. w Miejsko-Gminnym Ośrodku Kultury w Zawichoście odbyło się spotkanie podsumowujące prace na rzecz uporządkowania historycznego terenu naszego miasta – oczyszczenie bunkra z okresu I wojny światowej oraz odrestaurowanie krzyża, usadowionego na miejscu dawnego cmentarza cholerycznego. Prace te były możliwe dzięki współpracy: Miasta i Gminy Zawichost, Stowarzyszenia Mieszkańców Gminy Annopol „SZANSA”, Stowarzyszenia Wspólne Dziedzictwo z Opatowa oraz Miejsko-Gminnego Ośrodka Kultury w Zawichoście. Zadanie mogło być zrealizowane dzięki uprzejmości właścicieli terenu, na którym obiekty się znajdują – Państwa Mirosławy i Janusza oraz Kamila Kurtków.</p>
+
+
+
+<p>Uczestnicy wydarzenia obejrzeli prezentację fotograficzną uzupełnioną słownym komentarzem prezesa stowarzyszenia „SZANSA” Wojciecha Rudziejewskiego – Rudziewicza, który wrócił w niej do wspomnień z wiosenno-letniej pracy na terenie zawichojskiego Krzemieńca. Od strony historycznej tematem unikatowych schronów, już podczas prac w terenie, zainteresował się archiwista, historyk, kierownik Wojewódzkiej Biblioteki Publicznej – Marek Lis. W minione, sobotnie popołudnie wygłosił esencjonalny wykład, dotyczący działań z okresu pierwszej wojny światowej w Zawichoście i okolicach &nbsp;z uwzględnieniem roli fortyfikacji bojowych na linii środkowej Wisły.</p>
+
+
+
+<p>W części podsumowującej, dyrektor Miejsko-Gminnego Ośrodka Kultury – Patrycja Sus-Lutyńska, w imieniu burmistrz Zawichostu – Katarzyny Kondziołki, która ze względów zdrowotnych nie mogła wziąć udziału w wydarzeniu, wręczyła oficjalne listy – podziękowania, skierowane do „<em>(…) zaangażowanych w poczynione prace na rzecz miasta i zachowania dorobku dziedzictwa historyczno-kulturowego. Przyczynili się Państwo nie tylko do poprawy wizerunkowej terenu, odnowili zabytki Zawichostu, ale również bezinteresownie poświęcili swój cenny, wolny czas, by na nowo zagościła w świadomości mieszkańców myśl, że ważne dla nich miejsca pamięci, nie zostaną pozostawione na samoczynną degradację i zniszczenie – doświadczone przez upływający czas.”</em></p>
+
+
+
+<p>Pamiątkowe podziękowania otrzymają także nieobecni podczas spotkania właściciele terenu. Ich treść podpisana przez reprezentantów: Gminy Zawichost, stowarzyszenia „SZANSA” oraz MGOK w Zawichoście również została odczytana podczas wydarzenia.</p>
+
+
+
+<p>Wieczór zakończył się rozmowami wypełnionymi pomysłami na kolejne wspólne działania w obszarze omawianego tematu, nie zabrakło również sugestii ze strony zgromadzonej publiczności. Chęci i pozytywna energia pozostawiają nadzieję na dalszą owocną i kreatywną współpracę.</p>
+
+
+
+<p>W imieniu wszystkich organizatorów sobotniego wieczory, dziękujemy tym, którzy uczestniczyli w nim wspólnie z nami. Zainteresowanym przypominamy, że w niedalekiej przyszłości opracowany zostanie materiał dokumentujący fragmenty wydarzenia, który odnajdziecie Państwo w sieci.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="800" height="533" src="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ1.jpg" alt="" class="wp-image-7689" srcset="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ1.jpg 800w, /images/2020/pazdziernik/KRZ1-300x200.jpg 300w, /images/2020/pazdziernik/KRZ1-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="531" src="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ2.jpg" alt="" class="wp-image-7690" srcset="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ2.jpg 800w, /images/2020/pazdziernik/KRZ2-300x199.jpg 300w, /images/2020/pazdziernik/KRZ2-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="680" height="1024" src="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ3-680x1024.jpg" alt="" class="wp-image-7691" srcset="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ3-680x1024.jpg 680w, /images/2020/pazdziernik/KRZ3-199x300.jpg 199w, /images/2020/pazdziernik/KRZ3-768x1156.jpg 768w, /images/2020/pazdziernik/KRZ3.jpg 800w" sizes="(max-width: 680px) 100vw, 680px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="680" height="1024" src="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ4-680x1024.jpg" alt="" class="wp-image-7692" srcset="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ4-680x1024.jpg 680w, /images/2020/pazdziernik/KRZ4-199x300.jpg 199w, /images/2020/pazdziernik/KRZ4-768x1156.jpg 768w, /images/2020/pazdziernik/KRZ4.jpg 800w" sizes="(max-width: 680px) 100vw, 680px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="533" src="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ5.jpg" alt="" class="wp-image-7693" srcset="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ5.jpg 800w, /images/2020/pazdziernik/KRZ5-300x200.jpg 300w, /images/2020/pazdziernik/KRZ5-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="800" height="533" src="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ6.jpg" alt="" class="wp-image-7694" srcset="/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_czyli_rzecz_o_fortyfikacjach_bojowych_i_wojny_wiatowej_KRZ6.jpg 800w, /images/2020/pazdziernik/KRZ6-300x200.jpg 300w, /images/2020/pazdziernik/KRZ6-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></figure>
+
+
+
+<p>Tekst: MGOK</p>
+
+
+
+<p>Foto: Marian Sus, Agata Osika-Kucharska</p>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

@@ -1,0 +1,59 @@
+---
+thumbnail: "/images/2023/wrzesien/2023_wrzesien_koncert_pt_usi_d_my_przed_drog_2023_09_koncert_pt_usi_d_my_przed_drog_Uplakat-768x1024.jpg"
+title: "Koncert pt. „Usiądźmy przed drogą”"
+publishDate: "2023-09-01T00:00:00.000Z"
+eventDate: "2023-09-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Serdecznie zapraszamy na koncert pt. „Usiądźmy przed drogą”, który odbędzie się 29 września o godz. 18.00 w strażnicy OSP Zawichost Na scenie wystąpi Adam Szabat oraz Waldemar Korzeniowski.</p>
+
+
+
+<p>Kilka słów o koncercie i o artystach:</p>
+
+
+
+<p>„Usiądźmy przed drogą” – koncert piosenek autorskich Adama Szabata. Na program składa się 16 utworów z gatunku piosenki literackiej, zaaranżowanych na dwuosobowy</p>
+
+
+
+<p><a></a>zespół muzyczny (gitara akustyczna, śpiew). „Usiądźmy przed drogą” to nie tylko nawiązanie do wschodniego zwyczaju koncentracji przed podróżą, ale przede wszystkim zaproszenie do podróży. To zachęta do poznania i przeżywania historii ludzi, którzy w różnym czasie, w różnej rzeczywistości, musieli zmierzyć się z codziennością – niekiedy tylko niełatwą, a czasem dramatyczną. To jednocześnie próba nakłonienia widza do refleksji nad życiowymi wyborami człowieka i emocjami, które nim kierują.</p>
+
+
+
+<p>Adam Szabat – wokalista, kompozytor, autor tekstów piosenek, pisarz. Trener wokalny. Zrzeszony w Stowarzyszeniu Autorów ZAiKS. Członek Hrubieszowskiego Towarzystwa Muzycznego.</p>
+
+
+
+<p>Współzałożyciel hrubieszowskiego Teatru Piosenki Młyn (towarzystwa twórców i wykonawców piosenki i prozy). Laureat m.in.: Lubelskiego Festiwalu Piosenki Autorskiej i Poetyckiej im. Jacka Kaczmarskiego „Metamorfozy Sentymentalne”, Ogólnopolskiego Festiwalu Bardów „Ballada o…” w Chełmie, Ogólnopolskiego Turnieju Śpiewających Poezję „Łaźnia” w Radomiu, Festiwalu Polskiej Piosenki im. Kazimierza Grześkowiaka „Południca” w Chorzowie, Ogólnopolskiego Studenckiego Przeglądu Piosenki Turystycznej “YAPA” w Łodzi, Ogólnopolskich Spotkań z Piosenką Au-torską „Oranżeria 2021” w Radzyniu Podlaskim, dwukrotny finalista Międzynarodowego Festiwalu Bardów OPPA w Warszawie.</p>
+
+
+
+<p>18 września 2019 r. uhonorowany tytułem „Zasłużony dla powiatu hrubieszowskiego”, 18 września 2020 „Medalem 620-lecia Hrubieszowa”. Artysta obdarzony niesamowicie ciepłym, mocnym i melodyjnym głosem. Nietuzinkowe umiejętności wokalne pozwalają mu na porywające i pełne ekspresji wykonania. Ma na koncie trzy płyty z Teatrem Piosenki Młyn: Piosenki z miasteczka H (2010 r.), Wysłuchajmy błazna, kiedy śpiewa (2014 r.), Na trzy (2017 r.)</p>
+
+
+
+<p>W 2013 roku zarejestrowano koncert „Adam Szabat – recital piosenek na żywo”, w 2021 wraz z Janem Kondrakiem i Waldemarem Korzeniowskim wydał płytę „Pieśni Kresów Naszych”. W tym roku również, zadebiutował powieścią „Tajemnica Jareda Straya” wydanej nakładem wydawnictwa Lira. Rok później, we wrześniu 2022 roku ukazała się autorska płyta Adama Szabata pt.: “Usiądźmy przed drogą”. Tego samego roku miała miejsce premiera programu “Szabat u Leśmiana”, w którym artysta zaprezentował dziesięć wierszy Bolesława Leśmiana z własną muzyką, zaaranżowaną na band jazzowy przez Waldemara Korzeniowskiego i Michała Iwanka. Płyta pod tym samym tytułem ukazała się 2 maja 2023 roku.</p>
+
+
+
+<p>Teksty piosenek i artykuły autorstwa Adama Szabata są prezentowane w Roczniku Piosenka, wydawanym przez Muzeum Polskiej Piosenki w Opolu.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/Uplakat-scaled.jpg"><img fetchpriority="high" decoding="async" width="768" height="1024" src="/images/2023/wrzesien/2023_wrzesien_koncert_pt_usi_d_my_przed_drog_2023_09_koncert_pt_usi_d_my_przed_drog_Uplakat-768x1024.jpg" alt="" class="wp-image-9948" srcset="/images/2023/wrzesien/2023_wrzesien_koncert_pt_usi_d_my_przed_drog_2023_09_koncert_pt_usi_d_my_przed_drog_Uplakat-768x1024.jpg 768w, /images/2023/wrzesien/Uplakat-225x300.jpg 225w, /images/2023/wrzesien/Uplakat-1152x1536.jpg 1152w, /images/2023/wrzesien/Uplakat-1536x2048.jpg 1536w, /images/2023/wrzesien/Uplakat-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/296103797_408158931294837_5722241967973039474_n.jpg"><img decoding="async" width="683" height="1024" src="/images/2023/wrzesien/2023_wrzesien_koncert_pt_usi_d_my_przed_drog_2023_09_koncert_pt_usi_d_my_przed_drog_296103797_408158931294837_5722241967973039474_n-683x1024.jpg" alt="" class="wp-image-9949" srcset="/images/2023/wrzesien/2023_wrzesien_koncert_pt_usi_d_my_przed_drog_2023_09_koncert_pt_usi_d_my_przed_drog_296103797_408158931294837_5722241967973039474_n-683x1024.jpg 683w, /images/2023/wrzesien/296103797_408158931294837_5722241967973039474_n-200x300.jpg 200w, /images/2023/wrzesien/296103797_408158931294837_5722241967973039474_n-768x1151.jpg 768w, /images/2023/wrzesien/296103797_408158931294837_5722241967973039474_n-1025x1536.jpg 1025w, /images/2023/wrzesien/296103797_408158931294837_5722241967973039474_n.jpg 1366w" sizes="(max-width: 683px) 100vw, 683px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/AdamSzabat-zdj.-Andrzej-Romanski.jpg"><img decoding="async" width="1011" height="1024" src="/images/2023/wrzesien/2023_wrzesien_koncert_pt_usi_d_my_przed_drog_2023_09_koncert_pt_usi_d_my_przed_drog_AdamSzabat-zdj.-Andrzej-Romanski-1011x1024.jpg" alt="" class="wp-image-9950" srcset="/images/2023/wrzesien/2023_wrzesien_koncert_pt_usi_d_my_przed_drog_2023_09_koncert_pt_usi_d_my_przed_drog_AdamSzabat-zdj.-Andrzej-Romanski-1011x1024.jpg 1011w, /images/2023/wrzesien/AdamSzabat-zdj.-Andrzej-Romanski-296x300.jpg 296w, /images/2023/wrzesien/AdamSzabat-zdj.-Andrzej-Romanski-768x778.jpg 768w, /images/2023/wrzesien/AdamSzabat-zdj.-Andrzej-Romanski-50x50.jpg 50w, /images/2023/wrzesien/AdamSzabat-zdj.-Andrzej-Romanski.jpg 1080w" sizes="(max-width: 1011px) 100vw, 1011px"></a></figure>
+
+
+						
+						</div>

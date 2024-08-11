@@ -1,0 +1,44 @@
+---
+thumbnail: "/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0015.jpg"
+title: "Dobry łotr"
+publishDate: "2018-03-01T00:00:00.000Z"
+eventDate: "2018-03-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							<p>W Wielką Środę, 28 marca 2018 r. uczniowie Szkoły Podstawowej im. Ziemi Zawichojskiej oraz Zespołu Szkół Ogólnokształcących w Zawichoście przedstawili na naszej scenie niezwykle ciekawą interpretację Misterium Męki Pańskiej. Młodzieży i nauczycielom gratulujemy wymownego spektaklu, który skłania do refleksji.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-5720" src="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0015.jpg" alt="" width="800" height="531" srcset="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0015.jpg 800w, /images/2018/marzec/DSC_0015-300x199.jpg 300w, /images/2018/marzec/DSC_0015-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-5721" src="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0021.jpg" alt="" width="800" height="531" srcset="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0021.jpg 800w, /images/2018/marzec/DSC_0021-300x199.jpg 300w, /images/2018/marzec/DSC_0021-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-5722" src="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0038-1.jpg" alt="" width="800" height="531" srcset="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0038-1.jpg 800w, /images/2018/marzec/DSC_0038-1-300x199.jpg 300w, /images/2018/marzec/DSC_0038-1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5723" src="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0061.jpg" alt="" width="800" height="531" srcset="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0061.jpg 800w, /images/2018/marzec/DSC_0061-300x199.jpg 300w, /images/2018/marzec/DSC_0061-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5724" src="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0203.jpg" alt="" width="800" height="531" srcset="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0203.jpg 800w, /images/2018/marzec/DSC_0203-300x199.jpg 300w, /images/2018/marzec/DSC_0203-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5725" src="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0381.jpg" alt="" width="800" height="531" srcset="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0381.jpg 800w, /images/2018/marzec/DSC_0381-300x199.jpg 300w, /images/2018/marzec/DSC_0381-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5726" src="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0384.jpg" alt="" width="800" height="531" srcset="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0384.jpg 800w, /images/2018/marzec/DSC_0384-300x199.jpg 300w, /images/2018/marzec/DSC_0384-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5727" src="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0385.jpg" alt="" width="800" height="531" srcset="/images/2018/marzec/2018_marzec_dobry_otr_2018_03_dobry_otr_DSC_0385.jpg 800w, /images/2018/marzec/DSC_0385-300x199.jpg 300w, /images/2018/marzec/DSC_0385-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p style="text-align: right;">Foto: Marcel Rosiński</p>
+<p><strong>PIĘKNO NARZĘDZIEM DOBRA</strong></p>
+<p>„Piękno w służbie prawdy i dobra” – tak można by podsumować całość wydarzenia kulturalnego, jakim była prezentacja spektaklu „Dobry łotr”. Bo dobro jest prawdą, a jeśli jej narzędziem stanie się piękno, to sztuka ma niezwykłą moc poruszenia umysłu i serca człowieka.</p>
+<p>I to udało się młodym aktorom, uczniom Szkoły Podstawowej i Zespołu Szkół Ogólnokształcących w Zawichoście, którzy chcieli językiem teatru powiedzieć o wartościach uniwersalnych, wskazując konkretnie na ich bijące źródło w ewangelicznym przykładzie przebaczenia z krzyża, które ma porywającą siłę formacji postaw współczesnych ludzi.</p>
+<p>Na ogólne wrażenie piękna spektaklu złożyło się wiele elementów: świetna gra aktorska i kapitalna pantomima, będąca twórczą ilustracją aktorsko-muzycznego nagrania tekstu biblijnego. Jeśli do tego dodamy plastykę ciekawej scenografii oraz kostiumów na tle nastrojowej muzyki i gry świateł, to otrzymamy niezapomniane doświadczenie estetyczne. I to poruszenie emocji sprawiło, że przesłanie sztuki docierało do wnętrza człowieka, wzbudzając w nim głęboką refleksję.</p>
+<p><strong>Warto robić</strong></p>
+<p>Warto włożyć ogromny wysiłek w przygotowanie sztuki, z której wynika ważne dla życia przesłanie. A to zawiera scenariusz „Dobrego łotra” Marcina Kobierskiego. Choćby w przypadku losów tytułowego bohatera – złodzieja, któremu pani Maria wzorem Chrystusa wybaczyła napad rabunkowy na dom. Tak otrzymane przebaczenie było szansą, by się zmienić. Ale i inni bohaterowie, na przykład antykwariusz, mają nam wiele do powiedzenia o sztuce mądrego podejścia do świata i ludzi.</p>
+<p><strong>Role, których nie trzeba zdejmować</strong></p>
+<p>Zwykle po szkolnym spektaklu reżyserujący nauczyciel ściąga rolę z uczniów, mówiąc, że „już nie jesteś Judaszem, Piłatem czy też Apostołem Piotrem lub Cyrenejczykiem, lecz Pawłem Nowakowskim”. Ponieważ to przedstawienie miało dwa przeplatające się wymiary: świat współczesny i biblijny, więc warto, żeby role ewangeliczne dłużej pozostały. Dlaczego? Ponieważ człowiek to istota skomplikowana i każdy z nas ma coś z Judasza i Piłata, zapierającego się świętego Piotra i liczącego na miłosierdzie dobrego łotra. Ta konfrontacja okazuje się konieczna i poznawcza.</p>
+<p>Choć dążymy do postaw jednoznacznych – i na tym polega nasz rozwój – jednakże doświadczamy w sobie różnych rozdarć. Niekiedy bywa, że środowisko znosi nas w kierunku nieprawości. Ulegamy tym wpływom dlatego, że jesteśmy słabi… Przecież nikt z nas nie chce w sposób świadomy być złym człowiekiem, stąd podejmujemy wysiłek w kierunku dobra. Wielką pomocą jest tu pozytywny przykład. Możemy go znaleźć w rodzinie i wśród przyjaciół, na kartach ksiąg i na deskach teatru. Idziemy za wzorcami, które nam imponują – podobają się nie tylko w sferze intelektualnej, ale i egzystencjalnej. Dlatego „Dobry łotr” to nie tylko spektakl, lecz i egzystencjalne doświadczenie tego, co dzieje się w człowieku.</p>
+<p>Ksiądz Biskup Wacław Świerzawski powiedział kiedyś, że Jezus zstępując na świat przyniósł niebo, wprowadził je do naszego wnętrza. Warto podjąć wysiłek, by odkryć dobro w sobie (i innych) i nim się uradować. Bo blask jego piękna ma moc pociągnąć nas w głąb i wzwyż.</p>
+<ol>
+<li>Alicja Rutkowska CHR</li>
+</ol>
+<p>wraz z opiekunkami spektaklu: p. Małgorzatą Czajkowską i p. Danutą Kinal</p>
+<p>&nbsp;</p>
+<p>P.S. Spektakl „Dobry łotr” miał już trzy odsłony: dwie pierwsze w dniu 27 III 2018 roku (rano dla społeczności szkolnej, po południu dla środowiska lokalnego w Miejsko-Gminnym Ośrodku Kultury w Zawichoście), a trzecią – 17 IV 2018 roku w ramach XXI edycji Festiwalu Kultury Chrześcijańskiej „Eutrapelia 2017/2018” w zawichojskim M-GOK-u, która była ona nagrywana przez telewizję „Stella”.</p>
+<p>Trzeci raz zagraliśmy dla dwóch grup. Na widowni gościliśmy uczestników Warsztatów terapii zajęciowej w Zawichoście, od których otrzymaliśmy serdeczne podziękowania za zaproszenie na spektakl z piękną recenzję: „Niesamowite przeżycie. Jesteśmy pod wrażeniem. Super sprawa. Prosimy o więcej”. Zaś drugą grupę stanowili chłopcy z Młodzieżowego Ośrodka Wychowawczego w Zawichoście. Jeden z nich wracając z przedstawienia powiedział wychowawczyni: „To był spektakl o nas”.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie</em><br>
+<em> z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>
+						
+						</div>

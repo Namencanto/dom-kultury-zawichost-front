@@ -1,0 +1,53 @@
+---
+thumbnail: "/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0008-1024x608.jpg"
+title: "Warsztaty z zakresu kultury rycerskiej"
+publishDate: "2023-09-01T00:00:00.000Z"
+eventDate: "2023-09-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p>Zawichojska młodzież wzięła udział w warsztatach z zakresu kultury rycerskiej. Zajęcia tańca dawnego, szermierki mieczem oraz wykłady o historii etosu i kultury rycerskiej, odbyły się w ramach projektu „Bardzo Młodzi Rycerze”, który ze środków programu Bardzo Młoda Kultura, realizuje Muzeum Zamkowe w Sandomierzu. Miło nam, że obok Szydłowa i Opatowa, również i my otrzymaliśmy propozycję partnerstwa. Dziękujemy dyrekcji oraz pracownikom sandomierskiej instytucji kultury, uczestnikom dzisiejszego spotkania, a także dyrekcji i nauczycielom Zespołu Szkoły i Przedszkola w Zawichoście za współpracę dotyczącą organizacji grupy.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/DSC_0008-scaled.jpg"><img fetchpriority="high" decoding="async" width="1024" height="608" src="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0008-1024x608.jpg" alt="" class="wp-image-9937" srcset="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0008-1024x608.jpg 1024w, /images/2023/wrzesien/DSC_0008-300x178.jpg 300w, /images/2023/wrzesien/DSC_0008-768x456.jpg 768w, /images/2023/wrzesien/DSC_0008-1536x911.jpg 1536w, /images/2023/wrzesien/DSC_0008-2048x1215.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/DSC_0013-scaled.jpg"><img decoding="async" width="1024" height="706" src="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0013-1024x706.jpg" alt="" class="wp-image-9938" srcset="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0013-1024x706.jpg 1024w, /images/2023/wrzesien/DSC_0013-300x207.jpg 300w, /images/2023/wrzesien/DSC_0013-768x529.jpg 768w, /images/2023/wrzesien/DSC_0013-1536x1058.jpg 1536w, /images/2023/wrzesien/DSC_0013-2048x1411.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/DSC_0015-scaled.jpg"><img decoding="async" width="1024" height="719" src="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0015-1024x719.jpg" alt="" class="wp-image-9939" srcset="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0015-1024x719.jpg 1024w, /images/2023/wrzesien/DSC_0015-300x211.jpg 300w, /images/2023/wrzesien/DSC_0015-768x539.jpg 768w, /images/2023/wrzesien/DSC_0015-1536x1078.jpg 1536w, /images/2023/wrzesien/DSC_0015-2048x1437.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/DSC_0018-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="634" src="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0018-1024x634.jpg" alt="" class="wp-image-9940" srcset="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0018-1024x634.jpg 1024w, /images/2023/wrzesien/DSC_0018-300x186.jpg 300w, /images/2023/wrzesien/DSC_0018-768x476.jpg 768w, /images/2023/wrzesien/DSC_0018-1536x952.jpg 1536w, /images/2023/wrzesien/DSC_0018-2048x1269.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/DSC_0024-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="614" src="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0024-1024x614.jpg" alt="" class="wp-image-9941" srcset="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0024-1024x614.jpg 1024w, /images/2023/wrzesien/DSC_0024-300x180.jpg 300w, /images/2023/wrzesien/DSC_0024-768x461.jpg 768w, /images/2023/wrzesien/DSC_0024-1536x922.jpg 1536w, /images/2023/wrzesien/DSC_0024-2048x1229.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/DSC_0026-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="680" src="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0026-1024x680.jpg" alt="" class="wp-image-9943" srcset="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0026-1024x680.jpg 1024w, /images/2023/wrzesien/DSC_0026-300x199.jpg 300w, /images/2023/wrzesien/DSC_0026-768x510.jpg 768w, /images/2023/wrzesien/DSC_0026-1536x1020.jpg 1536w, /images/2023/wrzesien/DSC_0026-2048x1360.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/DSC_0039-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="685" src="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0039-1024x685.jpg" alt="" class="wp-image-9942" srcset="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0039-1024x685.jpg 1024w, /images/2023/wrzesien/DSC_0039-300x201.jpg 300w, /images/2023/wrzesien/DSC_0039-768x514.jpg 768w, /images/2023/wrzesien/DSC_0039-1536x1028.jpg 1536w, /images/2023/wrzesien/DSC_0039-2048x1370.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2023/09/DSC_0041-scaled.jpg"><img loading="lazy" decoding="async" width="1024" height="771" src="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0041-1024x771.jpg" alt="" class="wp-image-9944" srcset="/images/2023/wrzesien/2023_wrzesien_warsztaty_z_zakresu_kultury_rycerskiej_2023_09_warsztaty_z_zakresu_kultury_rycerskiej_DSC_0041-1024x771.jpg 1024w, /images/2023/wrzesien/DSC_0041-300x226.jpg 300w, /images/2023/wrzesien/DSC_0041-768x578.jpg 768w, /images/2023/wrzesien/DSC_0041-1536x1157.jpg 1536w, /images/2023/wrzesien/DSC_0041-2048x1542.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+
+
+
+<p>Foto: MGOK</p>
+
+
+
+<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em> <em>4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+						
+						</div>

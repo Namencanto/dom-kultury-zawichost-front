@@ -1,0 +1,145 @@
+---
+thumbnail: "/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str1.jpg"
+title: "29.FINAŁ WOŚP JUŻ ZA NAMI, PODZIĘKOWANIA, PODZIĘKOWANIA, PODZIĘKOWANIA…"
+publishDate: "2020-02-01T00:00:00.000Z"
+eventDate: "2020-02-01T00:00:00.000Z"
+---
+
+<div class="entry-content">
+							
+							
+<p><strong>Wygraliśmy z sercem! Wielki sukces 29. Finału WOŚP w Zawichoście</strong></p>
+
+
+
+<p><strong>Mimo wielu trudności, reżimu sanitarnego i specyficznych warunków udało się! Dzięki kweście 42 wolontariuszy, zaangażowaniu wielu firm i instytucji oraz hojności naszych darczyńców i wszystkich ludzi o Wielkim Sercu, zebraliśmy kwotę 26 476 złotych i 43 groszy (to zaledwie 1 474 złote i 99 groszy mniej niż w roku ubiegłym), a to wszystko dla laryngologii, otolaryngologii i diagnostyki głowy!</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/02/str1.jpg"><img fetchpriority="high" decoding="async" width="800" height="531" src="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str1.jpg" alt="" class="wp-image-7835" srcset="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str1.jpg 800w, /images/2020/luty/str1-300x199.jpg 300w, /images/2020/luty/str1-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>29. Finał Wielkiej Orkiestry Świątecznej Pomocy był inny niż dotychczas. Nie ostudziło to jednak naszego zapału i zrobiliśmy letnią zadymę w środku zimy! Przeprowadzenie licytacji internetowej możliwe było dzięki naszej niezawodnej obsłudze technicznej w składzie: Wojciech Próchnicki i Marcel Rosiński.&nbsp; Niezastąpiona<br>i zdeterminowana prowadząca Małgorzata Czajkowska rozgrzała Wasze serca do czerwoności – aukcja internetowa dała nam – 10 438 złotych 23 grosze! Po raz pierwszy do firm<br>i instytucji wstawiliśmy Sztabowe Puszki Stacjonarne, które odebraliśmy od właścicieli lub osób kierujących po około miesiącu depozytu. 27 firm i instytucji zebrało łącznie – 7 935 złotych 9 groszy. Na zebraną sumę złożyła się również zbiórka wolontariuszy w kwocie<br>– 8 103 złote i 11 groszy. Jest nam bardzo miło, że grała z nami Katarzyna Kondziołka<br>– &nbsp;gospodarz Gminy Zawichost, która niezmiennie, co roku, swoją postawą wobec WOŚP, daje przykład zaangażowania w ważną dla mieszkańców terenu, wolontariacką akcję.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/02/str7.jpg"><img decoding="async" width="800" height="531" src="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str7.jpg" alt="" class="wp-image-7836" srcset="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str7.jpg 800w, /images/2020/luty/str7-300x199.jpg 300w, /images/2020/luty/str7-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/02/str8.jpg"><img decoding="async" width="800" height="531" src="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str8.jpg" alt="" class="wp-image-7837" srcset="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str8.jpg 800w, /images/2020/luty/str8-300x199.jpg 300w, /images/2020/luty/str8-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Ranking Sztabowych Puszek Stacjonarnych:</p>
+
+
+
+<p>I miejsce – 1 178 złotych i 84 grosze – Warsztat Samochodowy P.T.U. „ZAW-TRANS”<br>w Zawichoście – Grzegorz Szeliga</p>
+
+
+
+<p>II miejsce – 1 131 złotych i 20 groszy – Warsztat Terapii Zajęciowej w Piotrowicach</p>
+
+
+
+<p>III miejsce – 448 złotych i 55 groszy – Urząd Miasta i Gminy Zawichost</p>
+
+
+
+<p>Warto wspomnieć o rekordach licytacji. Podajemy przedmioty, które osiągnęły najwyższą wartość: Najcenniejszymi fantami okazały się: koszulka 29.Finału WOŚP – wylicytowana przez Katarzynę Sobieszkodę, przekazaną przez Sztab Główny WOŚP za kwotę 705 złotych, Angelika Kondrat – wylicytowała tort z logiem 29. Finału przekazany przez Edytę Rębiś<br>– przewodniczącą Rady Miejskiej Zawichost za kwotę 431 złotych, Bożena Nierubiec<br>– wylicytowała frytkownicę beztłuszczową przekazaną przez OSP Dziurów za kwotę 310 złotych. Warto wspomnieć, że ostatni gadżet tegorocznej aukcji – flagę wolontariusza&nbsp;<br>– zakupił (odwiedzając nasze studio osobiście 😉 wieloletni wierny fan naszych finałów<br>– Józef Szeliga, który pięknym gestem – symbolicznie zakończył licytację 29. Finału<br>w Zawichoście.</p>
+
+
+
+<p>Najwięcej zebrali wolontariusze: Aleksy Wiciński – 772 złote 79 groszy, Aleksandra Chołody – 716 złotych 45 groszy, Martyna Młodożeńca – 469 złotych. Jesteśmy z Was dumni!</p>
+
+
+
+<p>Symbolicznym zwieńczeniem tego wspaniałego dnia było tradycyjne Światełko do Nieba<br>– które przygotowali strażacy OSP Zawichost, a darczyńcami byli Państwo Ilona i Jarosław Dziubińscy.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/02/str2.jpg"><img loading="lazy" decoding="async" width="768" height="1024" src="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str2-768x1024.jpg" alt="" class="wp-image-7838" srcset="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str2-768x1024.jpg 768w, /images/2020/luty/str2-225x300.jpg 225w, /images/2020/luty/str2.jpg 800w" sizes="(max-width: 768px) 100vw, 768px"></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/02/srt4.jpg"><img loading="lazy" decoding="async" width="766" height="1024" src="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_srt4-766x1024.jpg" alt="" class="wp-image-7839" srcset="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_srt4-766x1024.jpg 766w, /images/2020/luty/srt4-224x300.jpg 224w, /images/2020/luty/srt4-768x1027.jpg 768w, /images/2020/luty/srt4.jpg 800w" sizes="(max-width: 766px) 100vw, 766px"></a></figure>
+
+
+
+<p>Nasz sukces nie byłby możliwy gdyby nie zaangażowanie &nbsp;osób o Wielkim Sercu, którym dziękujemy z całych sił! Wśród nich:</p>
+
+
+
+<p>Wolontariusze:</p>
+
+
+
+<ul><li>Marcel Rosiński</li><li>Milena Wolska</li><li>Aleksy Wiciński</li><li>Andrzej Mazur</li><li>Anna Mazur</li><li>Iwona Kaptur</li><li>Małgorzata Czajkowska</li><li>Ewa Czajkowska</li><li>Bożena Nierubiec</li><li>Żaneta Kalinowska</li><li>Monika Dudkowska</li><li>Patrycja Sus-Lutyńska</li><li>Amelia Wajs</li><li>Aleksander Winiarczyk</li><li>Magdalena Winiarczyk</li><li>Kacper Paliński</li><li>Martyna Młodożeńca</li><li>Agata Mazur</li><li>Oliwia Winiarczyk</li><li>Kinga Kędziora-Palińska</li><li>Katarzyna Kondziołka</li><li>Elżbieta Jabłońska</li><li>Aleksandra Chołody</li><li>Julia Maj</li><li>Jan Dziubiński</li><li>Monika Dziubińska</li><li>Ignacy Dziubiński</li><li>Michalina Dziubińska</li><li>Oliwia Trznadel</li><li>Jakub Małecki</li><li>Izabela Wiatrowska</li><li>Oliwia Małecka</li><li>Agata Osika-Kucharska</li><li>Lena Stępień</li><li>Monika Borcuch</li><li>Monika Rzepka</li><li>Iga Rzepka</li><li>Dorota Drach</li><li>Edyta Drach</li><li>Julia Grochowska</li><li>Dorota Grzesiak</li></ul>
+
+
+
+<p>Darczyńcy:</p>
+
+
+
+<ul><li>Katarzyna Kondziołka – Burmistrz Zawichostu</li><li>Edyta Rębiś – Przewodnicząca Rady Miejskiej Zawichost</li><li>P.T.U. „ZAW-TRANS” Grzegorz Szeliga</li><li>Renata Stachowicz</li><li>Warsztat Terapii Zajęciowej w Piotrowicach</li><li>Paweł Bednarski – MOTO – SANDOMIERZ</li><li>Kancelaria Finansowo Ubezpieczeniowa – Edward Kędziora i Synowie</li><li>Dawid Kędziora</li><li>Stowarzyszenie Wspólne Dąbie</li><li>Marlena Czubala „Słodkie Góry”</li><li>Gabinet Masażu i Rehabilitacji – Aneta Barłożek</li><li>Środowiskowy Dom Samopomocy w Zawichoście</li><li>Firma „BEDOM” – Elżbieta i Andrzej Bednarscy</li><li>„DORADCA” Usługi BHP Piotrowice</li><li>Koło Gospodyń Wiejskich w Czyżowie Szlacheckim</li><li>Małgorzata Mianowana – sołtys wsi Czyżów Szlachecki</li><li>Delikatesy Centrum – Marzena i Ryszard Kwiatkowscy</li><li>Jacek i Katarzyna Stępniowie</li><li>Piotr Stępień</li><li>OSP Dziurów</li><li>Klaudia Winiarczyk</li><li>Marzena Drobiazg – Dyrektor ZSiP w Czyżowie Szlacheckim</li><li>Krzysztof Mizera sołtys wsi Czyżów Plebański</li><li>Koło Gospodyń Wiejskich w Czyżowie Plebańskim</li><li>Aleksander i Oliwia Winiarczyk</li><li>Szymon Stępień</li><li>OSP Zawichost</li><li>Ilona i Jarosław Dziubińscy</li><li>Miejsko-Gminny Ośrodek Kultury w Zawichoście</li></ul>
+
+
+
+<p>Firmy i instytucje gdzie znajdowały się Sztabowe Puszki Stacjonarne:</p>
+
+
+
+<ul><li>F.H.U. BEDOM (opiekun Paweł Bednarski)</li><li>KRAWMEDIA w Zawichoście i Ożarowie (opiekun Konstanty Krawczyński)</li><li>P.T.U „ZAW-TRANS”(opiekun Grzegorz Szeliga)</li><li>Warsztat Terapii Zajęciowej w Piotrowicach (opiekun Magdalena Złotucha)</li><li>P.H.U. „SZEL-GAZ” w Zawichoście ( opiekun Ewa Mazurkiewicz)</li><li>Zespół Szkoły i Przedszkola w Czyżowie Szl. (opiekun Dagmara Szymańska)</li><li>F.H.U. Jarosław Dziubiński (opiekun Patrycja Marek)</li><li>Studio Urody „Monika” (opiekun Monika Barłożek-Frańczak)</li><li>P.P.H. MASPEK – Grzegorz Siwek (opiekun Magdalena Świt)</li><li>Apteka Słoneczna w Zawichoście Justyna Mrówka i Ilona Żak (opiekun Agnieszka Bartoszek)</li><li>Sklep Spożywczo-Przemysłowy w Czyżowie Szlacheckim – Jerzy Bidas (opiekun Renata Maruszczk)</li><li>Salon Fryzjerski w Zawichoście (opiekun Iwona Kolasińska)</li><li>Apteka w Czyżowie Szl. – Agnieszka Piotrowska-Faron (opiekun Marta Staniszewska)</li><li>Urząd Miasta i Gminy Zawichost (opiekun Ewelina Ura-Kamińska)</li><li>Zespół Szkoły i Przedszkoli w Zawichoście (opiekunki: Justyna Stępień<br>w Zawichoście i Ewa Kaczmarska-Kur w Linowie)</li><li>Apteka NOVA w Zawichoście – Helena Frańczak (opiekun Greta Frańczak)</li><li>PIOTROWICE Sp. Z o.o. w Piotrowicach (opiekun Piotr Majkrzak)</li><li>P.P.H. SK-PLAST S.C. w Zawichoście (opiekun Grażyna Kramek)</li><li>F.H.U. „GROSZEK” – Iwona Siwek (opiekun Anna Wójcik)</li><li>Usługi Transportowe „EL-BUS” w Dziurowie (opiekun Dariusz Sitarski)</li><li>Sklep Wielobranżowy „MARTA” w Wyspie (opiekun Marta Winiarczyk)</li><li>Sklep Spożywczo-Przemysłowy w Dziurowie (opiekun Elżbieta Małecka)</li><li>Niepubliczna Przedszkole „SMERF” w Górach Wysokich (opiekun Magdalena Winiarczyk)</li><li>Delikatesy Centrum w Zawichoście – Marzena i Ryszard Kwiatkowscy (opiekun Katarzyna Falecka)</li><li>Wyroby Hutnicze „MIJAR” w Sandomierzu (opiekun Michał Paliński)</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/02/str9.jpg"><img loading="lazy" decoding="async" width="800" height="600" src="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str9.jpg" alt="" class="wp-image-7840" srcset="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_str9.jpg 800w, /images/2020/luty/str9-300x225.jpg 300w, /images/2020/luty/str9-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Komisja licząca:</p>
+
+
+
+<ul><li>Ewa Czajkowska</li><li>Monika Dudkowska</li><li>Patrycja Sus-Lutyńska</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><a href="http://mgok-zawichost.pl/wp-content/uploads/2021/02/STR11.jpg"><img loading="lazy" decoding="async" width="800" height="531" src="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_STR11.jpg" alt="" class="wp-image-7841" srcset="/images/2020/luty/2020_luty_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_2020_02_29_fina_wo_p_ju_za_nami_podzi_kowania_podzi_kowania_podzi_kowania_STR11.jpg 800w, /images/2020/luty/STR11-300x199.jpg 300w, /images/2020/luty/STR11-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></a></figure>
+
+
+
+<p>Szczególne podziękowania od całego sztabu kierujemy do Państwa Renaty i Grzegorza Siwków – właścicieli Firmy „Maspek”, którzy przygotowali kanapki oraz Marzeny<br>i Ryszarda Kwiatkowskich – właścicieli Sklepu „Delikatesy Centrum” za słodycze dla każdego wolontariusza!</p>
+
+
+
+<p>Dziękujemy również wszystkim pracownikom Miejsko – Gminnego Ośrodka Kultury<br>w Zawichoście, którzy wspierali nas na każdym etapie przygotowań 29. Finału Wielkiej Orkiestry Świątecznej Pomocy:</p>
+
+
+
+<p><strong>Jeszcze raz &nbsp;całym sercem dziękujemy wszystkim, którzy zaangażowali się<br>w tegoroczny Finał!!! Dzięki Wam wiemy, że nie ma rzeczy niemożliwych!</strong></p>
+
+
+
+<p><strong>Edyta Kędziora</strong></p>
+
+
+
+<p><strong>Szef Sztabu #5643</strong></p>
+
+
+
+<p>Foto: Archiwum MGOK </p>
+
+
+
+<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="" alt=""></figure>
+						
+						</div>
