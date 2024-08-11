@@ -11,7 +11,8 @@ export default defineNuxtConfig({
     "@vesp/nuxt-fontawesome",
     "nuxt-icons",
     "@nuxt/image",
-    "@nuxt/content"
+    "@nuxt/content",
+    "@nuxthq/studio",
   ],
   alias: {
     pinia: "/node_modules/@pinia/nuxt/node_modules/pinia/dist/pinia.mjs",

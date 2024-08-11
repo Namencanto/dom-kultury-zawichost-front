@@ -37,6 +37,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/free-regular-svg-icons": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@nuxthq/studio": "^2.0.3",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.40",
     "postcss-html": "^1.7.0",
