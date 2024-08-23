@@ -1,0 +1,32 @@
+{
+  "title": "asgags",
+  "eventDate": "1212-03-12",
+  "publishDate": "1231-03-12",
+  "thumbnail": "",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "asfg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "gg"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "g"
+    },
+    {
+      "type": "paragraph",
+      "text": "sssa"
+    },
+    {
+      "type": "image",
+      "src": "/images/1212/marzec/inline-image-1723995523111-0.png",
+      "alt": "fsaasfsfasafsfa"
+    }
+  ]
+}
