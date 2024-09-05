@@ -1,0 +1,33 @@
+{
+  "title": "Informacja ws. XXXII Finału WOŚP",
+  "publishDate": "2024-01-01T00:00:00.000Z",
+  "eventDate": "2024-01-01T00:00:00.000Z",
+  "thumbnail": "/images/2024/styczen/2024_styczen_informacja_ws_xxxii_fina_u_wo_p_2024_01_informacja_ws_xxxii_fina_u_wo_p_Dodaj-podtytul-724x1024.jpg",
+  "content": [
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/2024_styczen_informacja_ws_xxxii_fina_u_wo_p_2024_01_informacja_ws_xxxii_fina_u_wo_p_Dodaj-podtytul-724x1024.jpg",
+      "alt": "Informacja o finale WOŚP"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/Dodaj-podtytul-212x300.jpg",
+      "alt": "Obraz w mniejszej rozdzielczości 212x300"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/Dodaj-podtytul-768x1086.jpg",
+      "alt": "Obraz w rozdzielczości 768x1086"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/Dodaj-podtytul-1086x1536.jpg",
+      "alt": "Obraz w rozdzielczości 1086x1536"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/Dodaj-podtytul.jpg",
+      "alt": "Obraz w pełnej rozdzielczości"
+    }
+  ]
+}

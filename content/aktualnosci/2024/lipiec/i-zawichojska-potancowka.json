@@ -1,0 +1,22 @@
+{
+  "title": "I Zawichojska Potańcówka",
+  "publishDate": "2024-07-01T00:00:00.000Z",
+  "eventDate": "2024-07-01T00:00:00.000Z",
+  "thumbnail": "/images/2024/lipiec/Zawichojska-Potancowka-1024x724.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I Zawichojska Potańcówka"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/lipiec/Zawichojska-Potancowka-1024x724.jpg",
+      "alt": "Zawichojska Potańcówka"
+    },
+    {
+      "type": "paragraph",
+      "text": "Potańcówka"
+    }
+  ]
+}

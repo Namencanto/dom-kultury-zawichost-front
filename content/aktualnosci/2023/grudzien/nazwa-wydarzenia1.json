@@ -1,0 +1,39 @@
+{
+  "title": "Nazwa Wydarzenia:1",
+  "eventDate": "2023-12-12",
+  "publishDate": "2023-12-03",
+  "thumbnail": "",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "TEST"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "TEST2"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "TEST3"
+    },
+    {
+      "type": "paragraph",
+      "text": "<p>TEST"
+    },
+    {
+      "type": "paragraph",
+      "text": "asgfgsa"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong><em>sagagasg  fasfsafsa</em></strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong><em>gasgsaags</em></strong></p>"
+    }
+  ]
+}
