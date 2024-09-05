@@ -1,122 +1,187 @@
 <template>
-  <article
-    class="bg-white rounded-lg shadow-md overflow-hidden max-w-3xl mx-auto p-6"
-  >
+  <article class="max-w-4xl mx-auto py-6 px-4 lg:px-8 bg-white">
     <ContentDoc :path="formattedSlug" v-slot="{ doc }">
       <!-- Header -->
-      <header class="relative mb-6">
-        <img
-          v-if="doc.thumbnail"
-          :src="doc.thumbnail"
-          :alt="doc.title"
-          class="w-full h-80 object-cover object-center cursor-pointer transition-transform duration-300 hover:scale-105"
-          @click="openModal(doc.thumbnail)"
-        />
-        <div
-          class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center"
-        >
-          <h1 class="text-4xl font-bold text-white text-center drop-shadow-lg">
-            {{ doc.title }}
-          </h1>
+      <header class="mb-12">
+        <div class="relative">
+          <img
+            v-if="doc.thumbnail"
+            :src="doc.thumbnail"
+            :alt="doc.title"
+            class="w-full h-[400px] lg:h-[500px] object-cover cursor-pointer transition-transform duration-500 hover:scale-105"
+            @click="openModalWithImage(doc.thumbnail)"
+          />
+          <div
+            class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center"
+          >
+            <h1
+              class="text-4xl lg:text-5xl font-extrabold text-white text-center leading-tight"
+            >
+              {{ doc.title }}
+            </h1>
+          </div>
         </div>
       </header>
-      <!-- ./ Header -->
+
+      <!-- Publication and Event Dates -->
+      <div class="flex justify-start gap-4 mb-6 text-sm text-gray-600">
+        <p>
+          <span class="font-semibold">Data publikacji:</span>
+          {{ formatDate(doc.publishDate) }}
+        </p>
+        <p>
+          <span class="font-semibold">Data wydarzenia:</span>
+          {{ formatDate(doc.eventDate) }}
+        </p>
+      </div>
 
       <!-- Content -->
-      <div class="prose prose-lg text-gray-800 mx-auto mb-6">
-        <div class="text-center mb-4">
-          <p class="text-gray-500 text-sm">
-            <span class="font-semibold">Data publikacji:</span>
-            {{ formatDate(doc.publishDate) }}
+      <div class="prose max-w-none text-lg text-gray-900 leading-relaxed mb-12">
+        <div v-for="(block, index) in doc.content" :key="index" class="mb-10">
+          <h1
+            v-if="block.type === 'heading' && block.level === 1"
+            class="text-3xl lg:text-4xl font-bold mb-6"
+          >
+            {{ block.text }}
+          </h1>
+          <h2
+            v-if="block.type === 'heading' && block.level === 2"
+            class="text-2xl font-semibold mb-4"
+          >
+            {{ block.text }}
+          </h2>
+          <h3
+            v-if="block.type === 'heading' && block.level === 3"
+            class="text-xl font-semibold mb-3"
+          >
+            {{ block.text }}
+          </h3>
+          <p v-if="block.type === 'paragraph'" class="text-base leading-7 mb-6">
+            {{ block.text }}
           </p>
-          <p class="text-gray-500 text-sm">
-            <span class="font-semibold">Data wydarzenia:</span>
-            {{ formatDate(doc.eventDate) }}
-          </p>
+          <blockquote
+            v-if="block.type === 'blockquote'"
+            class="border-l-4 pl-4 text-gray-600 italic font-light bg-gray-100 py-4 px-6 mb-8"
+          >
+            {{ block.text }}
+          </blockquote>
+          <ul v-if="block.type === 'list'" class="list-disc list-inside mb-6">
+            <li v-for="(item, index) in block.items" :key="index">
+              {{ item }}
+            </li>
+          </ul>
+          <a
+            v-if="block.type === 'link'"
+            :href="block.href"
+            class="text-blue-600 underline mb-6 block"
+            target="_blank"
+          >
+            {{ block.text }}
+          </a>
+          <img
+            v-if="block.type === 'image'"
+            :src="block.src"
+            :alt="block.alt"
+            class="w-full h-auto rounded-lg my-8 transition-transform duration-500 hover:scale-105 cursor-pointer"
+            @click="openModalWithImage(block.src)"
+          />
         </div>
-        <ContentRenderer :value="doc" />
       </div>
-      <!-- ./ Content -->
 
       <!-- Image Gallery -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <img
-          v-for="image in doc.images"
-          :key="image"
+          v-for="(image, index) in doc.images"
+          :key="index"
           :src="image"
-          :alt="`Image ${image}`"
-          class="w-full h-64 object-cover rounded-lg cursor-pointer transition-transform duration-300 hover:scale-105"
-          @click="openModal(image)"
+          :alt="`Image ${index + 1}`"
+          class="w-full h-56 object-cover rounded-lg cursor-pointer transition-transform duration-500 hover:scale-105"
+          @click="openModalWithGallery(index)"
         />
       </div>
-      <!-- ./ Image Gallery -->
     </ContentDoc>
 
-    <!-- Modal -->
-    <div
-      v-if="isModalOpen"
-      class="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50"
-      @click="closeModal"
+    <!-- Fullscreen Image Modal -->
+    <VueFinalModal
+      v-model="isModalOpen"
+      :overlay-click-close="true"
+      :esc-press-close="true"
+      class="vfm--fullscreen vfm--fade flex items-center justify-center"
     >
-      <img
-        :src="modalImage"
-        alt="Fullscreen Image"
-        class="max-w-full max-h-full object-contain"
-      />
-      <button
-        @click="closeModal"
-        class="absolute top-4 right-4 text-white text-2xl font-bold"
-      >
-        &times;
-      </button>
-    </div>
-    <!-- ./ Modal -->
+      <div class="relative flex items-center justify-center w-full h-full">
+        <button
+          @click="closeModal"
+          class="absolute top-6 right-6 text-white text-3xl font-bold"
+        >
+          &times;
+        </button>
+
+        <img
+          :src="currentImage"
+          alt="Fullscreen Image"
+          class="max-w-[90vw] max-h-[85vh] object-contain"
+        />
+      </div>
+    </VueFinalModal>
   </article>
 </template>
 
 <script lang="ts">
-import { useRoute } from "vue-router";
 import { ref, computed } from "vue";
+import { useRoute } from "vue-router";
 import { format } from "date-fns";
 import { pl } from "date-fns/locale";
+import { VueFinalModal } from "vue-final-modal";
 
 export default {
+  components: {
+    VueFinalModal,
+  },
   setup() {
     const route = useRoute();
     const year = route.params.year;
     const month = route.params.month;
     const event = route.params.event;
 
-    // Konstrukcja ścieżki na podstawie parametrów URL
     const formattedSlug = computed(
       () => `/aktualnosci/${year}/${month}/${event.toLowerCase()}`
     );
 
-    // Formatowanie dat
-    const formatDate = (date: string) => {
-      return format(new Date(date), "dd MMMM yyyy", { locale: pl });
+    const formatDate = (date: string) =>
+      format(new Date(date), "dd MMMM yyyy", { locale: pl });
+
+    // Modal state and image gallery logic
+    const isModalOpen = ref(false);
+    const modalImageIndex = ref(0);
+    const galleryImages = ref<string[]>([]);
+
+    const openModalWithImage = (imageSrc: string) => {
+      galleryImages.value = [imageSrc];
+      modalImageIndex.value = 0;
+      isModalOpen.value = true;
     };
 
-    // Modal state
-    const isModalOpen = ref(false);
-    const modalImage = ref("");
-
-    const openModal = (imageSrc: string) => {
-      modalImage.value = imageSrc;
+    const openModalWithGallery = (index: number) => {
+      galleryImages.value = [...doc.value.images];
+      modalImageIndex.value = index;
       isModalOpen.value = true;
     };
 
     const closeModal = () => {
       isModalOpen.value = false;
-      modalImage.value = "";
     };
+
+    const currentImage = computed(
+      () => galleryImages.value[modalImageIndex.value]
+    );
 
     return {
       formattedSlug,
       formatDate,
       isModalOpen,
-      modalImage,
-      openModal,
+      currentImage,
+      openModalWithImage,
+      openModalWithGallery,
       closeModal,
     };
   },
@@ -124,21 +189,15 @@ export default {
 </script>
 
 <style scoped>
-/* Stylizacja modala */
-.modal img {
-  @apply max-w-full max-h-full object-contain;
+.vfm--fullscreen img {
+  max-width: 90vw;
+  max-height: 85vh;
+  object-fit: contain;
 }
 
-.modal {
-  @apply fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50;
-}
-
-.modal button {
-  @apply absolute top-4 right-4 text-white text-2xl font-bold;
-}
-
-/* Stylizacja obrazów w galerii */
-.grid img {
-  @apply rounded-lg cursor-pointer transition-transform duration-300 hover:scale-105;
+.vfm--fullscreen button {
+  background: none;
+  border: none;
+  cursor: pointer;
 }
 </style>

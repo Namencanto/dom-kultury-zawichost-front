@@ -1,203 +1,281 @@
 <template>
-  <div class="container mx-auto py-6 px-6">
-    <h2 class="text-3xl font-bold mb-6 text-center">Wszystkie Aktualności</h2>
+  <div class="max-w-6xl mx-auto py-8">
+    <!-- Admin Panel - Dodaj Nowe Wydarzenie -->
+    <div v-if="isAdmin" class="flex justify-end mb-6">
+      <el-button
+        type="primary"
+        icon="el-icon-circle-plus"
+        @click="goToAddEvent"
+        class="add-event-button"
+      >
+        Dodaj nowe wydarzenie
+      </el-button>
+    </div>
 
-    <div
-      class="flex flex-col lg:flex-row justify-between items-center mb-6 space-y-4 lg:space-y-0"
-    >
-      <input
+    <div class="flex justify-between items-center mb-6">
+      <el-input
         v-model="searchQuery"
-        type="text"
-        placeholder="Szukaj..."
-        class="border rounded px-4 py-2 w-full lg:max-w-md"
+        placeholder="Wyszukaj..."
+        prefix-icon="el-icon-search"
+        class="w-full md:w-1/3"
       />
-      <div class="flex space-x-4">
-        <select v-model="filterYear" class="border rounded px-4 py-2">
-          <option value="">Wszystkie lata</option>
-          <option v-for="year in years" :key="year" :value="year">
-            {{ year }}
-          </option>
-        </select>
-        <select v-model="filterMonth" class="border rounded px-4 py-2">
-          <option value="">Wszystkie miesiące</option>
-          <option v-for="month in months" :key="month" :value="month">
-            {{ month }}
-          </option>
-        </select>
-        <div class="flex items-center space-x-2">
-          <label>
-            <input type="radio" value="" v-model="filterType" />
-            Wszystko
-          </label>
-          <label>
-            <input type="radio" value="news" v-model="filterType" />
-            Aktualności
-          </label>
-          <label>
-            <input type="radio" value="exhibition" v-model="filterType" />
-            Wystawy
-          </label>
+      <el-select
+        v-model="selectedYear"
+        placeholder="Wszystkie lata"
+        class="ml-4"
+      >
+        <el-option label="Wszystkie lata" value=""></el-option>
+        <el-option
+          v-for="year in availableYears"
+          :key="year"
+          :label="year"
+          :value="year"
+        ></el-option>
+      </el-select>
+      <el-select
+        v-model="selectedMonth"
+        placeholder="Wszystkie miesiące"
+        class="ml-4"
+      >
+        <el-option label="Wszystkie miesiące" value=""></el-option>
+        <el-option
+          v-for="(monthName, index) in availableMonths"
+          :key="index"
+          :label="monthName"
+          :value="index + 1"
+        ></el-option>
+      </el-select>
+    </div>
+
+    <ContentList path="/aktualnosci" v-slot="{ list }">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <p
+          v-if="filteredAndSortedArticles(list).length === 0"
+          class="text-center w-full text-gray-500"
+        >
+          Brak wyników.
+        </p>
+        <div
+          v-for="article in paginatedArticles(list)"
+          :key="article._path"
+          class="bg-white shadow-lg rounded-lg overflow-hidden relative hover:shadow-xl transition-shadow duration-300"
+        >
+          <img
+            :src="article.thumbnail"
+            :alt="article.title"
+            class="w-full h-56 object-cover"
+          />
+          <div class="p-6">
+            <h2 class="text-xl font-bold mb-2 text-gray-800">
+              <a :href="article._path" class="hover:underline">
+                {{ article.title }}
+              </a>
+            </h2>
+            <h3
+              v-if="getSectionHeading(article.content)"
+              class="text-lg font-semibold text-gray-700 mb-2"
+            >
+              {{ getSectionHeading(article.content) }}
+            </h3>
+
+            <p class="text-gray-600 mb-2">
+              <span class="font-semibold">Data publikacji:</span>
+              {{ formatDate(article.publishDate) }}
+            </p>
+            <p class="text-gray-600 mb-4">
+              <span class="font-semibold">Data wydarzenia:</span>
+              {{ formatDate(article.eventDate) }}
+            </p>
+            <p class="text-gray-700 text-sm">
+              {{ truncateContent(getFirstParagraph(article.content), 100) }}
+            </p>
+
+            <!-- Admin Actions (Edytuj / Usuń) -->
+            <div v-if="isAdmin" class="flex space-x-4 mt-4">
+              <el-button
+                type="warning"
+                icon="el-icon-edit"
+                @click="editEvent(article._path)"
+              >
+                Edytuj
+              </el-button>
+              <el-button
+                type="danger"
+                icon="el-icon-delete"
+                @click="deleteEvent(article.title, article.publishDate)"
+              >
+                Usuń
+              </el-button>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div v-if="filteredNews.length === 0" class="text-center text-gray-500">
-      Nie znaleziono wydarzeń.
-    </div>
-
-    <div v-else class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-      <NuxtLink
-        v-for="newsItem in filteredNews"
-        :key="newsItem.title"
-        :to="`/aktualnosci/${newsItem.link}`"
-        class="bg-white rounded-lg shadow-md overflow-hidden transform transition duration-500 hover:scale-105"
+      <div
+        v-if="totalPages(list) > 1"
+        class="mt-6 flex justify-center space-x-4"
       >
-        <div class="relative h-48 bg-gray-200 overflow-hidden">
-          <img
-            v-if="newsItem.images && newsItem.images.length"
-            :src="`/${newsItem.images[0].localPath}`"
-            :alt="newsItem.images[0].description"
-            class="w-full h-full object-cover transition-transform duration-500"
-          />
-        </div>
-        <div class="p-6">
-          <p class="text-xs uppercase text-blue-500 mb-2">
-            {{ newsItem.type === "news" ? "Aktualności" : "Wystawa" }}
-          </p>
-          <h3 class="text-xl font-semibold mb-2">{{ newsItem.title }}</h3>
-          <div class="text-gray-700 mb-4 content">
-            {{ truncateDescription(newsItem.eventDescription) }}
-          </div>
-          <p class="text-sm text-gray-500">
-            Data publikacji: {{ formatDate(newsItem.publicationDate) }}
-          </p>
-          <p class="text-sm text-gray-500">
-            Data wydarzenia: {{ formatDate(newsItem.eventDate) }}
-          </p>
-        </div>
-      </NuxtLink>
-    </div>
-
-    <div v-if="loading" class="flex justify-center mt-6">
-      <p>Ładowanie...</p>
-    </div>
+        <el-button
+          @click="prevPage(list)"
+          :disabled="currentPage === 1"
+          type="primary"
+          plain
+        >
+          Poprzednia
+        </el-button>
+        <span class="text-gray-600">
+          Strona {{ currentPage }} z {{ totalPages(list) }}
+        </span>
+        <el-button
+          @click="nextPage(list)"
+          :disabled="currentPage === totalPages(list)"
+          type="primary"
+          plain
+        >
+          Następna
+        </el-button>
+      </div>
+    </ContentList>
   </div>
 </template>
 
-<script lang="ts" setup>
-import { ref, computed, onMounted } from "vue";
-import { useNewsStore } from "~/stores/news";
+<script setup>
+import { ref, computed, watch } from "vue";
+import { format, isValid } from "date-fns";
+import { pl } from "date-fns/locale";
+import { useRouter } from "vue-router";
+import { useAuthStore } from "~/stores/auth";
+import axios from "axios";
 
-const newsStore = useNewsStore();
-newsStore.loadNews();
+const router = useRouter();
+const authStore = useAuthStore();
+const isAdmin = ref(false);
+
+watchEffect(async () => {
+  isAdmin.value = await authStore.getAuthAdminStatus;
+});
+const currentYear = new Date().getFullYear();
+const currentMonth = new Date().getMonth() + 1;
 
 const searchQuery = ref("");
-const filterYear = ref("");
-const filterMonth = ref("");
-const filterType = ref(""); // Nowa zmienna do filtrowania według typu
-const itemsPerPage = ref(9);
-const displayedItems = ref(itemsPerPage.value);
-const loading = ref(false);
+const selectedYear = ref(currentYear);
+const selectedMonth = ref("");
+const currentPage = ref(1);
+const itemsPerPage = 9;
 
-const years = computed(() => {
-  return [
-    ...new Set(
-      newsStore.news.map((item) => new Date(item.eventDate).getFullYear())
-    ),
-  ].sort((a, b) => b - a);
-});
+const availableMonths = [
+  "Styczeń",
+  "Luty",
+  "Marzec",
+  "Kwiecień",
+  "Maj",
+  "Czerwiec",
+  "Lipiec",
+  "Sierpień",
+  "Wrzesień",
+  "Październik",
+  "Listopad",
+  "Grudzień",
+];
 
-const months = computed(() => {
-  return [
-    "styczeń",
-    "luty",
-    "marzec",
-    "kwiecień",
-    "maj",
-    "czerwiec",
-    "lipiec",
-    "sierpień",
-    "wrzesień",
-    "październik",
-    "listopad",
-    "grudzień",
-  ];
-});
+const availableYears = [];
 
-const filteredNews = computed(() => {
-  return newsStore.news
-    .filter((item) => {
-      const itemYear = new Date(item.eventDate).getFullYear();
-      const itemMonth = new Date(item.eventDate).toLocaleString("default", {
-        month: "long",
-      });
-      return (
-        item.title.toLowerCase().includes(searchQuery.value.toLowerCase()) &&
-        (filterYear.value === "" || itemYear === parseInt(filterYear.value)) &&
-        (filterMonth.value === "" ||
-          itemMonth.toLowerCase().includes(filterMonth.value.toLowerCase())) &&
-        (filterType.value === "" || item.type === filterType.value)
-      );
-    })
-    .slice(0, displayedItems.value);
-});
-
-const formatDate = (dateString: string | undefined) => {
-  if (!dateString) return "";
-  const date = new Date(dateString);
-  const year = date.getFullYear();
-  const month = date.toLocaleString("default", { month: "long" });
-  if (date < new Date("2024-08-01")) {
-    return `${month} ${year}`;
+for (let year = currentYear; year >= 2012; year--) {
+  availableYears.push(year);
+}
+const getFirstParagraph = (content) => {
+  const paragraph = content.find((item) => item.type === "paragraph");
+  return paragraph ? paragraph.text || "" : "";
+};
+const truncateContent = (text, length) => {
+  if (text.length <= length) return text;
+  const truncated = text.slice(0, length).trim();
+  return truncated.slice(0, truncated.lastIndexOf(" ")) + "...";
+};
+const formatDate = (date) => {
+  const parsedDate = new Date(date);
+  if (isValid(parsedDate)) {
+    return format(parsedDate, "dd MMMM yyyy", { locale: pl });
   }
-  return date.toLocaleDateString();
+  return "Nieznana data";
 };
 
-const truncateDescription = (
-  description: string | undefined,
-  maxLength = 128
-) => {
-  if (!description || description.length <= maxLength) return description || "";
-
-  const truncated = description.substring(0, maxLength);
-  const lastSpaceIndex = truncated.lastIndexOf(" ");
-
-  return (
-    (lastSpaceIndex > -1 ? truncated.substring(0, lastSpaceIndex) : truncated) +
-    "..."
+const getSectionHeading = (content) => {
+  const heading = content.find(
+    (block) => block.type === "heading" && block.level === 3
   );
+  return heading ? heading.text : null;
 };
 
-const loadMore = () => {
-  if (loading.value) return;
-  loading.value = true;
-  setTimeout(() => {
-    displayedItems.value += itemsPerPage.value;
-    loading.value = false;
-  }, 1000);
+const filteredAndSortedArticles = (list) => {
+  if (!list || list.length === 0) return [];
+
+  return list
+    .filter((article) => {
+      const matchesSearch = article.title
+        .toLowerCase()
+        .includes(searchQuery.value.toLowerCase());
+      const matchesYear = selectedYear.value
+        ? new Date(article.publishDate).getFullYear() ===
+          parseInt(selectedYear.value)
+        : true;
+      const matchesMonth = selectedMonth.value
+        ? new Date(article.publishDate).getMonth() + 1 ===
+          parseInt(selectedMonth.value)
+        : true;
+      return matchesSearch && matchesYear && matchesMonth;
+    })
+    .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 };
 
-const handleScroll = () => {
-  if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 500) {
-    loadMore();
+const totalPages = (list) => {
+  return Math.ceil(filteredAndSortedArticles(list).length / itemsPerPage);
+};
+
+const paginatedArticles = (list) => {
+  const startIndex = (currentPage.value - 1) * itemsPerPage;
+  const endIndex = startIndex + itemsPerPage;
+  return filteredAndSortedArticles(list).slice(startIndex, endIndex);
+};
+
+const nextPage = (list) => {
+  if (currentPage.value < totalPages(list)) {
+    currentPage.value++;
   }
 };
 
-onMounted(() => {
-  window.addEventListener("scroll", handleScroll);
+const prevPage = (list) => {
+  if (currentPage.value > 1) {
+    currentPage.value--;
+  }
+};
+
+const goToAddEvent = () => {
+  router.push("/nowe-wydarzenie");
+};
+
+const editEvent = (eventPath) => {
+  router.push(`/nowe-wydarzenie?path=${encodeURIComponent(eventPath)}`);
+};
+
+const deleteEvent = async (title, publishDate) => {
+  try {
+    console.log(title);
+    await useFetch(`/api/event/${title}/${publishDate}`, {
+      method: "DELETE",
+    });
+  } catch (error) {
+    console.error("Błąd podczas usuwania wydarzenia:", error);
+  }
+};
+
+watch([selectedYear, selectedMonth, searchQuery], () => {
+  currentPage.value = 1;
 });
 </script>
 
 <style scoped>
-.content img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  max-height: 300px;
-  transition: transform 0.5s;
-}
-
-.content img:hover {
-  transform: scale(1.05);
+.add-event-button {
+  margin-right: 1rem;
 }
 </style>

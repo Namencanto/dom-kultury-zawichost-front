@@ -23,6 +23,14 @@
                     article.title
                   }}</a>
                 </h2>
+                <!-- Stylizacja sekcji -->
+                <h3
+                  v-if="getSectionHeading(article.content)"
+                  class="text-sm font-semibold text-gray-500 uppercase mb-2 tracking-wide"
+                >
+                  {{ getSectionHeading(article.content) }}
+                </h3>
+
                 <p class="text-gray-600 mb-2">
                   <span class="font-semibold">Data publikacji:</span>
                   {{ formatDate(article.publishDate) }}
@@ -63,6 +71,13 @@
                 article.title
               }}</a>
             </h2>
+            <!-- Stylizacja sekcji -->
+            <h3
+              v-if="getSectionHeading(article.content)"
+              class="text-xs font-semibold text-gray-500 uppercase mb-2 tracking-wide"
+            >
+              {{ getSectionHeading(article.content) }}
+            </h3>
             <p class="text-gray-600 text-sm mb-1">
               <span class="font-semibold">Data publikacji:</span>
               {{ formatDate(article.publishDate) }}
@@ -79,23 +94,22 @@
       </div>
 
       <div class="mt-8 flex justify-center">
-        <a
-          href="/aktualnosci"
+        <span
           class="px-6 py-3 text-lg font-medium text-gray-700 border border-gray-300 rounded-lg hover:bg-gray-200 transition-colors"
         >
-          Więcej aktualności
-        </a>
+          <NuxtLink to="/aktualnosci"> Więcej aktualności </NuxtLink>
+        </span>
       </div>
     </ContentList>
   </nav>
 </template>
-
 <script setup lang="ts">
 import { format } from "date-fns";
 import { pl } from "date-fns/locale";
 import FacebookWidget from "@/components/FacebookWidget.vue";
+import { Event, ContentBlock } from "@/types/events";
 
-const sortedArticles = (list: any[]) => {
+const sortedArticles = (list: Event[]): Event[] => {
   return list
     .filter((article) => isValidDate(article.publishDate))
     .sort(
@@ -105,7 +119,7 @@ const sortedArticles = (list: any[]) => {
     .slice(0, 10);
 };
 
-const formatDate = (date: string) => {
+const formatDate = (date: string): string => {
   return format(new Date(date), "dd.MM.yyyy", { locale: pl });
 };
 
@@ -114,14 +128,21 @@ const isValidDate = (date: string): boolean => {
   return !isNaN(parsedDate.getTime());
 };
 
-const getFirstParagraph = (content: any[]): string => {
+const getFirstParagraph = (content: ContentBlock[]): string => {
   const paragraph = content.find((item) => item.type === "paragraph");
-  return paragraph ? paragraph.text : "";
+  return paragraph ? paragraph.text || "" : "";
 };
 
 const truncateContent = (text: string, length: number): string => {
   if (text.length <= length) return text;
   const truncated = text.slice(0, length).trim();
   return truncated.slice(0, truncated.lastIndexOf(" ")) + "...";
+};
+
+const getSectionHeading = (content: ContentBlock[]): string | null => {
+  const heading = content.find(
+    (block) => block.type === "heading" && block.level === 3
+  );
+  return heading ? heading.text || null : null;
 };
 </script>

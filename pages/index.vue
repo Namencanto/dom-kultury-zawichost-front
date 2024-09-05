@@ -1,11 +1,12 @@
 <template>
-  <LatestNews />
-  <!-- <div class="content-container">
-    <ContentDoc path="/aktualnosci/aktualnosc_1" />
-  </div> -->
+  <main>
+    <LatestNews />
+    <EventCalendar />
+  </main>
 </template>
 <script lang="ts" setup>
 import LatestNews from "~/components/LatestNews.vue";
+import EventCalendar from "~/components/EventCalendar.vue";
 </script>
 
 <style scoped>
