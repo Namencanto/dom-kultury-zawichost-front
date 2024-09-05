@@ -54,25 +54,10 @@
 </template>
 
 <script lang="ts" setup>
-import { ref, computed, onMounted } from "vue";
-import { useNewsStore } from "~/stores/news";
-
-const newsStore = useNewsStore();
-newsStore.loadNews();
-newsStore.filterNews("exhibition"); // Filtruj tylko "exhibition"
-
 const searchQuery = ref("");
 const itemsPerPage = ref(9);
 const displayedItems = ref(itemsPerPage.value);
 const loading = ref(false);
-
-const filteredExhibitions = computed(() => {
-  return newsStore.filteredNews
-    .filter((item) =>
-      item.title.toLowerCase().includes(searchQuery.value.toLowerCase())
-    )
-    .slice(0, displayedItems.value);
-});
 
 const formatDate = (dateString: string | undefined) => {
   if (!dateString) return "";
