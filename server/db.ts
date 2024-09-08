@@ -1,10 +1,10 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: useRuntimeConfig().API_URL,
+  baseURL: process.env.API_URL,
   auth: {
-    username: useRuntimeConfig().API_USERNAME,
-    password: useRuntimeConfig().API_PASSWORD,
+    username: process.env.API_USERNAME,
+    password: process.env.API_PASSWORD,
   },
 });
 
