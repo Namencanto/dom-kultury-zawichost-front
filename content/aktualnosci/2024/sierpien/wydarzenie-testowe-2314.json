@@ -1,0 +1,46 @@
+{
+  "title": "Wydarzenie testowe 2314",
+  "eventDate": "2024-08-18",
+  "publishDate": "2024-08-18",
+  "thumbnail": "/images/2024/sierpien/inline-image-1723996083016-0.gif",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Wydarzenie testowe"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wydarzenie testowe"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Wydarzenie testowe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wydarzenie testowe Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis nunc nec orci vulputate, vel malesuada odio interdum. In et velit nec enim tincidunt auctor. Nulla facilisi. Duis efficitur justo in ligula varius, ac blandit augue bibendum. Ut tincidunt risus id eros dictum, et dapibus tortor hendrerit. Nam ac ex nec nunc fermentum aliquam id sit amet quam. Aliquam erat volutpat. Morbi et eros sit amet ex varius auctor. Sed dictum eros a ipsum finibus, sit amet vulputate purus varius. Integer vehicula mi non felis auctor, id tempus leo convallis.Ut blandit orci ac erat ultricies, ut lacinia felis tempus."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur venenatis ex vel dictum ullamcorper. Donec quis nunc id felis fermentum aliquet. Fusce at metus nec augue varius sollicitudin. Cras lacinia urna vel tincidunt vehicula. Sed viverra velit sapien, ac blandit sapien eleifend a. In quis mi et purus bibendum tempus. Donec vel magna leo. Vestibulum rutrum scelerisque malesuada. In posuere urna vel justo elementum tincidunt. Integer lobortis lacus ut velit aliquam, a gravida sem ultricies."
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/sierpien/inline-image-1725804928634-0.jpeg",
+      "alt": "gtyu"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/sierpien/inline-image-1723996083009-0.png",
+      "alt": "Testuję"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/sierpien/inline-image-1723996083016-0.gif",
+      "alt": "piesek"
+    }
+  ]
+}
