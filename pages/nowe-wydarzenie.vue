@@ -5,6 +5,45 @@
     >
       {{ isEditing ? "Edytuj Wydarzenie" : "Dodaj Wydarzenie" }}
     </h1>
+    <div class="bg-gray-100 p-4 rounded-lg mb-6 shadow">
+      <h2 class="text-lg font-bold mb-2">
+        Instrukcja korzystania z formularza:
+      </h2>
+      <ul class="list-disc list-inside text-sm text-gray-700">
+        <li>
+          <strong>Nazwa Wydarzenia</strong>: Wprowadź nazwę wydarzenia w polu
+          tekstowym. Pole wymagane.
+        </li>
+        <li>
+          <strong>Data Wydarzenia</strong>: Wybierz datę i godzinę wydarzenia.
+        </li>
+        <li>
+          <strong>Data Publikacji</strong>: Automatycznie ustawiona na
+          dzisiejszą datę, ale można ją zmienić.
+        </li>
+        <li>
+          <strong>Główny Nagłówek</strong>: Opcjonalny, ale pomaga wyróżnić
+          wydarzenie.
+        </li>
+        <li><strong>Podtytuł</strong>: Opcjonalny podtytuł wydarzenia.</li>
+        <li>
+          <strong>Sekcja</strong>: Wybierz istniejącą sekcję lub dodaj nową.
+        </li>
+        <li>
+          <strong>Opis Wydarzenia</strong>: Użyj edytora tekstu, aby dodać pełny
+          opis.
+        </li>
+        <li>
+          <strong>Zdjęcia Wydarzenia</strong>: Prześlij zdjęcia związane z
+          wydarzeniem. Ustaw jedno jako główne.
+        </li>
+        <li>
+          <strong>Zapisz Wydarzenie</strong>: Kliknij "Dodaj Wydarzenie" lub
+          "Zaktualizuj Wydarzenie".
+        </li>
+      </ul>
+    </div>
+
     <form @submit.prevent="submitForm" class="mb-12">
       <div class="mb-4">
         <label for="eventName" class="block font-semibold"
@@ -25,7 +64,7 @@
         >
         <input
           v-model="eventData.eventDate"
-          type="date"
+          type="datetime-local"
           id="eventDate"
           required
           class="input"
@@ -194,17 +233,6 @@
         </h3>
         <div v-html="eventData.description" class="mt-4"></div>
       </div>
-
-      <!-- Gallery Images -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        <img
-          v-for="(image, index) in uploadedImages"
-          :key="index"
-          :src="image.preview"
-          :alt="image.alt || 'Obraz ' + (index + 1)"
-          class="w-full h-32 object-cover rounded-lg"
-        />
-      </div>
     </article>
   </div>
 </template>
@@ -228,7 +256,7 @@ export default {
       eventData: {
         title: "",
         eventDate: "",
-        publishDate: "",
+        publishDate: new Date().toISOString().split("T")[0],
         description: "",
         images: [],
         thumbnail: null,
@@ -255,6 +283,7 @@ export default {
       this.originalPath = path;
       await this.loadEventData(path);
     }
+    this.initializeEditor();
 
     await this.fetchUniqueSections();
   },
@@ -302,8 +331,27 @@ export default {
         content: this.eventData.description,
         onUpdate: ({ editor }) => {
           this.eventData.description = editor.getHTML();
+          this.syncImageOrderWithEditor();
         },
       });
+    },
+    syncImageOrderWithEditor() {
+      const htmlContent = this.editor.getHTML();
+      const tempElement = document.createElement("div");
+      tempElement.innerHTML = htmlContent;
+
+      const imageElements = tempElement.querySelectorAll("img");
+
+      const newOrder = Array.from(imageElements).map((img) => {
+        const relativeSrc = new URL(img.src, window.location.origin).pathname;
+        return this.uploadedImages.find((image) => {
+          const imageSrc = new URL(image.preview, window.location.origin)
+            .pathname;
+          return imageSrc === relativeSrc;
+        });
+      });
+
+      this.uploadedImages = newOrder.filter((img) => img !== undefined);
     },
     async loadEventData(path) {
       try {
@@ -349,7 +397,6 @@ export default {
 
         this.mainImage = this.uploadedImages.find((img) => img.isMain) || null;
 
-        this.initializeEditor();
         this.editor.commands.setContent(this.eventData.description);
       } catch (error) {
         console.error("Błąd podczas ładowania danych aktualności:", error);
@@ -374,6 +421,11 @@ export default {
           formData.append(`imageAlt[${index}]`, image.alt);
         }
       });
+
+      const mainImageIndex = this.uploadedImages.findIndex((img) => img.isMain);
+      if (mainImageIndex !== -1) {
+        formData.append("mainImageOrder", mainImageIndex);
+      }
 
       if (this.eventData.thumbnail) {
         formData.append("thumbnail", this.eventData.thumbnail);
@@ -410,6 +462,14 @@ export default {
         this.$router.push("/admin");
       }
     },
+    addImageToEditor(imageUrl, altText) {
+      this.editor
+        .chain()
+        .focus()
+        .setImage({ src: imageUrl, alt: altText })
+        .run();
+    },
+
     handleImageUpload(event) {
       const files = event.target.files;
       Array.from(files).forEach((file) => {
@@ -425,6 +485,8 @@ export default {
             alt: altText || "Inline image",
             isMain: false,
           });
+
+          this.addImageToEditor(imagePreview, altText);
 
           if (this.uploadedImages.length === 1) {
             this.setAsMainImage(0);
