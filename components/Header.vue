@@ -23,13 +23,13 @@
             <div
               class="flex flex-col items-start text-left mt-2 hidden sm:flex"
             >
-              <span class="text-gray-500" aria-live="polite">{{
+              <span class="text-gray-700" aria-live="polite">{{
                 currentDay
               }}</span>
-              <span class="text-gray-500" aria-live="polite">{{
+              <span class="text-gray-700" aria-live="polite">{{
                 currentDate
               }}</span>
-              <span class="text-gray-500" aria-live="polite"
+              <span class="text-gray-700" aria-live="polite"
                 >{{ temperature }}°C</span
               >
             </div>
@@ -42,21 +42,25 @@
             <!-- Links and Icons -->
             <NuxtLink
               to="/informacje"
-              class="text-gray-500"
+              class="text-gray-700 py-2 px-3"
               aria-label="Informacje"
             >
               <Icon name="maki:information" class="h-6 w-6" />
             </NuxtLink>
             <a
               href="https://www.facebook.com/mgokzawichost"
-              class="text-gray-500"
+              class="text-gray-700 py-2 px-3"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Odwiedź nasz profil na Facebooku"
             >
               <Icon name="ion:social-facebook" class="h-6 w-6" />
             </a>
-            <NuxtLink to="/widok" class="text-gray-500" aria-label="Widok">
+            <NuxtLink
+              to="/widok"
+              class="text-gray-700 py-2 px-3"
+              aria-label="Widok"
+            >
               <Icon name="uil:eye" class="h-6 w-6" />
             </NuxtLink>
           </div>
@@ -66,19 +70,19 @@
       <!-- Main Navigation with Dynamic Sections -->
       <nav class="bg-gray-100" aria-label="Główna nawigacja">
         <div
-          class="container mx-auto flex flex-col items-center lg:flex-row lg:justify-between py-3 px-6"
+          class="container mx-auto flex flex-col items-center lg:flex-row lg:justify-between py-2 px-6"
         >
           <div class="flex flex-wrap lg:space-x-4">
             <!-- Static Links -->
             <NuxtLink
               to="/"
-              class="text-gray-700 hover:underline"
+              class="text-gray-800 hover:underline py-1 px-2"
               aria-label="Strona główna"
               >M-GOK</NuxtLink
             >
             <a
               href="https://mgok-zawichost.biuletyn.net"
-              class="text-gray-700 hover:underline"
+              class="text-gray-800 hover:underline py-1 px-2"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Biuletyn Informacji Publicznej"
@@ -86,13 +90,13 @@
             >
             <NuxtLink
               to="/aktualnosci"
-              class="text-gray-700 hover:underline"
+              class="text-gray-800 hover:underline py-1 px-2"
               aria-label="Aktualności"
               >AKTUALNOŚCI</NuxtLink
             >
             <NuxtLink
               to="/kalendarz-wydarzen"
-              class="text-gray-700 hover:underline"
+              class="text-gray-800 hover:underline py-1 px-2"
               aria-label="Kalendarz Wydarzeń"
               >KALENDARZ WYDARZEŃ</NuxtLink
             >
@@ -101,7 +105,7 @@
             <div class="relative group">
               <button
                 type="button"
-                class="text-gray-700 focus:outline-none"
+                class="text-gray-800 focus:outline-none py-1 px-2"
                 aria-haspopup="true"
                 aria-expanded="false"
                 aria-controls="sekcje-menu"
@@ -127,50 +131,53 @@
             <!-- Static Links -->
             <NuxtLink
               to="/lamus"
-              class="text-gray-700 hover:underline"
+              class="text-gray-800 hover:underline py-1 px-2"
               aria-label="Lamus"
               >LAMUS</NuxtLink
             >
             <NuxtLink
               to="/tablica-ogloszen"
-              class="text-gray-700 hover:underline"
+              class="text-gray-800 hover:underline py-1 px-2"
               aria-label="Tablica ogłoszeń"
               >TABLICA OGŁOSZEŃ</NuxtLink
             >
             <NuxtLink
               to="/rodo"
-              class="text-gray-700 hover:underline"
+              class="text-gray-800 hover:underline py-1 px-2"
               aria-label="RODO"
               >RODO</NuxtLink
             >
           </div>
           <!-- Font Size Adjuster and Admin Status -->
           <div class="relative mt-4 lg:mt-0">
-            <div class="absolute top-[-3rem] right-0 flex space-x-2">
+            <div class="absolute top-[-3.4rem] right-0 flex space-x-2">
               <button
                 type="button"
                 @click="setFontSize('normal')"
-                class="text-gray-500"
+                class="text-gray-800 py-2 px-3"
                 aria-label="Normalna wielkość czcionki"
                 title="Normalna wielkość czcionki"
+                style="min-width: 24px; min-height: 24px"
               >
                 A
               </button>
               <button
                 type="button"
                 @click="setFontSize('large')"
-                class="text-gray-500"
+                class="text-gray-800 py-2 px-3"
                 aria-label="Duża wielkość czcionki"
                 title="Duża wielkość czcionki"
+                style="min-width: 24px; min-height: 24px"
               >
                 A+
               </button>
               <button
                 type="button"
                 @click="setFontSize('x-large')"
-                class="text-gray-500"
+                class="text-gray-800 py-2 px-3"
                 aria-label="Bardzo duża wielkość czcionki"
                 title="Bardzo duża wielkość czcionki"
+                style="min-width: 24px; min-height: 24px"
               >
                 A++
               </button>
@@ -188,6 +195,7 @@
     </header>
   </div>
 </template>
+
 <script lang="ts" setup>
 import { ref, onMounted } from "vue";
 import { useFontSizeStore } from "~/stores/fontSize";
