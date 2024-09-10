@@ -14,11 +14,11 @@
           <div
             class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center"
           >
-            <h1
+            <h2
               class="text-4xl lg:text-5xl font-extrabold text-white text-center leading-tight"
             >
               {{ doc.title }}
-            </h1>
+            </h2>
           </div>
         </div>
       </header>
@@ -38,24 +38,24 @@
       <!-- Content -->
       <div class="prose max-w-none text-lg text-gray-900 leading-relaxed mb-12">
         <div v-for="(block, index) in doc.content" :key="index" class="mb-10">
-          <h1
+          <h3
             v-if="block.type === 'heading' && block.level === 1"
             class="text-3xl lg:text-4xl font-bold mb-6"
           >
             {{ block.text }}
-          </h1>
-          <h2
+          </h3>
+          <h4
             v-if="block.type === 'heading' && block.level === 2"
             class="text-2xl font-semibold mb-4"
           >
             {{ block.text }}
-          </h2>
-          <h3
+          </h4>
+          <h5
             v-if="block.type === 'heading' && block.level === 3"
             class="text-xl font-semibold mb-3"
           >
             {{ block.text }}
-          </h3>
+          </h5>
           <p v-if="block.type === 'paragraph'" class="text-base leading-7 mb-6">
             {{ block.text }}
           </p>
@@ -110,6 +110,7 @@
     >
       <div class="relative flex items-center justify-center w-full h-full">
         <button
+          type="button"
           @click="closeModal"
           class="absolute top-6 right-6 text-white text-3xl font-bold"
         >
@@ -150,7 +151,6 @@ export default {
     const formatDate = (date: string) =>
       format(new Date(date), "dd MMMM yyyy", { locale: pl });
 
-    // Modal state and image gallery logic
     const isModalOpen = ref(false);
     const modalImageIndex = ref(0);
     const galleryImages = ref<string[]>([]);

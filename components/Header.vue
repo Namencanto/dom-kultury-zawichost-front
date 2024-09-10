@@ -1,32 +1,50 @@
 <template>
   <div>
-    <header class="bg-white shadow-md relative">
+    <header
+      class="bg-white shadow-md relative"
+      aria-label="Nagłówek strony głównej"
+    >
       <div
         class="container mx-auto py-4 px-6 flex flex-col items-center lg:flex-row lg:justify-between"
       >
         <!-- Logo and Info -->
         <div class="flex items-center space-x-4 mb-4 lg:mb-0">
-          <NuxtLink to="/">
-            <img src="/logo.jpg" alt="Logo" class="h-32" />
+          <NuxtLink to="/" aria-label="Strona główna">
+            <img
+              src="/logo.jpg"
+              alt="Logo Miejsko Gminnego Ośrodka Kultury Zawichost"
+              class="h-32"
+            />
           </NuxtLink>
           <div class="flex flex-col items-start text-left">
-            <span class="text-2xl font-bold text-gray-800 lg:text-left">
+            <h1 class="text-2xl font-bold text-gray-800 lg:text-left">
               Miejsko Gminny Ośrodek Kultury Zawichost
-            </span>
+            </h1>
             <div
               class="flex flex-col items-start text-left mt-2 hidden sm:flex"
             >
-              <span class="text-gray-500">{{ currentDay }}</span>
-              <span class="text-gray-500">{{ currentDate }}</span>
-              <span class="text-gray-500">{{ temperature }}°C</span>
+              <span class="text-gray-500" aria-live="polite">{{
+                currentDay
+              }}</span>
+              <span class="text-gray-500" aria-live="polite">{{
+                currentDate
+              }}</span>
+              <span class="text-gray-500" aria-live="polite"
+                >{{ temperature }}°C</span
+              >
             </div>
           </div>
         </div>
-        <!-- Navigation -->
+
+        <!-- Social and Accessibility Links -->
         <div class="flex flex-col items-center lg:flex-row lg:space-x-4">
           <div class="flex space-x-4 mb-4 lg:mb-0">
             <!-- Links and Icons -->
-            <NuxtLink to="/informacje" class="text-gray-500">
+            <NuxtLink
+              to="/informacje"
+              class="text-gray-500"
+              aria-label="Informacje"
+            >
               <Icon name="maki:information" class="h-6 w-6" />
             </NuxtLink>
             <a
@@ -34,10 +52,11 @@
               class="text-gray-500"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Odwiedź nasz profil na Facebooku"
             >
               <Icon name="ion:social-facebook" class="h-6 w-6" />
             </a>
-            <NuxtLink to="/widok" class="text-gray-500">
+            <NuxtLink to="/widok" class="text-gray-500" aria-label="Widok">
               <Icon name="uil:eye" class="h-6 w-6" />
             </NuxtLink>
           </div>
@@ -45,39 +64,60 @@
       </div>
 
       <!-- Main Navigation with Dynamic Sections -->
-      <nav class="bg-gray-100">
+      <nav class="bg-gray-100" aria-label="Główna nawigacja">
         <div
           class="container mx-auto flex flex-col items-center lg:flex-row lg:justify-between py-3 px-6"
         >
           <div class="flex flex-wrap lg:space-x-4">
             <!-- Static Links -->
-            <NuxtLink to="/" class="text-gray-700">M-GOK</NuxtLink>
+            <NuxtLink
+              to="/"
+              class="text-gray-700 hover:underline"
+              aria-label="Strona główna"
+              >M-GOK</NuxtLink
+            >
             <a
               href="https://mgok-zawichost.biuletyn.net"
-              class="text-gray-700"
+              class="text-gray-700 hover:underline"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Biuletyn Informacji Publicznej"
               >BIP</a
             >
-            <NuxtLink to="/aktualnosci" class="text-gray-700"
+            <NuxtLink
+              to="/aktualnosci"
+              class="text-gray-700 hover:underline"
+              aria-label="Aktualności"
               >AKTUALNOŚCI</NuxtLink
             >
-            <NuxtLink to="/kalendarz-wydarzen" class="text-gray-700"
+            <NuxtLink
+              to="/kalendarz-wydarzen"
+              class="text-gray-700 hover:underline"
+              aria-label="Kalendarz Wydarzeń"
               >KALENDARZ WYDARZEŃ</NuxtLink
             >
 
             <!-- Dynamic Dropdown for SEKCJE -->
             <div class="relative group">
-              <NuxtLink to="/sekcje/teatr" class="text-gray-700"
-                >SEKCJE</NuxtLink
+              <button
+                type="button"
+                class="text-gray-700 focus:outline-none"
+                aria-haspopup="true"
+                aria-expanded="false"
+                aria-controls="sekcje-menu"
               >
+                SEKCJE
+              </button>
               <ul
+                id="sekcje-menu"
                 class="absolute hidden group-hover:flex flex-col bg-white border shadow-lg z-10"
+                role="menu"
               >
                 <li v-for="(section, index) in uniqueSections" :key="index">
                   <NuxtLink
                     :to="`/sekcje/${section.toLowerCase()}`"
                     class="py-2 px-4 hover:bg-gray-200"
+                    role="menuitem"
                     >{{ section }}</NuxtLink
                   >
                 </li>
@@ -85,26 +125,63 @@
             </div>
 
             <!-- Static Links -->
-            <NuxtLink to="/lamus" class="text-gray-700">LAMUS</NuxtLink>
-            <NuxtLink to="/tablica-ogloszen" class="text-gray-700"
+            <NuxtLink
+              to="/lamus"
+              class="text-gray-700 hover:underline"
+              aria-label="Lamus"
+              >LAMUS</NuxtLink
+            >
+            <NuxtLink
+              to="/tablica-ogloszen"
+              class="text-gray-700 hover:underline"
+              aria-label="Tablica ogłoszeń"
               >TABLICA OGŁOSZEŃ</NuxtLink
             >
-            <NuxtLink to="/rodo" class="text-gray-700">RODO</NuxtLink>
+            <NuxtLink
+              to="/rodo"
+              class="text-gray-700 hover:underline"
+              aria-label="RODO"
+              >RODO</NuxtLink
+            >
           </div>
           <!-- Font Size Adjuster and Admin Status -->
           <div class="relative mt-4 lg:mt-0">
             <div class="absolute top-[-3rem] right-0 flex space-x-2">
-              <button @click="setFontSize('normal')" class="text-gray-500">
+              <button
+                type="button"
+                @click="setFontSize('normal')"
+                class="text-gray-500"
+                aria-label="Normalna wielkość czcionki"
+                title="Normalna wielkość czcionki"
+              >
                 A
               </button>
-              <button @click="setFontSize('large')" class="text-gray-500">
+              <button
+                type="button"
+                @click="setFontSize('large')"
+                class="text-gray-500"
+                aria-label="Duża wielkość czcionki"
+                title="Duża wielkość czcionki"
+              >
                 A+
               </button>
-              <button @click="setFontSize('x-large')" class="text-gray-500">
+              <button
+                type="button"
+                @click="setFontSize('x-large')"
+                class="text-gray-500"
+                aria-label="Bardzo duża wielkość czcionki"
+                title="Bardzo duża wielkość czcionki"
+              >
                 A++
               </button>
             </div>
-            <div v-if="authStatus" class="text-red-500 font-bold">ADMIN</div>
+            <div
+              v-if="authStatus"
+              class="text-red-500 font-bold"
+              aria-live="polite"
+            >
+              ADMIN
+            </div>
           </div>
         </div>
       </nav>
@@ -119,7 +196,7 @@ import { useAuthStore } from "~/stores/auth";
 const fontSizeStore = useFontSizeStore();
 const authStore = useAuthStore();
 const authStatus = ref(false);
-const uniqueSections = ref<string[]>([]); // To store unique sections
+const uniqueSections = ref<string[]>([]);
 
 const setFontSize = (size: string) => {
   fontSizeStore.setFontSize(size);
@@ -176,7 +253,6 @@ const fetchUniqueSections = async () => {
       // Find unique headings of level 3
       const sectionsSet = new Set<string>();
       result.forEach((item) => {
-        // Ensure item.content is an array before filtering
         if (item.content && Array.isArray(item.content)) {
           item.content
             .filter(
@@ -196,7 +272,7 @@ const fetchUniqueSections = async () => {
 
 onMounted(async () => {
   formatDate();
-  fetchUniqueSections(); // Fetch sections on mount
+  fetchUniqueSections();
   setTimeout(() => fetchTemperature(), 1);
   authStatus.value = await authStore.getAuthAdminStatus;
 });

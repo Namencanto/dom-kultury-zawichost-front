@@ -1,7 +1,8 @@
 <template>
   <div class="flex justify-center bg-gray-50 text-gray-900 py-8">
-    <div
+    <section
       class="event-calendar p-6 rounded-lg shadow-lg flex items-start bg-white max-w-screen-lg w-full lg:max-w-[1000px]"
+      aria-labelledby="calendar-heading"
     >
       <NuxtLink
         to="/kalendarz-wydarzen"
@@ -18,7 +19,7 @@
         ></div>
       </NuxtLink>
 
-      <div class="events-section flex-1">
+      <section class="events-section flex-1">
         <div class="header mb-6 flex items-center text-primary">
           <svg
             class="w-8 h-8 mr-2"
@@ -36,7 +37,9 @@
               d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"
             ></path>
           </svg>
-          <h2 class="text-2xl font-semibold">Nadchodzące Wydarzenia</h2>
+          <h2 id="calendar-heading" class="text-2xl font-semibold">
+            Nadchodzące Wydarzenia
+          </h2>
         </div>
 
         <ul class="space-y-5">
@@ -59,8 +62,8 @@
             </NuxtLink>
           </li>
         </ul>
-      </div>
-    </div>
+      </section>
+    </section>
   </div>
 </template>
 

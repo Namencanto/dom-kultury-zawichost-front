@@ -1,9 +1,10 @@
 <template>
-  <main>
+  <section aria-label="Główna zawartość strony">
     <LatestNews />
     <EventCalendar />
-  </main>
+  </section>
 </template>
+
 <script lang="ts" setup>
 import LatestNews from "~/components/LatestNews.vue";
 import EventCalendar from "~/components/EventCalendar.vue";

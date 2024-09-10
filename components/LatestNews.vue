@@ -1,8 +1,8 @@
 <template>
   <nav class="max-w-7xl mx-auto py-10 px-4">
-    <h1 class="text-4xl font-semibold text-gray-900 mb-8 text-center">
+    <h2 class="text-4xl font-semibold text-gray-900 mb-8 text-center">
       Aktualności
-    </h1>
+    </h2>
 
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
       <div class="lg:col-span-2 bg-white shadow-md rounded-lg overflow-hidden">
@@ -18,18 +18,18 @@
                 class="w-full h-64 object-cover"
               />
               <div class="p-6">
-                <h2 class="text-2xl font-bold text-gray-800 mb-2">
+                <h3 class="text-2xl font-bold text-gray-800 mb-2">
                   <a :href="article._path" class="hover:underline">{{
                     article.title
                   }}</a>
-                </h2>
+                </h3>
                 <!-- Stylizacja sekcji -->
-                <h3
+                <h4
                   v-if="getSectionHeading(article.content)"
                   class="text-sm font-semibold text-gray-500 uppercase mb-2 tracking-wide"
                 >
                   {{ getSectionHeading(article.content) }}
-                </h3>
+                </h4>
 
                 <p class="text-gray-600 mb-2">
                   <span class="font-semibold">Data publikacji:</span>
@@ -71,7 +71,6 @@
                 article.title
               }}</a>
             </h2>
-            <!-- Stylizacja sekcji -->
             <h3
               v-if="getSectionHeading(article.content)"
               class="text-xs font-semibold text-gray-500 uppercase mb-2 tracking-wide"

@@ -1,20 +1,28 @@
 <template>
-  <div :class="accessibilityClasses" class="flex flex-col min-h-screen">
+  <section
+    :class="accessibilityClasses"
+    class="flex flex-col min-h-screen"
+    aria-label="Główna sekcja strony"
+  >
     <Header />
-    <main class="flex-grow">
+
+    <main class="flex-grow" aria-label="Główna zawartość">
       <NuxtPage />
     </main>
+
     <Footer />
 
     <button
+      type="button"
       @click="toggleAccessibilityMode"
       class="fixed bottom-4 right-4 p-2 bg-gray-800 text-white rounded-md shadow-md z-50"
-      :aria-pressed="isAccessibilityMode"
+      :aria-pressed="isAccessibilityMode.toString()"
       aria-label="Toggle Accessibility Mode"
+      aria-live="polite"
     >
       Tryb Dostępności
     </button>
-  </div>
+  </section>
 </template>
 
 <script lang="ts" setup>
@@ -29,12 +37,33 @@ const toggleAccessibilityMode = () => {
 };
 
 const isAccessibilityMode = accessibilityStore.isAccessibilityMode;
+
 const accessibilityClasses = computed(() => ({
   "high-contrast": isAccessibilityMode,
   "large-font": isAccessibilityMode,
   "underline-links": isAccessibilityMode,
   "highlight-buttons": isAccessibilityMode,
 }));
+
+useHead({
+  htmlAttrs: {
+    lang: "pl",
+  },
+  title: "Dom Kultury w Zawichoście",
+  meta: [
+    {
+      name: "description",
+      content:
+        "Dom Kultury w Zawichoście - wydarzenia, warsztaty, i kultura dla wszystkich.",
+    },
+    {
+      name: "keywords",
+      content: "dom kultury, Zawichost, wydarzenia, kultura, warsztaty, sztuka",
+    },
+    { name: "viewport", content: "width=device-width, initial-scale=1.0" },
+    { charset: "UTF-8" },
+  ],
+});
 </script>
 
 <style>
