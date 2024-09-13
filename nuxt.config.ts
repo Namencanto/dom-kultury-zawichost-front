@@ -14,6 +14,7 @@ export default defineNuxtConfig({
     "@nuxt/content",
     "@nuxthq/studio",
     "@nuxtjs/html-validator",
+    "@nuxtjs/sitemap",
   ],
 
   alias: {
@@ -33,28 +34,28 @@ export default defineNuxtConfig({
   },
   hooks: {
     "pages:extend"(pages) {
-      // Funkcja pomocnicza do ustawiania middleware
       function setMiddleware(pages: any[]) {
         for (const page of pages) {
-          // Przykład: ustaw middleware dla ścieżek zaczynających się od '/admin' lub '/nowe-wydarzenie'
           if (
             page.path.startsWith("/admin") ||
             page.path === "/nowe-wydarzenie"
           ) {
             page.meta ||= {};
-            page.meta.middleware = ["auth"]; // Przypisz middleware 'auth'
+            page.meta.middleware = ["auth"];
           }
 
-          // Rekurencyjnie ustaw middleware dla stron dzieci
           if (page.children) {
             setMiddleware(page.children);
           }
         }
       }
 
-      // Zastosuj middleware do wszystkich stron
       setMiddleware(pages);
     },
+  },
+  sitemap: {
+    hostname: process.env.BASE_URL,
+    gzip: true,
   },
   compatibilityDate: "2024-08-03",
 });
