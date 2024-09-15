@@ -61,7 +61,7 @@
         ]"
       >
         <div v-for="(block, index) in doc.content" :key="index" class="mb-10">
-          <!-- Render content blocks here -->
+          <!-- Heading Level 1 -->
           <h3
             v-if="block.type === 'heading' && block.level === 1"
             :class="[
@@ -73,7 +73,70 @@
           >
             {{ block.text }}
           </h3>
-          <!-- Other blocks continue -->
+
+          <!-- Paragraph -->
+          <p
+            v-if="block.type === 'paragraph'"
+            :class="[
+              'text-base leading-7 mb-6',
+              isAccessibilityMode ? 'text-yellow-300' : 'text-gray-900',
+            ]"
+          >
+            {{ block.text }}
+          </p>
+
+          <!-- Blockquote -->
+          <blockquote
+            v-if="block.type === 'blockquote'"
+            :class="[
+              'border-l-4 pl-4 italic font-light bg-gray-100 py-4 px-6 mb-8',
+              isAccessibilityMode
+                ? 'text-yellow-300 border-yellow-300 bg-black'
+                : 'text-gray-600',
+            ]"
+          >
+            {{ block.text }}
+          </blockquote>
+
+          <!-- List -->
+          <ul
+            v-if="block.type === 'list'"
+            :class="[
+              'list-disc list-inside mb-6',
+              isAccessibilityMode ? 'text-yellow-300' : 'text-gray-900',
+            ]"
+          >
+            <li v-for="(item, index) in block.items" :key="index">
+              {{ item }}
+            </li>
+          </ul>
+
+          <!-- Link -->
+          <a
+            v-if="block.type === 'link'"
+            :href="block.href"
+            :class="[
+              'underline mb-6 block',
+              isAccessibilityMode
+                ? 'text-yellow-300 hover:text-white'
+                : 'text-blue-600',
+            ]"
+            target="_blank"
+          >
+            {{ block.text }}
+          </a>
+
+          <!-- Image -->
+          <img
+            v-if="block.type === 'image'"
+            :src="block.src"
+            :alt="block.alt"
+            :class="[
+              'w-full h-auto rounded-lg my-8 transition-transform duration-500 hover:scale-105 cursor-pointer',
+              isAccessibilityMode ? 'border-4 border-yellow-300' : '',
+            ]"
+            @click="openModalWithImage(block.src)"
+          />
         </div>
       </div>
 
@@ -83,7 +146,7 @@
           v-for="(image, index) in doc.images"
           :key="index"
           :src="image"
-          :alt="`Image ${index + 1}`"
+          :alt="`Zdjęcie ${index + 1}`"
           :class="[
             'w-full h-56 object-cover rounded-lg cursor-pointer transition-transform duration-500 hover:scale-105',
             isAccessibilityMode ? 'border-4 border-yellow-300' : '',

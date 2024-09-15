@@ -1,0 +1,48 @@
+{
+  "title": "Konkurs plastyczno-fotograficzny",
+  "eventDate": "2024-09-30T09:00",
+  "publishDate": "2024-09-14",
+  "thumbnail": "/images/2024/wrzesien/konkurs-plastyczno-fotograficzny.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Konkurs plastyczno-fotograficzny"
+    },
+    {
+      "type": "paragraph",
+      "text": "Serdecznie zapraszamy do wzięcia udziału w konkursie plastyczno-fotograficznym pn. „Pocztówka z wakacji” pod patronatem honorowym Katarzyny Kondziołki Burmistrz Zawichostu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Konkurs podzielony jest na dwie kategorie:"
+    },
+    {
+      "type": "paragraph",
+      "text": "– część plastyczna,"
+    },
+    {
+      "type": "paragraph",
+      "text": "– część fotograficzna."
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/wrzesien/konkurs-plastyczno-fotograficzny.jpg",
+      "alt": "Plakat konkursu plastyczno-fotograficznego"
+    },
+    {
+      "type": "paragraph",
+      "text": "Czekamy na Wasze zgłoszenia!"
+    },
+    {
+      "type": "link",
+      "href": "/pdfs/2024/wrzesien/konkurs-plastyczny.pdf",
+      "text": "Konkurs Plastyczny PDF"
+    },
+    {
+      "type": "link",
+      "href": "/pdfs/2024/wrzesien/konkurs-fotograficzny.pdf",
+      "text": "Konkurs Fotograficzny PDF"
+    }
+  ]
+}
