@@ -1,12 +1,12 @@
 <template>
-  <section
-    :class="accessibilityClasses"
-    class="flex flex-col min-h-screen"
-    aria-label="Główna sekcja strony"
-  >
+  <section class="flex flex-col min-h-screen" aria-label="Główna sekcja strony">
     <Header />
 
-    <main class="flex-grow" aria-label="Główna zawartość">
+    <main
+      :class="isAccessibilityMode ? 'bg-black' : ''"
+      class="flex-grow"
+      aria-label="Główna zawartość"
+    >
       <NuxtPage />
     </main>
 
@@ -20,7 +20,7 @@
       aria-label="Toggle Accessibility Mode"
       aria-live="polite"
     >
-      Tryb Dostępności
+      {{ buttonLabel }}
     </button>
   </section>
 </template>
@@ -36,14 +36,13 @@ const toggleAccessibilityMode = () => {
   accessibilityStore.toggleAccessibilityMode();
 };
 
-const isAccessibilityMode = accessibilityStore.isAccessibilityMode;
+const isAccessibilityMode = computed(
+  () => accessibilityStore.isAccessibilityMode
+);
 
-const accessibilityClasses = computed(() => ({
-  "high-contrast": isAccessibilityMode,
-  "large-font": isAccessibilityMode,
-  "underline-links": isAccessibilityMode,
-  "highlight-buttons": isAccessibilityMode,
-}));
+const buttonLabel = computed(() =>
+  isAccessibilityMode.value ? "Tryb Normalny" : "Tryb Dostępności"
+);
 
 useHead({
   htmlAttrs: {
@@ -60,43 +59,20 @@ useHead({
       name: "keywords",
       content: "dom kultury, Zawichost, wydarzenia, kultura, warsztaty, sztuka",
     },
+    {
+      name: "author",
+      content: "Mateusz Ordon | https://www.linkedin.com/in/mateusz-ordon",
+    },
     { name: "viewport", content: "width=device-width, initial-scale=1.0" },
     { charset: "UTF-8" },
   ],
+  link: [
+    { rel: "icon", type: "image/jpeg", href: "/logo.jpg" },
+    { rel: "apple-touch-icon", href: "/logo.jpg" },
+    {
+      rel: "author",
+      href: "https://www.linkedin.com/in/mateusz-ordon/",
+    },
+  ],
 });
 </script>
-
-<style>
-.high-contrast {
-  background-color: #000000 !important;
-  color: #ffffff !important;
-}
-
-.high-contrast button,
-.high-contrast input,
-.high-contrast textarea,
-.high-contrast select {
-  background-color: #ffffff !important;
-  color: #000000 !important;
-  border: 2px solid #ffffff;
-}
-
-.high-contrast a {
-  color: #00ffff !important;
-  text-decoration: underline !important;
-}
-
-.large-font {
-  font-size: 1.2em !important;
-  line-height: 1.6 !important;
-}
-
-.underline-links a {
-  text-decoration: underline !important;
-}
-
-.highlight-buttons button {
-  border: 2px solid #ffffff !important;
-  box-shadow: 0 0 4px #ffffff !important;
-}
-</style>

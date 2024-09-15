@@ -1,22 +1,58 @@
 <template>
-  <div class="container mx-auto py-6 px-6">
-    <h2 class="text-3xl font-bold mb-6 text-center">Kalendarz wydarzeń</h2>
-    <FullCalendar :options="calendarOptions" />
+  <div
+    :class="[
+      'container mx-auto py-6 px-6',
+      isAccessibilityMode ? 'bg-black text-yellow-300' : 'bg-white text-black',
+    ]"
+  >
+    <h2
+      :class="[
+        'text-center mb-6',
+        isAccessibilityMode ? 'text-4xl font-extrabold' : 'text-3xl font-bold',
+      ]"
+    >
+      Kalendarz wydarzeń
+    </h2>
+    <div :class="isAccessibilityMode ? 'calendar-accessible' : ''">
+      <FullCalendar :options="calendarOptions" />
+    </div>
   </div>
 </template>
 
 <script lang="ts" setup>
-import { ref, onMounted } from "vue";
+import { ref, onMounted, computed } from "vue";
 import FullCalendar from "@fullcalendar/vue3";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import interactionPlugin from "@fullcalendar/interaction";
 import plLocale from "@fullcalendar/core/locales/pl";
+import { useAccessibilityStore } from "~/stores/accessibility";
 
 interface Event {
   title: string;
   start: string;
   url: string;
 }
+
+useHead({
+  title: "Kalendarz Wydarzeń - Miejsko-Gminny Ośrodek Kultury w Zawichoście",
+  meta: [
+    {
+      property: "og:title",
+      content:
+        "Kalendarz Wydarzeń - Miejsko-Gminny Ośrodek Kultury w Zawichoście",
+    },
+    {
+      property: "og:description",
+      content:
+        "Aktualny kalendarz wydarzeń organizowanych przez Miejsko-Gminny Ośrodek Kultury w Zawichoście.",
+    },
+  ],
+});
+
+const accessibilityStore = useAccessibilityStore();
+const isAccessibilityMode = computed(
+  () => accessibilityStore.isAccessibilityMode
+);
 
 const calendarOptions = ref({
   plugins: [dayGridPlugin, interactionPlugin],
@@ -25,20 +61,30 @@ const calendarOptions = ref({
   locale: plLocale,
   events: [] as Event[],
   eventClick: handleEventClick,
+  themeSystem: isAccessibilityMode.value ? "bootstrap" : "standard",
+  headerToolbar: {
+    left: "prev,next today",
+    center: "title",
+    right: "dayGridMonth,dayGridWeek",
+  },
+  buttonText: {
+    today: isAccessibilityMode.value ? "Dziś" : "Dziś",
+    month: isAccessibilityMode.value ? "Miesiąc" : "Miesiąc",
+    week: isAccessibilityMode.value ? "Tydzień" : "Tydzień",
+  },
+
+  eventDisplay: isAccessibilityMode.value ? "block" : "list-item",
 });
 
-// Function to format events for FullCalendar
 function createSchedules(news: any[]) {
   return news
     .filter((item) => {
-      // Ensure eventDate is valid
       const date = new Date(item.eventDate);
-      return !isNaN(date.getTime()); // Filter out invalid dates
+      return !isNaN(date.getTime());
     })
     .map((item) => {
       const date = new Date(item.eventDate);
 
-      // Extract year, month, and slug from the content's path
       const pathParts = item._path.split("/");
       const year = pathParts[2];
       const month = pathParts[3];
@@ -46,29 +92,25 @@ function createSchedules(news: any[]) {
 
       return {
         title: item.title,
-        start: date.toISOString().split("T")[0], // Convert to YYYY-MM-DD format
+        start: date.toISOString().split("T")[0],
         url: `/aktualnosci/${year}/${month}/${slug}`,
       };
     });
 }
 
-// Handle click events in the calendar
 function handleEventClick(info: any) {
   info.jsEvent.preventDefault();
   window.open(info.event.url, "_blank");
 }
 
-// Fetch news data from @nuxt/content
 const news = ref<any[]>([]);
 
 onMounted(async () => {
   try {
-    // Load news from @nuxt/content across all nested directories
     const result = await queryContent("aktualnosci").find();
 
     if (result && Array.isArray(result)) {
       news.value = result;
-      // Populate calendar events
       calendarOptions.value.events = createSchedules(news.value);
     } else {
       console.error("No data returned or data is not an array.");
@@ -78,3 +120,30 @@ onMounted(async () => {
   }
 });
 </script>
+
+<style scoped>
+.calendar-accessible {
+  background-color: black;
+  color: yellow;
+}
+
+.calendar-accessible .fc {
+  color: yellow;
+  border-color: yellow;
+}
+
+.calendar-accessible .fc-button-primary {
+  background-color: yellow;
+  color: black;
+  border: 1px solid yellow;
+}
+
+.calendar-accessible .fc .fc-daygrid-day {
+  background-color: black;
+  border-color: yellow;
+}
+
+.calendar-accessible .fc .fc-toolbar-title {
+  color: yellow;
+}
+</style>

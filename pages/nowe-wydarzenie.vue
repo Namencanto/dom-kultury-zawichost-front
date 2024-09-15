@@ -157,7 +157,7 @@
             :key="index"
             class="image-item flex flex-col items-center"
           >
-            <img
+            <nuxt-img
               :src="image.preview"
               :alt="image.alt || 'Obraz ' + (index + 1)"
               class="w-full h-24 object-cover rounded-md mb-2"
@@ -188,7 +188,7 @@
       <!-- Header -->
       <header class="mb-12" v-if="mainImage">
         <div class="relative">
-          <img
+          <nuxt-img
             :src="mainImage.preview"
             :alt="mainImage.alt || 'Podgląd głównego zdjęcia'"
             class="w-full h-[400px] lg:h-[500px] object-cover cursor-pointer transition-transform duration-500 rounded-lg"

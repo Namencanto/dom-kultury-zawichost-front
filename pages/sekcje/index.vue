@@ -21,7 +21,7 @@
         class="bg-white rounded-lg shadow-md overflow-hidden transform transition duration-500 hover:scale-105"
       >
         <div class="relative h-48 bg-gray-200 overflow-hidden">
-          <img
+          <nuxt-img
             v-if="exhibition.images.length"
             :src="`/${exhibition.images[0].localPath}`"
             :alt="exhibition.images[0].description"

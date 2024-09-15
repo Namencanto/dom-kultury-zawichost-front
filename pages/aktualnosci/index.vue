@@ -1,23 +1,38 @@
 <template>
-  <div class="max-w-6xl mx-auto py-8">
+  <div
+    :class="
+      isAccessibilityMode
+        ? 'max-w-6xl mx-auto py-8 bg-black text-yellow-300'
+        : 'max-w-6xl mx-auto py-8'
+    "
+  >
     <!-- Admin Panel - Dodaj Nowe Wydarzenie -->
     <div v-if="isAdmin" class="flex justify-end mb-6">
       <el-button
+        :class="
+          isAccessibilityMode
+            ? 'add-event-button-accessibility'
+            : 'add-event-button'
+        "
         type="primary"
         icon="el-icon-circle-plus"
         @click="goToAddEvent"
-        class="add-event-button"
       >
         Dodaj nowe wydarzenie
       </el-button>
     </div>
 
+    <!-- Search and Filter Section -->
     <div class="flex justify-between items-center mb-6">
       <el-input
         v-model="searchQuery"
         placeholder="Wyszukaj..."
         prefix-icon="el-icon-search"
-        class="w-full md:w-1/3"
+        :class="
+          isAccessibilityMode
+            ? 'w-full md:w-1/3 accessibility-input'
+            : 'w-full md:w-1/3'
+        "
       />
       <el-select
         v-model="selectedYear"
@@ -51,48 +66,91 @@
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <p
           v-if="filteredAndSortedArticles(list).length === 0"
-          class="text-center w-full text-gray-500"
+          :class="
+            isAccessibilityMode
+              ? 'text-center w-full text-yellow-300'
+              : 'text-center w-full text-gray-500'
+          "
         >
           Brak wyników.
         </p>
         <div
           v-for="article in paginatedArticles(list)"
           :key="article._path"
-          class="bg-white shadow-lg rounded-lg overflow-hidden relative hover:shadow-xl transition-shadow duration-300"
+          :class="
+            isAccessibilityMode ? 'article-card-accessibility' : 'article-card'
+          "
         >
-          <img
+          <nuxt-img
             :src="article.thumbnail"
             :alt="article.title"
-            class="w-full h-56 object-cover"
+            :class="
+              isAccessibilityMode
+                ? 'w-full h-56 object-cover border-b-4 border-yellow-300'
+                : 'w-full h-56 object-cover'
+            "
           />
-          <div class="p-6">
-            <h2 class="text-xl font-bold mb-2 text-gray-800">
+          <div :class="isAccessibilityMode ? 'p-6 bg-black' : 'p-6'">
+            <h2
+              :class="
+                isAccessibilityMode
+                  ? 'text-2xl font-bold mb-2 text-yellow-300'
+                  : 'text-xl font-bold mb-2 text-gray-800'
+              "
+            >
               <a :href="article._path" class="hover:underline">
                 {{ article.title }}
               </a>
             </h2>
             <h3
               v-if="getSectionHeading(article.content)"
-              class="text-lg font-semibold text-gray-700 mb-2"
+              :class="
+                isAccessibilityMode
+                  ? 'text-lg font-semibold text-yellow-300 mb-2'
+                  : 'text-lg font-semibold text-gray-700 mb-2'
+              "
             >
               {{ getSectionHeading(article.content) }}
             </h3>
 
-            <p class="text-gray-600 mb-2">
+            <p
+              :class="
+                isAccessibilityMode
+                  ? 'text-yellow-300 mb-2'
+                  : 'text-gray-600 mb-2'
+              "
+            >
               <span class="font-semibold">Data publikacji:</span>
               {{ formatDate(article.publishDate) }}
             </p>
-            <p class="text-gray-600 mb-4">
+            <p
+              :class="
+                isAccessibilityMode
+                  ? 'text-yellow-300 mb-4'
+                  : 'text-gray-600 mb-4'
+              "
+            >
               <span class="font-semibold">Data wydarzenia:</span>
               {{ formatDate(article.eventDate) }}
             </p>
-            <p class="text-gray-700 text-sm">
+            <p
+              :class="
+                isAccessibilityMode
+                  ? 'text-yellow-300 text-sm'
+                  : 'text-gray-700 text-sm'
+              "
+            >
               {{ truncateContent(getFirstParagraph(article.content), 100) }}
             </p>
 
             <!-- Admin Actions (Edytuj / Usuń) -->
             <div v-if="isAdmin" class="flex space-x-4 mt-4">
               <el-button
+                :class="
+                  isAccessibilityMode
+                    ? 'edit-button-accessibility'
+                    : 'edit-button'
+                "
                 type="warning"
                 icon="el-icon-edit"
                 @click="editEvent(article._path)"
@@ -100,6 +158,11 @@
                 Edytuj
               </el-button>
               <el-button
+                :class="
+                  isAccessibilityMode
+                    ? 'delete-button-accessibility'
+                    : 'delete-button'
+                "
                 type="danger"
                 icon="el-icon-delete"
                 @click="deleteEvent(article.title, article.publishDate)"
@@ -118,17 +181,29 @@
         <el-button
           @click="prevPage(list)"
           :disabled="currentPage === 1"
+          :class="
+            isAccessibilityMode
+              ? 'pagination-button-accessibility'
+              : 'pagination-button'
+          "
           type="primary"
           plain
         >
           Poprzednia
         </el-button>
-        <span class="text-gray-600">
+        <span
+          :class="isAccessibilityMode ? 'text-yellow-300' : 'text-gray-600'"
+        >
           Strona {{ currentPage }} z {{ totalPages(list) }}
         </span>
         <el-button
           @click="nextPage(list)"
           :disabled="currentPage === totalPages(list)"
+          :class="
+            isAccessibilityMode
+              ? 'pagination-button-accessibility'
+              : 'pagination-button'
+          "
           type="primary"
           plain
         >
@@ -139,23 +214,43 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref, computed, watch } from "vue";
 import { format, isValid } from "date-fns";
 import { pl } from "date-fns/locale";
 import { useRouter } from "vue-router";
 import { useAuthStore } from "~/stores/auth";
-import axios from "axios";
+import { useAccessibilityStore } from "~/stores/accessibility";
 
 const router = useRouter();
 const authStore = useAuthStore();
+const accessibilityStore = useAccessibilityStore();
 const isAdmin = ref(false);
+
+const isAccessibilityMode = computed(
+  () => accessibilityStore.isAccessibilityMode
+);
 
 watchEffect(async () => {
   isAdmin.value = await authStore.getAuthAdminStatus;
 });
+
+useHead({
+  title: "Lista aktualności - Miejsko-Gminny Ośrodek Kultury",
+  meta: [
+    {
+      property: "og:title",
+      content: "Lista aktualności - Miejsko-Gminny Ośrodek Kultury",
+    },
+    {
+      property: "og:description",
+      content:
+        "Sprawdź aktualne wydarzenia organizowane przez Miejsko-Gminny Ośrodek Kultury w Zawichoście.",
+    },
+  ],
+});
+
 const currentYear = new Date().getFullYear();
-const currentMonth = new Date().getMonth() + 1;
 
 const searchQuery = ref("");
 const selectedYear = ref(currentYear);
@@ -183,15 +278,18 @@ const availableYears = [];
 for (let year = currentYear; year >= 2012; year--) {
   availableYears.push(year);
 }
+
 const getFirstParagraph = (content) => {
   const paragraph = content.find((item) => item.type === "paragraph");
   return paragraph ? paragraph.text || "" : "";
 };
+
 const truncateContent = (text, length) => {
   if (text.length <= length) return text;
   const truncated = text.slice(0, length).trim();
   return truncated.slice(0, truncated.lastIndexOf(" ")) + "...";
 };
+
 const formatDate = (date) => {
   const parsedDate = new Date(date);
   if (isValid(parsedDate)) {
@@ -277,5 +375,42 @@ watch([selectedYear, selectedMonth, searchQuery], () => {
 <style scoped>
 .add-event-button {
   margin-right: 1rem;
+}
+
+.add-event-button-accessibility {
+  margin-right: 1rem;
+  background-color: #ffcc00;
+  color: #000000;
+}
+
+.article-card {
+  background-color: #ffffff;
+  color: #333333;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.article-card-accessibility {
+  background-color: #000000;
+  color: #ffcc00;
+  border: 2px solid #ffcc00;
+  transition: all 0.3s ease;
+}
+
+.edit-button-accessibility,
+.delete-button-accessibility {
+  background-color: #ffcc00 !important;
+  color: #000000 !important;
+}
+
+.accessibility-input {
+  background-color: #000000;
+  color: #ffcc00;
+  border-color: #ffcc00;
+}
+
+.pagination-button-accessibility {
+  background-color: #ffcc00;
+  color: #000000;
 }
 </style>

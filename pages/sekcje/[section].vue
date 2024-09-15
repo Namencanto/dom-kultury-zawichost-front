@@ -5,9 +5,33 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
 import { useRoute } from "vue-router";
 
 const route = useRoute();
 const sectionName = ref(route.params.section.toUpperCase());
+
+useHead({
+  title: `Sekcja: ${sectionName.value} - M-GOK Zawichost`,
+  meta: [
+    {
+      name: "description",
+      content: `Strona sekcji ${sectionName.value} Miejsko Gminnego Ośrodka Kultury w Zawichoście.`,
+    },
+    {
+      property: "og:title",
+      content: `Sekcja: ${sectionName.value} - M-GOK Zawichost`,
+    },
+    {
+      property: "og:description",
+      content: `Dowiedz się więcej o sekcji ${sectionName.value} w Miejsko Gminnym Ośrodku Kultury w Zawichoście.`,
+    },
+  ],
+});
+
+watch(
+  () => route.params.section,
+  (newSection) => {
+    sectionName.value = newSection.toUpperCase();
+  }
+);
 </script>

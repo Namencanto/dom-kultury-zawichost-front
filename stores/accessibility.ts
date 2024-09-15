@@ -1,4 +1,3 @@
-// ~/stores/accessibility.ts
 import { defineStore } from "pinia";
 
 export const useAccessibilityStore = defineStore("accessibility", {

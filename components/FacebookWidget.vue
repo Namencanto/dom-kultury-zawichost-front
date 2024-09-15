@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="facebook-widget-container">
     <div
       class="fb-page"
       data-href="https://www.facebook.com/mgokzawichost"
@@ -65,3 +65,14 @@ onMounted(() => {
   }
 });
 </script>
+
+<style scoped>
+.facebook-widget-container {
+  max-width: 100%;
+  overflow: auto;
+}
+
+.fb-page {
+  width: 100% !important;
+}
+</style>

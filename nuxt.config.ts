@@ -32,6 +32,19 @@ export default defineNuxtConfig({
     API_USERNAME: process.env.API_USERNAME,
     API_PASSWORD: process.env.API_PASSWORD,
   },
+
+  image: {
+    domains: [process.env.BASE_URL],
+    quality: 80,
+  },
+  ogImage: {
+    baseUrl: process.env.BASE_URL,
+    defaults: {
+      background: "#000",
+      color: "#fff",
+    },
+  },
+
   hooks: {
     "pages:extend"(pages) {
       function setMiddleware(pages: any[]) {
