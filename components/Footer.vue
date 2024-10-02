@@ -1,7 +1,7 @@
 <template>
   <footer
     :class="isAccessibilityMode ? 'bg-black text-yellow-300' : 'bg-white'"
-    class="shadow-md"
+    class="shadow-md border-t border-gray-300"
     aria-label="Stopka strony"
   >
     <!-- Non-Accessibility Mode Layout -->
@@ -16,7 +16,7 @@
         <nuxt-img
           src="/logo.jpg"
           alt="Logo Miejsko-Gminnego Ośrodka Kultury w Zawichoście"
-          class="h-16 mb-4 lg:mb-0"
+          class="h-24 lg:h-32 mb-4 lg:mb-0"
         />
         <address class="not-italic text-left w-full lg:w-auto">
           <p class="text-lg font-bold">
@@ -27,11 +27,19 @@
             Czynny: poniedziałek – piątek 8.00 – 20.00
           </p>
           <p class="text-gray-700">
-            Telefon: <a href="tel:158364164">15&nbsp;836&nbsp;41&nbsp;64</a>
+            Telefon:
+            <a href="tel:158364164" class="text-gray-900"
+              >15&nbsp;836&nbsp;41&nbsp;64</a
+            >
           </p>
           <p class="text-gray-700">
-            Kom.: <a href="tel:508238658">508&nbsp;238&nbsp;658</a>,
-            <a href="tel:518902688">518&nbsp;902&nbsp;688</a>
+            Kom.:
+            <a href="tel:508238658" class="text-gray-900"
+              >508&nbsp;238&nbsp;658</a
+            >,
+            <a href="tel:518902688" class="text-gray-900"
+              >518&nbsp;902&nbsp;688</a
+            >
           </p>
           <p class="text-gray-700">NIP: 864-14-60-975</p>
           <p class="text-gray-700">
@@ -45,19 +53,19 @@
       <div class="text-gray-700 mb-4 lg:mb-0 lg:ml-4 flex-1">
         <p>
           Dyrektor:
-          <a href="mailto:dyrektor.mgok@zawichost.pl" class="text-red-600"
+          <a href="mailto:dyrektor.mgok@zawichost.pl" class="text-gray-900"
             >dyrektor.mgok@zawichost.pl</a
           ><br />
           Sekretariat:
-          <a href="mailto:mgok@zawichost.pl" class="text-red-600"
+          <a href="mailto:mgok@zawichost.pl" class="text-gray-900"
             >mgok@zawichost.pl</a
           ><br />
           Organizacja MGOK:
-          <a href="mailto:e.kedziora.mgok@zawichost.pl" class="text-red-600"
+          <a href="mailto:e.kedziora.mgok@zawichost.pl" class="text-gray-900"
             >e.kedziora.mgok@zawichost.pl</a
           ><br />
           Promocja:
-          <a href="mailto:t.chmiel.mgok@zawichost.pl" class="text-red-600"
+          <a href="mailto:t.chmiel.mgok@zawichost.pl" class="text-gray-900"
             >t.chmiel.mgok@zawichost.pl</a
           >
         </p>
@@ -165,7 +173,8 @@
     </div>
 
     <!-- Footer Bottom Section -->
-    <div :class="isAccessibilityMode ? 'bg-black py-2' : 'bg-red-600 py-2'">
+    <div :class="isAccessibilityMode ? 'bg-black py-2' : 'bg-gray-800 py-2'">
+      <!-- Zmieniono tło na bardziej neutralne -->
       <div
         :class="[
           'container mx-auto flex flex-col items-center lg:flex-row lg:justify-between text-sm space-y-2 lg:space-y-0',
@@ -186,7 +195,7 @@
           :class="
             isAccessibilityMode
               ? 'flex space-x-4 mt-2 lg:mt-0 text-yellow-300'
-              : 'flex space-x-4 mt-2 lg:mt-0'
+              : 'flex space-x-4 mt-2 lg:mt-0 text-white'
           "
         >
           <a
@@ -194,7 +203,7 @@
             :class="
               isAccessibilityMode
                 ? 'underline focus:outline-none focus:ring-2 focus:ring-yellow-300 hover:text-white'
-                : 'underline focus:outline-none focus:ring-2 focus:ring-white'
+                : 'underline focus:outline-none focus:ring-2 focus:ring-white hover:text-gray-300'
             "
             aria-label="Mapa strony"
             >Mapa strony</a
@@ -204,7 +213,7 @@
             :class="
               isAccessibilityMode
                 ? 'underline focus:outline-none focus:ring-2 focus:ring-yellow-300 hover:text-white'
-                : 'underline focus:outline-none focus:ring-2 focus:ring-white'
+                : 'underline focus:outline-none focus:ring-2 focus:ring-white hover:text-gray-300'
             "
             aria-label="Polityka prywatności"
             >Polityka prywatności</NuxtLink
@@ -214,7 +223,7 @@
             :class="
               isAccessibilityMode
                 ? 'underline focus:outline-none focus:ring-2 focus:ring-yellow-300 hover:text-white'
-                : 'underline focus:outline-none focus:ring-2 focus:ring-white'
+                : 'underline focus:outline-none focus:ring-2 focus:ring-white hover:text-gray-300'
             "
             aria-label="Deklaracja dostępności"
             >Deklaracja dostępności</NuxtLink

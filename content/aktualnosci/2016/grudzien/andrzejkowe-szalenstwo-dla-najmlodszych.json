@@ -1,7 +1,33 @@
 {
-  "thumbnail": "/images/2016/grudzien/2016_grudzien_andrzejkowe_szale_stwo_dla_najm_odszych_2016_12_andrzejkowe_szale_stwo_dla_najm_odszych_DSC_0024.jpg",
   "title": "ANDRZEJKOWE SZALEŃSTWO DLA NAJMŁODSZYCH",
   "publishDate": "2016-12-01T00:00:00.000Z",
-  "eventDate": "2016-12-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p style=\"text-align: center;\"><span style=\"background: white; color: #222222; line-height: 107%; letter-spacing: 0.65pt; font-family: 'Arial',sans-serif; font-size: 10.5pt;\">26. listopada w Wigilię Andrzeja, zgodnie ze staropolskim obyczajem sięgającym połowy XVI wieku, odbyły się w Miejsko- Gminnym Ośrodku Kultury w Zawichoście Andrzejki. Na zabawę przybyła wróżka Małgorzata, która poprowadziła ten magiczny wieczór. Każdy poznał wróżbę dotyczącą swojej przyszłości i wziął udział w atrakcjach wieczoru jakimi były konkursy, zabawy plastyczne oraz szalone tańce. Dodatkowo na uczestników Andrzejek czekał słodki poczęstunek. Zabawa była udana. Szkoda, że ten czas tak szybko minął… </span></p>\n<p style=\"text-align: center;\"><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4166\" src=\"/images/2016/grudzien/2016_grudzien_andrzejkowe_szale_stwo_dla_najm_odszych_2016_12_andrzejkowe_szale_stwo_dla_najm_odszych_DSC_0024.jpg\" alt=\"\" width=\"800\" height=\"531\" srcset=\"/images/2016/grudzien/2016_grudzien_andrzejkowe_szale_stwo_dla_najm_odszych_2016_12_andrzejkowe_szale_stwo_dla_najm_odszych_DSC_0024.jpg 800w, /images/2016/grudzien/DSC_0024-300x199.jpg 300w, /images/2016/grudzien/DSC_0024-768x510.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></p>\n<p style=\"text-align: center;\">\n</p><p style=\"text-align: right;\">tekst – M. Czajkowska<br>\nfoto – B. Kędziora</p>\n<p style=\"text-align: center;\"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.</em><br>\n<em> o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2016/grudzien/2016_grudzien_andrzejkowe_szale_stwo_dla_najm_odszych_2016_12_andrzejkowe_szale_stwo_dla_najm_odszych_DSC_0024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ANDRZEJKOWE SZALEŃSTWO DLA NAJMŁODSZYCH"
+    },
+    {
+      "type": "paragraph",
+      "text": "26. listopada w Wigilię Andrzeja, zgodnie ze staropolskim obyczajem sięgającym połowy XVI wieku, odbyły się w Miejsko- Gminnym Ośrodku Kultury w Zawichoście Andrzejki. Na zabawę przybyła wróżka Małgorzata, która poprowadziła ten magiczny wieczór. Każdy poznał wróżbę dotyczącą swojej przyszłości i wziął udział w atrakcjach wieczoru jakimi były konkursy, zabawy plastyczne oraz szalone tańce. Dodatkowo na uczestników Andrzejek czekał słodki poczęstunek. Zabawa była udana. Szkoda, że ten czas tak szybko minął…"
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/grudzien/2016_grudzien_andrzejkowe_szale_stwo_dla_najm_odszych_2016_12_andrzejkowe_szale_stwo_dla_najm_odszych_DSC_0024.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "tekst – M. Czajkowska"
+    },
+    {
+      "type": "paragraph",
+      "text": "foto – B. Kędziora"
+    },
+    {
+      "type": "paragraph",
+      "text": "o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie."
+    }
+  ]
 }

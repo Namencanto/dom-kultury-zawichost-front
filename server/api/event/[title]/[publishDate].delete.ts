@@ -1,7 +1,7 @@
 import api from "~/server/db";
 import { handleError } from "~/server/helpers";
 
-export default defineEventHandler(async (event) => {
+export default defineEventHandler(async (event: any) => {
   try {
     const title = getRouterParam(event, "title");
     const publishDate = getRouterParam(event, "publishDate");

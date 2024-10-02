@@ -1,7 +1,25 @@
 {
-  "thumbnail": "/images/2022/wrzesien/2022_wrzesien_europejskie_dni_dziedzictwa_2022_zapraszamy_2022_09_europejskie_dni_dziedzictwa_2022_zapraszamy_pl1-1-727x1024.jpg",
   "title": "EUROPEJSKIE DNI DZIEDZICTWA 2022 – ZAPRASZAMY",
   "publishDate": "2022-09-01T00:00:00.000Z",
-  "eventDate": "2022-09-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<p>Po raz pierwszy na zawichojskim placu targowym, po raz drugi na terenie gminy Zawichost. Uczta kulinarna, kuchnia naszych babć, a wszystko w ramach ogólnopolskiej akcji Europejskie Dni Dziedzictwa 2022. Serdecznie zapraszamy!</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2022/09/pl1-1.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"727\" height=\"1024\" src=\"/images/2022/wrzesien/2022_wrzesien_europejskie_dni_dziedzictwa_2022_zapraszamy_2022_09_europejskie_dni_dziedzictwa_2022_zapraszamy_pl1-1-727x1024.jpg\" alt=\"\" class=\"wp-image-8923\" srcset=\"/images/2022/wrzesien/2022_wrzesien_europejskie_dni_dziedzictwa_2022_zapraszamy_2022_09_europejskie_dni_dziedzictwa_2022_zapraszamy_pl1-1-727x1024.jpg 727w, /images/2022/wrzesien/pl1-1-213x300.jpg 213w, /images/2022/wrzesien/pl1-1-768x1082.jpg 768w, /images/2022/wrzesien/pl1-1.jpg 800w\" sizes=\"(max-width: 727px) 100vw, 727px\"></a></figure>\n\n\n\n<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2022/wrzesien/2022_wrzesien_europejskie_dni_dziedzictwa_2022_zapraszamy_2022_09_europejskie_dni_dziedzictwa_2022_zapraszamy_pl1-1-727x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "EUROPEJSKIE DNI DZIEDZICTWA 2022 – ZAPRASZAMY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Po raz pierwszy na zawichojskim placu targowym, po raz drugi na terenie gminy Zawichost. Uczta kulinarna, kuchnia naszych babć, a wszystko w ramach ogólnopolskiej akcji Europejskie Dni Dziedzictwa 2022. Serdecznie zapraszamy!"
+    },
+    {
+      "type": "image",
+      "src": "/images/2022/wrzesien/2022_wrzesien_europejskie_dni_dziedzictwa_2022_zapraszamy_2022_09_europejskie_dni_dziedzictwa_2022_zapraszamy_pl1-1-727x1024.jpg",
+      "alt": "Europejskie Dni Dziedzictwa 2022 – plakat"
+    },
+    {
+      "type": "paragraph",
+      "text": "ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH."
+    }
+  ]
 }

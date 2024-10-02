@@ -2,6 +2,16 @@
   "thumbnail": "/images/2022/sierpien/2022_sierpien_serdecznie_zapraszamy_na_wi_to_plon_w_zawichost_2022_2022_08_serdecznie_zapraszamy_na_wi_to_plon_w_zawichost_2022_pl2-726x1024.jpg",
   "title": "SERDECZNIE ZAPRASZAMY NA ŚWIĘTO PLONÓW – ZAWICHOST 2022",
   "publishDate": "2022-08-01T00:00:00.000Z",
-  "eventDate": "2022-08-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2022/08/pl2.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"726\" height=\"1024\" src=\"/images/2022/sierpien/2022_sierpien_serdecznie_zapraszamy_na_wi_to_plon_w_zawichost_2022_2022_08_serdecznie_zapraszamy_na_wi_to_plon_w_zawichost_2022_pl2-726x1024.jpg\" alt=\"\" class=\"wp-image-8861\" srcset=\"/images/2022/sierpien/2022_sierpien_serdecznie_zapraszamy_na_wi_to_plon_w_zawichost_2022_2022_08_serdecznie_zapraszamy_na_wi_to_plon_w_zawichost_2022_pl2-726x1024.jpg 726w, /images/2022/sierpien/pl2-213x300.jpg 213w, /images/2022/sierpien/pl2-768x1083.jpg 768w, /images/2022/sierpien/pl2.jpg 800w\" sizes=\"(max-width: 726px) 100vw, 726px\"></a></figure>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SERDECZNIE ZAPRASZAMY NA ŚWIĘTO PLONÓW – ZAWICHOST 2022"
+    },
+    {
+      "type": "image",
+      "url": "/images/2022/sierpien/2022_sierpien_serdecznie_zapraszamy_na_wi_to_plon_w_zawichost_2022_2022_08_serdecznie_zapraszamy_na_wi_to_plon_w_zawichost_2022_pl2-726x1024.jpg",
+      "alt": "Plakat zapraszający na Święto Plonów w Zawichoście 2022"
+    }
+  ]
 }

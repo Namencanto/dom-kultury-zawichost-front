@@ -1,7 +1,33 @@
 {
-  "thumbnail": "/images/2016/grudzien/2016_grudzien_informacja_mgok_2016_12_informacja_mgok_377668_344167032366172_253234123_n-1.jpg",
   "title": "INFORMACJA MGOK",
   "publishDate": "2016-12-01T00:00:00.000Z",
-  "eventDate": "2016-12-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p style=\"text-align: center;\"><img decoding=\"async\" class=\"aligncenter size-full wp-image-4119\" src=\"/images/2016/grudzien/2016_grudzien_informacja_mgok_2016_12_informacja_mgok_377668_344167032366172_253234123_n-1.jpg\" alt=\"\" width=\"100\" height=\"99\" srcset=\"/images/2016/grudzien/2016_grudzien_informacja_mgok_2016_12_informacja_mgok_377668_344167032366172_253234123_n-1.jpg 100w, /images/2016/grudzien/377668_344167032366172_253234123_n-1-50x50.jpg 50w\" sizes=\"(max-width: 100px) 100vw, 100px\">Uwaga! W związku ze świętem wypadającym w dniu wolnym od pracy dla pracowników naszej instytucji (26.12.2016 – poniedziałek)<br>\nMiejsko-Gminny Ośrodek Kultury w Zawichoście będzie nieczynny w dniu 24.12.2016 roku (sobota).</p>\n<p style=\"text-align: center;\">podstawa prawna:<br>\n<em>Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy (j.t. Dz. U. z 2014 r., poz. 1502 ze zm.)</em></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2016/grudzien/2016_grudzien_informacja_mgok_2016_12_informacja_mgok_377668_344167032366172_253234123_n-1.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "INFORMACJA MGOK"
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/grudzien/2016_grudzien_informacja_mgok_2016_12_informacja_mgok_377668_344167032366172_253234123_n-1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Uwaga! W związku ze świętem wypadającym w dniu wolnym od pracy dla pracowników naszej instytucji (26.12.2016 – poniedziałek)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Miejsko-Gminny Ośrodek Kultury w Zawichoście będzie nieczynny w dniu 24.12.2016 roku (sobota)."
+    },
+    {
+      "type": "paragraph",
+      "text": "podstawa prawna:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy (j.t. Dz. U. z 2014 r., poz. 1502 ze zm.)"
+    }
+  ]
 }

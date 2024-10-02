@@ -2,8 +2,12 @@
   "thumbnail": "/images/2024/maj/2024_maj_dzie_mamy_w_mgok_2024_05_dzie_mamy_w_mgok_URA_1111-1024x683.jpg",
   "title": "Dzień Mamy w MGOK",
   "publishDate": "2024-05-01T00:00:00.000Z",
-  "eventDate": "2024-05-01T00:00:00.000Z",
   "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Dzień Mamy w MGOK"
+    },
     {
       "type": "paragraph",
       "text": "Zorganizowany przez nasz ośrodek kultury program sceniczny, w wykonaniu sekcji tanecznej oraz wokalnej MGOK, był specjalną dedykacją. Dzień mamy, który od kilku już lat kojarzymy z sadzeniem kwiatów na skarpie przed MGOK, tym razem zorganizowaliśmy trochę inaczej i trochę wcześniej."

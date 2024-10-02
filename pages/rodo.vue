@@ -89,13 +89,11 @@
 import { computed } from "vue";
 import { useAccessibilityStore } from "~/stores/accessibility";
 
-// Store for managing accessibility mode
 const accessibilityStore = useAccessibilityStore();
 const isAccessibilityMode = computed(
   () => accessibilityStore.isAccessibilityMode
 );
 
-// Head metadata for SEO and accessibility
 useHead({
   title: "RODO - M-GOK Zawichost",
   meta: [

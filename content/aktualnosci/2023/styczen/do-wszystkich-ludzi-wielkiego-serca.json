@@ -1,7 +1,21 @@
 {
-  "thumbnail": "/images/2023/styczen/2023_styczen_do_wszystkich_ludzi_wielkiego_serca_2023_01_do_wszystkich_ludzi_wielkiego_serca_WOSP-DARCZYNCY-NA-STRONE-686x1024.jpg",
   "title": "DO WSZYSTKICH LUDZI „WIELKIEGO SERCA”",
   "publishDate": "2023-01-01T00:00:00.000Z",
-  "eventDate": "2023-01-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/01/WOSP-DARCZYNCY-NA-STRONE.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"686\" height=\"1024\" src=\"/images/2023/styczen/2023_styczen_do_wszystkich_ludzi_wielkiego_serca_2023_01_do_wszystkich_ludzi_wielkiego_serca_WOSP-DARCZYNCY-NA-STRONE-686x1024.jpg\" alt=\"<figure class=&quot;wp-block-image size-large&quot;><a href=&quot;http://mgok-zawichost.pl/wp-content/uploads/2023/01/WOSP-DARCZYNCY-NA-STRONE.jpg&quot;><img fetchpriority=\" high\"=\"\" class=\"&quot;wp-image-9147&quot;/></a></figure>&quot;\" srcset=\"/images/2023/styczen/2023_styczen_do_wszystkich_ludzi_wielkiego_serca_2023_01_do_wszystkich_ludzi_wielkiego_serca_WOSP-DARCZYNCY-NA-STRONE-686x1024.jpg 686w, /images/2023/styczen/WOSP-DARCZYNCY-NA-STRONE-201x300.jpg 201w, /images/2023/styczen/WOSP-DARCZYNCY-NA-STRONE-768x1146.jpg 768w, /images/2023/styczen/WOSP-DARCZYNCY-NA-STRONE.jpg 800w\" sizes=\"(max-width: 686px) 100vw, 686px\"></a></figure>\n\n\n\n<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2023/styczen/2023_styczen_feriada_2023_moc_atrakcji_z_mgok_w_zawicho_cie_zapraszamy_2023_01_feriada_2023_moc_atrakcji_z_mgok_w_zawicho_cie_zapraszamy_feriada-2023-ulotka-1-nz-strone-731x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DO WSZYSTKICH LUDZI „WIELKIEGO SERCA”"
+    },
+    {
+      "type": "image",
+      "src": "/images/2023/styczen/2023_styczen_do_wszystkich_ludzi_wielkiego_serca_2023_01_do_wszystkich_ludzi_wielkiego_serca_WOSP-DARCZYNCY-NA-STRONE-686x1024.jpg",
+      "alt": "Ulotka Feriady 2023 – Moc Atrakcji z MGOK w Zawichości"
+    },
+    {
+      "type": "paragraph",
+      "text": "ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE."
+    }
+  ]
 }

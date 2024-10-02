@@ -40,7 +40,7 @@
           <p class="text-sm text-gray-500">
             Data publikacji: {{ formatDate(exhibition.publicationDate) }}
           </p>
-          <p class="text-sm text-gray-500">
+          <p v-if="exhibition.eventDate" class="text-sm text-gray-500">
             Data wydarzenia: {{ formatDate(exhibition.eventDate) }}
           </p>
         </div>

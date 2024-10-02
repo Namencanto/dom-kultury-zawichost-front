@@ -1,7 +1,29 @@
 {
-  "thumbnail": "/images/2017/pazdziernik/2017_pazdziernik_odwo_anie_zaj_2017_10_odwo_anie_zaj_tańce.jpg",
   "title": "Odwołanie zajęć",
   "publishDate": "2017-10-01T00:00:00.000Z",
-  "eventDate": "2017-10-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p>UWAGA!!!<br>\nDzisiejsze (26 października) zajęcia taneczne dla grupy 2 (16:15- 17:00) zostają odwołane.<br>\nZa utrudnienia przepraszamy.<br>\n<img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-5310\" src=\"/images/2017/pazdziernik/2017_pazdziernik_odwo_anie_zaj_2017_10_odwo_anie_zaj_tańce.jpg\" alt=\"\" width=\"796\" height=\"517\" srcset=\"/images/2017/pazdziernik/2017_pazdziernik_odwo_anie_zaj_2017_10_odwo_anie_zaj_tańce.jpg 796w, /images/2017/pazdziernik/tańce-300x195.jpg 300w, /images/2017/pazdziernik/tańce-768x499.jpg 768w\" sizes=\"(max-width: 796px) 100vw, 796px\"></p>\n<p style=\"text-align: center;\"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2017/pazdziernik/2017_pazdziernik_odwo_anie_zaj_2017_10_odwo_anie_zaj_tańce.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Odwołanie zajęć"
+    },
+    {
+      "type": "paragraph",
+      "text": "UWAGA!!!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dzisiejsze (26 października) zajęcia taneczne dla grupy 2 (16:15- 17:00) zostają odwołane."
+    },
+    {
+      "type": "paragraph",
+      "text": "Za utrudnienia przepraszamy."
+    },
+    {
+      "type": "image",
+      "src": "/images/2017/pazdziernik/2017_pazdziernik_odwo_anie_zaj_2017_10_odwo_anie_zaj_tańce.jpg",
+      "alt": ""
+    }
+  ]
 }

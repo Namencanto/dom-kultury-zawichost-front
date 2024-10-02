@@ -1,7 +1,30 @@
 {
-  "thumbnail": "/images/2023/luty/2023_luty_serdecznie_zapraszamy_2023_02_serdecznie_zapraszamy_pl1-3-728x1024.jpg",
   "title": "SERDECZNIE ZAPRASZAMY!",
   "publishDate": "2023-02-01T00:00:00.000Z",
-  "eventDate": "2023-02-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<p>Serdecznie Państwa zapraszamy na kolejny program artystyczny Zawichojskiego Teatru Miejskiego. Tym razem świętujemy podwójnie. Premiera odbędzie się 8 marca 2023r. (środa). Bilety do nabycia w naszym biurze. Szczegółowych informacji udzielamy osobiście lub w kontakcie telefonicznym. Dzwońcie, pytajcie, rezerwujcie!</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/02/pl1-3.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"728\" height=\"1024\" src=\"/images/2023/luty/2023_luty_serdecznie_zapraszamy_2023_02_serdecznie_zapraszamy_pl1-3-728x1024.jpg\" alt=\"\" class=\"wp-image-9243\" srcset=\"/images/2023/luty/2023_luty_serdecznie_zapraszamy_2023_02_serdecznie_zapraszamy_pl1-3-728x1024.jpg 728w, /images/2023/luty/pl1-3-213x300.jpg 213w, /images/2023/luty/pl1-3-768x1081.jpg 768w, /images/2023/luty/pl1-3.jpg 800w\" sizes=\"(max-width: 728px) 100vw, 728px\"></a></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/03/zd1-1.jpg\"><img decoding=\"async\" width=\"718\" height=\"1024\" src=\"/images/2023/luty/2023_luty_serdecznie_zapraszamy_2023_02_serdecznie_zapraszamy_zd1-1-718x1024.jpg\" alt=\"\" class=\"wp-image-9296\" srcset=\"/images/2023/luty/2023_luty_serdecznie_zapraszamy_2023_02_serdecznie_zapraszamy_zd1-1-718x1024.jpg 718w, /images/2023/luty/zd1-1-210x300.jpg 210w, /images/2023/luty/zd1-1-768x1095.jpg 768w, /images/2023/luty/zd1-1.jpg 800w\" sizes=\"(max-width: 718px) 100vw, 718px\"></a></figure>\n\n\n\n<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2023/luty/2023_luty_serdecznie_zapraszamy_2023_02_serdecznie_zapraszamy_pl1-3-728x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SERDECZNIE ZAPRASZAMY!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Serdecznie Państwa zapraszamy na kolejny program artystyczny Zawichojskiego Teatru Miejskiego. Tym razem świętujemy podwójnie. Premiera odbędzie się 8 marca 2023r. (środa). Bilety do nabycia w naszym biurze. Szczegółowych informacji udzielamy osobiście lub w kontakcie telefonicznym. Dzwońcie, pytajcie, rezerwujcie!"
+    },
+    {
+      "type": "image",
+      "src": "/images/2023/luty/2023_luty_serdecznie_zapraszamy_2023_02_serdecznie_zapraszamy_pl1-3-728x1024.jpg",
+      "alt": "Zaproszenie na wydarzenie"
+    },
+    {
+      "type": "image",
+      "src": "/images/2023/luty/2023_luty_serdecznie_zapraszamy_2023_02_serdecznie_zapraszamy_zd1-1-718x1024.jpg",
+      "alt": "Plakat wydarzenia"
+    },
+    {
+      "type": "paragraph",
+      "text": "ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH."
+    }
+  ]
 }

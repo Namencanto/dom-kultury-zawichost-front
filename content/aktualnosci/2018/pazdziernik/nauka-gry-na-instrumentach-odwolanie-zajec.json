@@ -1,7 +1,21 @@
 {
-  "thumbnail": "/images/2018/pazdziernik/2018_pazdziernik_nauka_gry_na_instrumentach_odwo_anie_zaj_2018_10_nauka_gry_na_instrumentach_odwo_anie_zaj_logo222.jpg",
   "title": "Nauka gry na instrumentach-odwołanie zajęć",
   "publishDate": "2018-10-01T00:00:00.000Z",
-  "eventDate": "2018-10-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p style=\"text-align: center;\"><strong>Czwartkowe (25 X) i piątkowe (26 X) zajęcia nauki gry na instrumentach prowadzone przez instruktora Pawła Lisa zostają odwołane. Za utrudnienia przepraszamy!</strong></p>\n<p>&nbsp;</p>\n<p><img decoding=\"async\" class=\"aligncenter size-full wp-image-6122\" src=\"/images/2018/pazdziernik/2018_pazdziernik_nauka_gry_na_instrumentach_odwo_anie_zaj_2018_10_nauka_gry_na_instrumentach_odwo_anie_zaj_logo222.jpg\" alt=\"\" width=\"160\" height=\"160\" srcset=\"/images/2018/pazdziernik/2018_pazdziernik_nauka_gry_na_instrumentach_odwo_anie_zaj_2018_10_nauka_gry_na_instrumentach_odwo_anie_zaj_logo222.jpg 160w, /images/2018/pazdziernik/logo222-150x150.jpg 150w, /images/2018/pazdziernik/logo222-50x50.jpg 50w\" sizes=\"(max-width: 160px) 100vw, 160px\"></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2018/pazdziernik/2018_pazdziernik_nauka_gry_na_instrumentach_odwo_anie_zaj_2018_10_nauka_gry_na_instrumentach_odwo_anie_zaj_logo222.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Nauka gry na instrumentach-odwołanie zajęć"
+    },
+    {
+      "type": "paragraph",
+      "text": "Czwartkowe (25 X) i piątkowe (26 X) zajęcia nauki gry na instrumentach prowadzone przez instruktora Pawła Lisa zostają odwołane. Za utrudnienia przepraszamy!"
+    },
+    {
+      "type": "image",
+      "src": "/images/2018/pazdziernik/2018_pazdziernik_nauka_gry_na_instrumentach_odwo_anie_zaj_2018_10_nauka_gry_na_instrumentach_odwo_anie_zaj_logo222.jpg",
+      "alt": ""
+    }
+  ]
 }

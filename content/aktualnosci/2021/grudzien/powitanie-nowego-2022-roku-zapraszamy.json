@@ -1,7 +1,17 @@
 {
-  "thumbnail": "/images/2021/grudzien/2021_grudzien_powitanie_nowego_2022_roku_zapraszamy_2021_12_powitanie_nowego_2022_roku_zapraszamy_sylwester-plakat-2-723x1024.jpg",
   "title": "POWITANIE NOWEGO 2022 ROKU- ZAPRASZAMY!!!",
   "publishDate": "2021-12-01T00:00:00.000Z",
-  "eventDate": "2021-12-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2021/12/sylwester-plakat-2.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"723\" height=\"1024\" src=\"/images/2021/grudzien/2021_grudzien_powitanie_nowego_2022_roku_zapraszamy_2021_12_powitanie_nowego_2022_roku_zapraszamy_sylwester-plakat-2-723x1024.jpg\" alt=\"\" class=\"wp-image-8334\" srcset=\"/images/2021/grudzien/2021_grudzien_powitanie_nowego_2022_roku_zapraszamy_2021_12_powitanie_nowego_2022_roku_zapraszamy_sylwester-plakat-2-723x1024.jpg 723w, /images/2021/grudzien/sylwester-plakat-2-212x300.jpg 212w, /images/2021/grudzien/sylwester-plakat-2-768x1088.jpg 768w, /images/2021/grudzien/sylwester-plakat-2.jpg 800w\" sizes=\"(max-width: 723px) 100vw, 723px\"></a></figure>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2021/grudzien/2021_grudzien_powitanie_nowego_2022_roku_zapraszamy_2021_12_powitanie_nowego_2022_roku_zapraszamy_sylwester-plakat-2-723x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "POWITANIE NOWEGO 2022 ROKU- ZAPRASZAMY!!!"
+    },
+    {
+      "type": "image",
+      "src": "/images/2021/grudzien/2021_grudzien_powitanie_nowego_2022_roku_zapraszamy_2021_12_powitanie_nowego_2022_roku_zapraszamy_sylwester-plakat-2-723x1024.jpg",
+      "alt": ""
+    }
+  ]
 }

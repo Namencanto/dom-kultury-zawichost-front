@@ -3,57 +3,23 @@
     :class="
       isAccessibilityMode
         ? 'flex justify-center bg-black text-yellow-300 py-8'
-        : 'flex justify-center bg-white text-gray-900 py-8'
+        : 'flex justify-center bg-transparent text-gray-900 py-8'
     "
   >
     <section
       :class="
         isAccessibilityMode
-          ? 'event-calendar p-6 rounded-lg shadow-lg flex items-start bg-black border-4 border-yellow-300 max-w-screen-lg w-full lg:max-w-[1000px]'
-          : 'event-calendar p-6 rounded-lg shadow-lg flex items-start bg-white max-w-screen-lg w-full lg:max-w-[1000px]'
+          ? 'event-calendar p-6 rounded-lg shadow-lg grid gap-6 bg-black border-4 border-yellow-300 max-w-screen-lg w-full lg:max-w-[1000px]'
+          : 'event-calendar p-6 rounded-lg shadow-lg grid gap-6 bg-white max-w-screen-lg w-full lg:max-w-[1000px]'
       "
+      style="grid-template-rows: auto 1fr; grid-template-columns: 1fr"
       aria-labelledby="calendar-heading"
     >
-      <NuxtLink
-        to="/kalendarz-wydarzen"
-        :class="
-          isAccessibilityMode
-            ? 'image-section relative w-1/3 max-w-xs mr-6 cursor-pointer transition-transform transform hover:scale-105 border-4 border-yellow-300'
-            : 'image-section relative w-1/3 max-w-xs mr-6 cursor-pointer transition-transform transform hover:scale-105'
-        "
-        aria-label="Przejdź do kalendarza wydarzeń"
-      >
-        <nuxt-img
-          :src="calendarImage"
-          alt="Kalendarz wydarzeń"
-          :class="
-            isAccessibilityMode
-              ? 'w-full h-auto object-cover rounded-lg shadow-md'
-              : 'w-full h-auto object-cover rounded-lg shadow-md'
-          "
-        />
-        <div
-          class="absolute inset-0 flex items-center justify-center text-center p-4 rounded-lg"
-        ></div>
-      </NuxtLink>
-
-      <section
-        :class="
-          isAccessibilityMode
-            ? 'events-section flex-1'
-            : 'events-section flex-1'
-        "
-      >
-        <div
-          :class="
-            isAccessibilityMode
-              ? 'header mb-6 flex items-center text-yellow-300'
-              : 'header mb-6 flex items-center text-primary'
-          "
-        >
+      <!-- Nagłówek i linia oddzielająca -->
+      <div class="w-full mb-4">
+        <div class="flex items-center space-x-2 mb-2">
           <svg
-            class="w-8 h-8 mr-2"
-            :class="isAccessibilityMode ? 'text-yellow-300' : 'text-primary'"
+            class="w-6 h-6"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -73,44 +39,79 @@
             :class="
               isAccessibilityMode
                 ? 'text-3xl font-bold text-yellow-300'
-                : 'text-2xl font-semibold text-primary'
+                : 'text-2xl font-semibold text-gray-900'
             "
           >
-            Nadchodzące Wydarzenia
+            WYDARZENIA
           </h2>
         </div>
+        <hr class="border-gray-300" />
+      </div>
 
-        <ul class="space-y-5">
-          <li
-            v-for="event in events"
-            :key="event.eventDate"
+      <!-- Drugi wiersz: Obrazek i wydarzenia w gridzie -->
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 w-full">
+        <!-- Left Section: Obrazek w 33% szerokości -->
+        <NuxtLink
+          to="/kalendarz-wydarzen"
+          :class="
+            isAccessibilityMode
+              ? 'relative w-full lg:w-auto cursor-pointer transition-transform transform hover:scale-105 border-4 border-yellow-300'
+              : 'relative w-full lg:w-auto cursor-pointer transition-transform transform hover:scale-105'
+          "
+          aria-label="Przejdź do kalendarza wydarzeń"
+        >
+          <nuxt-img
+            :src="calendarImage"
+            alt="Kalendarz wydarzeń"
             :class="
-              isAccessibilityMode ? 'flex items-center' : 'flex items-center'
+              isAccessibilityMode
+                ? 'w-full h-auto object-cover rounded-lg shadow-md'
+                : 'w-full h-auto object-cover rounded-lg shadow-md'
             "
-          >
-            <span
+          />
+        </NuxtLink>
+
+        <!-- Right Section: Lista wydarzeń w 66% szerokości -->
+        <section
+          :class="
+            isAccessibilityMode
+              ? 'events-section lg:col-span-2 grid gap-6'
+              : 'events-section lg:col-span-2 grid gap-6'
+          "
+        >
+          <ul class="space-y-5 md:space-y-0">
+            <li
+              v-for="event in events"
+              :key="event.eventDate"
               :class="
-                isAccessibilityMode
-                  ? 'date text-yellow-300 font-bold text-lg w-28 text-right mr-6'
-                  : 'date text-primary font-medium text-base w-28 text-right mr-6'
+                isAccessibilityMode ? 'flex items-center' : 'flex items-center'
               "
             >
-              {{ formatDate(event.eventDate) }}
-            </span>
-            <NuxtLink
-              :to="generateEventLink(event)"
-              :class="
-                isAccessibilityMode
-                  ? 'event-title text-lg font-bold hover:text-yellow-500 transition-colors'
-                  : 'event-title text-lg font-medium hover:text-primary-dark transition-colors'
-              "
-              :aria-label="'Przejdź do szczegółów wydarzenia: ' + event.title"
-            >
-              {{ truncateTitle(event.title) }}
-            </NuxtLink>
-          </li>
-        </ul>
-      </section>
+              <span
+                class="mt-3"
+                :class="
+                  isAccessibilityMode
+                    ? 'date bg-yellow-300 text-black font-bold px-4 py-2 rounded-lg mr-4'
+                    : 'date bg-gray-800 text-white font-bold px-4 py-2 rounded-lg mr-4 shadow-md border border-gray-600'
+                "
+              >
+                {{ formatDate(event.eventDate) }}
+              </span>
+              <NuxtLink
+                :to="generateEventLink(event)"
+                :class="
+                  isAccessibilityMode
+                    ? 'event-title text-lg font-bold hover:text-yellow-500 transition-colors'
+                    : 'event-title text-lg font-medium hover:text-gray-300 transition-colors'
+                "
+                :aria-label="'Przejdź do szczegółów wydarzenia: ' + event.title"
+              >
+                {{ truncateTitle(event.title) }}
+              </NuxtLink>
+            </li>
+          </ul>
+        </section>
+      </div>
     </section>
   </div>
 </template>
@@ -119,11 +120,10 @@
 import { ref, onMounted, computed } from "vue";
 import { format } from "date-fns";
 import { pl } from "date-fns/locale";
-import { useAccessibilityStore } from "~/stores/accessibility"; // Import the store
+import { useAccessibilityStore } from "~/stores/accessibility";
 
 const calendarImage = "/kalendarz-wydarzen.png";
 
-// Get instance of the store and use computed to create a reactive state
 const accessibilityStore = useAccessibilityStore();
 const isAccessibilityMode = computed(
   () => accessibilityStore.isAccessibilityMode
@@ -162,7 +162,7 @@ onMounted(async () => {
         .sort((a, b) => {
           const dateA = new Date(a.eventDate).getTime();
           const dateB = new Date(b.eventDate).getTime();
-          return dateA - dateB;
+          return dateB - dateA;
         })
         .slice(0, 4);
     } else {
@@ -177,25 +177,12 @@ onMounted(async () => {
 <style scoped>
 .event-calendar {
   border-radius: 0.75rem;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  max-width: 1160px;
-  width: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: 1.5rem;
 }
 
 /* Colors for Normal Mode */
-.text-primary {
-  color: #3b82f6; /* Blue for normal mode */
-}
-
-.text-primary-dark {
-  color: #2563eb; /* Darker blue for hover in normal mode */
-}
-
-.date {
-  color: #3b82f6; /* Blue for normal mode */
-}
 
 .header svg,
 .event-title {
@@ -203,23 +190,15 @@ onMounted(async () => {
 }
 
 /* Colors for Accessibility Mode */
-.text-yellow-300 {
-  color: #ffd700; /* Yellow for accessibility mode */
-}
-
-.bg-yellow-300 {
-  background-color: #ffd700; /* Yellow background for accessibility mode */
-}
 
 @media (max-width: 768px) {
   .event-calendar {
-    flex-direction: column;
-    align-items: center;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
   }
 
   .image-section {
     margin-bottom: 1.5rem;
-    width: 100%;
   }
 
   .events-section {

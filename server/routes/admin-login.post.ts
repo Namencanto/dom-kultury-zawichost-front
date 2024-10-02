@@ -5,10 +5,8 @@ export default defineEventHandler(async (event) => {
   try {
     const body = await readBody(event);
 
-    // Make the API request
     const response = await api.post("/auth/admin-login", body);
 
-    // Check if the set-cookie header is present
     const setCookieHeader = response.headers["set-cookie"];
     if (setCookieHeader && setCookieHeader.length > 0) {
       const cookie = setCookieHeader[0];

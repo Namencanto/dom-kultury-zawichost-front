@@ -1,7 +1,36 @@
 {
-  "thumbnail": "/images/2015/maj/2015_maj_akademia_seniora_2015_05_akademia_seniora_projekt2.jpg",
   "title": "akademia seniora",
   "publishDate": "2015-05-01T00:00:00.000Z",
-  "eventDate": "2015-05-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-2928\" title=\"projekt2\" src=\"/images/2015/maj/2015_maj_akademia_seniora_2015_05_akademia_seniora_projekt2.jpg\" alt=\"\" width=\"520\" height=\"685\" srcset=\"/images/2015/maj/2015_maj_akademia_seniora_2015_05_akademia_seniora_projekt2.jpg 520w, /images/2015/maj/projekt2-227x300.jpg 227w\" sizes=\"(max-width: 520px) 100vw, 520px\"></p>\n<p>&nbsp;</p>\n<p>Pliki do pobrania:</p>\n<p><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2015/05/deklaracja-udzialu-w-projekcie1.doc\">deklaracja udzialu w projekcie</a></p>\n<p><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2015/05/ankieta-rekrutacyjna1.doc\">ankieta rekrutacyjna</a></p>\n<p><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2015/05/regulamin1.doc\">regulamin</a></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2015/maj/2015_maj_akademia_seniora_2015_05_akademia_seniora_projekt2.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "akademia seniora"
+    },
+    {
+      "type": "image",
+      "src": "/images/2015/maj/2015_maj_akademia_seniora_2015_05_akademia_seniora_projekt2.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Pliki do pobrania:"
+    },
+    {
+      "type": "link",
+      "href": "http://mgok-zawichost.pl/wp-content/uploads/2015/05/deklaracja-udzialu-w-projekcie1.doc",
+      "text": "deklaracja udzialu w projekcie"
+    },
+    {
+      "type": "link",
+      "href": "http://mgok-zawichost.pl/wp-content/uploads/2015/05/ankieta-rekrutacyjna1.doc",
+      "text": "ankieta rekrutacyjna"
+    },
+    {
+      "type": "link",
+      "href": "http://mgok-zawichost.pl/wp-content/uploads/2015/05/regulamin1.doc",
+      "text": "regulamin"
+    }
+  ]
 }

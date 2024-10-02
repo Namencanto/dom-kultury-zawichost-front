@@ -1,7 +1,21 @@
 {
-  "thumbnail": "/images/2016/listopad/2016_listopad_andrzejki_dla_najm_odszych_2016_11_andrzejki_dla_najm_odszych_andrzejki-2016.jpg",
   "title": "ANDRZEJKI DLA NAJMŁODSZYCH",
   "publishDate": "2016-11-01T00:00:00.000Z",
-  "eventDate": "2016-11-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p style=\"text-align: center;\"><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4154\" src=\"/images/2016/listopad/2016_listopad_andrzejki_dla_najm_odszych_2016_11_andrzejki_dla_najm_odszych_andrzejki-2016.jpg\" alt=\"andrzejki-2016\" width=\"700\" height=\"983\" srcset=\"/images/2016/listopad/2016_listopad_andrzejki_dla_najm_odszych_2016_11_andrzejki_dla_najm_odszych_andrzejki-2016.jpg 700w, /images/2016/listopad/andrzejki-2016-214x300.jpg 214w\" sizes=\"(max-width: 700px) 100vw, 700px\"></p>\n<p style=\"text-align: center;\">\n</p><p style=\"text-align: center;\"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.</em><br>\n<em> o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2016/listopad/2016_listopad_andrzejki_dla_najm_odszych_2016_11_andrzejki_dla_najm_odszych_andrzejki-2016.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ANDRZEJKI DLA NAJMŁODSZYCH"
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/listopad/2016_listopad_andrzejki_dla_najm_odszych_2016_11_andrzejki_dla_najm_odszych_andrzejki-2016.jpg",
+      "alt": "andrzejki-2016"
+    },
+    {
+      "type": "paragraph",
+      "text": "o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie."
+    }
+  ]
 }

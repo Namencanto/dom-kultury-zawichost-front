@@ -1,7 +1,29 @@
 {
-  "thumbnail": "/images/2015/marzec/2015_marzec_dzie_kobiet_zapraszamy_2015_03_dzie_kobiet_zapraszamy_dzień-kobiet-2015.jpg",
   "title": "dzień kobiet – zapraszamy",
   "publishDate": "2015-03-01T00:00:00.000Z",
-  "eventDate": "2015-03-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-2702\" title=\"dzień kobiet 2015\" src=\"/images/2015/marzec/2015_marzec_dzie_kobiet_zapraszamy_2015_03_dzie_kobiet_zapraszamy_dzień-kobiet-2015.jpg\" alt=\"\" width=\"500\" height=\"708\" srcset=\"/images/2015/marzec/2015_marzec_dzie_kobiet_zapraszamy_2015_03_dzie_kobiet_zapraszamy_dzień-kobiet-2015.jpg 500w, /images/2015/marzec/dzień-kobiet-2015-211x300.jpg 211w\" sizes=\"(max-width: 500px) 100vw, 500px\"></p>\n<p style=\"text-align: right;\">ORGANIZATORZY</p>\n<p style=\"text-align: center;\">Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>\no prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>\nzdjęć, jest zabronione i wymaga zgody na piśmie.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2015/marzec/2015_marzec_dzie_kobiet_zapraszamy_2015_03_dzie_kobiet_zapraszamy_dzień-kobiet-2015.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "dzień kobiet – zapraszamy"
+    },
+    {
+      "type": "image",
+      "src": "/images/2015/marzec/2015_marzec_dzie_kobiet_zapraszamy_2015_03_dzie_kobiet_zapraszamy_dzień-kobiet-2015.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "ORGANIZATORZY"
+    },
+    {
+      "type": "paragraph",
+      "text": "o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,"
+    },
+    {
+      "type": "paragraph",
+      "text": "zdjęć, jest zabronione i wymaga zgody na piśmie."
+    }
+  ]
 }

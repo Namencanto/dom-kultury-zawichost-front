@@ -1,7 +1,37 @@
 {
-  "thumbnail": "/images/2020/sierpien/2020_sierpien_wakacje_z_mgok_wygoda_2020_08_wakacje_z_mgok_wygoda_wy1.jpg",
   "title": "WAKACJE Z MGOK – WYGODA",
   "publishDate": "2020-08-01T00:00:00.000Z",
-  "eventDate": "2020-08-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<p>Krótka fotorelacja z poniedziałkowego spotkania w Wygodzie. Serdecznie dziękujemy pani sołtys Katarzynie Cieszkowskiej za zaproszenie, a dzieciom za wspaniałą zabawę.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img fetchpriority=\"high\" decoding=\"async\" width=\"800\" height=\"531\" src=\"/images/2020/sierpien/2020_sierpien_wakacje_z_mgok_wygoda_2020_08_wakacje_z_mgok_wygoda_wy1.jpg\" alt=\"\" class=\"wp-image-7609\" srcset=\"/images/2020/sierpien/2020_sierpien_wakacje_z_mgok_wygoda_2020_08_wakacje_z_mgok_wygoda_wy1.jpg 800w, /images/2020/sierpien/wy1-300x199.jpg 300w, /images/2020/sierpien/wy1-768x510.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></figure>\n\n\n\n<p>Foto: Patrycja Sus-Lutyńska</p>\n\n\n\n<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2020/sierpien/2020_sierpien_wakacje_z_mgok_wygoda_2020_08_wakacje_z_mgok_wygoda_wy1.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "WAKACJE Z MGOK – WYGODA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Krótka fotorelacja z poniedziałkowego spotkania w Wygodzie. Serdecznie dziękujemy pani sołtys Katarzynie Cieszkowskiej za zaproszenie, a dzieciom za wspaniałą zabawę."
+    },
+    {
+      "type": "image",
+      "src": "/images/2020/sierpien/2020_sierpien_wakacje_z_mgok_wygoda_2020_08_wakacje_z_mgok_wygoda_wy1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Foto: Patrycja Sus-Lutyńska"
+    },
+    {
+      "type": "paragraph",
+      "text": "AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 LUTEGO 1994 R."
+    },
+    {
+      "type": "paragraph",
+      "text": "O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE"
+    }
+  ]
 }

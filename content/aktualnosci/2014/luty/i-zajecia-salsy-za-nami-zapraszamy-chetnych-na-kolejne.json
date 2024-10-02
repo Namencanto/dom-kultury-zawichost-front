@@ -1,7 +1,30 @@
 {
-  "thumbnail": "/images/2014/luty/2014_luty_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_2014_02_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_plakat-salsa-ustalone-terminy-page0001-1.jpg",
   "title": "I ZAJĘCIA SALSY ZA NAMI  – ZAPRASZAMY CHĘTNYCH NA KOLEJNE",
   "publishDate": "2014-02-01T00:00:00.000Z",
-  "eventDate": "2014-02-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-1804\" title=\"plakat salsa ustalone terminy-page0001 (1)\" src=\"/images/2014/luty/2014_luty_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_2014_02_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_plakat-salsa-ustalone-terminy-page0001-1.jpg\" alt=\"\" width=\"800\" height=\"1132\" srcset=\"/images/2014/luty/2014_luty_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_2014_02_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_plakat-salsa-ustalone-terminy-page0001-1.jpg 800w, /images/2014/luty/plakat-salsa-ustalone-terminy-page0001-1-212x300.jpg 212w, /images/2014/luty/plakat-salsa-ustalone-terminy-page0001-1-723x1024.jpg 723w\" sizes=\"(max-width: 800px) 100vw, 800px\"></p>\n<p><img decoding=\"async\" class=\"aligncenter size-full wp-image-1805\" title=\"DSC_0045\" src=\"/images/2014/luty/2014_luty_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_2014_02_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_DSC_0045.jpg\" alt=\"\" width=\"800\" height=\"1078\" srcset=\"/images/2014/luty/2014_luty_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_2014_02_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_DSC_0045.jpg 800w, /images/2014/luty/DSC_0045-222x300.jpg 222w, /images/2014/luty/DSC_0045-759x1024.jpg 759w\" sizes=\"(max-width: 800px) 100vw, 800px\"></p>\n<p style=\"text-align: center;\"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r.<br>\no prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,<br>\nzdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2014/luty/2014_luty_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_2014_02_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_plakat-salsa-ustalone-terminy-page0001-1.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I ZAJĘCIA SALSY ZA NAMI  – ZAPRASZAMY CHĘTNYCH NA KOLEJNE"
+    },
+    {
+      "type": "image",
+      "src": "/images/2014/luty/2014_luty_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_2014_02_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_plakat-salsa-ustalone-terminy-page0001-1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/images/2014/luty/2014_luty_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_2014_02_i_zaj_cia_salsy_za_nami_zapraszamy_ch_tnych_na_kolejne_DSC_0045.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów,"
+    },
+    {
+      "type": "paragraph",
+      "text": "zdjęć, jest zabronione i wymaga zgody na piśmie."
+    }
+  ]
 }

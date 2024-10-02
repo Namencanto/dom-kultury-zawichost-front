@@ -1,7 +1,55 @@
 {
-  "thumbnail": "/images/2018/grudzien/2018_grudzien_gor_czka_sylwestrowej_nocy_2018_12_gor_czka_sylwestrowej_nocy_tło-sylwester.jpg",
   "title": "Gorączka sylwestrowej nocy",
   "publishDate": "2018-12-01T00:00:00.000Z",
-  "eventDate": "2018-12-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<h2 class=\"wp-block-heading\">Tuż przed północą 31. grudnia 2018 r. mieszkańcy Zawichostu zgromadzili się na Rynku Dużym, aby wspólnie przywitać Nowy Rok. </h2>\n\n\n\n<h2 class=\"wp-block-heading\"></h2>\n\n\n\n<p>O godzinie 24:00 w niebo wystrzeliły kolorowe fajerwerki, a Pani Burmistrz Katarzyna Kondziołka złożyła wszystkim zebranym życzenia noworoczne oraz poczęstowała ich symboliczną lampką szampana.</p>\n\n\n\n<p>Tanecznej zabawie towarzyszyły liczne konkursy, które\nspotkały się z dużym entuzjazmem świętujących.</p>\n\n\n\n<p>Za zaangażowanie i pomoc w organizacji imprezy\ndziękujemy:</p>\n\n\n\n<ul><li>Komisariatowi Policji w Dwikozach </li><li>Komendzie Powiatowej Policji w Sandomierzu</li><li>Ochotniczej Straży Pożarnej w Zawichoście</li></ul>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img fetchpriority=\"high\" decoding=\"async\" width=\"445\" height=\"275\" src=\"/images/2018/grudzien/2018_grudzien_gor_czka_sylwestrowej_nocy_2018_12_gor_czka_sylwestrowej_nocy_tło-sylwester.jpg\" alt=\"\" class=\"wp-image-6336\" srcset=\"/images/2018/grudzien/2018_grudzien_gor_czka_sylwestrowej_nocy_2018_12_gor_czka_sylwestrowej_nocy_tło-sylwester.jpg 445w, /images/2018/grudzien/tło-sylwester-300x185.jpg 300w\" sizes=\"(max-width: 445px) 100vw, 445px\"></figure></div>\n\n\n\n<p style=\"text-align:right\">Tekst: Karolina Tomaszewska</p>\n\n\n\n<p></p>\n\n\n\n<h6 class=\"wp-block-heading\" style=\"text-align:center\"><em>Zawartość strony oraz wszystkie \nfotografie są autorstwa MGOK w  Zawichoście, zgodnie z przepisami ustawy\n z dnia 4 lutego 1994 r. o  prawach autorskich oraz prawach pokrewnych \nwszelkie prawa do fotografii i  materiałów na stronie są własnością \nautora. Kopiowanie, powielanie i  rozpowszechnianie tekstów, zdjęć, jest\n zabronione i wymaga zgody na  piśmie.</em></h6>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2018/grudzien/2018_grudzien_gor_czka_sylwestrowej_nocy_2018_12_gor_czka_sylwestrowej_nocy_tło-sylwester.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Gorączka sylwestrowej nocy"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tuż przed północą 31. grudnia 2018 r. mieszkańcy Zawichostu zgromadzili się na Rynku Dużym, aby wspólnie przywitać Nowy Rok."
+    },
+    {
+      "type": "paragraph",
+      "text": "O godzinie 24:00 w niebo wystrzeliły kolorowe fajerwerki, a Pani Burmistrz Katarzyna Kondziołka złożyła wszystkim zebranym życzenia noworoczne oraz poczęstowała ich symboliczną lampką szampana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanecznej zabawie towarzyszyły liczne konkursy, które\nspotkały się z dużym entuzjazmem świętujących."
+    },
+    {
+      "type": "paragraph",
+      "text": "Za zaangażowanie i pomoc w organizacji imprezy\ndziękujemy:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Komisariatowi Policji w Dwikozach"
+    },
+    {
+      "type": "paragraph",
+      "text": "Komendzie Powiatowej Policji w Sandomierzu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ochotniczej Straży Pożarnej w Zawichoście"
+    },
+    {
+      "type": "image",
+      "src": "/images/2018/grudzien/2018_grudzien_gor_czka_sylwestrowej_nocy_2018_12_gor_czka_sylwestrowej_nocy_tło-sylwester.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Tekst: Karolina Tomaszewska"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Zawartość strony oraz wszystkie \nfotografie są autorstwa MGOK w  Zawichoście, zgodnie z przepisami ustawy\n z dnia 4 lutego 1994 r. o  prawach autorskich oraz prawach pokrewnych \nwszelkie prawa do fotografii i  materiałów na stronie są własnością \nautora. Kopiowanie, powielanie i  rozpowszechnianie tekstów, zdjęć, jest\n zabronione i wymaga zgody na  piśmie."
+    }
+  ]
 }

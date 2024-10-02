@@ -2,68 +2,85 @@
   <div
     :class="
       isAccessibilityMode
-        ? 'max-w-6xl mx-auto py-8 bg-black text-yellow-300'
-        : 'max-w-6xl mx-auto py-8'
+        ? 'bg-black text-yellow-300 max-w-7xl mx-auto py-10 px-4'
+        : 'bg-white max-w-7xl mx-auto py-10 px-4'
     "
+    aria-label="Aktualności"
   >
-    <!-- Admin Panel - Dodaj Nowe Wydarzenie -->
+    <!-- Nagłówek -->
+    <h2
+      :class="
+        isAccessibilityMode
+          ? 'text-4xl font-extrabold text-yellow-300 mb-8 text-left'
+          : 'text-4xl font-medium text-[#4a4a4a] mb-8 text-left pl-4'
+      "
+    >
+      AKTUALNOŚCI
+    </h2>
+
+    <!-- Panel administracyjny - Dodaj Nowe Wydarzenie -->
     <div v-if="isAdmin" class="flex justify-end mb-6">
-      <el-button
+      <button
+        @click="goToAddEvent"
         :class="
           isAccessibilityMode
-            ? 'add-event-button-accessibility'
-            : 'add-event-button'
+            ? 'px-4 py-2 bg-yellow-300 text-black rounded-lg hover:bg-yellow-400 transition-colors duration-200'
+            : 'px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-200'
         "
-        type="primary"
-        icon="el-icon-circle-plus"
-        @click="goToAddEvent"
       >
         Dodaj nowe wydarzenie
-      </el-button>
+      </button>
     </div>
 
-    <!-- Search and Filter Section -->
-    <div class="flex justify-between items-center mb-6">
-      <el-input
+    <!-- Sekcja wyszukiwania i filtrów -->
+    <div class="flex flex-wrap justify-between items-center mb-6">
+      <input
         v-model="searchQuery"
+        type="text"
         placeholder="Wyszukaj..."
-        prefix-icon="el-icon-search"
         :class="
           isAccessibilityMode
-            ? 'w-full md:w-1/3 accessibility-input'
-            : 'w-full md:w-1/3'
+            ? 'w-full md:w-1/3 p-2 border border-yellow-300 bg-black text-yellow-300 placeholder-yellow-300 rounded-md mb-4 md:mb-0'
+            : 'w-full md:w-1/3 p-2 border border-gray-300 rounded-md focus:ring focus:ring-blue-300 mb-4 md:mb-0'
         "
       />
-      <el-select
-        v-model="selectedYear"
-        placeholder="Wszystkie lata"
-        class="ml-4"
-      >
-        <el-option label="Wszystkie lata" value=""></el-option>
-        <el-option
-          v-for="year in availableYears"
-          :key="year"
-          :label="year"
-          :value="year"
-        ></el-option>
-      </el-select>
-      <el-select
-        v-model="selectedMonth"
-        placeholder="Wszystkie miesiące"
-        class="ml-4"
-      >
-        <el-option label="Wszystkie miesiące" value=""></el-option>
-        <el-option
-          v-for="(monthName, index) in availableMonths"
-          :key="index"
-          :label="monthName"
-          :value="index + 1"
-        ></el-option>
-      </el-select>
+      <div class="flex space-x-4">
+        <select
+          v-model="selectedYear"
+          :class="
+            isAccessibilityMode
+              ? 'p-2 border border-yellow-300 bg-black text-yellow-300 rounded-md'
+              : 'p-2 border border-gray-300 rounded-md focus:ring focus:ring-blue-300'
+          "
+        >
+          <option value="">Wszystkie lata</option>
+          <option v-for="year in availableYears" :key="year" :value="year">
+            {{ year }}
+          </option>
+        </select>
+        <select
+          v-model="selectedMonth"
+          :class="
+            isAccessibilityMode
+              ? 'p-2 border border-yellow-300 bg-black text-yellow-300 rounded-md'
+              : 'p-2 border border-gray-300 rounded-md focus:ring focus:ring-blue-300'
+          "
+        >
+          <option value="">Wszystkie miesiące</option>
+          <option
+            v-for="(monthName, index) in availableMonths"
+            :key="index"
+            :value="index + 1"
+          >
+            {{ monthName }}
+          </option>
+        </select>
+      </div>
     </div>
 
+    <!-- Lista artykułów -->
     <ContentList path="/aktualnosci" v-slot="{ list }">
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <p
           v-if="filteredAndSortedArticles(list).length === 0"
           :class="
@@ -78,144 +95,140 @@
           v-for="article in paginatedArticles(list)"
           :key="article._path"
           :class="
-            isAccessibilityMode ? 'article-card-accessibility' : 'article-card'
+            isAccessibilityMode
+              ? 'group bg-black border-4 border-yellow-300 shadow-lg rounded-lg overflow-hidden'
+              : 'group bg-white shadow-lg rounded-lg overflow-hidden'
           "
         >
-          <nuxt-img
-            :src="article.thumbnail"
-            :alt="article.title"
-            :class="
-              isAccessibilityMode
-                ? 'w-full h-56 object-cover border-b-4 border-yellow-300'
-                : 'w-full h-56 object-cover'
-            "
-          />
-          <div :class="isAccessibilityMode ? 'p-6 bg-black' : 'p-6'">
-            <h2
+          <NuxtLink :to="article._path" class="block">
+            <nuxt-img
+              :src="article.thumbnail"
+              :alt="article.title"
               :class="
                 isAccessibilityMode
-                  ? 'text-2xl font-bold mb-2 text-yellow-300'
-                  : 'text-xl font-bold mb-2 text-gray-800'
+                  ? 'w-full h-48 object-cover border-b-4 border-yellow-300'
+                  : 'w-full h-48 object-cover'
+              "
+            />
+            <div
+              :class="
+                isAccessibilityMode ? 'p-4 bg-black text-yellow-300' : 'p-4'
               "
             >
-              <a :href="article._path" class="hover:underline">
+              <h2
+                :class="[
+                  'text-xl font-medium mb-2',
+                  isAccessibilityMode ? '' : 'group-hover:underline',
+                ]"
+              >
                 {{ article.title }}
-              </a>
-            </h2>
-            <h3
-              v-if="getSectionHeading(article.content)"
-              :class="
-                isAccessibilityMode
-                  ? 'text-lg font-semibold text-yellow-300 mb-2'
-                  : 'text-lg font-semibold text-gray-700 mb-2'
-              "
-            >
-              {{ getSectionHeading(article.content) }}
-            </h3>
-
-            <p
-              :class="
-                isAccessibilityMode
-                  ? 'text-yellow-300 mb-2'
-                  : 'text-gray-600 mb-2'
-              "
-            >
-              <span class="font-semibold">Data publikacji:</span>
-              {{ formatDate(article.publishDate) }}
-            </p>
-            <p
-              :class="
-                isAccessibilityMode
-                  ? 'text-yellow-300 mb-4'
-                  : 'text-gray-600 mb-4'
-              "
-            >
-              <span class="font-semibold">Data wydarzenia:</span>
-              {{ formatDate(article.eventDate) }}
-            </p>
-            <p
-              :class="
-                isAccessibilityMode
-                  ? 'text-yellow-300 text-sm'
-                  : 'text-gray-700 text-sm'
-              "
-            >
-              {{ truncateContent(getFirstParagraph(article.content), 100) }}
-            </p>
-
-            <!-- Admin Actions (Edytuj / Usuń) -->
-            <div v-if="isAdmin" class="flex space-x-4 mt-4">
-              <el-button
+              </h2>
+              <h3
+                v-if="getSectionHeading(article.content)"
                 :class="
                   isAccessibilityMode
-                    ? 'edit-button-accessibility'
-                    : 'edit-button'
+                    ? 'text-xs font-semibold uppercase mb-2 tracking-wide'
+                    : 'text-xs font-semibold text-[#757575] uppercase mb-2 tracking-wide'
                 "
-                type="warning"
-                icon="el-icon-edit"
-                @click="editEvent(article._path)"
               >
-                Edytuj
-              </el-button>
-              <el-button
+                {{ getSectionHeading(article.content) }}
+              </h3>
+              <p
                 :class="
                   isAccessibilityMode
-                    ? 'delete-button-accessibility'
-                    : 'delete-button'
+                    ? 'text-sm mb-1'
+                    : 'text-[#757575] text-sm mb-1'
                 "
-                type="danger"
-                icon="el-icon-delete"
-                @click="deleteEvent(article.title, article.publishDate)"
               >
-                Usuń
-              </el-button>
+                <span class="font-semibold">Data publikacji:</span>
+                {{ formatDate(article.publishDate) }}
+              </p>
+              <p
+                v-if="article.eventDate"
+                :class="
+                  isAccessibilityMode
+                    ? 'text-sm mb-2'
+                    : 'text-[#757575] text-sm mb-2'
+                "
+              >
+                <span class="font-semibold">Data wydarzenia:</span>
+                {{ formatDate(article.eventDate) }}
+              </p>
+              <p
+                :class="
+                  isAccessibilityMode ? 'text-sm' : 'text-[#4a4a4a] text-sm'
+                "
+              >
+                {{ truncateContent(getFirstParagraph(article.content), 150) }}
+              </p>
+
+              <!-- Akcje administratora (Edytuj / Usuń) -->
+              <div v-if="isAdmin" class="flex space-x-4 mt-4">
+                <button
+                  @click="editEvent(article._path)"
+                  :class="
+                    isAccessibilityMode
+                      ? 'px-4 py-2 bg-yellow-300 text-black rounded-lg hover:bg-yellow-400 transition-colors duration-200'
+                      : 'px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-200'
+                  "
+                >
+                  Edytuj
+                </button>
+                <button
+                  @click="deleteEvent(article.title, article.publishDate)"
+                  :class="
+                    isAccessibilityMode
+                      ? 'px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors duration-200'
+                      : 'px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors duration-200'
+                  "
+                >
+                  Usuń
+                </button>
+              </div>
             </div>
-          </div>
+          </NuxtLink>
         </div>
       </div>
 
+      <!-- Paginacja -->
       <div
         v-if="totalPages(list) > 1"
-        class="mt-6 flex justify-center space-x-4"
+        class="mt-8 flex justify-center space-x-4"
       >
-        <el-button
+        <button
           @click="prevPage(list)"
           :disabled="currentPage === 1"
           :class="
             isAccessibilityMode
-              ? 'pagination-button-accessibility'
-              : 'pagination-button'
+              ? 'px-4 py-2 bg-yellow-300 text-black rounded-lg hover:bg-yellow-400 transition-colors duration-200 disabled:opacity-50'
+              : 'px-4 py-2 bg-gray-600 text-white rounded-lg hover:bg-gray-700 transition-colors duration-200 disabled:opacity-50'
           "
-          type="primary"
-          plain
         >
           Poprzednia
-        </el-button>
+        </button>
         <span
           :class="isAccessibilityMode ? 'text-yellow-300' : 'text-gray-600'"
         >
           Strona {{ currentPage }} z {{ totalPages(list) }}
         </span>
-        <el-button
+        <button
           @click="nextPage(list)"
           :disabled="currentPage === totalPages(list)"
           :class="
             isAccessibilityMode
-              ? 'pagination-button-accessibility'
-              : 'pagination-button'
+              ? 'px-4 py-2 bg-yellow-300 text-black rounded-lg hover:bg-yellow-400 transition-colors duration-200 disabled:opacity-50'
+              : 'px-4 py-2 bg-gray-600 text-white rounded-lg hover:bg-gray-700 transition-colors duration-200 disabled:opacity-50'
           "
-          type="primary"
-          plain
         >
           Następna
-        </el-button>
+        </button>
       </div>
     </ContentList>
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, computed, watch } from "vue";
+import { ref, computed, watch, watchEffect } from "vue";
 import { format, isValid } from "date-fns";
 import { pl } from "date-fns/locale";
 import { useRouter } from "vue-router";
@@ -253,7 +266,7 @@ useHead({
 const currentYear = new Date().getFullYear();
 
 const searchQuery = ref("");
-const selectedYear = ref(currentYear);
+const selectedYear = ref("");
 const selectedMonth = ref("");
 const currentPage = ref(1);
 const itemsPerPage = 9;
@@ -373,44 +386,6 @@ watch([selectedYear, selectedMonth, searchQuery], () => {
 </script>
 
 <style scoped>
-.add-event-button {
-  margin-right: 1rem;
-}
-
-.add-event-button-accessibility {
-  margin-right: 1rem;
-  background-color: #ffcc00;
-  color: #000000;
-}
-
-.article-card {
-  background-color: #ffffff;
-  color: #333333;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
-}
-
-.article-card-accessibility {
-  background-color: #000000;
-  color: #ffcc00;
-  border: 2px solid #ffcc00;
-  transition: all 0.3s ease;
-}
-
-.edit-button-accessibility,
-.delete-button-accessibility {
-  background-color: #ffcc00 !important;
-  color: #000000 !important;
-}
-
-.accessibility-input {
-  background-color: #000000;
-  color: #ffcc00;
-  border-color: #ffcc00;
-}
-
-.pagination-button-accessibility {
-  background-color: #ffcc00;
-  color: #000000;
-}
+/* Usunąłem poprzednie style, ponieważ używamy klas Tailwind CSS bezpośrednio */
+/* Jeśli potrzebujesz dodatkowych stylów, możesz je tutaj dodać */
 </style>

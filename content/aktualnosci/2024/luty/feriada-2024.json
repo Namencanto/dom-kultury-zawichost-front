@@ -2,8 +2,12 @@
   "thumbnail": "/images/2024/luty/2024_luty_feriada_2024_2024_02_feriada_2024_feriada-2023-plakat-732x1024.jpg",
   "title": "Feriada 2024",
   "publishDate": "2024-02-01T00:00:00.000Z",
-  "eventDate": "2024-02-01T00:00:00.000Z",
   "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Feriada 2024"
+    },
     {
       "type": "paragraph",
       "text": "Kochani,"

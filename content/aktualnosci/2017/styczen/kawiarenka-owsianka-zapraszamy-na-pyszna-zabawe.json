@@ -1,7 +1,21 @@
 {
-  "thumbnail": "/images/2017/styczen/2017_styczen_kawiarenka_owsianka_2017_01_kawiarenka_owsianka_DSC_0002.jpg",
   "title": "Kawiarenka owsianka",
   "publishDate": "2017-01-01T00:00:00.000Z",
-  "eventDate": "2017-01-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4249\" src=\"/images/2017/styczen/2017_styczen_kawiarenka_owsianka_2017_01_kawiarenka_owsianka_DSC_0002.jpg\" alt=\"\" width=\"800\" height=\"395\" srcset=\"/images/2017/styczen/2017_styczen_kawiarenka_owsianka_2017_01_kawiarenka_owsianka_DSC_0002.jpg 800w, /images/2017/styczen/DSC_0002-300x148.jpg 300w, /images/2017/styczen/DSC_0002-768x379.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></p>\n<p>To zeszłoroczny pomysł, który całkiem fajnie się sprawdził. Kawiarenka z pysznymi słodkościami nie pozwala na to, by tak po prostu ją ominąć. Twórcami ciast i ciasteczek są uczniowie placówek edukacyjnych gminy Zawichost oraz ich rodzice, a także pracownicy i współpracownicy MGOK. Prym wiodą tu jednak ZSO i SP Zawichost, a akcją dowodzi już po raz kolejny niezastąpiona Pani Ela Jabłońska, która przy wsparciu młodzieży i pomagających jej nauczycieli doskonale radzi sobie z zadaniem menagera OWSIANKI. Wszystkich, którzy mają ochotę i potrafią upiec coś pysznego zapraszamy do zasilenia asortymentu kawiarenki. Na datki z niej czekają potrzebujący, a na słodkości wszyscy Ci, którzy spędzają z nami kilka dobrych godzin podczas tego wyjątkowego niedzielnego popołudnia. Oczywiście proponujemy również gorącą kawę i herbatę.</p>\n<p style=\"text-align: center;\">\n<em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2017/styczen/2017_styczen_kawiarenka_owsianka_2017_01_kawiarenka_owsianka_DSC_0002.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Kawiarenka owsianka"
+    },
+    {
+      "type": "image",
+      "src": "/images/2017/styczen/2017_styczen_kawiarenka_owsianka_2017_01_kawiarenka_owsianka_DSC_0002.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "To zeszłoroczny pomysł, który całkiem fajnie się sprawdził. Kawiarenka z pysznymi słodkościami nie pozwala na to, by tak po prostu ją ominąć. Twórcami ciast i ciasteczek są uczniowie placówek edukacyjnych gminy Zawichost oraz ich rodzice, a także pracownicy i współpracownicy MGOK. Prym wiodą tu jednak ZSO i SP Zawichost, a akcją dowodzi już po raz kolejny niezastąpiona Pani Ela Jabłońska, która przy wsparciu młodzieży i pomagających jej nauczycieli doskonale radzi sobie z zadaniem menagera OWSIANKI. Wszystkich, którzy mają ochotę i potrafią upiec coś pysznego zapraszamy do zasilenia asortymentu kawiarenki. Na datki z niej czekają potrzebujący, a na słodkości wszyscy Ci, którzy spędzają z nami kilka dobrych godzin podczas tego wyjątkowego niedzielnego popołudnia. Oczywiście proponujemy również gorącą kawę i herbatę."
+    }
+  ]
 }

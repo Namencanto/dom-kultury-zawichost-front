@@ -1,9 +1,13 @@
 {
   "title": "Spektakl teatralny „Serenada – Lis w kurniku”",
   "publishDate": "2024-06-01T00:00:00.000Z",
-  "eventDate": "2024-06-01T00:00:00.000Z",
   "thumbnail": "/images/2024/czerwiec/2024_czerwiec_spektakl_teatralny_serenada_lis_w_kurniku_2024_06_spektakl_teatralny_serenada_lis_w_kurniku_plakat-lis-724x1024.jpg",
   "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Spektakl teatralny „Serenada – Lis w kurniku”"
+    },
     {
       "type": "paragraph",
       "text": "Zapraszamy na spektakl teatralny pt. „Serenada – Lis w kurniku”, który odbędzie się już w czerwcu 2024 roku. Spektakl jest pełen humoru, satyry oraz interesujących zwrotów akcji. Jest to idealna propozycja dla całej rodziny, szczególnie dla miłośników klasycznych przedstawień teatralnych."

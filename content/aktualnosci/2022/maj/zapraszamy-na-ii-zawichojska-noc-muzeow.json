@@ -1,7 +1,17 @@
 {
-  "thumbnail": "/images/2022/maj/2022_maj_zapraszamy_na_ii_zawichojsk_noc_muze_w_2022_05_zapraszamy_na_ii_zawichojsk_noc_muze_w_pla1-733x1024.jpg",
   "title": "ZAPRASZAMY NA II ZAWICHOJSKĄ NOC MUZEÓW",
   "publishDate": "2022-05-01T00:00:00.000Z",
-  "eventDate": "2022-05-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2022/05/pla1.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"733\" height=\"1024\" src=\"/images/2022/maj/2022_maj_zapraszamy_na_ii_zawichojsk_noc_muze_w_2022_05_zapraszamy_na_ii_zawichojsk_noc_muze_w_pla1-733x1024.jpg\" alt=\"\" class=\"wp-image-8649\" srcset=\"/images/2022/maj/2022_maj_zapraszamy_na_ii_zawichojsk_noc_muze_w_2022_05_zapraszamy_na_ii_zawichojsk_noc_muze_w_pla1-733x1024.jpg 733w, /images/2022/maj/pla1-215x300.jpg 215w, /images/2022/maj/pla1-768x1073.jpg 768w, /images/2022/maj/pla1.jpg 800w\" sizes=\"(max-width: 733px) 100vw, 733px\"></a></figure>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2022/maj/2022_maj_zapraszamy_na_ii_zawichojsk_noc_muze_w_2022_05_zapraszamy_na_ii_zawichojsk_noc_muze_w_pla1-733x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ZAPRASZAMY NA II ZAWICHOJSKĄ NOC MUZEÓW"
+    },
+    {
+      "type": "image",
+      "src": "/images/2022/maj/2022_maj_zapraszamy_na_ii_zawichojsk_noc_muze_w_2022_05_zapraszamy_na_ii_zawichojsk_noc_muze_w_pla1-733x1024.jpg",
+      "alt": ""
+    }
+  ]
 }

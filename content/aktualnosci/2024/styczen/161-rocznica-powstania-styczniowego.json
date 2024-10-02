@@ -1,38 +1,42 @@
 {
-"title": "161. rocznica Powstania Styczniowego",
-"publishDate": "2024-01-01T00:00:00.000Z",
-"eventDate": "2024-01-01T00:00:00.000Z",
-"thumbnail": "/images/2024/styczen/2024_styczen_161_rocznica_powstania_styczniowego_2024_01_161_rocznica_powstania_styczniowego_plakat-724x1024.jpg",
-"content": [
-{
-"type": "image",
-"src": "/images/2024/styczen/2024_styczen_161_rocznica_powstania_styczniowego_2024_01_161_rocznica_powstania_styczniowego_plakat-724x1024.jpg",
-"alt": "Plakat rocznicy powstania styczniowego"
-},
-{
-"type": "image",
-"src": "/images/2024/styczen/plakat-212x300.jpg",
-"alt": "Plakat w mniejszej rozdzielczości 212x300"
-},
-{
-"type": "image",
-"src": "/images/2024/styczen/plakat-768x1086.jpg",
-"alt": "Plakat w rozdzielczości 768x1086"
-},
-{
-"type": "image",
-"src": "/images/2024/styczen/plakat-1086x1536.jpg",
-"alt": "Plakat w rozdzielczości 1086x1536"
-},
-{
-"type": "image",
-"src": "/images/2024/styczen/plakat-1448x2048.jpg",
-"alt": "Plakat w rozdzielczości 1448x2048"
-},
-{
-"type": "image",
-"src": "/images/2024/styczen/plakat-scaled.jpg",
-"alt": "Plakat w największej rozdzielczości"
-}
-]
+  "title": "161. rocznica Powstania Styczniowego",
+  "publishDate": "2024-01-01T00:00:00.000Z",
+  "thumbnail": "/images/2024/styczen/2024_styczen_161_rocznica_powstania_styczniowego_2024_01_161_rocznica_powstania_styczniowego_plakat-724x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "161. rocznica Powstania Styczniowego"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/2024_styczen_161_rocznica_powstania_styczniowego_2024_01_161_rocznica_powstania_styczniowego_plakat-724x1024.jpg",
+      "alt": "Plakat rocznicy powstania styczniowego"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/plakat-212x300.jpg",
+      "alt": "Plakat w mniejszej rozdzielczości 212x300"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/plakat-768x1086.jpg",
+      "alt": "Plakat w rozdzielczości 768x1086"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/plakat-1086x1536.jpg",
+      "alt": "Plakat w rozdzielczości 1086x1536"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/plakat-1448x2048.jpg",
+      "alt": "Plakat w rozdzielczości 1448x2048"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/styczen/plakat-scaled.jpg",
+      "alt": "Plakat w największej rozdzielczości"
+    }
+  ]
 }

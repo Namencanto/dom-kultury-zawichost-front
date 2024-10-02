@@ -1,7 +1,17 @@
 {
-  "thumbnail": "/images/2023/listopad/2023_listopad_miko_ajki_2023_2023_11_miko_ajki_2023_In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment-1024x724.jpg",
   "title": "Mikołajki 2023",
   "publishDate": "2023-11-01T00:00:00.000Z",
-  "eventDate": "2023-11-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/11/In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height=\"724\" src=\"/images/2023/listopad/2023_listopad_miko_ajki_2023_2023_11_miko_ajki_2023_In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment-1024x724.jpg\" alt=\"\" class=\"wp-image-10112\" srcset=\"/images/2023/listopad/2023_listopad_miko_ajki_2023_2023_11_miko_ajki_2023_In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment-1024x724.jpg 1024w, /images/2023/listopad/In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment-300x212.jpg 300w, /images/2023/listopad/In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment-768x543.jpg 768w, /images/2023/listopad/In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment-1536x1086.jpg 1536w, /images/2023/listopad/In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment.jpg 2000w\" sizes=\"(max-width: 1024px) 100vw, 1024px\"></a></figure>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2023/listopad/2023_listopad_miko_ajki_2023_2023_11_miko_ajki_2023_In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment-1024x724.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mikołajki 2023"
+    },
+    {
+      "type": "image",
+      "src": "/images/2023/listopad/2023_listopad_miko_ajki_2023_2023_11_miko_ajki_2023_In-the-spirit-of-love-and-togetherness-I-wish-you-a-truly-Merry-Christmas.-Enjoy-every-moment-1024x724.jpg",
+      "alt": "In the spirit of love and togetherness I wish you a truly Merry Christmas"
+    }
+  ]
 }

@@ -1,7 +1,37 @@
 {
-  "thumbnail": "/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_pl1-724x1024.jpg",
   "title": "ZAWICHOJSKI KRZEMIENIEC PEŁEN OPOWIEŚCI…",
   "publishDate": "2020-10-01T00:00:00.000Z",
-  "eventDate": "2020-10-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<p>Drodzy miłośnicy lokalnej historii,</p>\n\n\n\n<p>mamy dla Was propozycje na jesienne popołudnie – spotkanie poświęcone tematyce, odświeżonych ostatnio w pamięci nas wszystkich zawichojskich bunkrów, które znajdują się na peryferiach Zawichostu. Kto ma ochotę zgłębić informację o austriackich fortyfikacjach bojowych z I wojny światowej, obejrzeć fotografie pokazujące efekty prac porządkowych terenu wokół bunkrów oraz cholerycznego cmentarza, niech zaplanuje sobie sobotnie październikowe popołudnie w MGOK-u. W imieniu wszystkich organizatorów serdecznie zapraszamy. A może Państwo znacie ciekawe historie związane ze wspomnianym tematem, jeśli się z nami podzielicie – będzie nam miło.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img fetchpriority=\"high\" decoding=\"async\" width=\"724\" height=\"1024\" src=\"/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_pl1-724x1024.jpg\" alt=\"\" class=\"wp-image-7679\" srcset=\"/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_pl1-724x1024.jpg 724w, /images/2020/pazdziernik/pl1-212x300.jpg 212w, /images/2020/pazdziernik/pl1-768x1086.jpg 768w, /images/2020/pazdziernik/pl1.jpg 800w\" sizes=\"(max-width: 724px) 100vw, 724px\"></figure>\n\n\n\n<p>Z<em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_pl1-724x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ZAWICHOJSKI KRZEMIENIEC PEŁEN OPOWIEŚCI…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Drodzy miłośnicy lokalnej historii,"
+    },
+    {
+      "type": "paragraph",
+      "text": "mamy dla Was propozycje na jesienne popołudnie – spotkanie poświęcone tematyce, odświeżonych ostatnio w pamięci nas wszystkich zawichojskich bunkrów, które znajdują się na peryferiach Zawichostu. Kto ma ochotę zgłębić informację o austriackich fortyfikacjach bojowych z I wojny światowej, obejrzeć fotografie pokazujące efekty prac porządkowych terenu wokół bunkrów oraz cholerycznego cmentarza, niech zaplanuje sobie sobotnie październikowe popołudnie w MGOK-u. W imieniu wszystkich organizatorów serdecznie zapraszamy. A może Państwo znacie ciekawe historie związane ze wspomnianym tematem, jeśli się z nami podzielicie – będzie nam miło."
+    },
+    {
+      "type": "image",
+      "src": "/images/2020/pazdziernik/2020_pazdziernik_zawichojski_krzemieniec_pe_en_opowie_ci_2020_10_zawichojski_krzemieniec_pe_en_opowie_ci_pl1-724x1024.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA"
+    },
+    {
+      "type": "paragraph",
+      "text": "4 LUTEGO 1994 R."
+    },
+    {
+      "type": "paragraph",
+      "text": "O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE"
+    }
+  ]
 }

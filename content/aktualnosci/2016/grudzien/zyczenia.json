@@ -1,7 +1,25 @@
 {
-  "thumbnail": "/images/2016/grudzien/2016_grudzien__yczenia_2016_12__yczenia_BezéTátytuéu-1.jpg",
   "title": "ŻYCZENIA",
   "publishDate": "2016-12-01T00:00:00.000Z",
-  "eventDate": "2016-12-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4224\" src=\"/images/2016/grudzien/2016_grudzien__yczenia_2016_12__yczenia_BezéTátytuéu-1.jpg\" alt=\"\" width=\"800\" height=\"439\" srcset=\"/images/2016/grudzien/2016_grudzien__yczenia_2016_12__yczenia_BezéTátytuéu-1.jpg 800w, /images/2016/grudzien/BezéTátytuéu-1-300x165.jpg 300w, /images/2016/grudzien/BezéTátytuéu-1-768x421.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></p>\n<p style=\"text-align: right;\"><em>dyrektor – Patrycja Sus – Lutyńska</em><br>\n<em> oraz pracownicy MGOK</em></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2016/grudzien/2016_grudzien__yczenia_2016_12__yczenia_BezéTátytuéu-1.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ŻYCZENIA"
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/grudzien/2016_grudzien__yczenia_2016_12__yczenia_BezéTátytuéu-1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "dyrektor – Patrycja Sus – Lutyńska"
+    },
+    {
+      "type": "paragraph",
+      "text": "oraz pracownicy MGOK"
+    }
+  ]
 }

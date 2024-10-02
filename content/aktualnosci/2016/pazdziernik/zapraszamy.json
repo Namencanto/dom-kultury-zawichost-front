@@ -1,7 +1,25 @@
 {
-  "thumbnail": "/images/2016/pazdziernik/2016_pazdziernik_zapraszamy_2016_10_zapraszamy_plakat-11-listopada-a.jpg",
   "title": "ZAPRASZAMY",
   "publishDate": "2016-10-01T00:00:00.000Z",
-  "eventDate": "2016-10-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p>Tradycją stały się już koncerty organizowane w naszym ośrodku z okazji kolejnych rocznic 11-listopadowych. Nie inaczej będzie i tym razem, młodzież uczestnicząca w zajęciach sekcji wokalnej i instrumentalnej MGOK, a także zespoły śpiewacze, które nieprzerwanie już po raz czwarty pokazują się na naszej scenie z repertuarem pieśni patriotycznych już od długiego czasu przygotowują się na te szczególna okazję. Artyści – od najmłodszych po seniorów, instruktorzy czuwający nad przebiegiem spotkania oraz wszyscy pracownicy MGOK zapraszają Państwa serdecznie do udziału w tym wydarzeniu. Chcemy nie tylko zaprezentować efekt naszych starań, którym uczcimy wyjątkowy dla nas – Polaków dzień, ale także jak zawsze zaprosić wszystkich do wspólnego śpiewania. Do zobaczenia 11. Listopada, o godz. 18.00 w sali widowiskowej MGOK.</p>\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4093\" src=\"/images/2016/pazdziernik/2016_pazdziernik_zapraszamy_2016_10_zapraszamy_plakat-11-listopada-a.jpg\" alt=\"plakat-11-listopada-a\" width=\"800\" height=\"565\" srcset=\"/images/2016/pazdziernik/2016_pazdziernik_zapraszamy_2016_10_zapraszamy_plakat-11-listopada-a.jpg 800w, /images/2016/pazdziernik/plakat-11-listopada-a-300x212.jpg 300w, /images/2016/pazdziernik/plakat-11-listopada-a-768x542.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></p>\n<p style=\"text-align: center;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;ORGANIZATORZY<br>\nZawartość strony oraz wszystkie fotografie są autorstwa MGOK w Zawichoście, zgodnie z przepisami ustawy z dnia&nbsp;4.&nbsp;lutego 1994 r. o prawach autorskich oraz prawach pokrewnych wszelkie prawa do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2016/pazdziernik/2016_pazdziernik_zapraszamy_2016_10_zapraszamy_plakat-11-listopada-a.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ZAPRASZAMY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tradycją stały się już koncerty organizowane w naszym ośrodku z okazji kolejnych rocznic 11-listopadowych. Nie inaczej będzie i tym razem, młodzież uczestnicząca w zajęciach sekcji wokalnej i instrumentalnej MGOK, a także zespoły śpiewacze, które nieprzerwanie już po raz czwarty pokazują się na naszej scenie z repertuarem pieśni patriotycznych już od długiego czasu przygotowują się na te szczególna okazję. Artyści – od najmłodszych po seniorów, instruktorzy czuwający nad przebiegiem spotkania oraz wszyscy pracownicy MGOK zapraszają Państwa serdecznie do udziału w tym wydarzeniu. Chcemy nie tylko zaprezentować efekt naszych starań, którym uczcimy wyjątkowy dla nas – Polaków dzień, ale także jak zawsze zaprosić wszystkich do wspólnego śpiewania. Do zobaczenia 11. Listopada, o godz. 18.00 w sali widowiskowej MGOK."
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/pazdziernik/2016_pazdziernik_zapraszamy_2016_10_zapraszamy_plakat-11-listopada-a.jpg",
+      "alt": "plakat-11-listopada-a"
+    },
+    {
+      "type": "paragraph",
+      "text": "ORGANIZATORZY"
+    }
+  ]
 }

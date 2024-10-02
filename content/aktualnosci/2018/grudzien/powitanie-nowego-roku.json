@@ -1,7 +1,22 @@
 {
-  "thumbnail": "/images/2018/grudzien/2018_grudzien_powitanie_nowego_roku_2018_12_powitanie_nowego_roku_plakat_sylwester-1-762x1024.jpg",
   "title": "POWITANIE NOWEGO ROKU",
   "publishDate": "2018-12-01T00:00:00.000Z",
-  "eventDate": "2018-12-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<figure class=\"wp-block-image\"><img fetchpriority=\"high\" decoding=\"async\" width=\"762\" height=\"1024\" src=\"/images/2018/grudzien/2018_grudzien_powitanie_nowego_roku_2018_12_powitanie_nowego_roku_plakat_sylwester-1-762x1024.jpg\" alt=\"\" class=\"wp-image-6305\" srcset=\"/images/2018/grudzien/plakat_sylwester-1.jpg 762w, /images/2018/grudzien/plakat_sylwester-1-223x300.jpg 223w\" sizes=\"(max-width: 762px) 100vw, 762px\"></figure>\n\n\n\n<h6 class=\"wp-block-heading\" style=\"text-align:center\"> <br><em>Zawartość strony oraz wszystkie  fotografie są autorstwa MGOK w  Zawichoście, zgodnie z przepisami ustawy  z dnia 4 lutego 1994 r. o  prawach autorskich oraz prawach pokrewnych  wszelkie prawa do fotografii i  materiałów na stronie są własnością  autora. Kopiowanie, powielanie i  rozpowszechnianie tekstów, zdjęć, jest  zabronione i wymaga zgody na  piśmie.</em> </h6>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2018/grudzien/2018_grudzien_powitanie_nowego_roku_2018_12_powitanie_nowego_roku_plakat_sylwester-1-762x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "POWITANIE NOWEGO ROKU"
+    },
+    {
+      "type": "image",
+      "src": "/images/2018/grudzien/2018_grudzien_powitanie_nowego_roku_2018_12_powitanie_nowego_roku_plakat_sylwester-1-762x1024.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Zawartość strony oraz wszystkie  fotografie są autorstwa MGOK w  Zawichoście, zgodnie z przepisami ustawy  z dnia 4 lutego 1994 r. o  prawach autorskich oraz prawach pokrewnych  wszelkie prawa do fotografii i  materiałów na stronie są własnością  autora. Kopiowanie, powielanie i  rozpowszechnianie tekstów, zdjęć, jest  zabronione i wymaga zgody na  piśmie."
+    }
+  ]
 }

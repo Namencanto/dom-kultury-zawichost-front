@@ -1,7 +1,57 @@
 {
-  "thumbnail": "/images/2012/czerwiec/2012_czerwiec_piknik_zawichojski_wianki_2012_2012_06_piknik_zawichojski_wianki_2012_ulotka-do-internetu.jpg",
   "title": "PIKNIK ZAWICHOJSKI – WIANKI 2012",
   "publishDate": "2012-06-01T00:00:00.000Z",
-  "eventDate": "2012-06-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p style=\"text-align: center;\"><strong>ZAPRASZAMY 24.06.2012 (NIEDZIELA)</strong></p>\n<p style=\"text-align: center;\"><strong>MAŁY RYNEK W ZAWICHOŚCIE</strong></p>\n<p style=\"text-align: center;\"><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-299\" title=\"ulotka do internetu\" src=\"/images/2012/czerwiec/2012_czerwiec_piknik_zawichojski_wianki_2012_2012_06_piknik_zawichojski_wianki_2012_ulotka-do-internetu.jpg\" alt=\"\" width=\"940\" height=\"666\" srcset=\"/images/2012/czerwiec/2012_czerwiec_piknik_zawichojski_wianki_2012_2012_06_piknik_zawichojski_wianki_2012_ulotka-do-internetu.jpg 940w, /images/2012/czerwiec/ulotka-do-internetu-300x212.jpg 300w\" sizes=\"(max-width: 940px) 100vw, 940px\"></p>\n<p style=\"text-align: center;\" align=\"JUSTIFY\"><em>&nbsp;ORGANIZATORZY:</em></p>\n<p style=\"text-align: center;\" align=\"JUSTIFY\"><em>Gmina Zawichost</em></p>\n<p style=\"text-align: center;\" align=\"JUSTIFY\"><em>Miejsko-Gminny Ośrodek Kultury w Zawichoście</em></p>\n<p style=\"text-align: center;\" align=\"JUSTIFY\"><em>&nbsp;Sandmierskie Stowarzyszenie Rozwoju Regionalnego – LGD</em></p>\n<p style=\"text-align: center;\" align=\"JUSTIFY\">\n</p><p style=\"text-align: center;\" align=\"JUSTIFY\">\n</p><p style=\"text-align: center;\" align=\"JUSTIFY\">\n</p><p style=\"text-align: center;\" align=\"JUSTIFY\">\n</p><p style=\"text-align: center;\" align=\"JUSTIFY\"><em><br>\n</em></p>\n<p style=\"text-align: center;\"><em>Zawartość strony oraz wszystkie fotografie są autorstwa MGOK<br>\nw Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994r.<br>\no prawach autorskich oraz prawach pokrewnych wszelkie prawa<br>\ndo fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie.</em></p>\n<p style=\"text-align: center;\">Copyright © MGOK ZAWICHOST</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2012/czerwiec/2012_czerwiec_piknik_zawichojski_wianki_2012_2012_06_piknik_zawichojski_wianki_2012_ulotka-do-internetu.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "PIKNIK ZAWICHOJSKI – WIANKI 2012"
+    },
+    {
+      "type": "paragraph",
+      "text": "ZAPRASZAMY 24.06.2012 (NIEDZIELA)"
+    },
+    {
+      "type": "paragraph",
+      "text": "MAŁY RYNEK W ZAWICHOŚCIE"
+    },
+    {
+      "type": "image",
+      "src": "/images/2012/czerwiec/2012_czerwiec_piknik_zawichojski_wianki_2012_2012_06_piknik_zawichojski_wianki_2012_ulotka-do-internetu.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "ORGANIZATORZY:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gmina Zawichost"
+    },
+    {
+      "type": "paragraph",
+      "text": "Miejsko-Gminny Ośrodek Kultury w Zawichoście"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sandmierskie Stowarzyszenie Rozwoju Regionalnego – LGD"
+    },
+    {
+      "type": "paragraph",
+      "text": "w Zawichoście, zgodnie z przepisami ustawy z dnia 4 lutego 1994r."
+    },
+    {
+      "type": "paragraph",
+      "text": "o prawach autorskich oraz prawach pokrewnych wszelkie prawa"
+    },
+    {
+      "type": "paragraph",
+      "text": "do fotografii i materiałów na stronie są własnością autora. Kopiowanie, powielanie i rozpowszechnianie tekstów, zdjęć, jest zabronione i wymaga zgody na piśmie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Copyright © MGOK ZAWICHOST"
+    }
+  ]
 }

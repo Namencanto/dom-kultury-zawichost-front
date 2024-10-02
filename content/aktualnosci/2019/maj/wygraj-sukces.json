@@ -1,7 +1,27 @@
 {
-  "thumbnail": "/images/2019/maj/2019_maj_wygraj_sukces_2019_05_wygraj_sukces_zairanastrone.jpg",
   "title": "Wygraj sukces",
   "publishDate": "2019-05-01T00:00:00.000Z",
-  "eventDate": "2019-05-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<h4 class=\"wp-block-heading\">8 maja 2019 r. w Porcie Kultury w Sandomierzu dobyły się kwalifikacje  wstępne Ogólnopolskiego Konkursu Piosenki „Wygraj Sukces”. W  przesłuchaniach udział wzięło 45 wokalistów. Miejsko-Gminny Ośrodek  Kultury w Zawichoście reprezentowała Zaira Otgianu- podopieczna  instruktor Sylwii Szymańskiej- Broś. W czasie eliminacji  Zaira Otgianu  wykonała utwór „Nie zapomnij” i  decyzją jury  będzie brała udział w  eliminacjach regionalnych. </h4>\n\n\n\n<figure class=\"wp-block-image\"><img fetchpriority=\"high\" decoding=\"async\" width=\"720\" height=\"960\" src=\"/images/2019/maj/2019_maj_wygraj_sukces_2019_05_wygraj_sukces_zairanastrone.jpg\" alt=\"\" class=\"wp-image-6571\" srcset=\"/images/2019/maj/2019_maj_wygraj_sukces_2019_05_wygraj_sukces_zairanastrone.jpg 720w, /images/2019/maj/zairanastrone-225x300.jpg 225w\" sizes=\"(max-width: 720px) 100vw, 720px\"></figure>\n\n\n\n<h6 class=\"wp-block-heading\" style=\"text-align:center\"> <br><strong>Z</strong><em>AWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE</em><br><em>Z  PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ  PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE  SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE  TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMI</em>E </h6>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2019/maj/2019_maj_wygraj_sukces_2019_05_wygraj_sukces_zairanastrone.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Wygraj sukces"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8 maja 2019 r. w Porcie Kultury w Sandomierzu dobyły się kwalifikacje  wstępne Ogólnopolskiego Konkursu Piosenki „Wygraj Sukces”. W  przesłuchaniach udział wzięło 45 wokalistów. Miejsko-Gminny Ośrodek  Kultury w Zawichoście reprezentowała Zaira Otgianu- podopieczna  instruktor Sylwii Szymańskiej- Broś. W czasie eliminacji  Zaira Otgianu  wykonała utwór „Nie zapomnij” i  decyzją jury  będzie brała udział w  eliminacjach regionalnych."
+    },
+    {
+      "type": "image",
+      "src": "/images/2019/maj/2019_maj_wygraj_sukces_2019_05_wygraj_sukces_zairanastrone.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIEZ  PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ  PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE  SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE  TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE"
+    }
+  ]
 }

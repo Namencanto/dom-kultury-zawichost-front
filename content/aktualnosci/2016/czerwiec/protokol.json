@@ -1,7 +1,36 @@
 {
-  "thumbnail": "/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-1.jpg",
   "title": "PROTOKÓŁ",
   "publishDate": "2016-06-01T00:00:00.000Z",
-  "eventDate": "2016-06-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p style=\"text-align: center;\"><strong>Protokół z wyboru Dostawcy materiałów budowlanych dotyczący zapytania ofertowego nr 1/2016</strong></p>\n<p style=\"text-align: center;\"><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-3825\" src=\"/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-1.jpg\" alt=\"strona 1\" width=\"1000\" height=\"1376\" srcset=\"/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-1.jpg 1000w, /images/2016/czerwiec/strona-1-218x300.jpg 218w, /images/2016/czerwiec/strona-1-768x1057.jpg 768w, /images/2016/czerwiec/strona-1-744x1024.jpg 744w\" sizes=\"(max-width: 1000px) 100vw, 1000px\"></p>\n<p style=\"text-align: center;\"><img decoding=\"async\" class=\"aligncenter size-full wp-image-3826\" src=\"/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-2.jpg\" alt=\"strona 2\" width=\"1000\" height=\"1376\" srcset=\"/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-2.jpg 1000w, /images/2016/czerwiec/strona-2-218x300.jpg 218w, /images/2016/czerwiec/strona-2-768x1057.jpg 768w, /images/2016/czerwiec/strona-2-744x1024.jpg 744w\" sizes=\"(max-width: 1000px) 100vw, 1000px\"></p>\n<p style=\"text-align: center;\"><img decoding=\"async\" class=\"aligncenter size-full wp-image-3827\" src=\"/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-3.jpg\" alt=\"strona 3\" width=\"1000\" height=\"1376\" srcset=\"/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-3.jpg 1000w, /images/2016/czerwiec/strona-3-218x300.jpg 218w, /images/2016/czerwiec/strona-3-768x1057.jpg 768w, /images/2016/czerwiec/strona-3-744x1024.jpg 744w\" sizes=\"(max-width: 1000px) 100vw, 1000px\"></p>\n<p style=\"text-align: center;\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-3828\" src=\"/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-4.jpg\" alt=\"strona 4\" width=\"1000\" height=\"1376\" srcset=\"/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-4.jpg 1000w, /images/2016/czerwiec/strona-4-218x300.jpg 218w, /images/2016/czerwiec/strona-4-768x1057.jpg 768w, /images/2016/czerwiec/strona-4-744x1024.jpg 744w\" sizes=\"(max-width: 1000px) 100vw, 1000px\"></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-1.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "PROTOKÓŁ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Protokół z wyboru Dostawcy materiałów budowlanych dotyczący zapytania ofertowego nr 1/2016"
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-1.jpg",
+      "alt": "strona 1"
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-2.jpg",
+      "alt": "strona 2"
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-3.jpg",
+      "alt": "strona 3"
+    },
+    {
+      "type": "image",
+      "src": "/images/2016/czerwiec/2016_czerwiec_protok_2016_06_protok_strona-4.jpg",
+      "alt": "strona 4"
+    }
+  ]
 }

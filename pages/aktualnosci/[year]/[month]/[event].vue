@@ -47,9 +47,9 @@
           <span class="font-semibold">Data publikacji:</span>
           {{ formatDate(doc.publishDate) }}
         </p>
-        <p>
+        <p v-if="doc.eventDate">
           <span class="font-semibold">Data wydarzenia:</span>
-          {{ formatDate(doc.eventDate) }}
+          {{ doc.eventDate ? formatDate(doc.eventDate) : "" }}
         </p>
       </div>
 
@@ -185,7 +185,7 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from "vue";
 import { useRoute } from "vue-router";
-import { format } from "date-fns";
+import { format, isValid } from "date-fns";
 import { pl } from "date-fns/locale";
 import { VueFinalModal } from "vue-final-modal";
 import { useAccessibilityStore } from "~/stores/accessibility";
@@ -217,9 +217,12 @@ onMounted(async () => {
   }
 });
 
-const formatDate = (date: string) =>
-  format(new Date(date), "dd MMMM yyyy", { locale: pl });
-
+const formatDate = (date: string) => {
+  if (isValid(new Date(date))) {
+    return format(date, "dd MMMM yyyy", { locale: pl });
+  }
+  return "Nieznana data";
+};
 const openModalWithImage = (imageSrc: string) => {
   galleryImages.value = [imageSrc];
   modalImageIndex.value = 0;

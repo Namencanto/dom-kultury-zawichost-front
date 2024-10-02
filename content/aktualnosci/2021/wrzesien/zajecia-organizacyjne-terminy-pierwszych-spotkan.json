@@ -1,7 +1,25 @@
 {
-  "thumbnail": "/images/2021/wrzesien/2021_wrzesien_zaj_cia_organizacyjne_terminy_pierwszych_spotka_2021_09_zaj_cia_organizacyjne_terminy_pierwszych_spotka_pl1.jpg",
   "title": "ZAJĘCIA ORGANIZACYJNE – TERMINY PIERWSZYCH SPOTKAŃ",
   "publishDate": "2021-09-01T00:00:00.000Z",
-  "eventDate": "2021-09-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<figure class=\"wp-block-image size-full\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2021/10/pl1.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"800\" height=\"877\" src=\"/images/2021/wrzesien/2021_wrzesien_zaj_cia_organizacyjne_terminy_pierwszych_spotka_2021_09_zaj_cia_organizacyjne_terminy_pierwszych_spotka_pl1.jpg\" alt=\"\" class=\"wp-image-8203\" srcset=\"/images/2021/wrzesien/2021_wrzesien_zaj_cia_organizacyjne_terminy_pierwszych_spotka_2021_09_zaj_cia_organizacyjne_terminy_pierwszych_spotka_pl1.jpg 800w, /images/2021/wrzesien/pl1-274x300.jpg 274w, /images/2021/wrzesien/pl1-768x842.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></a></figure>\n\n\n\n<p><em>ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA&nbsp;</em><br><em>4 LUTEGO 1994 R.<br>O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE</em>.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2021/wrzesien/2021_wrzesien_zaj_cia_organizacyjne_terminy_pierwszych_spotka_2021_09_zaj_cia_organizacyjne_terminy_pierwszych_spotka_pl1.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ZAJĘCIA ORGANIZACYJNE – TERMINY PIERWSZYCH SPOTKAŃ"
+    },
+    {
+      "type": "image",
+      "src": "/images/2021/wrzesien/2021_wrzesien_zaj_cia_organizacyjne_terminy_pierwszych_spotka_2021_09_zaj_cia_organizacyjne_terminy_pierwszych_spotka_pl1.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "4 LUTEGO 1994 R."
+    },
+    {
+      "type": "paragraph",
+      "text": "O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE"
+    }
+  ]
 }

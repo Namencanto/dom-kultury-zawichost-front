@@ -1,333 +1,271 @@
 <template>
-  <div>
-    <header
+  <header
+    :class="[isAccessibilityMode ? 'text-white' : 'text-gray-800', 'shadow-md']"
+  >
+    <!-- Top Information Bar -->
+    <div
       :class="[
-        isAccessibilityMode ? 'bg-black text-white' : 'bg-white shadow-md',
-        'sticky top-0 z-50',
+        isAccessibilityMode ? 'text-yellow-300' : 'text-gray-600 bg-white',
+        'py-4 border-b border-gray-300 bg-black',
       ]"
-      aria-label="Nagłówek strony"
     >
       <div
-        class="container mx-auto py-4 px-6 flex flex-col items-center lg:flex-row lg:justify-between"
+        class="container mx-auto flex flex-col md:flex-row md:justify-between md:items-center space-y-2 md:space-y-0"
       >
-        <!-- Logo and Info -->
+        <!-- Date and Weather -->
         <div
-          class="flex flex-col items-center lg:flex-row lg:items-center space-y-4 lg:space-y-0 mb-6 lg:mb-0 w-full lg:w-auto"
+          :class="[
+            isAccessibilityMode ? 'text-yellow-300' : 'text-gray-600',
+            'flex items-center justify-center space-x-2 md:space-x-4 text-sm md:text-base',
+          ]"
         >
-          <NuxtLink to="/" class="flex justify-center mb-2 lg:mb-0">
-            <nuxt-img
-              :class="isAccessibilityMode ? 'h-40' : 'h-32'"
-              src="/logo.jpg"
-              alt="Logo"
-            />
-          </NuxtLink>
-          <div
-            class="flex flex-col items-center lg:items-start text-center lg:text-left mt-2 lg:mt-0 lg:ml-4"
-          >
-            <span
-              :class="[
-                isAccessibilityMode
-                  ? 'text-3xl font-extrabold text-yellow-300'
-                  : 'text-2xl font-bold text-gray-800',
-              ]"
-            >
-              Miejsko Gminny Ośrodek Kultury Zawichost
-            </span>
-            <div
-              class="flex flex-col items-center lg:items-start text-center lg:text-left mt-2"
-            >
-              <span
-                :class="
-                  isAccessibilityMode ? 'text-yellow-300' : 'text-gray-500'
-                "
-                >{{ currentDay }}</span
-              >
-              <span
-                :class="
-                  isAccessibilityMode ? 'text-yellow-300' : 'text-gray-500'
-                "
-                >{{ currentDate }}</span
-              >
-              <span
-                :class="
-                  isAccessibilityMode ? 'text-yellow-300' : 'text-gray-500'
-                "
-                >{{ temperature }}°C</span
-              >
-            </div>
-          </div>
+          <span>{{ currentDay }}, {{ currentDate }}</span>
+          <span>{{ temperature }}°C</span>
         </div>
 
-        <!-- Navigation -->
-        <div
-          class="flex flex-wrap items-center justify-center lg:justify-end w-full lg:w-auto mt-4 lg:mt-0"
-        >
-          <!-- Links and Icons -->
-          <div
-            class="flex space-x-8 sm:space-x-10 md:space-x-12 lg:space-x-6 mb-4 lg:mb-0"
+        <!-- Social and Accessibility Links -->
+        <div class="flex justify-center md:justify-end items-center space-x-4">
+          <a
+            href="https://www.facebook.com/mgokzawichost"
+            :class="[
+              isAccessibilityMode
+                ? 'text-yellow-300 hover:text-white'
+                : 'text-gray-600 hover:text-gray-900',
+            ]"
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            <NuxtLink
-              :class="
-                isAccessibilityMode
-                  ? 'text-yellow-300 hover:text-white'
-                  : 'text-gray-500 hover:text-gray-800'
-              "
-              to="/informacje"
-            >
-              <Icon
-                name="maki:information"
-                :class="isAccessibilityMode ? 'h-8 w-8' : 'h-6 w-6'"
-              />
-            </NuxtLink>
-            <a
-              href="https://www.facebook.com/mgokzawichost"
-              :class="
-                isAccessibilityMode
-                  ? 'text-yellow-300 hover:text-white'
-                  : 'text-gray-500 hover:text-gray-800'
-              "
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Icon
-                name="ion:social-facebook"
-                :class="isAccessibilityMode ? 'h-8 w-8' : 'h-6 w-6'"
-              />
-            </a>
-            <span
-              style="cursor: pointer"
-              @click="toggleAccessibilityMode"
-              :class="
-                isAccessibilityMode
-                  ? 'text-yellow-300 hover:text-white'
-                  : 'text-gray-500 hover:text-gray-800'
-              "
-            >
-              <Icon
-                name="uil:eye"
-                :class="isAccessibilityMode ? 'h-8 w-8' : 'h-6 w-6'"
-              />
-            </span>
-            <a
-              href="/rss.xml"
-              :class="
-                isAccessibilityMode
-                  ? 'text-yellow-300 hover:text-white'
-                  : 'text-gray-500 hover:text-gray-800'
-              "
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Icon
-                name="mdi:rss"
-                :class="isAccessibilityMode ? 'h-8 w-8' : 'h-6 w-6'"
-              />
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Main Navigation with Dynamic Sections -->
-      <nav :class="[isAccessibilityMode ? 'bg-yellow-300' : 'bg-gray-100']">
-        <div
-          class="container mx-auto flex flex-col items-center lg:flex-row lg:justify-between py-3 px-6"
-        >
-          <div
-            class="flex flex-wrap justify-center lg:justify-start w-full lg:w-auto gap-6 lg:gap-8"
+            <Icon name="ion:social-facebook" class="h-6 w-6" />
+          </a>
+          <span
+            style="cursor: pointer"
+            @click="toggleAccessibilityMode"
+            :class="[
+              isAccessibilityMode
+                ? 'text-yellow-300 hover:text-white'
+                : 'text-gray-600 hover:text-gray-900',
+            ]"
           >
-            <!-- Static Links -->
-            <NuxtLink
-              :class="
-                isAccessibilityMode
-                  ? 'text-black font-bold hover:bg-yellow-300 hover:text-black  py-1 rounded'
-                  : 'text-gray-700 hover:text-black'
-              "
-              to="/"
-              >M-GOK</NuxtLink
-            >
-            <a
-              href="https://mgok-zawichost.biuletyn.net"
-              :class="
-                isAccessibilityMode
-                  ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
-                  : 'text-gray-700 hover:text-black'
-              "
-              target="_blank"
-              rel="noopener noreferrer"
-              >BIP</a
-            >
-            <NuxtLink
-              :class="
-                isAccessibilityMode
-                  ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
-                  : 'text-gray-700 hover:text-black'
-              "
-              to="/aktualnosci"
-              >AKTUALNOŚCI</NuxtLink
-            >
-            <NuxtLink
-              :class="
-                isAccessibilityMode
-                  ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
-                  : 'text-gray-700 hover:text-black'
-              "
-              to="/kalendarz-wydarzen"
-              >KALENDARZ WYDARZEŃ</NuxtLink
-            >
-
-            <!-- Dynamic Dropdown for SEKCJE -->
-            <div class="relative group inline-block">
-              <NuxtLink
-                :class="
-                  isAccessibilityMode
-                    ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded inline-block align-middle'
-                    : 'text-gray-700 hover:text-black'
-                "
-                to="/sekcje/teatr"
-              >
-                SEKCJE
-              </NuxtLink>
-              <ul
-                :class="
-                  isAccessibilityMode
-                    ? 'absolute hidden group-hover:flex flex-col bg-black border-yellow-300 border shadow-lg z-10 w-60 max-w-xs text-sm rounded-md'
-                    : 'absolute hidden group-hover:flex flex-col bg-white border shadow-lg z-10 w-60 max-w-xs text-sm rounded-md'
-                "
-              >
-                <li
-                  v-for="(section, index) in uniqueSections"
-                  :key="index"
-                  :class="
-                    isAccessibilityMode
-                      ? 'hover:bg-yellow-300 hover:text-black w-full'
-                      : 'hover:bg-gray-200 hover:text-black w-full'
-                  "
-                >
-                  <NuxtLink
-                    :to="`/sekcje/${section.toLowerCase()}`"
-                    :class="
-                      isAccessibilityMode
-                        ? 'block py-3 px-4 text-yellow-300 hover:text-black'
-                        : 'block py-3 px-4 hover:bg-gray-200 hover:text-black'
-                    "
-                    :title="section"
-                  >
-                    {{ truncateText(section) }}
-                  </NuxtLink>
-                </li>
-              </ul>
-            </div>
-
-            <!-- Static Links -->
-            <NuxtLink
-              :class="
-                isAccessibilityMode
-                  ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
-                  : 'text-gray-700 hover:text-black'
-              "
-              to="/lamus"
-              >LAMUS</NuxtLink
-            >
-            <NuxtLink
-              :class="
-                isAccessibilityMode
-                  ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
-                  : 'text-gray-700 hover:text-black'
-              "
-              to="/tablica-ogloszen"
-              >TABLICA OGŁOSZEŃ</NuxtLink
-            >
-            <NuxtLink
-              :class="
-                isAccessibilityMode
-                  ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
-                  : 'text-gray-700 hover:text-black'
-              "
-              to="/rodo"
-              >RODO</NuxtLink
-            >
-          </div>
-
-          <!-- Font Size Adjuster and Admin Status -->
-          <div
-            class="relative mt-4 lg:mt-0 flex justify-center lg:justify-end space-x-8 sm:space-x-10 md:space-x-12 lg:space-x-4"
+            <Icon name="uil:eye" class="h-6 w-6" />
+          </span>
+          <a
+            href="/rss.xml"
+            :class="[
+              isAccessibilityMode
+                ? 'text-yellow-300 hover:text-white'
+                : 'text-gray-600 hover:text-gray-900',
+            ]"
+            target="_blank"
+            rel="noopener noreferrer"
           >
+            <Icon name="mdi:rss" class="h-6 w-6" />
+          </a>
+
+          <!-- Font Size Adjuster -->
+          <div class="flex items-center space-x-1">
             <button
               @click="setFontSize('normal')"
-              :class="
-                isAccessibilityMode
-                  ? 'text-black bg-yellow-300 hover:bg-yellow-500 hover:text-black rounded-full px-4 py-2'
-                  : 'text-gray-500 bg-white hover:bg-gray-200 hover:text-black rounded-full px-4 py-2'
-              "
-              class="focus:outline-none focus:ring-2"
+              :class="[
+                'font-size-button',
+                currentFontSize === 'normal'
+                  ? isAccessibilityMode
+                    ? 'bg-yellow-300 text-black'
+                    : 'bg-gray-600 text-white'
+                  : isAccessibilityMode
+                    ? 'bg-black text-yellow-300'
+                    : 'bg-white text-gray-600',
+              ]"
             >
               A
             </button>
             <button
               @click="setFontSize('large')"
-              :class="
-                isAccessibilityMode
-                  ? 'text-black bg-yellow-300 hover:bg-yellow-500 hover:text-black rounded-full px-4 py-2'
-                  : 'text-gray-500 bg-white hover:bg-gray-200 hover:text-black rounded-full px-4 py-2'
-              "
-              class="focus:outline-none focus:ring-2"
+              :class="[
+                'font-size-button',
+                currentFontSize === 'large'
+                  ? isAccessibilityMode
+                    ? 'bg-yellow-300 text-black'
+                    : 'bg-gray-600 text-white'
+                  : isAccessibilityMode
+                    ? 'bg-black text-yellow-300'
+                    : 'bg-white text-gray-600',
+              ]"
             >
               A+
             </button>
             <button
               @click="setFontSize('x-large')"
-              :class="
-                isAccessibilityMode
-                  ? 'text-black bg-yellow-300 hover:bg-yellow-500 hover:text-black rounded-full px-4 py-2'
-                  : 'text-gray-500 bg-white hover:bg-gray-200 hover:text-black rounded-full px-4 py-2'
-              "
-              class="focus:outline-none focus:ring-2"
+              :class="[
+                'font-size-button',
+                currentFontSize === 'x-large'
+                  ? isAccessibilityMode
+                    ? 'bg-yellow-300 text-black'
+                    : 'bg-gray-600 text-white'
+                  : isAccessibilityMode
+                    ? 'bg-black text-yellow-300'
+                    : 'bg-white text-gray-600',
+              ]"
             >
               A++
             </button>
+          </div>
 
-            <div
-              v-if="authStatus"
-              :class="
-                isAccessibilityMode ? 'text-red-300' : 'text-red-500 font-bold'
-              "
-            >
-              ADMIN
-            </div>
+          <!-- ADMIN Status -->
+          <div
+            v-if="authStatus"
+            :class="[
+              isAccessibilityMode ? 'text-red-300' : 'text-red-500 font-bold',
+            ]"
+          >
+            ADMIN
           </div>
         </div>
-      </nav>
-    </header>
-  </div>
+      </div>
+    </div>
+
+    <!-- Main Navigation -->
+    <nav :class="[isAccessibilityMode ? 'bg-yellow-300' : 'bg-white', 'py-4']">
+      <div
+        class="container mx-auto flex flex-wrap justify-center space-x-4 md:space-x-8"
+      >
+        <NuxtLink
+          :class="[
+            isAccessibilityMode
+              ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
+              : 'text-lg text-gray-700 hover:text-black font-medium',
+            fontSizeClass,
+          ]"
+          to="/"
+        >
+          M-GOK
+        </NuxtLink>
+        <NuxtLink
+          :class="[
+            isAccessibilityMode
+              ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
+              : 'text-lg text-gray-700 hover:text-black font-medium',
+            fontSizeClass,
+          ]"
+          to="/aktualnosci"
+        >
+          AKTUALNOŚCI
+        </NuxtLink>
+        <NuxtLink
+          :class="[
+            isAccessibilityMode
+              ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
+              : 'text-lg text-gray-700 hover:text-black font-medium',
+            fontSizeClass,
+          ]"
+          to="/kalendarz-wydarzen"
+        >
+          KALENDARZ WYDARZEŃ
+        </NuxtLink>
+        <NuxtLink
+          :class="[
+            isAccessibilityMode
+              ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
+              : 'text-lg text-gray-700 hover:text-black font-medium',
+            fontSizeClass,
+          ]"
+          to="/tablica-ogloszen"
+        >
+          TABLICA OGŁOSZEŃ
+        </NuxtLink>
+        <NuxtLink
+          :class="[
+            isAccessibilityMode
+              ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
+              : 'text-lg text-gray-700 hover:text-black font-medium',
+            fontSizeClass,
+          ]"
+          to="/rodo"
+        >
+          RODO
+        </NuxtLink>
+
+        <!-- Dynamic Dropdown for Sections -->
+        <div class="relative group inline-block">
+          <NuxtLink
+            :class="[
+              isAccessibilityMode
+                ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded inline-block align-middle'
+                : 'text-lg text-gray-700 hover:text-black font-medium',
+              fontSizeClass,
+            ]"
+            to="/sekcje/teatr"
+          >
+            SEKCJE
+          </NuxtLink>
+
+          <ul
+            class="absolute left-0 top-full hidden group-hover:block bg-white border border-gray-200 shadow-lg z-20 w-60 text-sm rounded-md"
+          >
+            <li
+              v-for="(section, index) in uniqueSections"
+              :key="index"
+              :class="[
+                isAccessibilityMode
+                  ? 'hover:bg-yellow-300 hover:text-black'
+                  : 'hover:bg-gray-200 hover:text-black',
+                'py-3 px-4',
+              ]"
+            >
+              <NuxtLink
+                :to="`/sekcje/${section.toLowerCase()}`"
+                :class="[fontSizeClass]"
+                :title="section"
+              >
+                {{ truncateText(section) }}
+              </NuxtLink>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
 </template>
 
-<script lang="ts" setup>
+<script setup lang="ts">
 import { ref, onMounted, computed } from "vue";
+import { useAccessibilityStore } from "~/stores/accessibility";
 import { useFontSizeStore } from "~/stores/fontSize";
 import { useAuthStore } from "~/stores/auth";
-import { useAccessibilityStore } from "~/stores/accessibility";
 
 const toggleAccessibilityMode = () => {
   accessibilityStore.toggleAccessibilityMode();
 };
+
+const accessibilityStore = useAccessibilityStore();
 const fontSizeStore = useFontSizeStore();
 const authStore = useAuthStore();
-const accessibilityStore = useAccessibilityStore();
 
-const authStatus = ref(false);
+const currentDay = ref("");
+const currentDate = ref("");
+const temperature = ref("");
 const uniqueSections = ref<string[]>([]);
+const dropdownOpen = ref(false);
+
+const currentFontSize = computed(() => fontSizeStore.currentFontSize);
+const fontSizeClass = computed(() => {
+  if (fontSizeStore.currentFontSize === "large") return "text-xl";
+  if (fontSizeStore.currentFontSize === "x-large") return "text-2xl";
+  return "text-lg";
+});
+
+const toggleDropdown = (open: boolean) => {
+  dropdownOpen.value = open;
+};
 
 const setFontSize = (size: string) => {
   fontSizeStore.setFontSize(size);
 };
 
-const currentDay = ref("");
-const currentDate = ref("");
-const temperature = ref("");
-
 const isAccessibilityMode = computed(
   () => accessibilityStore.isAccessibilityMode
 );
+
+const authStatus = ref(false);
 
 const formatDate = () => {
   const days = [
@@ -353,10 +291,11 @@ const formatDate = () => {
     "listopad",
     "grudzień",
   ];
-
   const now = new Date();
   currentDay.value = days[now.getDay()];
-  currentDate.value = `${now.getDate()} ${months[now.getMonth()]} ${now.getFullYear()}`;
+  currentDate.value = `${now.getDate()} ${
+    months[now.getMonth()]
+  } ${now.getFullYear()}`;
 };
 
 const fetchTemperature = async () => {
@@ -385,7 +324,7 @@ const fetchUniqueSections = async () => {
       });
       uniqueSections.value = Array.from(sectionsSet);
     } else {
-      console.error("Brak danych lub dane nie są tablicą.");
+      console.error("No data or the data is not in an array.");
     }
   } catch (error) {
     console.error("Error fetching unique sections:", error);
@@ -400,8 +339,30 @@ const truncateText = (text: string, maxLength: number = 20) => {
 
 onMounted(async () => {
   formatDate();
+  fetchTemperature();
   fetchUniqueSections();
-  setTimeout(() => fetchTemperature(), 1);
-  authStatus.value = await authStore.getAuthAdminStatus;
+  authStatus.value = await authStore.getAuthAdminStatus();
 });
 </script>
+
+<style scoped>
+.shadow-md {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Font Size Adjuster Buttons */
+.font-size-button {
+  border: none;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  font-weight: bold;
+  transition:
+    background-color 0.2s,
+    color 0.2s;
+}
+
+.font-size-button:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+</style>

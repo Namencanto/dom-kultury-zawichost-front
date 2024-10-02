@@ -1,7 +1,21 @@
 {
-  "thumbnail": "/images/2022/lipiec/2022_lipiec_zapraszamy_2022_07_zapraszamy_PL1-1-724x1024.jpg",
   "title": "ZAPRASZAMY!",
   "publishDate": "2022-07-01T00:00:00.000Z",
-  "eventDate": "2022-07-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<p>Wakacyjna propozycja dla zainteresowanych. Bezpłatne warsztaty taneczne w dwóch odsłonach 3 i 10 sierpnia 2022. Zapisy oraz wszelkie informacje w biurze MGOK. Startujemy już w kolejną środę. Do zobaczenia w sali strażnicy OSP Zawichost. Zapraszamy dzieci i młodzież. Jeśli lubicie aktywne wakacje – musicie być z nam.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2022/07/PL1-1.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"724\" height=\"1024\" src=\"/images/2022/lipiec/2022_lipiec_zapraszamy_2022_07_zapraszamy_PL1-1-724x1024.jpg\" alt=\"\" class=\"wp-image-8854\" srcset=\"/images/2022/lipiec/2022_lipiec_zapraszamy_2022_07_zapraszamy_PL1-1-724x1024.jpg 724w, /images/2022/lipiec/PL1-1-212x300.jpg 212w, /images/2022/lipiec/PL1-1-768x1086.jpg 768w, /images/2022/lipiec/PL1-1.jpg 800w\" sizes=\"(max-width: 724px) 100vw, 724px\"></a></figure>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2022/lipiec/2022_lipiec_zapraszamy_2022_07_zapraszamy_PL1-1-724x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ZAPRASZAMY!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wakacyjna propozycja dla zainteresowanych. Bezpłatne warsztaty taneczne w dwóch odsłonach 3 i 10 sierpnia 2022. Zapisy oraz wszelkie informacje w biurze MGOK. Startujemy już w kolejną środę. Do zobaczenia w sali strażnicy OSP Zawichost. Zapraszamy dzieci i młodzież. Jeśli lubicie aktywne wakacje – musicie być z nam."
+    },
+    {
+      "type": "image",
+      "src": "/images/2022/lipiec/2022_lipiec_zapraszamy_2022_07_zapraszamy_PL1-1-724x1024.jpg",
+      "alt": ""
+    }
+  ]
 }

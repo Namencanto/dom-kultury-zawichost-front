@@ -1,7 +1,6 @@
 {
   "title": "Konkurs na Najpiękniejszą Tradycyjną Palmę Wielkanocną",
   "publishDate": "2024-04-01T00:00:00.000Z",
-  "eventDate": "2024-04-01T00:00:00.000Z",
   "thumbnail": "/images/2024/kwiecien/2024_kwiecien_konkurs_na_najpi_kniejsz_tradycyjn_palm_wielkanocn_2024_04_konkurs_na_najpi_kniejsz_tradycyjn_palm_wielkanocn_417686354_821124736722951_8868386982455421550_n-1024x682.jpg",
   "content": [
     {
@@ -56,11 +55,6 @@
       "text": "Wyniki konkursu"
     },
     {
-      "type": "heading",
-      "level": 3,
-      "text": "Kategoria I: dzieci/młodzież (6-9 lat)"
-    },
-    {
       "type": "list",
       "items": [
         "I miejsce – Karolina Nogacka (partner wspierający – Anna Nogacka)",
@@ -69,20 +63,10 @@
       ]
     },
     {
-      "type": "heading",
-      "level": 3,
-      "text": "Kategoria II: dzieci/młodzież (10-14 lat)"
-    },
-    {
       "type": "list",
       "items": [
         "II miejsce – Kacper Młynarczyk (partner wspierający – Katarzyna Mazur, opiekun artystyczny Katarzyna Mazur, Młodzieżowy Ośrodek Wychowawczy im. J. Korczaka w Zawichoście)"
       ]
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Kategoria III: dzieci/młodzież (15-17 lat)"
     },
     {
       "type": "list",
@@ -91,11 +75,6 @@
         "II miejsce – Igor Forysiuk (partner wspierający – Katarzyna Mazur, opiekun artystyczny Katarzyna Mazur, Młodzieżowy Ośrodek Wychowawczy im. J. Korczaka w Zawichoście)",
         "Wyróżnienie – Bartłomiej Buda (partner wspierający – Katarzyna Mazur, opiekun artystyczny Katarzyna Mazur, Młodzieżowy Ośrodek Wychowawczy im. J. Korczaka w Zawichoście)"
       ]
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Kategoria I: dorośli (od 18 lat)"
     },
     {
       "type": "list",

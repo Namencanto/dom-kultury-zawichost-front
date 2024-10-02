@@ -1,9 +1,13 @@
 {
   "title": "VII edycja Fabryki Wyobraźni",
   "publishDate": "2024-06-01T00:00:00.000Z",
-  "eventDate": "2024-06-21T17:00:00.000Z",
   "thumbnail": "/images/2024/czerwiec/2024_czerwiec_vii_edycja_fabryki_wyobra_ni_2024_06_vii_edycja_fabryki_wyobra_ni_fabryka-wyobrazni-724x1024.jpg",
   "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII edycja Fabryki Wyobraźni"
+    },
     {
       "type": "paragraph",
       "text": "Serdecznie zapraszamy Wszystkich na kolejną – VII edycję FABRYKI WYOBRAŹNI."

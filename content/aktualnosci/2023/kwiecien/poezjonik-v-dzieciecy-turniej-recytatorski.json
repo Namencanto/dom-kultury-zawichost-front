@@ -1,7 +1,26 @@
 {
-  "thumbnail": "/images/2023/kwiecien/2023_kwiecien_poezjonik_v_dzieci_cy_turniej_recytatorski_2023_04_poezjonik_v_dzieci_cy_turniej_recytatorski_POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-1024x725.jpg",
   "title": "POEZJONIK V Dziecięcy Turniej Recytatorski",
   "publishDate": "2023-04-01T00:00:00.000Z",
-  "eventDate": "2023-04-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<p>Serdecznie zapraszamy do wzięcia udziału w V Dziecięcym Turnieju Recytatorskim. Szczegółowe informacje znajdują się w regulaminie u dołu strony.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/04/POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-scaled.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height=\"725\" src=\"/images/2023/kwiecien/2023_kwiecien_poezjonik_v_dzieci_cy_turniej_recytatorski_2023_04_poezjonik_v_dzieci_cy_turniej_recytatorski_POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-1024x725.jpg\" alt=\"\" class=\"wp-image-9545\" srcset=\"/images/2023/kwiecien/2023_kwiecien_poezjonik_v_dzieci_cy_turniej_recytatorski_2023_04_poezjonik_v_dzieci_cy_turniej_recytatorski_POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-1024x725.jpg 1024w, /images/2023/kwiecien/POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-300x212.jpg 300w, /images/2023/kwiecien/POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-768x543.jpg 768w, /images/2023/kwiecien/POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-1536x1087.jpg 1536w, /images/2023/kwiecien/POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-2048x1449.jpg 2048w\" sizes=\"(max-width: 1024px) 100vw, 1024px\"></a></figure>\n\n\n\n<div data-wp-interactive=\"\" class=\"wp-block-file\"><object data-wp-bind--hidden=\"!selectors.core.file.hasPdfPreview\" hidden=\"\" class=\"wp-block-file__embed\" data=\"http://mgok-zawichost.pl/wp-content/uploads/2023/04/regulamin-POEZJONIK-2023.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Osadzone z regulamin-POEZJONIK-2023.\"></object><a id=\"wp-block-file--media-c8c29c35-3634-41bd-a0e7-09b4649c13f1\" href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/04/regulamin-POEZJONIK-2023.pdf\">regulamin-POEZJONIK-2023</a><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/04/regulamin-POEZJONIK-2023.pdf\" class=\"wp-block-file__button wp-element-button\" download=\"\" aria-describedby=\"wp-block-file--media-c8c29c35-3634-41bd-a0e7-09b4649c13f1\">Pobierz</a></div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2023/kwiecien/2023_kwiecien_poezjonik_v_dzieci_cy_turniej_recytatorski_2023_04_poezjonik_v_dzieci_cy_turniej_recytatorski_POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-1024x725.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "POEZJONIK V Dziecięcy Turniej Recytatorski"
+    },
+    {
+      "type": "paragraph",
+      "text": "Serdecznie zapraszamy do wzięcia udziału w V Dziecięcym Turnieju Recytatorskim. Szczegółowe informacje znajdują się w regulaminie u dołu strony."
+    },
+    {
+      "type": "image",
+      "src": "/images/2023/kwiecien/2023_kwiecien_poezjonik_v_dzieci_cy_turniej_recytatorski_2023_04_poezjonik_v_dzieci_cy_turniej_recytatorski_POEZJON-VI-Mlodziezowy-Turniej-Recytatorski-32-1024x725.jpg",
+      "alt": "POEZJONIK V Dziecięcy Turniej Recytatorski"
+    },
+    {
+      "type": "pdf",
+      "url": "http://mgok-zawichost.pl/wp-content/uploads/2023/04/regulamin-POEZJONIK-2023.pdf",
+      "name": "regulamin-POEZJONIK-2023"
+    }
+  ]
 }

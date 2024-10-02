@@ -9,7 +9,11 @@ module.exports = {
   ],
   buildModules: ["@nuxtjs/element-plus"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ["Ubuntu", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 };

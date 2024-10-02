@@ -1,7 +1,27 @@
 {
-  "thumbnail": "/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_maly-plakat-727x1024.jpg",
   "title": "Wianki 2023",
   "publishDate": "2023-06-01T00:00:00.000Z",
-  "eventDate": "2023-06-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/06/maly-plakat.jpg\"><img fetchpriority=\"high\" decoding=\"async\" width=\"727\" height=\"1024\" src=\"/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_maly-plakat-727x1024.jpg\" alt=\"\" class=\"wp-image-9736\" srcset=\"/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_maly-plakat-727x1024.jpg 727w, /images/2023/czerwiec/maly-plakat-213x300.jpg 213w, /images/2023/czerwiec/maly-plakat-768x1082.jpg 768w, /images/2023/czerwiec/maly-plakat-1090x1536.jpg 1090w, /images/2023/czerwiec/maly-plakat.jpg 1419w\" sizes=\"(max-width: 727px) 100vw, 727px\"></a></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/06/STRONA-1-i-4-drukomat_ulotka_skladana_DL_4_109-1.jpg\"><img decoding=\"async\" width=\"966\" height=\"1024\" src=\"/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_STRONA-1-i-4-drukomat_ulotka_skladana_DL_4_109-1-966x1024.jpg\" alt=\"\" class=\"wp-image-9737\" srcset=\"/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_STRONA-1-i-4-drukomat_ulotka_skladana_DL_4_109-1-966x1024.jpg 966w, /images/2023/czerwiec/STRONA-1-i-4-drukomat_ulotka_skladana_DL_4_109-1-283x300.jpg 283w, /images/2023/czerwiec/STRONA-1-i-4-drukomat_ulotka_skladana_DL_4_109-1-768x814.jpg 768w, /images/2023/czerwiec/STRONA-1-i-4-drukomat_ulotka_skladana_DL_4_109-1-1450x1536.jpg 1450w, /images/2023/czerwiec/STRONA-1-i-4-drukomat_ulotka_skladana_DL_4_109-1-1933x2048.jpg 1933w\" sizes=\"(max-width: 966px) 100vw, 966px\"></a></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"http://mgok-zawichost.pl/wp-content/uploads/2023/06/STRONA-3-i-4-drukomat_ulotka_skladana_DL_4_109-2.jpg\"><img decoding=\"async\" width=\"966\" height=\"1024\" src=\"/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_STRONA-3-i-4-drukomat_ulotka_skladana_DL_4_109-2-966x1024.jpg\" alt=\"\" class=\"wp-image-9740\" srcset=\"/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_STRONA-3-i-4-drukomat_ulotka_skladana_DL_4_109-2-966x1024.jpg 966w, /images/2023/czerwiec/STRONA-3-i-4-drukomat_ulotka_skladana_DL_4_109-2-283x300.jpg 283w, /images/2023/czerwiec/STRONA-3-i-4-drukomat_ulotka_skladana_DL_4_109-2-768x814.jpg 768w, /images/2023/czerwiec/STRONA-3-i-4-drukomat_ulotka_skladana_DL_4_109-2-1450x1536.jpg 1450w, /images/2023/czerwiec/STRONA-3-i-4-drukomat_ulotka_skladana_DL_4_109-2-1933x2048.jpg 1933w\" sizes=\"(max-width: 966px) 100vw, 966px\"></a></figure>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_maly-plakat-727x1024.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Wianki 2023"
+    },
+    {
+      "type": "image",
+      "src": "/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_maly-plakat-727x1024.jpg",
+      "alt": "Plakat Wianki 2023"
+    },
+    {
+      "type": "image",
+      "src": "/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_STRONA-1-i-4-drukomat_ulotka_skladana_DL_4_109-1-966x1024.jpg",
+      "alt": "Ulotka Wianki 2023 strona 1 i 4"
+    },
+    {
+      "type": "image",
+      "src": "/images/2023/czerwiec/2023_czerwiec_wianki_2023_2023_06_wianki_2023_STRONA-3-i-4-drukomat_ulotka_skladana_DL_4_109-2-966x1024.jpg",
+      "alt": "Ulotka Wianki 2023 strona 3 i 4"
+    }
+  ]
 }

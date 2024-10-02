@@ -1,6 +1,7 @@
 <template>
   <section class="flex flex-col min-h-screen" aria-label="Główna sekcja strony">
     <Header />
+    <Baner />
 
     <main
       :class="isAccessibilityMode ? 'bg-black' : ''"
@@ -26,6 +27,7 @@
 </template>
 
 <script lang="ts" setup>
+import Baner from "~/components/Baner.vue";
 import Header from "~/components/Header.vue";
 import Footer from "~/components/Footer.vue";
 import { useAccessibilityStore } from "~/stores/accessibility";
@@ -76,3 +78,6 @@ useHead({
   ],
 });
 </script>
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+</style>

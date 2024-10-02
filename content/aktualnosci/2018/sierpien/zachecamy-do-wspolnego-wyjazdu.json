@@ -1,7 +1,17 @@
 {
-  "thumbnail": "/images/2018/sierpien/2018_sierpien_zach_camy_do_wsp_lnego_wyjazdu_2018_08_zach_camy_do_wsp_lnego_wyjazdu_0001-plakat.jpg",
   "title": "Zachęcamy do wspólnego wyjazdu!",
   "publishDate": "2018-08-01T00:00:00.000Z",
-  "eventDate": "2018-08-01T00:00:00.000Z",
-  "content": "<div class=\"entry-content\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-6002\" src=\"/images/2018/sierpien/2018_sierpien_zach_camy_do_wsp_lnego_wyjazdu_2018_08_zach_camy_do_wsp_lnego_wyjazdu_0001-plakat.jpg\" alt=\"\" width=\"800\" height=\"1131\" srcset=\"/images/2018/sierpien/2018_sierpien_zach_camy_do_wsp_lnego_wyjazdu_2018_08_zach_camy_do_wsp_lnego_wyjazdu_0001-plakat.jpg 800w, /images/2018/sierpien/0001-plakat-212x300.jpg 212w, /images/2018/sierpien/0001-plakat-768x1086.jpg 768w, /images/2018/sierpien/0001-plakat-724x1024.jpg 724w\" sizes=\"(max-width: 800px) 100vw, 800px\"></p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</div>"
+  "thumbnail": "/images/2018/sierpien/2018_sierpien_zach_camy_do_wsp_lnego_wyjazdu_2018_08_zach_camy_do_wsp_lnego_wyjazdu_0001-plakat.jpg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Zachęcamy do wspólnego wyjazdu!"
+    },
+    {
+      "type": "image",
+      "src": "/images/2018/sierpien/2018_sierpien_zach_camy_do_wsp_lnego_wyjazdu_2018_08_zach_camy_do_wsp_lnego_wyjazdu_0001-plakat.jpg",
+      "alt": ""
+    }
+  ]
 }

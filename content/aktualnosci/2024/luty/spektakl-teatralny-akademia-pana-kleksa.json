@@ -2,8 +2,12 @@
   "thumbnail": "/images/2024/luty/2024_luty_spektakl_teatralny_akademia_pana_kleksa_2024_02_spektakl_teatralny_akademia_pana_kleksa_Akademia-Pana-Kleksa1-724x1024.jpg",
   "title": "Spektakl teatralny „Akademia Pana Kleksa”",
   "publishDate": "2024-02-01T00:00:00.000Z",
-  "eventDate": "2024-02-01T00:00:00.000Z",
   "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Spektakl teatralny „Akademia Pana Kleksa”"
+    },
     {
       "type": "paragraph",
       "text": "Kto nie miał okazji obejrzeć spektaklu „Akademia Pana Kleksa” w wykonaniu Zawichojskiego Teatru Miejskiego – to nic straconego."
