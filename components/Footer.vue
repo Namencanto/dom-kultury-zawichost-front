@@ -192,42 +192,47 @@
         </p>
         <nav
           aria-label="Dodatkowe linki"
-          :class="
-            isAccessibilityMode
-              ? 'flex space-x-4 mt-2 lg:mt-0 text-yellow-300'
-              : 'flex space-x-4 mt-2 lg:mt-0 text-white'
-          "
+          :class="[
+            'grid grid-cols-3 gap-4 text-center mt-2 lg:mt-0',
+            isAccessibilityMode ? 'text-yellow-300' : 'text-white',
+          ]"
         >
           <a
             href="/sitemap.xml"
-            :class="
+            :class="[
+              'underline focus:outline-none focus:ring-2',
               isAccessibilityMode
-                ? 'underline focus:outline-none focus:ring-2 focus:ring-yellow-300 hover:text-white'
-                : 'underline focus:outline-none focus:ring-2 focus:ring-white hover:text-gray-300'
-            "
+                ? 'focus:ring-yellow-300 hover:text-white'
+                : 'focus:ring-white hover:text-gray-300',
+            ]"
             aria-label="Mapa strony"
-            >Mapa strony</a
           >
+            Mapa strony
+          </a>
           <NuxtLink
             to="rodo"
-            :class="
+            :class="[
+              'underline focus:outline-none focus:ring-2',
               isAccessibilityMode
-                ? 'underline focus:outline-none focus:ring-2 focus:ring-yellow-300 hover:text-white'
-                : 'underline focus:outline-none focus:ring-2 focus:ring-white hover:text-gray-300'
-            "
+                ? 'focus:ring-yellow-300 hover:text-white'
+                : 'focus:ring-white hover:text-gray-300',
+            ]"
             aria-label="Polityka prywatności"
-            >Polityka prywatności</NuxtLink
           >
+            Polityka prywatności
+          </NuxtLink>
           <NuxtLink
             to="deklaracja-dostepnosci"
-            :class="
+            :class="[
+              'underline focus:outline-none focus:ring-2',
               isAccessibilityMode
-                ? 'underline focus:outline-none focus:ring-2 focus:ring-yellow-300 hover:text-white'
-                : 'underline focus:outline-none focus:ring-2 focus:ring-white hover:text-gray-300'
-            "
+                ? 'focus:ring-yellow-300 hover:text-white'
+                : 'focus:ring-white hover:text-gray-300',
+            ]"
             aria-label="Deklaracja dostępności"
-            >Deklaracja dostępności</NuxtLink
           >
+            Deklaracja dostępności
+          </NuxtLink>
         </nav>
       </div>
     </div>

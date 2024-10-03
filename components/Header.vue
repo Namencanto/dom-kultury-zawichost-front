@@ -150,6 +150,20 @@
         >
           AKTUALNOŚCI
         </NuxtLink>
+        <a
+          :class="[
+            isAccessibilityMode
+              ? 'text-black font-bold hover:bg-yellow-300 hover:text-black py-1 rounded'
+              : 'text-lg text-gray-700 hover:text-black font-medium',
+            fontSizeClass,
+          ]"
+          href="https://mgok-zawichost.biuletyn.net/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Odwiedź Biuletyn Informacji Publicznej"
+        >
+          BIP
+        </a>
         <NuxtLink
           :class="[
             isAccessibilityMode
@@ -339,7 +353,9 @@ const truncateText = (text: string, maxLength: number = 20) => {
 
 onMounted(async () => {
   formatDate();
-  fetchTemperature();
+  setTimeout(() => {
+    fetchTemperature();
+  }, 1);
   fetchUniqueSections();
   authStatus.value = await authStore.getAuthAdminStatus();
 });

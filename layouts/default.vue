@@ -16,7 +16,7 @@
     <button
       type="button"
       @click="toggleAccessibilityMode"
-      class="fixed bottom-4 right-4 p-2 bg-gray-800 text-white rounded-md shadow-md z-50"
+      class="fixed bottom-4 right-4 p-2 bg-gray-800 text-white rounded-md shadow-md z-50 hidden sm:block"
       :aria-pressed="isAccessibilityMode.toString()"
       aria-label="Toggle Accessibility Mode"
       aria-live="polite"

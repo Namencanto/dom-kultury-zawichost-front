@@ -1,22 +1,27 @@
 import { serverQueryContent } from "#content/server";
 
-const escapeXml = (unsafe: string) => {
-  return unsafe.replace(/[<>&'"]/g, (c) => {
-    switch (c) {
-      case "<":
-        return "&lt;";
-      case ">":
-        return "&gt;";
-      case "&":
-        return "&amp;";
-      case "'":
-        return "&apos;";
-      case '"':
-        return "&quot;";
-      default:
-        return c;
-    }
-  });
+const escapeXml = (unsafe) => {
+  if (!unsafe) {
+    return unsafe;
+  }
+  return unsafe
+    .replace(/[\x00-\x08\x0B\x0C\x0E-\x1F]/g, "")
+    .replace(/[<>&'"]/g, (c) => {
+      switch (c) {
+        case "<":
+          return "&lt;";
+        case ">":
+          return "&gt;";
+        case "&":
+          return "&amp;";
+        case "'":
+          return "&apos;";
+        case '"':
+          return "&quot;";
+        default:
+          return c;
+      }
+    });
 };
 
 const convertContentToHtml = (content) => {
@@ -51,16 +56,22 @@ export default defineEventHandler(async (event) => {
         <description>${escapeXml("Dom Kultury w Zawichoście - wydarzenia, warsztaty, i kultura dla wszystkich.")}</description>
         <language>pl</language>
         ${articles
-          .map(
-            (article) => `
-          <item>
-            <title>${escapeXml(article.title)}</title>
-            <link>${process.env.BASE_URL}${article._path}</link>
-            <description>${convertContentToHtml(article.content)}</description>
-            <pubDate>${new Date(article.publishDate).toUTCString()}</pubDate>
-          </item>
-        `
-          )
+          .map((article) => {
+            const title = escapeXml(article.title || "Brak tytułu");
+            const link = `${process.env.BASE_URL}${article._path}`;
+            const description = convertContentToHtml(article.content || []);
+            const pubDate = new Date(
+              article.publishDate || new Date()
+            ).toUTCString();
+
+            return `
+              <item>
+                <title>${title}</title>
+                <link>${link}</link>
+                <description>${description}</description>
+                <pubDate>${pubDate}</pubDate>
+              </item>`;
+          })
           .join("")}
       </channel>
     </rss>
