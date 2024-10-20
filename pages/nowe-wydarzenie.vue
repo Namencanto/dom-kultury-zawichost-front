@@ -66,7 +66,6 @@
           v-model="eventData.eventDate"
           type="datetime-local"
           id="eventDate"
-          required
           class="input"
         />
       </div>
