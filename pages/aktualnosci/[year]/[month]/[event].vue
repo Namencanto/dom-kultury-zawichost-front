@@ -11,7 +11,7 @@
       <!-- Header -->
       <header class="mb-12">
         <div class="relative">
-          <nuxt-img
+          <img
             v-if="doc.thumbnail"
             :src="doc.thumbnail"
             :alt="doc.title"
@@ -142,7 +142,7 @@
 
       <!-- Image Gallery -->
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        <nuxt-img
+        <img
           v-for="(image, index) in doc.images"
           :key="index"
           :src="image"
@@ -172,7 +172,7 @@
           &times;
         </button>
 
-        <nuxt-img
+        <img
           :src="currentImage"
           alt="Fullscreen Image"
           class="min-w-[50vw] min-h-[45vh] max-w-[90vw] max-h-[85vh] object-contain"

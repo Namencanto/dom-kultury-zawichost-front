@@ -199,7 +199,7 @@
         </NuxtLink>
 
         <!-- Dynamic Dropdown for Sections -->
-        <div class="relative group inline-block">
+        <!-- <div class="relative group inline-block">
           <NuxtLink
             :class="[
               isAccessibilityMode
@@ -234,7 +234,7 @@
               </NuxtLink>
             </li>
           </ul>
-        </div>
+        </div> -->
       </div>
     </nav>
   </header>
@@ -357,7 +357,8 @@ onMounted(async () => {
     fetchTemperature();
   }, 1);
   fetchUniqueSections();
-  authStatus.value = await authStore.getAuthAdminStatus();
+  authStatus.value = await authStore.getAuthAdminStatus;
+  
 });
 </script>
 

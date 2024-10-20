@@ -126,7 +126,7 @@
           "
         >
           <NuxtLink :to="article._path" class="block">
-            <nuxt-img
+            <img
               :src="article.thumbnail"
               :alt="article.title"
               :class="

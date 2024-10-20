@@ -101,7 +101,7 @@
           "
         >
           <NuxtLink :to="article._path" class="block">
-            <nuxt-img
+            <img
               :src="article.thumbnail"
               :alt="article.title"
               :class="
@@ -384,8 +384,3 @@ watch([selectedYear, selectedMonth, searchQuery], () => {
   currentPage.value = 1;
 });
 </script>
-
-<style scoped>
-/* Usunąłem poprzednie style, ponieważ używamy klas Tailwind CSS bezpośrednio */
-/* Jeśli potrzebujesz dodatkowych stylów, możesz je tutaj dodać */
-</style>

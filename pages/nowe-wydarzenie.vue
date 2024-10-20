@@ -157,7 +157,7 @@
             :key="index"
             class="image-item flex flex-col items-center"
           >
-            <nuxt-img
+            <img
               :src="image.preview"
               :alt="image.alt || 'Obraz ' + (index + 1)"
               class="w-full h-24 object-cover rounded-md mb-2"
@@ -188,7 +188,7 @@
       <!-- Header -->
       <header class="mb-12" v-if="mainImage">
         <div class="relative">
-          <nuxt-img
+          <img
             :src="mainImage.preview"
             :alt="mainImage.alt || 'Podgląd głównego zdjęcia'"
             class="w-full h-[400px] lg:h-[500px] object-cover cursor-pointer transition-transform duration-500 rounded-lg"
@@ -237,6 +237,7 @@
   </div>
 </template>
 
+
 <script>
 import { Editor, EditorContent } from "@tiptap/vue-3";
 import StarterKit from "@tiptap/starter-kit";
@@ -246,6 +247,7 @@ import Underline from "@tiptap/extension-underline";
 import TextAlign from "@tiptap/extension-text-align";
 import Image from "@tiptap/extension-image";
 import { useRoute } from "vue-router";
+import imageCompression from "browser-image-compression";
 
 export default {
   components: {
@@ -413,6 +415,15 @@ export default {
       formData.append("sectionHeading", this.headings.sectionHeading);
       formData.append("description", this.eventData.description);
 
+      const totalSize = this.uploadedImages.reduce((acc, image) => {
+        return acc + (image.file ? image.file.size : 0);
+      }, 0);
+
+      if (totalSize > 4.5 * 1024 * 1024) {
+        alert("Wydarzenie zawiera zbyt dużo zdjęć");
+        return;
+      }
+
       this.uploadedImages.forEach((image, index) => {
         if (image.file) {
           formData.append(`images[${index}]`, image.file);
@@ -470,17 +481,33 @@ export default {
         .run();
     },
 
-    handleImageUpload(event) {
+    async handleImageUpload(event) {
       const files = event.target.files;
-      Array.from(files).forEach((file) => {
-        const altText = prompt("Podaj tekst alternatywny dla obrazu:");
+      const options = {
+        maxSizeMB: 0.4,
+        maxWidthOrHeight: 1920, 
+        useWebWorker: true,
+      };
 
-        const reader = new FileReader();
-        reader.onload = (e) => {
-          const imagePreview = e.target.result;
+      for (const file of files) {
+        const altText = prompt(`Podaj tekst alternatywny dla obrazu ${file.name}:`);
+
+        try {
+          const compressedFile = await imageCompression(file, options);
+
+          if (compressedFile.size > 400 * 1024) {
+            alert(
+              `Obraz ${file.name} jest zbyt duży nawet po kompresji. Zostanie pominięty.`
+            );
+            continue;
+          }
+
+          const imagePreview = await imageCompression.getDataUrlFromFile(
+            compressedFile
+          );
 
           this.uploadedImages.push({
-            file,
+            file: compressedFile,
             preview: imagePreview,
             alt: altText || "Inline image",
             isMain: false,
@@ -491,10 +518,13 @@ export default {
           if (this.uploadedImages.length === 1) {
             this.setAsMainImage(0);
           }
-        };
-        reader.readAsDataURL(file);
-      });
+        } catch (error) {
+          console.error("Błąd podczas kompresji obrazu:", error);
+          alert(`Nie udało się przetworzyć obrazu ${file.name}.`);
+        }
+      }
     },
+
     setAsMainImage(index) {
       this.uploadedImages.forEach((image, idx) => {
         image.isMain = idx === index;
@@ -533,7 +563,6 @@ export default {
   },
 };
 </script>
-
 <style scoped>
 .input {
   width: 100%;
