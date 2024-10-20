@@ -1,0 +1,27 @@
+{
+  "title": "Wydarzenie testowe 2",
+  "eventDate": "",
+  "publishDate": "2024-10-20",
+  "thumbnail": "/images/2024/pazdziernik/wydarzenie-testowe-2-1729464885429-0.jpeg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Wydarzenie testowe"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Wydarzenie testowe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wydarzenie testowe"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/wydarzenie-testowe-2-1729464885429-0.jpeg",
+      "alt": "f"
+    }
+  ]
+}
