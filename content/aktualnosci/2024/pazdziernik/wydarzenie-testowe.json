@@ -1,0 +1,22 @@
+{
+  "title": "Wydarzenie testowe",
+  "eventDate": "",
+  "publishDate": "2024-10-21",
+  "thumbnail": "/images/2024/pazdziernik/wydarzenie-testowe-1729546482203-0.jpeg",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Wydarzenie testoweasf"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/wydarzenie-testowe-1729546482203-0.jpeg",
+      "alt": "Wydarzenie testowe"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/wydarzenie-testowe-1729546482215-1.jpeg",
+      "alt": "Wydarzenie testowe"
+    }
+  ]
+}
