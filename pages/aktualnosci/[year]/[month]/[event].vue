@@ -242,7 +242,7 @@ const closeModal = () => {
 const currentImage = computed(() => galleryImages.value[modalImageIndex.value]);
 
 useHead({
-  title: computed(() => "Aktualności: " + (doc.value?.title || "Wydarzenie")),
+  title: computed(() => doc.value?.title || "Wydarzenie"),
   meta: [
     { property: "og:title", content: doc.value?.title || "Wydarzenie" },
     {
@@ -251,7 +251,7 @@ useHead({
     },
     {
       property: "og:image",
-      content: doc.value?.thumbnail || "/default-og-image.jpg",
+      content: doc.value?.thumbnail || "/logo.jpg",
     },
   ],
 });

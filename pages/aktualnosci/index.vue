@@ -7,7 +7,7 @@
     "
     aria-label="Aktualności"
   >
-    <!-- Nagłówek -->
+    <!-- Heading -->
     <h2
       :class="
         isAccessibilityMode
@@ -18,7 +18,7 @@
       AKTUALNOŚCI
     </h2>
 
-    <!-- Panel administracyjny - Dodaj Nowe Wydarzenie -->
+    <!-- Admin Panel - Add New Event -->
     <div v-if="isAdmin" class="flex justify-end mb-6">
       <button
         @click="goToAddEvent"
@@ -32,7 +32,7 @@
       </button>
     </div>
 
-    <!-- Sekcja wyszukiwania i filtrów -->
+    <!-- Search and Filters Section -->
     <div class="flex flex-wrap justify-between items-center mb-6">
       <input
         v-model="searchQuery"
@@ -45,6 +45,23 @@
         "
       />
       <div class="flex space-x-4">
+        <select
+          v-model="selectedSection"
+          :class="
+            isAccessibilityMode
+              ? 'p-2 border border-yellow-300 bg-black text-yellow-300 rounded-md'
+              : 'p-2 border border-gray-300 rounded-md focus:ring focus:ring-blue-300'
+          "
+        >
+          <option value="">Wszystkie sekcje</option>
+          <option
+            v-for="section in uniqueSections"
+            :key="section"
+            :value="section"
+          >
+            {{ section }}
+          </option>
+        </select>
         <select
           v-model="selectedYear"
           :class="
@@ -78,7 +95,7 @@
       </div>
     </div>
 
-    <!-- Lista artykułów -->
+    <!-- Article List -->
     <ContentList path="/aktualnosci" v-slot="{ list }">
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <p
@@ -100,6 +117,7 @@
               : 'group bg-white shadow-lg rounded-lg overflow-hidden'
           "
         >
+          <!-- Article link and image -->
           <NuxtLink :to="article._path" class="block">
             <img
               :src="article.thumbnail"
@@ -115,6 +133,7 @@
                 isAccessibilityMode ? 'p-4 bg-black text-yellow-300' : 'p-4'
               "
             >
+              <!-- Article title and details -->
               <h2
                 :class="[
                   'text-xl font-medium mb-2',
@@ -164,7 +183,7 @@
             </div>
           </NuxtLink>
 
-          <!-- Akcje administratora (Edytuj / Usuń) -->
+          <!-- Admin actions (Edit / Delete) -->
           <div v-if="isAdmin" class="flex space-x-4 mt-4 p-4">
             <button
               @click="editEvent(article._path)"
@@ -190,7 +209,7 @@
         </div>
       </div>
 
-      <!-- Paginacja -->
+      <!-- Pagination -->
       <div
         v-if="totalPages(list) > 1"
         class="mt-8 flex justify-center space-x-4"
@@ -249,11 +268,11 @@ watchEffect(async () => {
 });
 
 useHead({
-  title: "Lista aktualności - Miejsko-Gminny Ośrodek Kultury",
+  title: "Lista aktualności",
   meta: [
     {
       property: "og:title",
-      content: "Lista aktualności - Miejsko-Gminny Ośrodek Kultury",
+      content: "Lista aktualności",
     },
     {
       property: "og:description",
@@ -264,11 +283,11 @@ useHead({
 });
 
 const currentYear = new Date().getFullYear();
-
-const searchQuery = ref("");
-const selectedYear = ref("");
-const selectedMonth = ref("");
-const currentPage = ref(1);
+const searchQuery = ref<string>("");
+const selectedYear = ref<string>("");
+const selectedMonth = ref<string>("");
+const selectedSection = ref<string>("");
+const currentPage = ref<number>(1);
 const itemsPerPage = 9;
 
 const availableMonths = [
@@ -286,24 +305,50 @@ const availableMonths = [
   "Grudzień",
 ];
 
-const availableYears = [];
-
+const availableYears: number[] = [];
 for (let year = currentYear; year >= 2012; year--) {
   availableYears.push(year);
 }
 
-const getFirstParagraph = (content) => {
+const uniqueSections = ref<string[]>([]);
+
+const fetchUniqueSections = async () => {
+  try {
+    const result = await queryContent("aktualnosci").find();
+    if (result && Array.isArray(result)) {
+      const sectionsSet = new Set<string>();
+      result.forEach((item) => {
+        if (item.content && Array.isArray(item.content)) {
+          item.content
+            .filter(
+              (block: any) => block.type === "heading" && block.level === 3
+            )
+            .forEach((block: any) => sectionsSet.add(block.text));
+        }
+      });
+      uniqueSections.value = Array.from(sectionsSet);
+    } else {
+      console.error("No data or the data is not in an array.");
+    }
+  } catch (error) {
+    console.error("Error fetching unique sections:", error);
+  }
+};
+
+fetchUniqueSections();
+
+const getFirstParagraph = (content: any[]) => {
   const paragraph = content.find((item) => item.type === "paragraph");
   return paragraph ? paragraph.text || "" : "";
 };
 
-const truncateContent = (text, length) => {
+const truncateContent = (text: string, length: number) => {
   if (text.length <= length) return text;
   const truncated = text.slice(0, length).trim();
   return truncated.slice(0, truncated.lastIndexOf(" ")) + "...";
 };
 
-const formatDate = (date) => {
+const formatDate = (date: string) => {
   const parsedDate = new Date(date);
   if (isValid(parsedDate)) {
     return format(parsedDate, "dd MMMM yyyy", { locale: pl });
@@ -311,14 +356,14 @@ const formatDate = (date) => {
   return "Nieznana data";
 };
 
-const getSectionHeading = (content) => {
+const getSectionHeading = (content: any[]) => {
   const heading = content.find(
     (block) => block.type === "heading" && block.level === 3
   );
   return heading ? heading.text : null;
 };
 
-const filteredAndSortedArticles = (list) => {
+const filteredAndSortedArticles = (list: any[]) => {
   if (!list || list.length === 0) return [];
 
   return list
@@ -334,58 +379,61 @@ const filteredAndSortedArticles = (list) => {
         ? new Date(article.publishDate).getMonth() + 1 ===
           parseInt(selectedMonth.value)
         : true;
-      return matchesSearch && matchesYear && matchesMonth;
+      const matchesSection = selectedSection.value
+        ? getSectionHeading(article.content) === selectedSection.value
+        : true;
+
+      return matchesSearch && matchesYear && matchesMonth && matchesSection;
     })
     .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 };
 
-const totalPages = (list) => {
-  return Math.ceil(filteredAndSortedArticles(list).length / itemsPerPage);
-};
-
-const paginatedArticles = (list) => {
+const totalPages = (list: any[]) =>
+  Math.ceil(filteredAndSortedArticles(list).length / itemsPerPage);
+const paginatedArticles = (list: any[]) => {
   const startIndex = (currentPage.value - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
   return filteredAndSortedArticles(list).slice(startIndex, endIndex);
 };
 
-const nextPage = (list) => {
-  if (currentPage.value < totalPages(list)) {
-    currentPage.value++;
-  }
+const nextPage = (list: any[]) => {
+  if (currentPage.value < totalPages(list)) currentPage.value++;
 };
 
-const prevPage = (list) => {
-  if (currentPage.value > 1) {
-    currentPage.value--;
-  }
+const prevPage = () => {
+  if (currentPage.value > 1) currentPage.value--;
 };
 
 const goToAddEvent = () => {
   router.push("/nowe-wydarzenie");
 };
 
-const editEvent = (eventPath) => {
+const editEvent = (eventPath: string) => {
   router.push(`/nowe-wydarzenie?path=${encodeURIComponent(eventPath)}`);
 };
 
-const deleteEvent = async (title, publishDate) => {
+// Delete event action
+const deleteEvent = async (title: string, publishDate: string) => {
   try {
-    const confirmDeletion = confirm(`Czy na pewno chcesz usunąć wydarzenie "${title}"?`);
+    const confirmDeletion = confirm(
+      `Czy na pewno chcesz usunąć wydarzenie "${title}"?`
+    );
     if (!confirmDeletion) return;
 
     await useFetch(`/api/event/${title}/${publishDate}`, {
       method: "DELETE",
     });
 
-    alert(`Wydarzenie "${title}" zostało usunięte! Zmiany będą widoczne za około 5 minut.`);
+    alert(
+      `Wydarzenie "${title}" zostało usunięte! Zmiany będą widoczne za około 5 minut.`
+    );
   } catch (error) {
-    console.error("Błąd podczas usuwania wydarzenia:", error);
+    console.error("Error deleting event:", error);
     alert("Wystąpił błąd podczas usuwania wydarzenia.");
   }
 };
 
-watch([selectedYear, selectedMonth, searchQuery], () => {
+watch([selectedYear, selectedMonth, searchQuery, selectedSection], () => {
   currentPage.value = 1;
 });
 </script>

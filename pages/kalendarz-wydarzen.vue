@@ -34,12 +34,11 @@ interface Event {
 }
 
 useHead({
-  title: "Kalendarz Wydarzeń - Miejsko-Gminny Ośrodek Kultury w Zawichoście",
+  title: "Kalendarz Wydarzeń",
   meta: [
     {
       property: "og:title",
-      content:
-        "Kalendarz Wydarzeń - Miejsko-Gminny Ośrodek Kultury w Zawichoście",
+      content: "Kalendarz Wydarzeń",
     },
     {
       property: "og:description",

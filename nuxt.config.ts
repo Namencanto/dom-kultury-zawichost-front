@@ -17,6 +17,10 @@ export default defineNuxtConfig({
     "@nuxtjs/sitemap",
   ],
 
+  content: {
+    contentHead: false,
+  },
+
   alias: {
     pinia: "/node_modules/@pinia/nuxt/node_modules/pinia/dist/pinia.mjs",
   },
@@ -44,7 +48,41 @@ export default defineNuxtConfig({
       color: "#fff",
     },
   },
-
+  app: {
+    head: {
+      titleTemplate: "%s - Miejsko-Gminny Ośrodek Kultury",
+      title: "Dom Kultury Zawichost",
+      htmlAttrs: {
+        lang: "pl",
+      },
+      meta: [
+        {
+          name: "description",
+          content:
+            "Dom Kultury w Zawichoście - wydarzenia, warsztaty, i kultura dla wszystkich.",
+        },
+        {
+          name: "keywords",
+          content:
+            "dom kultury, Zawichost, wydarzenia, kultura, warsztaty, sztuka",
+        },
+        {
+          name: "author",
+          content: "Mateusz Ordon | https://www.linkedin.com/in/mateusz-ordon",
+        },
+        { name: "viewport", content: "width=device-width, initial-scale=1.0" },
+        { charset: "UTF-8" },
+      ],
+      link: [
+        { rel: "icon", type: "image/jpeg", href: "/logo.jpg" },
+        { rel: "apple-touch-icon", href: "/logo.jpg" },
+        {
+          rel: "author",
+          href: "https://www.linkedin.com/in/mateusz-ordon/",
+        },
+      ],
+    },
+  },
   hooks: {
     "pages:extend"(pages) {
       function setMiddleware(pages: any[]) {
@@ -70,5 +108,5 @@ export default defineNuxtConfig({
     hostname: process.env.BASE_URL,
     gzip: true,
   },
-  compatibilityDate: "2024-08-03",
+  compatibilityDate: "2024-10-22",
 });

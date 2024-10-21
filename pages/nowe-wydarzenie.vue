@@ -11,35 +11,36 @@
       </h2>
       <ul class="list-disc list-inside text-sm text-gray-700">
         <li>
-          <strong>Nazwa Wydarzenia</strong>: Wprowadź nazwę wydarzenia w polu
-          tekstowym. Pole wymagane.
+          <strong>Nazwa Wydarzenia</strong> (wymagane): Wprowadź nazwę
+          wydarzenia w polu tekstowym.
         </li>
         <li>
-          <strong>Data Wydarzenia</strong>: Wybierz datę i godzinę wydarzenia.
+          <strong>Data Wydarzenia</strong> (opcjonalne): Wybierz datę i godzinę
+          wydarzenia. Jeśli uzupełnisz, data pojawi się w kalendarzu wydarzeń.
         </li>
         <li>
-          <strong>Data Publikacji</strong>: Automatycznie ustawiona na
-          dzisiejszą datę, ale można ją zmienić.
+          <strong>Data Publikacji</strong> (wymagane): Automatycznie ustawiona
+          na dzisiejszą datę, ale można ją zmienić.
         </li>
         <li>
-          <strong>Główny Nagłówek</strong>: Opcjonalny, ale pomaga wyróżnić
+          <strong>Główny Nagłówek</strong> (opcjonalne): Pomaga wyróżnić
           wydarzenie.
         </li>
-        <li><strong>Podtytuł</strong>: Opcjonalny podtytuł wydarzenia.</li>
         <li>
-          <strong>Sekcja</strong>: Wybierz istniejącą sekcję lub dodaj nową.
+          <strong>Podtytuł</strong> (opcjonalne): Możesz dodać podtytuł, aby
+          bardziej szczegółowo opisać wydarzenie.
         </li>
         <li>
-          <strong>Opis Wydarzenia</strong>: Użyj edytora tekstu, aby dodać pełny
-          opis.
+          <strong>Sekcja</strong> (opcjonalne): Wybierz istniejącą sekcję lub
+          dodaj nową.
         </li>
         <li>
-          <strong>Zdjęcia Wydarzenia</strong>: Prześlij zdjęcia związane z
-          wydarzeniem. Ustaw jedno jako główne.
+          <strong>Opis Wydarzenia</strong> (wymagane): Dodaj pełny opis
+          wydarzenia.
         </li>
         <li>
-          <strong>Zapisz Wydarzenie</strong>: Kliknij "Dodaj Wydarzenie" lub
-          "Zaktualizuj Wydarzenie".
+          <strong>Zdjęcia Wydarzenia</strong> (opcjonalne): Prześlij zdjęcia
+          wydarzenia (maks. 10). Ustaw jedno jako główne.
         </li>
       </ul>
     </div>
@@ -236,7 +237,6 @@
   </div>
 </template>
 
-
 <script>
 import { Editor, EditorContent } from "@tiptap/vue-3";
 import StarterKit from "@tiptap/starter-kit";
@@ -423,15 +423,6 @@ export default {
         return;
       }
 
-      this.uploadedImages.forEach((image, index) => {
-        if (image.file) {
-          formData.append(`images[${index}]`, image.file);
-        }
-        if (image.alt) {
-          formData.append(`imageAlt[${index}]`, image.alt);
-        }
-      });
-
       const mainImageIndex = this.uploadedImages.findIndex((img) => img.isMain);
       if (mainImageIndex !== -1) {
         formData.append("mainImageOrder", mainImageIndex);
@@ -484,12 +475,14 @@ export default {
       const files = event.target.files;
       const options = {
         maxSizeMB: 0.4,
-        maxWidthOrHeight: 1920, 
+        maxWidthOrHeight: 1920,
         useWebWorker: true,
       };
 
       for (const file of files) {
-        const altText = prompt(`Podaj tekst alternatywny dla obrazu ${file.name}:`);
+        const altText = prompt(
+          `Podaj tekst alternatywny dla obrazu ${file.name} (opisuje obraz, gdy nie może zostać wyświetlony):`
+        );
 
         try {
           const compressedFile = await imageCompression(file, options);
@@ -501,9 +494,8 @@ export default {
             continue;
           }
 
-          const imagePreview = await imageCompression.getDataUrlFromFile(
-            compressedFile
-          );
+          const imagePreview =
+            await imageCompression.getDataUrlFromFile(compressedFile);
 
           this.uploadedImages.push({
             file: compressedFile,
@@ -586,14 +578,6 @@ export default {
 
 .btn:hover {
   background-color: #0056b3;
-}
-
-.italic {
-  font-style: italic;
-}
-
-.underline {
-  text-decoration: underline;
 }
 
 .editor img {

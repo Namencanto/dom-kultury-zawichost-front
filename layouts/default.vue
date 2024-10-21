@@ -18,7 +18,7 @@
       @click="toggleAccessibilityMode"
       class="fixed bottom-4 right-4 p-2 bg-gray-800 text-white rounded-md shadow-md z-50 hidden sm:block"
       :aria-pressed="isAccessibilityMode.toString()"
-      aria-label="Toggle Accessibility Mode"
+      aria-label="Przełącz tryb dostępności"
       aria-live="polite"
     >
       {{ buttonLabel }}
@@ -50,7 +50,7 @@ useHead({
   htmlAttrs: {
     lang: "pl",
   },
-  title: "Dom Kultury w Zawichoście",
+  title: "Dom Kultury Zawichost",
   meta: [
     {
       name: "description",
