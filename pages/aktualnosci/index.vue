@@ -371,12 +371,17 @@ const editEvent = (eventPath) => {
 
 const deleteEvent = async (title, publishDate) => {
   try {
-    console.log(title);
+    const confirmDeletion = confirm(`Czy na pewno chcesz usunąć wydarzenie "${title}"?`);
+    if (!confirmDeletion) return;
+
     await useFetch(`/api/event/${title}/${publishDate}`, {
       method: "DELETE",
     });
+
+    alert(`Wydarzenie "${title}" zostało usunięte! Zmiany będą widoczne za około 5 minut.`);
   } catch (error) {
     console.error("Błąd podczas usuwania wydarzenia:", error);
+    alert("Wystąpił błąd podczas usuwania wydarzenia.");
   }
 };
 
