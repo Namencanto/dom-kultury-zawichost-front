@@ -457,8 +457,8 @@ export default {
           await response.json();
           alert(
             this.isEditing
-              ? "Wydarzenie zostało zaktualizowane!"
-              : "Wydarzenie zostało dodane!"
+              ? "Wydarzenie zostało zaktualizowane! Zmiany będą widoczne za około 5 minut."
+              : "Wydarzenie zostało dodane! Zmiany będą widoczne za około 5 minut."
           );
           this.$router.push("/aktualnosci");
         } else {

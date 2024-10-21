@@ -161,32 +161,32 @@
               >
                 {{ truncateContent(getFirstParagraph(article.content), 150) }}
               </p>
-
-              <!-- Akcje administratora (Edytuj / Usuń) -->
-              <div v-if="isAdmin" class="flex space-x-4 mt-4">
-                <button
-                  @click="editEvent(article._path)"
-                  :class="
-                    isAccessibilityMode
-                      ? 'px-4 py-2 bg-yellow-300 text-black rounded-lg hover:bg-yellow-400 transition-colors duration-200'
-                      : 'px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-200'
-                  "
-                >
-                  Edytuj
-                </button>
-                <button
-                  @click="deleteEvent(article.title, article.publishDate)"
-                  :class="
-                    isAccessibilityMode
-                      ? 'px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors duration-200'
-                      : 'px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors duration-200'
-                  "
-                >
-                  Usuń
-                </button>
-              </div>
             </div>
           </NuxtLink>
+
+          <!-- Akcje administratora (Edytuj / Usuń) -->
+          <div v-if="isAdmin" class="flex space-x-4 mt-4 p-4">
+            <button
+              @click="editEvent(article._path)"
+              :class="
+                isAccessibilityMode
+                  ? 'px-4 py-2 bg-yellow-300 text-black rounded-lg hover:bg-yellow-400 transition-colors duration-200'
+                  : 'px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-200'
+              "
+            >
+              Edytuj
+            </button>
+            <button
+              @click="deleteEvent(article.title, article.publishDate)"
+              :class="
+                isAccessibilityMode
+                  ? 'px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors duration-200'
+                  : 'px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors duration-200'
+              "
+            >
+              Usuń
+            </button>
+          </div>
         </div>
       </div>
 
