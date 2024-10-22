@@ -19,7 +19,7 @@
     </h2>
 
     <!-- Main Article and Facebook Widget in Flexbox Layout -->
-    <div class="flex flex-col lg:flex-row lg:gap-4 gap-6 mb-8 lg:h-auto">
+    <div class="flex flex-col-reverse lg:flex-row lg:gap-4 gap-6 mb-8">
       <!-- Main Article (2/3 width on large screens) -->
       <div class="w-full lg:w-2/3 lg:flex lg:items-stretch">
         <ContentList path="/aktualnosci" v-slot="{ list }">
@@ -117,13 +117,14 @@
     <ContentList path="/aktualnosci" v-slot="{ list }">
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <div
-          v-for="article in sortedArticles(list).slice(1)"
+          v-for="(article, index) in sortedArticles(list)"
           :key="article._path"
-          :class="
+          :class="[
             isAccessibilityMode
               ? 'group bg-black border-4 border-yellow-300 shadow-lg rounded-lg overflow-hidden'
-              : 'group bg-white shadow-lg rounded-lg overflow-hidden'
-          "
+              : 'group bg-white shadow-lg rounded-lg overflow-hidden',
+            { 'lg:hidden': index === 0 },
+          ]"
         >
           <NuxtLink :to="article._path" class="block">
             <img

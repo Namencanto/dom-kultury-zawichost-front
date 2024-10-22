@@ -25,89 +25,96 @@
 
         <!-- Social and Accessibility Links -->
         <div class="flex justify-center md:justify-end items-center space-x-4">
-          <a
-            href="https://www.facebook.com/mgokzawichost"
-            :class="[
-              isAccessibilityMode
-                ? 'text-yellow-300 hover:text-white'
-                : 'text-gray-600 hover:text-gray-900',
-            ]"
-            target="_blank"
-            rel="noopener noreferrer"
+          <!-- Social and Accessibility Links -->
+          <div
+            class="flex flex-col md:flex-row justify-center md:justify-end items-center space-y-4 md:space-y-0 md:space-x-4"
           >
-            <Icon name="ion:social-facebook" class="h-6 w-6" />
-          </a>
-          <span
-            style="cursor: pointer"
-            @click="toggleAccessibilityMode"
-            :class="[
-              isAccessibilityMode
-                ? 'text-yellow-300 hover:text-white'
-                : 'text-gray-600 hover:text-gray-900',
-            ]"
-          >
-            <Icon name="uil:eye" class="h-6 w-6" />
-          </span>
-          <a
-            href="/rss.xml"
-            :class="[
-              isAccessibilityMode
-                ? 'text-yellow-300 hover:text-white'
-                : 'text-gray-600 hover:text-gray-900',
-            ]"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Icon name="mdi:rss" class="h-6 w-6" />
-          </a>
+            <div class="flex space-x-4 mt-4 md:mt-0">
+              <a
+                href="https://www.facebook.com/mgokzawichost"
+                :class="[
+                  isAccessibilityMode
+                    ? 'text-yellow-300 hover:text-white'
+                    : 'text-gray-600 hover:text-gray-900',
+                ]"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Icon name="ion:social-facebook" class="h-6 w-6" />
+              </a>
+              <span
+                style="cursor: pointer"
+                @click="toggleAccessibilityMode"
+                :class="[
+                  isAccessibilityMode
+                    ? 'text-yellow-300 hover:text-white'
+                    : 'text-gray-600 hover:text-gray-900',
+                ]"
+              >
+                <Icon name="uil:eye" class="h-6 w-6" />
+              </span>
+              <a
+                href="/rss.xml"
+                :class="[
+                  isAccessibilityMode
+                    ? 'text-yellow-300 hover:text-white'
+                    : 'text-gray-600 hover:text-gray-900',
+                ]"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Icon name="mdi:rss" class="h-6 w-6" />
+              </a>
+            </div>
 
-          <!-- Font Size Adjuster -->
-          <div class="flex items-center space-x-1">
-            <button
-              @click="setFontSize('normal')"
-              :class="[
-                'font-size-button',
-                currentFontSize === 'normal'
-                  ? isAccessibilityMode
-                    ? 'bg-yellow-300 text-black'
-                    : 'bg-gray-600 text-white'
-                  : isAccessibilityMode
-                    ? 'bg-black text-yellow-300'
-                    : 'bg-white text-gray-600',
-              ]"
-            >
-              A
-            </button>
-            <button
-              @click="setFontSize('large')"
-              :class="[
-                'font-size-button',
-                currentFontSize === 'large'
-                  ? isAccessibilityMode
-                    ? 'bg-yellow-300 text-black'
-                    : 'bg-gray-600 text-white'
-                  : isAccessibilityMode
-                    ? 'bg-black text-yellow-300'
-                    : 'bg-white text-gray-600',
-              ]"
-            >
-              A+
-            </button>
-            <button
-              @click="setFontSize('x-large')"
-              :class="[
-                'font-size-button',
-                currentFontSize === 'x-large'
-                  ? isAccessibilityMode
-                    ? 'bg-yellow-300 text-black'
-                    : 'bg-gray-600 text-white'
-                  : isAccessibilityMode
-                    ? 'bg-black text-yellow-300'
-                    : 'bg-white text-gray-600',
-              ]"
-            >
-              A++
-            </button>
+            <!-- Font Size Adjuster - stacked under icons on mobile -->
+            <div class="flex space-x-1">
+              <button
+                @click="setFontSize('normal')"
+                :class="[
+                  'font-size-button',
+                  currentFontSize === 'normal'
+                    ? isAccessibilityMode
+                      ? 'bg-yellow-300 text-black'
+                      : 'bg-gray-600 text-white'
+                    : isAccessibilityMode
+                      ? 'bg-black text-yellow-300'
+                      : 'bg-white text-gray-600',
+                ]"
+              >
+                A
+              </button>
+              <button
+                @click="setFontSize('large')"
+                :class="[
+                  'font-size-button',
+                  currentFontSize === 'large'
+                    ? isAccessibilityMode
+                      ? 'bg-yellow-300 text-black'
+                      : 'bg-gray-600 text-white'
+                    : isAccessibilityMode
+                      ? 'bg-black text-yellow-300'
+                      : 'bg-white text-gray-600',
+                ]"
+              >
+                A+
+              </button>
+              <button
+                @click="setFontSize('x-large')"
+                :class="[
+                  'font-size-button',
+                  currentFontSize === 'x-large'
+                    ? isAccessibilityMode
+                      ? 'bg-yellow-300 text-black'
+                      : 'bg-gray-600 text-white'
+                    : isAccessibilityMode
+                      ? 'bg-black text-yellow-300'
+                      : 'bg-white text-gray-600',
+                ]"
+              >
+                A++
+              </button>
+            </div>
           </div>
 
           <!-- ADMIN Status -->
@@ -358,7 +365,6 @@ onMounted(async () => {
   }, 1);
   fetchUniqueSections();
   authStatus.value = await authStore.getAuthAdminStatus;
-  
 });
 </script>
 
