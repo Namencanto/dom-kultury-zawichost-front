@@ -1,0 +1,67 @@
+{
+  "title": "test",
+  "eventDate": "",
+  "publishDate": "2024-10-25",
+  "thumbnail": "/images/2024/pazdziernik/test-1729872783469-0.jpeg",
+  "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "test"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "test"
+    },
+    {
+      "type": "paragraph",
+      "text": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783469-0.jpeg",
+      "alt": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783479-1.jpeg",
+      "alt": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783485-2.jpeg",
+      "alt": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783487-3.jpeg",
+      "alt": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783494-4.jpeg",
+      "alt": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783500-5.jpeg",
+      "alt": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783504-6.jpeg",
+      "alt": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783515-7.jpeg",
+      "alt": "test"
+    },
+    {
+      "type": "image",
+      "src": "/images/2024/pazdziernik/test-1729872783527-8.jpeg",
+      "alt": "test"
+    }
+  ]
+}
