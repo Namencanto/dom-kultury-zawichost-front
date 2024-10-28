@@ -475,8 +475,9 @@ export default {
       const files = event.target.files;
       const options = {
         maxSizeMB: 0.2,
-        maxWidthOrHeight: 1920,
+        maxWidthOrHeight: 1280,
         useWebWorker: true,
+        initialQuality: 0.5,
       };
 
       for (const file of files) {
