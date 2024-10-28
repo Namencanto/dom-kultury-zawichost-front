@@ -174,7 +174,7 @@
 
         <img
           :src="currentImage"
-          alt="Fullscreen Image"
+          alt="Obraz pełnoekranowy"
           class="min-w-[50vw] min-h-[45vh] max-w-[90vw] max-h-[85vh] object-contain"
         />
       </div>

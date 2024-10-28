@@ -474,7 +474,7 @@ export default {
     async handleImageUpload(event) {
       const files = event.target.files;
       const options = {
-        maxSizeMB: 0.4,
+        maxSizeMB: 0.2,
         maxWidthOrHeight: 1920,
         useWebWorker: true,
       };
@@ -487,7 +487,7 @@ export default {
         try {
           const compressedFile = await imageCompression(file, options);
 
-          if (compressedFile.size > 400 * 1024) {
+          if (compressedFile.size > 600 * 1024) {
             alert(
               `Obraz ${file.name} jest zbyt duży nawet po kompresji. Zostanie pominięty.`
             );
