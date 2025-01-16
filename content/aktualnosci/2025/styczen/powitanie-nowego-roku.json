@@ -1,0 +1,33 @@
+{
+  "title": "Powitanie Nowego Roku",
+  "eventDate": "2024-12-31T23:00",
+  "publishDate": "2025-01-01",
+  "thumbnail": "/images/2025/styczen/powitanie-nowego-roku-1737045484869-0.jpeg",
+  "content": [
+    {
+      "type": "image",
+      "src": "/images/2025/styczen/powitanie-nowego-roku-1737045484869-0.jpeg",
+      "alt": "plakat"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/styczen/powitanie-nowego-roku-1737045484872-1.jpeg",
+      "alt": "1"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/styczen/powitanie-nowego-roku-1737045484882-2.jpeg",
+      "alt": "2"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/styczen/powitanie-nowego-roku-1737045484883-3.jpeg",
+      "alt": "3"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/styczen/powitanie-nowego-roku-1737045484884-4.jpeg",
+      "alt": "5"
+    }
+  ]
+}
