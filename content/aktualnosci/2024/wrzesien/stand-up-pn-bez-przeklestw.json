@@ -1,6 +1,7 @@
 {
   "title": "Stand-up pn. „Bez przekleństw”",
-  "publishDate": "2024-09-01T00:00:00.000Z",
+  "eventDate": "2024-09-13T16:00",
+  "publishDate": "2024-09-13",
   "thumbnail": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_1.jpg",
   "content": [
     {
@@ -25,68 +26,68 @@
       "text": "Autor postanowił nie walczyć z nie używaniem przekleństw, tylko wyszedł naprzeciw oczekiwaniom widzów, cały czas mając doskonały dialog z przybyłą publicznością, która nie oszukujmy się, była poniekąd motorem napędowym piątkowego występu."
     },
     {
+      "type": "paragraph",
+      "text": "ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE."
+    },
+    {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_1.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_2.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_3.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_4.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_5.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_6.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_7.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_8.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_9.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_10.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_11.jpg",
-      "alt": ""
+      "alt": "Inline image"
     },
     {
       "type": "image",
       "src": "/images/2024/wrzesien/stand-up-pn-bez-przeklenstw_12.jpg",
-      "alt": ""
-    },
-    {
-      "type": "paragraph",
-      "text": "ZAWARTOŚĆ STRONY ORAZ WSZYSTKIE FOTOGRAFIE SĄ AUTORSTWA MGOK W ZAWICHOŚCIE, ZGODNIE Z PRZEPISAMI USTAWY Z DNIA 4 LUTEGO 1994 R. O PRAWACH AUTORSKICH ORAZ PRAWACH POKREWNYCH WSZELKIE PRAWA DO FOTOGRAFII I MATERIAŁÓW NA STRONIE SĄ WŁASNOŚCIĄ AUTORA. KOPIOWANIE, POWIELANIE I ROZPOWSZECHNIANIE TEKSTÓW, ZDJĘĆ, JEST ZABRONIONE I WYMAGA ZGODY NA PIŚMIE."
+      "alt": "Inline image"
     }
   ]
 }
