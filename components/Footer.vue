@@ -65,8 +65,8 @@
             >e.kedziora.mgok@zawichost.pl</a
           ><br />
           Promocja:
-          <a href="mailto:t.chmiel.mgok@zawichost.pl" class="text-gray-900"
-            >t.chmiel.mgok@zawichost.pl</a
+          <a href="mailto:agnieszka.kurpias@zawichost.pl" class="text-gray-900"
+            >agnieszka.kurpias@zawichost.pl</a
           >
         </p>
       </div>
@@ -151,9 +151,9 @@
           ><br />
           Promocja:
           <a
-            href="mailto:t.chmiel.mgok@zawichost.pl"
+            href="mailto:agnieszka.kurpias@zawichost.pl"
             class="underline text-yellow-300"
-            >t.chmiel.mgok@zawichost.pl</a
+            >agnieszka.kurpias@zawichost.pl</a
           >
         </p>
       </div>
