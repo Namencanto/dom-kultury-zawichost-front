@@ -2,8 +2,13 @@
   "title": "Zaproszenie do złożenia oferty na Święto Plonów – Zawichost 2025",
   "eventDate": "",
   "publishDate": "2025-04-04",
-  "thumbnail": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1743782152332-0.jpeg",
+  "thumbnail": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1744639580290-0.jpeg",
   "content": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "aktulizacja z dnia 14.04.2025"
+    },
     {
       "type": "heading",
       "level": 2,
@@ -11,17 +16,32 @@
     },
     {
       "type": "image",
-      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1743782152332-0.jpeg",
+      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1744639580290-0.jpeg",
       "alt": "Inline image"
     },
     {
       "type": "image",
-      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1743782152334-1.jpeg",
+      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1744639580306-1.jpeg",
       "alt": "Inline image"
     },
     {
       "type": "image",
-      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1743782152337-2.jpeg",
+      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1744639580308-2.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1744639580310-3.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1744639580311-4.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/kwiecien/zaproszenie-do-zoenia-oferty-na-wito-plonw--zawichost-2025-1744639580312-5.jpeg",
       "alt": "Inline image"
     }
   ]
