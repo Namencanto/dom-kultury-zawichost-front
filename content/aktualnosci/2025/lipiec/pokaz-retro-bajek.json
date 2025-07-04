@@ -1,0 +1,28 @@
+{
+  "title": "Pokaz retro bajek",
+  "eventDate": "2025-07-03T16:00",
+  "publishDate": "2025-07-03",
+  "thumbnail": "/images/2025/lipiec/pokaz-retro-bajek-1751610211135-0.jpeg",
+  "content": [
+    {
+      "type": "image",
+      "src": "/images/2025/lipiec/pokaz-retro-bajek-1751610211135-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/lipiec/pokaz-retro-bajek-1751610211138-1.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/lipiec/pokaz-retro-bajek-1751610211148-2.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/lipiec/pokaz-retro-bajek-1751610211150-3.jpeg",
+      "alt": "Inline image"
+    }
+  ]
+}
