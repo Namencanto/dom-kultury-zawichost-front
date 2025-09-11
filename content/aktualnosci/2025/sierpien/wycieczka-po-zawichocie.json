@@ -1,0 +1,23 @@
+{
+  "title": "Wycieczka po Zawichoście",
+  "eventDate": "2025-08-14T10:00",
+  "publishDate": "2025-08-14",
+  "thumbnail": "/images/2025/sierpien/wycieczka-po-zawichocie-1757591571711-0.jpeg",
+  "content": [
+    {
+      "type": "image",
+      "src": "/images/2025/sierpien/wycieczka-po-zawichocie-1757591571711-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/sierpien/wycieczka-po-zawichocie-1757591571713-1.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2025/sierpien/wycieczka-po-zawichocie-1757592037768-2.jpeg",
+      "alt": "Inline image"
+    }
+  ]
+}
