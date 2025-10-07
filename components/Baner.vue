@@ -24,7 +24,7 @@
       <!-- Title and Description -->
       <div>
         <h1 class="text-4xl md:text-5xl font-extrabold">
-          Miejsko Gminny Ośrodek Kultury
+          Miejsko Gminny Ośrodek Kultury i Sportu
         </h1>
         <p class="text-xl text-gray-300">Zawichost</p>
       </div>
