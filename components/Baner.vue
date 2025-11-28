@@ -10,16 +10,18 @@
     <!-- Semi-transparent overlay -->
     <div class="absolute inset-0 bg-black bg-opacity-40"></div>
 
-    <!-- Content (Logo and Title) -->
+    <!-- Content -->
     <div
       class="relative z-10 container mx-auto h-full flex flex-col items-start justify-center space-y-4 p-8 text-white"
     >
       <!-- Logo -->
-      <img
-        src="/logo.jpg"
-        alt="Logo"
-        class="h-24 w-24 md:h-44 md:w-44 object-contain border-white border-2 rounded-lg shadow-lg"
-      />
+      <div class="w-52 md:w-64">
+        <img
+          src="/logo.jpg"
+          alt="Logo"
+          class="w-full h-auto object-contain border-white border-2 rounded-lg shadow-lg"
+        />
+      </div>
 
       <!-- Title and Description -->
       <div>
