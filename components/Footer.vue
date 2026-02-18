@@ -57,8 +57,8 @@
             >dyrektor.mgok@zawichost.pl</a
           ><br />
           Sekretariat:
-          <a href="mailto:mgok@zawichost.pl" class="text-gray-900"
-            >mgok@zawichost.pl</a
+          <a href="mailto:mgokis@zawichost.pl" class="text-gray-900"
+            >mgokis@zawichost.pl</a
           ><br />
           Organizacja MGOK:
           <a href="mailto:e.kedziora.mgok@zawichost.pl" class="text-gray-900"
@@ -140,8 +140,8 @@
             >dyrektor.mgok@zawichost.pl</a
           ><br />
           Sekretariat:
-          <a href="mailto:mgok@zawichost.pl" class="underline text-yellow-300"
-            >mgok@zawichost.pl</a
+          <a href="mailto:mgokis@zawichost.pl" class="underline text-yellow-300"
+            >mgokis@zawichost.pl</a
           ><br />
           Organizacja MGOK:
           <a
