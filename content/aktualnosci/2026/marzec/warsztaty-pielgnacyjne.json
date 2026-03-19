@@ -1,0 +1,28 @@
+{
+  "title": "Warsztaty pielęgnacyjne",
+  "eventDate": "2026-03-16T17:00",
+  "publishDate": "2026-03-16",
+  "thumbnail": "/images/2026/marzec/warsztaty-pielgnacyjne-1773926108349-0.jpeg",
+  "content": [
+    {
+      "type": "image",
+      "src": "/images/2026/marzec/warsztaty-pielgnacyjne-1773926108349-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/marzec/warsztaty-pielgnacyjne-1773926108361-1.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/marzec/warsztaty-pielgnacyjne-1773926108363-2.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/marzec/warsztaty-pielgnacyjne-1773926108365-3.jpeg",
+      "alt": "Inline image"
+    }
+  ]
+}
