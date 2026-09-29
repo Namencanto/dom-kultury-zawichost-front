@@ -1,36 +1,40 @@
 {
   "title": "Złote Gody",
-  "eventDate": "2026-09-22T17:09",
+  "eventDate": "2026-09-22T15:20",
   "publishDate": "2026-09-22",
-  "thumbnail": "/images/2026/wrzesien/zote-gody-1790694683537-0.jpeg",
+  "thumbnail": "/images/2026/wrzesien/zote-gody-1790698848877-0.jpeg",
   "content": [
     {
+      "type": "image",
+      "src": "/images/2026/wrzesien/zote-gody-1790698848877-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
       "type": "paragraph",
-      "text": "22 września 2026 roku w Zawichoście miała miejsce uroczystość wręczania medali za Długoletnie Pożycie Małżeńskie zorganizowane przez Burmistrz Zawichostu Katarzynę Kondziołkę. Odznaczenie przyznawane jest przez Prezydenta RP Karola Nawrockiego. Złote Gody świętowało jedenaście małżeństw."
+      "text": "22 września 2026 roku w Zawichoście miała miejsce uroczystość wręczania medali za Długoletnie Pożycie Małżeńskie zorganizowane przez Burmistrz Zawichostu Katarzynę Kondziołkę."
     },
     {
       "type": "image",
-      "src": "/images/2026/wrzesien/zote-gody-1790694683537-0.jpeg",
+      "src": "/images/2026/wrzesien/zote-gody-1790698848881-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "paragraph",
+      "text": "Odznaczenie przyznawane jest przez Prezydenta RP Karola Nawrockiego. Złote Gody świętowało jedenaście małżeństw."
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/wrzesien/zote-gody-1790698848884-0.jpeg",
       "alt": "Inline image"
     },
     {
       "type": "image",
-      "src": "/images/2026/wrzesien/zote-gody-1790694683541-0.jpeg",
+      "src": "/images/2026/wrzesien/zote-gody-1790698848894-1.jpeg",
       "alt": "Inline image"
     },
     {
       "type": "image",
-      "src": "/images/2026/wrzesien/zote-gody-1790694683544-1.jpeg",
-      "alt": "Inline image"
-    },
-    {
-      "type": "image",
-      "src": "/images/2026/wrzesien/zote-gody-1790694683545-2.jpeg",
-      "alt": "Inline image"
-    },
-    {
-      "type": "image",
-      "src": "/images/2026/wrzesien/zote-gody-1790694683546-3.jpeg",
+      "src": "/images/2026/wrzesien/zote-gody-1790698848895-2.jpeg",
       "alt": "Inline image"
     }
   ]
