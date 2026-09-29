@@ -1,20 +1,48 @@
 {
   "title": "Zawichojskie Smaki Czterech Pór Roku",
-  "eventDate": "2026-09-20T15:00",
-  "publishDate": "2026-09-02",
-  "thumbnail": "/images/2026/wrzesien/zawichojskie-smaki-czterech-pr-roku-1788367593939-0.jpeg",
+  "eventDate": "2026-09-20T16:53",
+  "publishDate": "2026-09-20",
+  "thumbnail": "/images/2026/wrzesien/zawichojskie-smaki-czterech-pr-roku-1790693961180-0.jpeg",
   "content": [
     {
       "type": "paragraph",
-      "text": "Serdecznie zapraszamy na wydarzenie Zawichojskie Smaki Czterech Pór Roku, które odbędzie się 20 września 2026 roku o godzinie 15:00 na Placu Targowym w Zawichoście."
-    },
-    {
-      "type": "paragraph",
-      "text": "Zapraszamy!"
+      "text": "W niedzielę 20 września 2026 roku miała miejsce szósta edycja wydarzenia Zawichojskie Smaki Czterech Pór Roku organizowanego w ramach Europejskich Dni Dziedzictwa Narodowego."
     },
     {
       "type": "image",
-      "src": "/images/2026/wrzesien/zawichojskie-smaki-czterech-pr-roku-1788367593939-0.jpeg",
+      "src": "/images/2026/wrzesien/zawichojskie-smaki-czterech-pr-roku-1790693961180-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tegoroczna edycja została zorganizowana przez Miasto i Gminę Zawichost, Miejsko-Gminny Ośrodek Kultury i Sportu w Zawichoście oraz Koło Gospodyń i Gospodarzy Wiejskich \"Sami Swoi\" w Podszynie."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prezentacja 12 dań odbyła się przy muzyce granej na skrzypcach przez Zhannę Zharkovą. Stoiska kulinarne przygotowali: Miejsko-Gminny Ośrodek Kultury i Sportu w Zawichoście, Sołectwo Czyżów Plebański, Koło Gospodyń i Gospodarzy Wiejskich Zawichost, Biblioteka Publiczna Miasta i Gminy Zawichost, Zawichost, ul. Górki, Sołectwo Chrapanów, Sołectwo Czyżów Szlachecki, Sołectwo Wygoda, Sołectwo Wyspa, Sołectwo Linów, Sołectwo Podszyn oraz Sołectwo Piotrowice."
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/wrzesien/zawichojskie-smaki-czterech-pr-roku-1790693961183-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "paragraph",
+      "text": "Atrakcją wieczoru był występ Zhanny Zharkovej oraz Andrzeja Dudy. Dźwięki płynące ze skrzypiec i gitary porwały uczestników do tańca."
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/wrzesien/zawichojskie-smaki-czterech-pr-roku-1790693961186-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/wrzesien/zawichojskie-smaki-czterech-pr-roku-1790693961200-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/wrzesien/zawichojskie-smaki-czterech-pr-roku-1790693961202-1.jpeg",
       "alt": "Inline image"
     }
   ]
