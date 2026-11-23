@@ -1,0 +1,33 @@
+{
+  "title": "Wycieczka do Zakopanego",
+  "eventDate": "2026-10-18T10:00",
+  "publishDate": "2026-10-18",
+  "thumbnail": "/images/2026/pazdziernik/wycieczka-do-zakopanego-1795449120627-2.jpeg",
+  "content": [
+    {
+      "type": "image",
+      "src": "/images/2026/pazdziernik/wycieczka-do-zakopanego-1795449120592-0.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/pazdziernik/wycieczka-do-zakopanego-1795449120624-1.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/pazdziernik/wycieczka-do-zakopanego-1795449120627-2.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/pazdziernik/wycieczka-do-zakopanego-1795449120629-3.jpeg",
+      "alt": "Inline image"
+    },
+    {
+      "type": "image",
+      "src": "/images/2026/pazdziernik/wycieczka-do-zakopanego-1795449120645-4.jpeg",
+      "alt": "Inline image"
+    }
+  ]
+}
